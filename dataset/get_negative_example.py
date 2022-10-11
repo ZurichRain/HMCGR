@@ -1,18 +1,3 @@
-'''
-构建正负三元组样本
-正负样本比例
-train: 1039:2516
-dev: 362:1046
-test: 261:544
-tot: 1662 : 4106
-
-只包含所有元素都存在 正负样本比例
-train: 1039:1799
-dev: 362:800
-test: 261:387
-tot: 1662:2986
-构建每个句子的图
-'''
 import json
 import os
 import spacy
@@ -57,7 +42,6 @@ def get_one_seq_graph_edgs(data):
     # print(len(text))
     seqpass = nlp(text)
     words=[str(tok) for tok in list(seqpass)]
-    # 为每个词分配一个节点编号
     ori_sted_lis = []
     cidx=0
     widx=0
@@ -89,7 +73,6 @@ def get_one_seq_graph_edgs(data):
         if((e2st<ed and e2st >= st) or (e2ed>st and e2ed<=ed) or (e2st<=st and e2ed>=ed)):
             lg_nodelis.append(idx)
     
-    ## 指代关系的边
     for elem in seqpass._.coref_clusters:
         core_span_lis = [[mention.start, mention.end] for mention in elem.mentions]
         for core_span1 in core_span_lis:
@@ -100,7 +83,6 @@ def get_one_seq_graph_edgs(data):
                     for j in range(core_span2[0],core_span2[1]):
                         edgs[i][j]=1
     
-    ## elements 之间的边
     ele_set=set()
     for ele in tm_nodelis:
         ele_set.add(ele)
@@ -113,8 +95,6 @@ def get_one_seq_graph_edgs(data):
             if(idx1!=idx2):
                 edgs[idx1][idx2]=1
     
-    # 如果两个词指在同一个依存树中 那么建立边
-    # print(len(words))
     for idx,token in enumerate(seqpass):
         s,e = token.i, token.head.i
         edgs[s][e]=1
@@ -205,11 +185,8 @@ def get_one_doc_negative_examples(filename):
             link_data_dict['text'] = data['text']
             link_data_dict['link'] = b_link
             link_data_lis.append(link_data_dict)
-        # all_g+=all_gold_link_lis
-        # all_b+=all_bad_link_lis
-    # return len(all_g),len(all_b)
-        
-        # 构建图
+
+
         for link_data in link_data_lis:
             # get_one_seq_graph_edgs(link_data)
             edgs, node_to_tokid,tm_nodelis,tr_nodelis,lg_nodelis = get_one_seq_graph_edgs(link_data)
@@ -224,7 +201,7 @@ def get_one_doc_negative_examples(filename):
     return all_link_data  
 
 def get_dir_negative_examples(dirname,model_data_dirname):
-    # all_g,all_b=0,0
+
     for file in tqdm(os.listdir(dirname)):
         if(file.split('.')[-1] != 'jsonl'):
             continue
@@ -238,8 +215,7 @@ def get_dir_negative_examples(dirname,model_data_dirname):
             for link_data in all_link_data:
                 json_str=json.dumps(link_data,ensure_ascii=False)
                 f.write(json_str+'\n')
-    # print(all_g)
-    # print(all_b)
+
 
 
 if __name__ == '__main__':
