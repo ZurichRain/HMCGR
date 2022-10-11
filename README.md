@@ -1,2 +1,2 @@
 # HMCGR
-code for COLING paper "A Hybrid Model of Classification and Generation for Spatial Relation Extraction" 
+code for COLING 2022 paper "A Hybrid Model of Classification and Generation for Spatial Relation Extraction" 
