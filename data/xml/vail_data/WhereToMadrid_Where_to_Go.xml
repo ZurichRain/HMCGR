@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ISOSpaceTaskv1.15>
+<TEXT><![CDATA[
+        WHERE TO GO
+        In this sprawling city, the parts of Madrid of greatest
+        interest to foreign visitors are remarkably compact. Viejo Madrid, the
+        city of the Hapsburgs, covers a small area that extends east from the
+        pitiful Río Manzanares and magnificent Palacio Real to Puerta del Sol.
+        Almost all of it can be covered in a day or two, including a lengthy
+        visit to the Royal Palace. The Madrid of the Bourbon dynasty, home to
+        Spain’s great art museums, is the next area worthy of exploring (for
+        art lovers, though, it may very well be the first). Spain’s Golden         Triangle of Art is concentrated on the elegant but busy Paseo del         Prado, between Puerta del Sol and Retiro Park. Those with more time in
+        Madrid, either before or after side trips to the great towns of
+        Castile, might explore the barrio of Salamanca, take in a bullfight, or
+        visit one or more of the smaller, more personal museums, only a ride
+        from the Puerta del Sol.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="66" end="72" text="Madrid" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="47" end="51" text="city" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="57" end="62" text="parts" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="146" end="158" text="Viejo Madrid" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="172" end="176" text="city" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="210" end="214" text="area" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="small" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="289" end="301" text="Palacio Real" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="305" end="319" text="Puerta del Sol" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="336" end="339" text="all" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="343" end="345" text="it" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="419" end="431" text="Royal Palace" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="437" end="443" text="Madrid" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="523" end="527" text="area" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="581" end="583" text="it" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="621" end="651" text="Golden         Triangle of Art" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="725" end="739" text="Puerta del Sol" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="744" end="755" text="Retiro Park" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="789" end="795" text="Madrid" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="844" end="849" text="towns" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="861" end="868" text="Castile" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="898" end="907" text="Salamanca" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl23" start="947" end="950" text="one" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl24" start="989" end="996" text="museums" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="smaller" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl25" start="1027" end="1041" text="Puerta del Sol" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p0" start="258" end="272" text="Río Manzanares" beginID="" endID="" midIDs="" type="" dimensionality="AREA" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p1" start="692" end="715" text="Paseo del         Prado" beginID="" endID="" midIDs="" type="" dimensionality="AREA" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="757" end="762" text="Those" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e0" start="655" end="667" text="concentrated" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="220" end="227" text="extends" domain="" latLong="" elevation="" motion_type="PATH" motion_class="MOVE" motion_sense="FICTIVE" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m1" start="353" end="360" text="covered" domain="" latLong="" elevation="" motion_type="PATH" motion_class="MOVE_INTERNAL" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m2" start="406" end="411" text="visit" domain="" latLong="" elevation="" motion_type="PATH" motion_class="MOVE_INTERNAL" motion_sense="LITERAL" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<MOTION id="m3" start="538" end="547" text="exploring" domain="" latLong="" elevation="" motion_type="PATH" motion_class="MOVE_INTERNAL" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m4" start="825" end="830" text="trips" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<MOTION id="m5" start="876" end="883" text="explore" domain="" latLong="" elevation="" motion_type="PATH" motion_class="MOVE_INTERNAL" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m6" start="941" end="946" text="visit" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m7" start="1005" end="1009" text="ride" domain="" latLong="" elevation="" motion_type="COMPOUND" motion_class="LEAVE" motion_sense="LITERAL" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s0" start="195" end="201" text="covers" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="668" end="670" text="on" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="717" end="724" text="between" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="63" end="65" text="of" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="a0" start="228" end="232" text="east" adjunct_type="PATH" comment="" />
+<MOTION_SIGNAL id="a1" start="233" end="237" text="from" adjunct_type="PATH" comment="" />
+<MOTION_SIGNAL id="a2" start="412" end="414" text="to" adjunct_type="PATH" comment="" />
+<MOTION_SIGNAL id="a5" start="831" end="833" text="to" adjunct_type="PATH" comment="" />
+<MOTION_SIGNAL id="a6" start="1018" end="1022" text="from" adjunct_type="PATH" comment="" />
+<MOTION_SIGNAL id="a7" start="302" end="304" text="to" adjunct_type="PATH" comment="" />
+<QSLINK id="qsl0" fromID="pl3" fromText="Viejo Madrid" toID="pl5" toText="area" relType="EQ" trajector="pl3" landmark="pl5" trigger="s0" comment="" />
+<QSLINK id="qsl1" fromID="pl8" fromText="all" toID="pl9" toText="it" relType="EQ" trajector="pl8" landmark="pl9" trigger="" comment="" />
+<QSLINK id="qsl3" fromID="e0" fromText="concentrated" toID="p1" toText="Paseo del         Prado" relType="PO" trajector="e0" landmark="e0" trigger="p1" comment="" />
+<QSLINK id="qsl5" fromID="pl2" fromText="parts" toID="pl0" toText="Madrid" relType="IN" trajector="pl2" landmark="pl0" trigger="s4" comment="" />
+<OLINK id="ol1" fromID="pl16" fromText="Puerta del Sol" toID="pl15" toText="Golden         Triangle of Art" relType="ACROSS" trajector="pl16" landmark="pl15" trigger="s2" frame_type="RELATIVE" referencePt="pl17" projective="FALSE" comment="" />
+<MOVELINK id="mvl0" fromID="m0" fromText="extends" toID="pl5" toText="area" trigger="m0" source="p0" goal="pl7" midPoint="" mover="pl5" landmark="" goal_reached="YES" pathID="" motion_signalID="ms0, ms1, ms7" comment="" />
+<MOVELINK id="mvl1" fromID="m0" fromText="extends" toID="pl5" toText="area" trigger="m0" source="pl6" goal="pl7" midPoint="" mover="pl5" landmark="" goal_reached="YES" pathID="" motion_signalID="ms0, ms1, ms7" comment="" />
+<MOVELINK id="mvl2" fromID="m1" fromText="covered" toID="m1" toText="covered" trigger="m1" source="" goal="" midPoint="" mover="" landmark="pl8" goal_reached="" pathID="" motion_signalID="" comment="Generic mover" />
+<MOVELINK id="mvl3" fromID="m2" fromText="visit" toID="m2" toText="visit" trigger="m2" source="" goal="" midPoint="" mover="" landmark="pl11" goal_reached="" pathID="" motion_signalID="ms2" comment="Generic mover" />
+<MOVELINK id="mvl4" fromID="m3" fromText="exploring" toID="m3" toText="exploring" trigger="m3" source="" goal="" midPoint="" mover="" landmark="pl13" goal_reached="" pathID="" motion_signalID="" comment="Generic mover" />
+<MOVELINK id="mvl5" fromID="m4" fromText="trips" toID="se0" toText="Those" trigger="m4" source="" goal="pl19" midPoint="" mover="se0" landmark="" goal_reached="YES" pathID="" motion_signalID="ms5" comment="" />
+<!--<MOVELINK id="mvl6" fromID="m5" fromText="explore" toID="se0" toText="Those" trigger="m5" source="" goal="" midPoint="" mover="se0" landmark="pl21" goal_reached="" pathID="" motion_signalID="" comment="" />-->
+<MOVELINK id="mvl7" fromID="m6" fromText="visit" toID="se0" toText="Those" trigger="m6" source="" goal="pl23" midPoint="" mover="se0" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl8" fromID="m7" fromText="ride" toID="se0" toText="Those" trigger="m7" source="pl25" goal="" midPoint="" mover="se0" landmark="" goal_reached="" pathID="" motion_signalID="ms6" comment="" />
+<METALINK id="metal0" fromID="pl0" fromText="Madrid" toID="pl1" toText="city" objectID1="pl0" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal1" fromID="pl4" fromText="city" toID="pl3" toText="Viejo Madrid" objectID1="pl4" objectID2="pl4" relType="COREFERENCE" comment="" />
+<METALINK id="metal2" fromID="pl11" fromText="Royal Palace" toID="pl6" toText="Palacio Real" objectID1="pl11" objectID2="pl11" relType="COREFERENCE" comment="" />
+<METALINK id="metal3" fromID="pl14" fromText="it" toID="pl12" toText="Madrid" objectID1="pl14" objectID2="pl14" relType="COREFERENCE" comment="" />
+<METALINK id="metal4" fromID="pl16" fromText="Puerta del Sol" toID="pl7" toText="Puerta del Sol" objectID1="pl16" objectID2="pl16" relType="COREFERENCE" comment="" />
+<METALINK id="metal5" fromID="pl18" fromText="Madrid" toID="pl1" toText="city" objectID1="pl18" objectID2="pl18" relType="COREFERENCE" comment="" />
+<METALINK id="metal6" fromID="pl23" fromText="one" toID="pl24" toText="museums" objectID1="pl23" objectID2="pl23" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal7" fromID="pl25" fromText="Puerta del Sol" toID="pl7" toText="Puerta del Sol" objectID1="pl25" objectID2="pl25" relType="COREFERENCE" comment="" />
+<METALINK id="metal8" fromID="pl9" fromText="it" toID="pl5" toText="area" objectID1="pl9" objectID2="pl5" relType="COREFERENCE" comment="" />
+</TAGS>
+</ISOSpaceTaskv1.15>

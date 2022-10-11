@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[
+The Rising Oceans
+Friday, March 16th, 2007
+   I am sitting in an internet cafe in Punta Arenas, Chile, right now, doing web searches to figure out just how big of a problem sea level rise will be. The sea level has already risen over the past century, although only about one inch. As more glacial ice melts, what will it do from here on?
+
+  
+   The most likely result is not that bad – maybe a foot and a half this century. This could be very bad for many places I have visited â€“ especially along the Caribbean coastâ€”and also make storms much worse, not to mention erode some nice beaches. But I might not call it a disaster.
+
+  
+ 
+   The problem, though, is that it takes a long time for ice sheets to melt, and we donâ€™t really know how long that is. In the â€˜long run,â€™ which could be centuries or millennium, with a likely 3 degree C warming, the ocean could rise 80 feet. We donâ€™t know if it is centuries or millennium, because computer models for ice sheets are very inaccurate. If it is centuries, as some argue, the oceans could rise much faster than we would like – maybe a foot a decade. And, again, we donâ€™t know, but, well, do we want to find out?
+
+  
+   As I have said before, I am in Punta Arenas right now. Punta Arenas sits on the shore of the Straight of Magellan on the southern tip of South America, and is just one of the many cities on the coast that I have visited. Throughout this entry I have interspersed photos of the coastlines I have visited on this trip – take a look at them and envision what a 1 foot, 10 foot, or 80 foot sea level rise would look like.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl4" start="1036" end="1042" text="oceans" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl5" start="1212" end="1224" text="Punta Arenas" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl6" start="1236" end="1248" text="Punta Arenas" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl8" start="1311" end="1314" text="tip" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="southern" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl7" start="1318" end="1331" text="South America" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl10" start="1345" end="1348" text="one" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl9" start="1361" end="1367" text="cities" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl2" start="458" end="464" text="places" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl0" start="75" end="79" text="cafe" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="TRUE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl1" start="83" end="102" text="Punta Arenas, Chile" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl3" start="861" end="866" text="ocean" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PATH id="p3" start="1261" end="1266" text="shore" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<PATH id="p4" start="1274" end="1294" text="Straight of Magellan" beginID="" endID="" midIDs="" type="" dimensionality="" form="NAM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<PATH id="p5" start="1375" end="1380" text="coast" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<PATH id="p6" start="1458" end="1468" text="coastlines" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<PATH id="p7" start="1571" end="1576" text="level" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<PATH id="p0" start="178" end="183" text="level" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<PATH id="p8" start="206" end="211" text="level" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<PATH id="p1" start="515" end="520" text="coast" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<PATH id="p2" start="587" end="594" text="beaches" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<PATH id="p9" start="320" end="322" text="it" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se5" start="1204" end="1205" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se2" start="1386" end="1387" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se3" start="1469" end="1470" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se1" start="465" end="466" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se0" start="47" end="48" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se4" start="699" end="705" text="sheets" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se6" start="600" end="601" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se7" start="1184" end="1185" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se8" start="1424" end="1425" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<NONMOTION_EVENT id="e0" start="115" end="120" text="doing" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e3" start="1249" end="1253" text="sits" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e1" start="125" end="133" text="searches" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e2" start="52" end="59" text="sitting" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<MOTION id="m4" start="1049" end="1053" text="rise" motion_type="MANNER" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m6" start="1393" end="1400" text="visited" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m7" start="1476" end="1483" text="visited" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m5" start="1577" end="1581" text="rise" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m11" start="1577" end="1581" text="rise" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m12" start="1577" end="1581" text="rise" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m0" start="184" end="188" text="rise" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="FALSE" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m1" start="224" end="229" text="risen" motion_type="COMPOUND" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m2" start="472" end="479" text="visited" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m8" start="571" end="576" text="erode" motion_type="MANNER" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m9" start="709" end="713" text="melt" motion_type="MANNER" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m3" start="873" end="877" text="rise" motion_type="MANNER" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<SPATIAL_SIGNAL id="s3" start="1209" end="1211" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="1254" end="1256" text="on" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s8" start="1267" end="1269" text="of" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="1295" end="1297" text="on" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="1315" end="1317" text="of" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s7" start="1368" end="1370" text="on" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="495" end="500" text="along" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="60" end="62" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="80" end="82" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MEASURE id="me2" start="1539" end="1545" text="1 foot" value="1" unit="feet" comment="" />
+<MEASURE id="me3" start="1547" end="1554" text="10 foot" value="10" unit="feet" comment="" />
+<MEASURE id="me4" start="1559" end="1566" text="80 foot" value="80" unit="feet" comment="" />
+<MEASURE id="me0" start="273" end="281" text="one inch" value="1" unit="inches" comment="" />
+<MEASURE id="me1" start="878" end="885" text="80 feet" value="80" unit="feet" comment="" />
+<QSLINK id="qsl0" fromID="e2" fromText="sitting" toID="pl0" toText="cafe" relType="IN" trajector="e2" landmark="pl0" trigger="s0" comment="" />
+<QSLINK id="qsl1" fromID="pl0" fromText="cafe" toID="pl1" toText="Punta Arenas, Chile" relType="IN" trajector="pl0" landmark="pl1" trigger="s1" comment="" />
+<QSLINK id="qsl10" fromID="pl9" fromText="cities" toID="p5" toText="coast" relType="IN" trajector="pl9" landmark="p5" trigger="s7" comment="" />
+<QSLINK id="qsl2" fromID="e0" fromText="doing" toID="pl0" toText="cafe" relType="IN" trajector="e0" landmark="pl0" trigger="" comment="" />
+<QSLINK id="qsl3" fromID="e1" fromText="searches" toID="pl0" toText="cafe" relType="IN" trajector="e1" landmark="pl0" trigger="" comment="" />
+<QSLINK id="qsl4" fromID="se5" fromText="I" toID="pl5" toText="Punta Arenas" relType="IN" trajector="se5" landmark="pl5" trigger="s3" comment="" />
+<QSLINK id="qsl5" fromID="e3" fromText="sits" toID="p3" toText="shore" relType="EC" trajector="e3" landmark="p3" trigger="s4" comment="" />
+<QSLINK id="qsl6" fromID="p3" fromText="shore" toID="p4" toText="Straight of Magellan" relType="EC" trajector="p3" landmark="p4" trigger="s8" comment="SPATIAL_FUNCTION" />
+<QSLINK id="qsl7" fromID="pl8" fromText="tip" toID="pl7" toText="South America" relType="TPP" trajector="pl8" landmark="pl7" trigger="s6" comment="SPATIAL_FUNCTION" />
+<QSLINK id="qsl9" fromID="e3" fromText="sits" toID="pl8" toText="tip" relType="EC" trajector="e3" landmark="p3" trigger="s5" comment="" />
+<OLINK id="ol0" fromID="e3" fromText="sits" toID="p3" toText="shore" relType="ABOVE" trajector="e3" landmark="p3" trigger="s4" frame_type="INTRINSIC" referencePt="p3" projective="FALSE" comment="" />
+<OLINK id="ol2" fromID="e3" fromText="sits" toID="pl8" toText="tip" relType="ABOVE" trajector="e3" landmark="pl8" trigger="s5" frame_type="INTRINSIC" referencePt="pl8" projective="FALSE" comment="" />
+<OLINK id="ol3" fromID="pl2" fromText="places" toID="p1" toText="coast" relType="ALONG" trajector="pl2" landmark="p1" trigger="s2" frame_type="INTRINSIC" referencePt="p1" projective="FALSE" comment="" />
+<MOVELINK id="mvl0" fromID="m0" fromText="rise" toID="p0" toText="level" trigger="m0" source="" goal="" midPoint="" mover="p0" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl1" fromID="m1" fromText="risen" toID="p8" toText="level" trigger="m1" source="" goal="" midPoint="" mover="p8" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl12" fromID="m11" fromText="rise" toID="p7" toText="level" trigger="m11" source="" goal="" midPoint="" mover="p7" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl13" fromID="m12" fromText="rise" toID="p7" toText="level" trigger="m12" source="" goal="" midPoint="" mover="p7" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl14" fromID="m5" fromText="rise" toID="p7" toText="level" trigger="m5" source="" goal="" midPoint="" mover="p7" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl2" fromID="m2" fromText="visited" toID="se1" toText="I" trigger="m2" source="" goal="pl2" midPoint="" mover="se1" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl3" fromID="m8" fromText="erode" toID="p2" toText="beaches" trigger="m8" source="" goal="" midPoint="" mover="p2" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl4" fromID="m9" fromText="melt" toID="se4" toText="sheets" trigger="m9" source="" goal="" midPoint="" mover="se4" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl5" fromID="m3" fromText="rise" toID="pl3" toText="ocean" trigger="m3" source="" goal="" midPoint="" mover="pl3" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl6" fromID="m4" fromText="rise" toID="pl4" toText="oceans" trigger="m4" source="" goal="" midPoint="" mover="pl4" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl7" fromID="m6" fromText="visited" toID="se2" toText="I" trigger="m6" source="" goal="pl9" midPoint="" mover="se2" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl8" fromID="m7" fromText="visited" toID="se3" toText="I" trigger="m7" source="" goal="p6" midPoint="" mover="se3" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MLINK id="ml1" fromID="m3" fromText="rise" toID="m3" toText="rise" trajector="m3" landmark="m3" relType="HEIGHT" val="me1" endPoint1="" endPoint2="" comment="" />
+<MLINK id="ml2" fromID="m11" fromText="rise" toID="m11" toText="rise" trajector="m11" landmark="m11" relType="HEIGHT" val="me2" endPoint1="" endPoint2="" comment="" />
+<MLINK id="ml3" fromID="m12" fromText="rise" toID="m12" toText="rise" trajector="m12" landmark="m12" relType="HEIGHT" val="me3" endPoint1="" endPoint2="" comment="" />
+<MLINK id="ml4" fromID="m5" fromText="rise" toID="m5" toText="rise" trajector="m5" landmark="m5" relType="HEIGHT" val="me4" endPoint1="" endPoint2="" comment="" />
+<MLINK id="ml0" fromID="m1" fromText="risen" toID="m1" toText="risen" trajector="m1" landmark="m1" relType="HEIGHT" val="me0" endPoint1="" endPoint2="" comment="" />
+<METALINK id="metal0" fromID="se5" fromText="I" toID="se0" toText="I" objectID1="se5" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal1" fromID="se3" fromText="I" toID="se0" toText="I" objectID1="se3" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal2" fromID="se2" fromText="I" toID="se0" toText="I" objectID1="se2" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal3" fromID="se1" fromText="I" toID="se0" toText="I" objectID1="se1" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal4" fromID="pl6" fromText="Punta Arenas" toID="pl1" toText="Punta Arenas, Chile" objectID1="pl6" objectID2="pl1" relType="COREFERENCE" comment="" />
+<METALINK id="metal5" fromID="p8" fromText="level" toID="p0" toText="level" objectID1="p8" objectID2="p0" relType="COREFERENCE" comment="" />
+<METALINK id="metal6" fromID="p7" fromText="level" toID="p0" toText="level" objectID1="p7" objectID2="p0" relType="COREFERENCE" comment="" />
+<METALINK id="metal7" fromID="pl10" fromText="one" toID="pl9" toText="cities" objectID1="pl10" objectID2="pl9" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal8" fromID="p9" fromText="it" toID="p0" toText="level" objectID1="p9" objectID2="p0" relType="COREFERENCE" comment="" />
+<METALINK id="metal9" fromID="se6" fromText="I" toID="se0" toText="I" objectID1="se6" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal10" fromID="se7" fromText="I" toID="se0" toText="I" objectID1="se7" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal11" fromID="se8" fromText="I" toID="se0" toText="I" objectID1="se8" objectID2="se0" relType="COREFERENCE" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2>

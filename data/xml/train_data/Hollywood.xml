@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[
+Biking in L.A. – to Hollywood and Back
+Friday, November 18th, 2005
+   After talking with Mr. Ransomâ€™s 9th grade class, I decided to bike through Los Angles to get a sense of the city. Following a city map, I rode 30 miles to Hollywood and back.
+
+ 
+   I hoped to talk with cyclists to see how they managed to bike in LA. I found only two. One had lost his license, and was forced to bike. I asked if he had trouble with the cars. He replied, â€œRecently, I was hit by a Mercedes and then my arm was run over by a Lexus.â€ The man then listed his hospital bills. I biked on the sidewalk (slowly) afterwards.
+   The climate in L.A. is perfect for year round bicycle commuting, yet few people bike because 1) everything is so spread out and 2) there are few (if any) bikeways or bike lanes. The public transit does work, but only a few people I talked with seemed satisfied with it. Most trips are in a car, and in traffic.
+
+ 
+    Unfortunately, cars are an inefficient way to travel around a city. A person in a car emits, on average, twice as much carbon dioxide as a person in public transit. Also, by comparison, cycling adds almost no carbon dioxide to the atmosphere (see comment on this).
+   I would love to see an L.A. with bike lanes and great public transit. It would require great change, but I think it is possible, and I think the city would be far better for it.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl6" start="-1" end="-1" text="" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="The location ridden back to in '... I rode 30 miles to Hollywood and back.'" domain="" />
+<PLACE id="pl7" start="-1" end="-1" text="" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="beginning of '... I decided to bike through Los Angeles ...'" domain="" />
+<PLACE id="pl8" start="-1" end="-1" text="" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="end of '... I decided to bike through Los Angeles ...'" domain="" />
+<PLACE id="pl5" start="1222" end="1226" text="L.A." type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl0" start="148" end="158" text="Los Angles" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl1" start="228" end="237" text="Hollywood" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl2" start="319" end="321" text="LA" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl3" start="628" end="632" text="L.A." type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl4" start="993" end="997" text="city" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl9" start="181" end="185" text="city" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl10" start="1344" end="1348" text="city" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PATH id="p0" start="580" end="588" text="sidewalk" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se0" start="122" end="123" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se1" start="209" end="210" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se2" start="275" end="283" text="cyclists" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se3" start="295" end="299" text="they" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se11" start="336" end="339" text="two" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se13" start="341" end="344" text="One" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se4" start="457" end="458" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se5" start="472" end="480" text="Mercedes" type="" dimensionality="" form="NAM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se6" start="493" end="496" text="arm" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se7" start="515" end="520" text="Lexus" type="" dimensionality="" form="NAM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se8" start="565" end="566" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se10" start="686" end="692" text="people" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="amount='few'" domain="" dcl="" />
+<SPATIAL_ENTITY id="se12" start="903" end="906" text="car" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se9" start="946" end="950" text="cars" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se14" start="254" end="255" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se15" start="323" end="324" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se16" start="391" end="392" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se17" start="402" end="404" text="he" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se18" start="432" end="434" text="He" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se19" start="529" end="532" text="man" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se20" start="843" end="844" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se21" start="1199" end="1200" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se22" start="1304" end="1305" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se23" start="1332" end="1333" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<NONMOTION_EVENT id="e0" start="617" end="624" text="climate" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e1" start="667" end="676" text="commuting" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e2" start="888" end="893" text="trips" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e3" start="915" end="922" text="traffic" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="" domain="" />
+<MOTION id="m0" start="135" end="139" text="bike" motion_type="COMPOUND" motion_class="CROSS" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m1" start="211" end="215" text="rode" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m2" start="311" end="315" text="bike" motion_type="COMPOUND" motion_class="MOVE_INTERNAL" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m8" start="385" end="389" text="bike" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m3" start="463" end="466" text="hit" motion_type="PATH" motion_class="HIT" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m4" start="501" end="504" text="run" motion_type="COMPOUND" motion_class="HIT" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m5" start="567" end="572" text="biked" motion_type="COMPOUND" motion_class="FOLLOW" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m7" start="693" end="697" text="bike" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m6" start="977" end="983" text="travel" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<SPATIAL_SIGNAL id="s0" start="625" end="627" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="912" end="914" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms0" start="140" end="147" text="through" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms1" start="225" end="227" text="to" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms2" start="242" end="246" text="back" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms3" start="316" end="318" text="in" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms5" start="505" end="509" text="over" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms6" start="573" end="575" text="on" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms4" start="946" end="950" text="cars" motion_signal_type="MANNER" comment="" />
+<MOTION_SIGNAL id="ms8" start="984" end="990" text="around" motion_signal_type="PATH" comment="" />
+<MEASURE id="me0" start="216" end="224" text="30 miles" value="30" unit="miles" comment="" />
+<QSLINK id="qsl0" fromID="e0" fromText="climate" toID="pl3" toText="L.A." relType="IN" trajector="e0" landmark="pl3" trigger="s0" comment="" />
+<QSLINK id="qsl1" fromID="e1" fromText="commuting" toID="pl3" toText="L.A." relType="IN" trajector="e1" landmark="pl3" trigger="" comment="" />
+<QSLINK id="qsl2" fromID="pl7" fromText="" toID="pl0" toText="Los Angles" relType="IN" trajector="pl7" landmark="pl0" trigger="" comment="" />
+<QSLINK id="qsl3" fromID="pl8" fromText="" toID="pl0" toText="Los Angles" relType="IN" trajector="pl8" landmark="pl0" trigger="" comment="" />
+<OLINK id="ol0" fromID="pl7" fromText="" toID="pl0" toText="Los Angles" relType="ACROSS" trajector="pl7" landmark="pl0" trigger="" frame_type="RELATIVE" referencePt="pl8" projective="FALSE" comment="" />
+<MOVELINK id="mvl0" fromID="m0" fromText="bike" toID="se0" toText="I" trigger="m0" source="pl7" goal="pl8" midPoint="pl0" mover="se0" landmark="" goal_reached="YES" pathID="" motion_signalID="ms0" comment="" />
+<MOVELINK id="mvl1" fromID="m1" fromText="rode" toID="se1" toText="I" trigger="m1" source="pl6" goal="pl6" midPoint="pl1" mover="se1" landmark="" goal_reached="YES" pathID="" motion_signalID="ms1, ms2" comment="" />
+<MOVELINK id="mvl2" fromID="m2" fromText="bike" toID="se3" toText="they" trigger="m2" source="" goal="" midPoint="" mover="se3" landmark="pl2" goal_reached="" pathID="" motion_signalID="ms3" comment="" />
+<MOVELINK id="mvl3" fromID="m3" fromText="hit" toID="se5" toText="Mercedes" trigger="m3" source="" goal="se4" midPoint="" mover="se5" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl4" fromID="m4" fromText="run" toID="se7" toText="Lexus" trigger="m4" source="" goal="se6" midPoint="" mover="se7" landmark="" goal_reached="YES" pathID="" motion_signalID="ms5" comment="" />
+<MOVELINK id="mvl5" fromID="m5" fromText="biked" toID="se8" toText="I" trigger="m5" source="" goal="" midPoint="" mover="se8" landmark="" goal_reached="" pathID="p0" motion_signalID="ms6" comment="" />
+<MOVELINK id="mvl6" fromID="m7" fromText="bike" toID="se10" toText="people" trigger="m7" source="" goal="" midPoint="" mover="se10" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl7" fromID="m6" fromText="travel" toID="se9" toText="cars" trigger="m6" source="" goal="" midPoint="" mover="se9" landmark="pl4" goal_reached="" pathID="" motion_signalID="ms8" comment="" />
+<MOVELINK id="mvl8" fromID="m6" fromText="travel" toID="m6" toText="travel" trigger="m6" source="" goal="" midPoint="" mover="" landmark="pl4" goal_reached="" pathID="" motion_signalID="ms4, ms8" comment="Generic Mover" />
+<MOVELINK id="mvl9" fromID="m8" fromText="bike" toID="se13" toText="One" trigger="m8" source="" goal="" midPoint="" mover="se13" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MLINK id="ml0" fromID="m1" fromText="rode" toID="m1" toText="rode" trajector="m1" landmark="m1" relType="GENERAL_DIMENSION" val="me0" endPoint1="pl1" endPoint2="pl6" comment="" />
+<METALINK id="metal0" fromID="se13" fromText="One" toID="se11" toText="two" objectID1="se13" objectID2="se11" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal1" fromID="se4" fromText="I" toID="se13" toText="One" objectID1="se4" objectID2="se13" relType="COREFERENCE" comment="" />
+<METALINK id="metal2" fromID="se11" fromText="two" toID="se2" toText="cyclists" objectID1="se11" objectID2="se2" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal3" fromID="se3" fromText="they" toID="se2" toText="cyclists" objectID1="se3" objectID2="se2" relType="COREFERENCE" comment="" />
+<METALINK id="metal4" fromID="pl9" fromText="city" toID="pl0" toText="Los Angles" objectID1="pl9" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal5" fromID="se17" fromText="he" toID="se13" toText="One" objectID1="se17" objectID2="se13" relType="COREFERENCE" comment="" />
+<METALINK id="metal6" fromID="se18" fromText="He" toID="se13" toText="One" objectID1="se18" objectID2="se13" relType="COREFERENCE" comment="" />
+<METALINK id="metal7" fromID="se19" fromText="man" toID="se13" toText="One" objectID1="se19" objectID2="se13" relType="COREFERENCE" comment="" />
+<METALINK id="metal8" fromID="pl10" fromText="city" toID="pl0" toText="Los Angles" objectID1="pl10" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal9" fromID="se23" fromText="I" toID="se0" toText="I" objectID1="se23" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal10" fromID="se22" fromText="I" toID="se0" toText="I" objectID1="se22" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal11" fromID="se21" fromText="I" toID="se0" toText="I" objectID1="se21" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal12" fromID="se20" fromText="I" toID="se0" toText="I" objectID1="se20" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal13" fromID="se16" fromText="I" toID="se0" toText="I" objectID1="se16" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal14" fromID="se15" fromText="I" toID="se0" toText="I" objectID1="se15" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal15" fromID="se14" fromText="I" toID="se0" toText="I" objectID1="se14" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal16" fromID="se1" fromText="I" toID="se0" toText="I" objectID1="se1" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal17" fromID="se8" fromText="I" toID="se0" toText="I" objectID1="se8" objectID2="se0" relType="COREFERENCE" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2>

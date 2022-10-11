@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[
+Guatemala to Placencia Belize – 6 days, 274 miles
+Friday, March 17th, 2006
+   After a night in a small Guatemalan village (where I ran into a high school friend), I crossed into Belize. My friend Dennis Murphree was flying into the Belize City airport that afternoon, and I planned to bike and meet him. I asked the customs agent how many kilometers it was to Belize City. The customs agent, a man of African descent, replied in English â€˜I donâ€™t know how many kilometers it is, but I do know it is 75 miles.â€™
+
+ 
+   Belize is more of a Caribbean nation than a Central American nation. It was a British colony until 1981, when it won its independence, and English is the official language. A large portion of the country is of African descent and speaks â€˜Creol English.â€™ It is a diverse country, with immigrants from the surrounding Hispanic countries as well as indigenous Mayan communities. It is also a tiny country. It is the size of Massachusetts but with fewer than 250,000 people (which means convenience stores are far and few between when biking). I learned these basic facts about Belize from a cyclist who I met on the road (movie on the right). I also learned that cycling is a popular sport here, and I was also impressed with the number of bike racks in Belize City.
+
+   I met Dennis, a good friend from college, at the Belize City airport. We assembled his bike and rode into Belize City for the night. Dennis, who has never biked more than 20 miles in a day, is new to bike touring. When he was deciding to join me, I promised we would bike short distances and spend lots of time on the beach. Plans change, though, and when he arrived, I told him we were biking 50 miles inland. He wasnâ€™t very excited.
+
+  
+   Dennis and I biked one day to the capital of Belize, Belmopan, a town of 10,000 people, where we met with an organization helping Caribbean nations adapt to climate change. The following day I gave a presentation at Galen University, a university that attempts to incorporate sustainable development into all of its classes. Biking 10 miles down the road, we then spent the night at Jaguar Creek, an â€˜environmental peaceâ€™ center.
+
+  
+
+   Turning back towards the coast, Dennis and I biked along the base of the Maya mountains. Fortunately, the road never crossed over the mountains, avoiding any serious hills. Dennis reported, much to my relief, that he actually enjoyed bicycling and was not angry for the false advertising. It is, after all, a bicycle tour.
+
+   Stopping to camp for the night, we asked a retired American who moved to Belize if we could camp on his lawn. â€˜Sure, just one problem. I own a jaguar. I will try to put him inside.â€™ Soon, a half-grown 11-month-old jaguar â€˜kittenâ€™ was diving into our stuff, and ran off with Dennisâ€™ biking glove. The jaguar then leapt onto Dennis leg. His owner tried to put the jaguar inside, but the kitten scratched the man and ran off, this time with Dennis’ bike helmet. Recovering the helmet, Dennis and I decided it might be better to continue, and we camped on a lawn in Maya Center, a small town where the locals speak the language Maya Mopan.
+
+  
+   The following day, we biked a short distance to Placencia, the beach town that I had promised Dennis. From here we would visit the coral reefs of Belize â€“ reefs that are in great danger from climate change and the reason that I decided to visit Belize.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl1" start="-1" end="-1" text="" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="goal location for '... and when he arrived, ...' and also source location for '... we were biking 50 miles inland.'" domain="" />
+<PLACE id="pl7" start="-1" end="-1" text="" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="beginning of '... the road never crossed over the mountains ...'" domain="" />
+<PLACE id="pl9" start="-1" end="-1" text="" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="end of '... the road never crossed over the mountains ...'" domain="" />
+<PLACE id="pl10" start="-1" end="-1" text="" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="The retired American's house in 'I will try to put him (the Jaguar) inside,...'" domain="" />
+<PLACE id="pl20" start="1100" end="1106" text="Belize" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl0" start="115" end="122" text="village" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="small" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl22" start="1277" end="1288" text="Belize City" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl5" start="1343" end="1362" text="Belize City airport" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl25" start="1400" end="1411" text="Belize City" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl27" start="1772" end="1779" text="capital" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl28" start="1783" end="1789" text="Belize" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl2" start="179" end="185" text="Belize" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl29" start="1791" end="1799" text="Belmopan" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl30" start="1803" end="1807" text="town" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl32" start="1954" end="1970" text="Galen University" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl34" start="2121" end="2133" text="Jaguar Creek" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl37" start="2314" end="2323" text="mountains" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl3" start="233" end="244" text="Belize City" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl38" start="2346" end="2351" text="hills" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl4" start="245" end="252" text="airport" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl39" start="2580" end="2586" text="Belize" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl40" start="2611" end="2615" text="lawn" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl41" start="3071" end="3075" text="lawn" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl42" start="3079" end="3090" text="Maya Center" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl43" start="3100" end="3104" text="town" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="small" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl44" start="3208" end="3217" text="Placencia" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl11" start="3229" end="3233" text="town" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="beach" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl46" start="3267" end="3271" text="here" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl47" start="3297" end="3302" text="reefs" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl48" start="3306" end="3312" text="Belize" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl13" start="3317" end="3322" text="reefs" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl50" start="3407" end="3413" text="Belize" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl6" start="361" end="372" text="Belize City" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl8" start="522" end="528" text="Belize" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl14" start="796" end="803" text="country" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl15" start="851" end="860" text="countries" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl17" start="920" end="927" text="country" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="tiny" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl18" start="947" end="960" text="Massachusetts" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl12" start="591" end="593" text="It" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl16" start="902" end="904" text="It" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl19" start="929" end="931" text="It" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl21" start="1974" end="1984" text="university" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl23" start="2164" end="2170" text="center" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PATH id="p0" start="1139" end="1143" text="road" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<PATH id="p5" start="1612" end="1617" text="beach" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<PATH id="p1" start="2088" end="2092" text="road" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<PATH id="p2" start="2205" end="2210" text="coast" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<PATH id="p3" start="2241" end="2245" text="base" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<PATH id="p8" start="2253" end="2267" text="Maya mountains" beginID="" endID="" midIDs="" type="" dimensionality="" form="NAM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<PATH id="p4" start="2286" end="2290" text="road" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<PATH id="p6" start="3196" end="3204" text="distance" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="short" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<PATH id="p7" start="497" end="499" text="it" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se43" start="-1" end="-1" text="" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="The set subsuming [I,se] and [Dennis,se] in 'I met Dennis, a good friend from college, at the Belize City airport. We ...'" domain="" dcl="" />
+<SPATIAL_ENTITY id="se32" start="1114" end="1121" text="cyclist" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se33" start="1126" end="1127" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se3" start="1268" end="1273" text="racks" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se34" start="1294" end="1295" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se29" start="130" end="131" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se35" start="1300" end="1306" text="Dennis" type="" dimensionality="" form="NAM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se4" start="1364" end="1366" text="We" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se5" start="1427" end="1433" text="Dennis" type="" dimensionality="" form="NAM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se36" start="1513" end="1515" text="he" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se37" start="1537" end="1539" text="me" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se28" start="155" end="161" text="friend" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se6" start="1552" end="1554" text="we" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se1" start="164" end="165" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se7" start="1650" end="1652" text="he" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se8" start="1673" end="1675" text="we" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se9" start="1738" end="1744" text="Dennis" type="" dimensionality="" form="NAM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se10" start="1749" end="1750" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se38" start="1832" end="1834" text="we" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se30" start="197" end="212" text="Dennis Murphree" type="" dimensionality="" form="NAM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se11" start="2094" end="2096" text="we" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se12" start="2212" end="2218" text="Dennis" type="" dimensionality="" form="NAM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se13" start="2223" end="2224" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se40" start="2394" end="2396" text="he" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se14" start="2539" end="2541" text="we" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se15" start="2558" end="2566" text="American" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se16" start="2590" end="2592" text="we" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se45" start="2644" end="2645" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se46" start="2652" end="2658" text="jaguar" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se17" start="2678" end="2681" text="him" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se2" start="273" end="274" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se18" start="2735" end="2741" text="kitten" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="half-grown" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se19" start="2765" end="2770" text="stuff" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se41" start="2806" end="2811" text="glove" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se20" start="2817" end="2823" text="jaguar" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se21" start="2847" end="2850" text="leg" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se22" start="2879" end="2885" text="jaguar" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se23" start="2902" end="2908" text="kitten" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se42" start="2923" end="2926" text="man" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se0" start="2968" end="2974" text="helmet" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se31" start="300" end="303" text="him" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se24" start="3056" end="3058" text="we" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se25" start="3179" end="3181" text="we" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se26" start="3272" end="3274" text="we" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se27" start="3388" end="3389" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se44" start="-1" end="-1" text="" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="Subsuming mover for 'ran' in 'a half-grown 11-month-old jaguar â€˜kittenâ€™ was diving into our stuff, and ran off with Dennisâ€™ biking glove'" domain="" dcl="" />
+<SPATIAL_ENTITY id="se47" start="-1" end="-1" text="" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="Subsuming mover in 'the kitten scratched the man and ran off, this time with Dennis’ bike helmet'" domain="" dcl="" />
+<SPATIAL_ENTITY id="se48" start="305" end="306" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se49" start="1066" end="1067" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se50" start="1166" end="1167" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se51" start="1223" end="1224" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se52" start="1541" end="1542" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se53" start="1662" end="1663" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se54" start="1929" end="1930" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se55" start="2353" end="2359" text="Dennis" type="" dimensionality="" form="NAM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se56" start="2856" end="2861" text="owner" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se57" start="2991" end="2997" text="helmet" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se58" start="3010" end="3011" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se59" start="2999" end="3005" text="Dennis" type="" dimensionality="" form="NAM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se60" start="3239" end="3240" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se61" start="3254" end="3260" text="Dennis" type="" dimensionality="" form="NAM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<NONMOTION_EVENT id="e1" start="1586" end="1591" text="spend" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e5" start="1938" end="1950" text="presentation" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e2" start="2102" end="2107" text="spent" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e3" start="2599" end="2603" text="camp" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e4" start="3059" end="3065" text="camped" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e6" start="3122" end="3127" text="speak" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e0" start="87" end="92" text="night" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e7" start="1835" end="1838" text="met" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<MOTION id="m29" start="1128" end="1131" text="met" motion_type="PATH" motion_class="HIT" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m30" start="1296" end="1299" text="met" motion_type="PATH" motion_class="HIT" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m27" start="132" end="135" text="ran" motion_type="PATH" motion_class="HIT" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m3" start="1390" end="1394" text="rode" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m4" start="1449" end="1454" text="biked" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m31" start="1499" end="1506" text="touring" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m32" start="1532" end="1536" text="join" motion_type="PATH" motion_class="HIT" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m5" start="1561" end="1565" text="bike" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m7" start="1653" end="1660" text="arrived" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m0" start="166" end="173" text="crossed" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m8" start="1681" end="1687" text="biking" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m9" start="1751" end="1756" text="biked" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m10" start="2063" end="2069" text="Biking" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m1" start="217" end="223" text="flying" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m12" start="2180" end="2187" text="Turning" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m13" start="2225" end="2230" text="biked" motion_type="COMPOUND" motion_class="FOLLOW" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m14" start="2297" end="2304" text="crossed" motion_type="PATH" motion_class="CROSS" motion_sense="FICTIVE" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m34" start="2325" end="2333" text="avoiding" motion_type="PATH" motion_class="MOVE_EXTERNAL" motion_sense="FICTIVE" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m15" start="2414" end="2423" text="bicycling" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m17" start="2571" end="2576" text="moved" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m19" start="2749" end="2755" text="diving" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m20" start="2776" end="2779" text="ran" motion_type="COMPOUND" motion_class="LEAVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m21" start="2829" end="2834" text="leapt" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m2" start="286" end="290" text="bike" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m22" start="2931" end="2934" text="ran" motion_type="COMPOUND" motion_class="LEAVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m28" start="295" end="299" text="meet" motion_type="PATH" motion_class="HIT" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m24" start="3182" end="3187" text="biked" motion_type="COMPOUND" motion_class="FOLLOW" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m25" start="3281" end="3286" text="visit" motion_type="COMPOUND" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m26" start="3401" end="3406" text="visit" motion_type="COMPOUND" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<SPATIAL_SIGNAL id="s3" start="1132" end="1134" text="on" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s1" start="124" end="129" text="where" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="1274" end="1276" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="1336" end="1338" text="at" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s23" start="1605" end="1607" text="on" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s9" start="1826" end="1831" text="where" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s10" start="1951" end="1953" text="at" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s7" start="2118" end="2120" text="at" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s18" start="2604" end="2606" text="on" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s15" start="2682" end="2688" text="inside" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s16" start="2886" end="2892" text="inside" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s19" start="3066" end="3068" text="on" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s20" start="3076" end="3078" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="3105" end="3110" text="where" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="830" end="841" text="surrounding" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s0" start="93" end="95" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms0" start="136" end="140" text="into" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms4" start="1395" end="1399" text="into" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms17" start="1494" end="1498" text="bike" motion_signal_type="MANNER" comment="" />
+<MOTION_SIGNAL id="ms18" start="1697" end="1703" text="inland" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms2" start="174" end="178" text="into" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms7" start="1765" end="1767" text="to" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms5" start="2079" end="2083" text="down" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms8" start="2188" end="2192" text="back" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms9" start="2193" end="2200" text="towards" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms1" start="2231" end="2236" text="along" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms3" start="224" end="228" text="into" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms20" start="2305" end="2309" text="over" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms10" start="2577" end="2579" text="to" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms11" start="2756" end="2760" text="into" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms12" start="2780" end="2783" text="off" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms13" start="2835" end="2839" text="onto" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms14" start="2935" end="2938" text="off" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms15" start="3205" end="3207" text="to" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms16" start="3262" end="3266" text="From" motion_signal_type="PATH" comment="" />
+<MEASURE id="me1" start="1465" end="1473" text="20 miles" value="20" unit="miles" comment="" />
+<MEASURE id="me2" start="1688" end="1696" text="50 miles" value="50" unit="miles" comment="" />
+<MEASURE id="me3" start="2070" end="2078" text="10 miles" value="10" unit="miles" comment="" />
+<MEASURE id="me0" start="503" end="511" text="75 miles" value="75" unit="miles" comment="" />
+<QSLINK id="qsl0" fromID="e0" fromText="night" toID="pl0" toText="village" relType="IN" trajector="e0" landmark="pl0" trigger="s0" comment="" />
+<QSLINK id="qsl1" fromID="m27" fromText="ran" toID="pl0" toText="village" relType="IN" trajector="m27" landmark="pl0" trigger="s1" comment="3D" />
+<QSLINK id="qsl10" fromID="e5" fromText="presentation" toID="pl32" toText="Galen University" relType="IN" trajector="e5" landmark="pl32" trigger="s10" comment="" />
+<QSLINK id="qsl11" fromID="e2" fromText="spent" toID="pl34" toText="Jaguar Creek" relType="IN" trajector="e2" landmark="pl34" trigger="s7" comment="" />
+<QSLINK id="qsl12" fromID="p3" fromText="base" toID="p8" toText="Maya mountains" relType="TPP" trajector="p3" landmark="p8" trigger="" comment="SPATIAL_FUNCTION" />
+<QSLINK id="qsl13" fromID="e3" fromText="camp" toID="pl40" toText="lawn" relType="EC" trajector="e3" landmark="pl40" trigger="s18" comment="" />
+<QSLINK id="qsl16" fromID="e4" fromText="camped" toID="pl41" toText="lawn" relType="EC" trajector="e4" landmark="pl41" trigger="s19" comment="" />
+<QSLINK id="qsl17" fromID="pl41" fromText="lawn" toID="pl42" toText="Maya Center" relType="IN" trajector="pl41" landmark="pl42" trigger="s20" comment="" />
+<QSLINK id="qsl18" fromID="e6" fromText="speak" toID="pl43" toText="town" relType="IN" trajector="e6" landmark="pl43" trigger="s2" comment="" />
+<QSLINK id="qsl19" fromID="pl47" fromText="reefs" toID="pl48" toText="Belize" relType="IN" trajector="pl47" landmark="pl48" trigger="" comment="If the reefs belong to Belize, they must be in Belize?" />
+<QSLINK id="qsl2" fromID="pl15" fromText="countries" toID="pl14" toText="country" relType="EC" trajector="pl15" landmark="pl14" trigger="s6" comment="" />
+<QSLINK id="qsl3" fromID="m29" fromText="met" toID="p0" toText="road" relType="EC" trajector="m29" landmark="p0" trigger="s3" comment="3D" />
+<QSLINK id="qsl4" fromID="se3" fromText="racks" toID="pl22" toText="Belize City" relType="IN" trajector="se3" landmark="pl22" trigger="s4" comment="" />
+<QSLINK id="qsl6" fromID="m30" fromText="met" toID="pl5" toText="Belize City airport" relType="IN" trajector="m30" landmark="pl5" trigger="s5" comment="" />
+<QSLINK id="qsl7" fromID="e1" fromText="spend" toID="p5" toText="beach" relType="EC" trajector="e1" landmark="p5" trigger="s23" comment="" />
+<QSLINK id="qsl8" fromID="pl27" fromText="capital" toID="pl28" toText="Belize" relType="IN" trajector="pl27" landmark="pl28" trigger="" comment="SPATIAL_FUNCTION?" />
+<QSLINK id="qsl5" fromID="se17" fromText="him" toID="pl10" toText="" relType="IN" trajector="se17" landmark="pl10" trigger="s15" comment="" />
+<QSLINK id="qsl20" fromID="se22" fromText="jaguar" toID="pl10" toText="" relType="IN" trajector="se22" landmark="pl10" trigger="s16" comment="" />
+<QSLINK id="qsl21" fromID="pl4" fromText="airport" toID="pl3" toText="Belize City" relType="IN" trajector="pl4" landmark="pl3" trigger="" comment="" />
+<QSLINK id="qsl14" fromID="e7" fromText="met" toID="pl27" toText="capital" relType="IN" trajector="e7" landmark="pl27" trigger="s9" comment="" />
+<QSLINK id="qsl9" fromID="pl7" fromText="" toID="pl37" toText="mountains" relType="EC" trajector="pl7" landmark="pl37" trigger="" comment="" />
+<QSLINK id="qsl15" fromID="pl9" fromText="" toID="pl37" toText="mountains" relType="EC" trajector="pl9" landmark="pl37" trigger="" comment="" />
+<OLINK id="ol0" fromID="pl15" fromText="countries" toID="pl14" toText="country" relType="SURROUND" trajector="pl15" landmark="pl14" trigger="s6" frame_type="RELATIVE" referencePt="pl14" projective="FALSE" comment="" />
+<OLINK id="ol1" fromID="e1" fromText="spend" toID="p5" toText="beach" relType="ABOVE" trajector="e1" landmark="p5" trigger="s23" frame_type="INTRINSIC" referencePt="p5" projective="FALSE" comment="" />
+<OLINK id="ol2" fromID="m29" fromText="met" toID="p0" toText="road" relType="ABOVE" trajector="m29" landmark="p0" trigger="s3" frame_type="INTRINSIC" referencePt="p0" projective="FALSE" comment="" />
+<OLINK id="ol3" fromID="e3" fromText="camp" toID="pl40" toText="lawn" relType="ABOVE" trajector="e3" landmark="pl40" trigger="s18" frame_type="INTRINSIC" referencePt="pl40" projective="FALSE" comment="" />
+<OLINK id="ol4" fromID="e4" fromText="camped" toID="pl41" toText="lawn" relType="ABOVE" trajector="e4" landmark="pl41" trigger="s19" frame_type="INTRINSIC" referencePt="pl41" projective="FALSE" comment="" />
+<OLINK id="ol5" fromID="pl7" fromText="" toID="pl37" toText="mountains" relType="ABOVE" trajector="pl7" landmark="pl37" trigger="" frame_type="RELATIVE" referencePt="pl9" projective="FALSE" comment="" />
+<MOVELINK id="mvl0" fromID="m27" fromText="ran" toID="se29" toText="I" trigger="m27" source="" goal="se28" midPoint="" mover="se29" landmark="" goal_reached="YES" pathID="" motion_signalID="ms0" comment="" />
+<MOVELINK id="mvl1" fromID="m0" fromText="crossed" toID="se1" toText="I" trigger="m0" source="pl0" goal="pl2" midPoint="" mover="se1" landmark="" goal_reached="YES" pathID="" motion_signalID="ms2" comment="" />
+<MOVELINK id="mvl10" fromID="m32" fromText="join" toID="se36" toText="he" trigger="m32" source="" goal="se37" midPoint="" mover="se36" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl11" fromID="m5" fromText="bike" toID="se6" toText="we" trigger="m5" source="" goal="" midPoint="" mover="se6" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl12" fromID="m7" fromText="arrived" toID="se7" toText="he" trigger="m7" source="" goal="pl1" midPoint="" mover="se7" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl13" fromID="m8" fromText="biking" toID="se8" toText="we" trigger="m8" source="pl1" goal="" midPoint="" mover="se8" landmark="" goal_reached="" pathID="" motion_signalID="ms18" comment="" />
+<MOVELINK id="mvl14" fromID="m9" fromText="biked" toID="se10" toText="I" trigger="m9" source="" goal="pl27" midPoint="" mover="se10" landmark="" goal_reached="YES" pathID="" motion_signalID="ms7" comment="" />
+<MOVELINK id="mvl15" fromID="m9" fromText="biked" toID="se9" toText="Dennis" trigger="m9" source="" goal="pl27" midPoint="" mover="se9" landmark="" goal_reached="YES" pathID="" motion_signalID="ms7" comment="" />
+<MOVELINK id="mvl17" fromID="m10" fromText="Biking" toID="se11" toText="we" trigger="m10" source="" goal="" midPoint="" mover="se11" landmark="" goal_reached="" pathID="p1" motion_signalID="ms5" comment="" />
+<MOVELINK id="mvl18" fromID="m12" fromText="Turning" toID="se13" toText="I" trigger="m12" source="" goal="p2" midPoint="" mover="se13" landmark="" goal_reached="NO" pathID="" motion_signalID="ms8, ms9" comment="" />
+<MOVELINK id="mvl19" fromID="m12" fromText="Turning" toID="se12" toText="Dennis" trigger="m12" source="" goal="p2" midPoint="" mover="se12" landmark="" goal_reached="NO" pathID="" motion_signalID="ms8, ms9" comment="" />
+<MOVELINK id="mvl2" fromID="m1" fromText="flying" toID="se30" toText="Dennis Murphree" trigger="m1" source="" goal="pl3" midPoint="" mover="se30" landmark="" goal_reached="YES" pathID="" motion_signalID="ms3" comment="" />
+<MOVELINK id="mvl20" fromID="m13" fromText="biked" toID="se13" toText="I" trigger="m13" source="" goal="" midPoint="" mover="se13" landmark="" goal_reached="" pathID="p3" motion_signalID="ms1" comment="" />
+<MOVELINK id="mvl21" fromID="m13" fromText="biked" toID="se12" toText="Dennis" trigger="m13" source="" goal="" midPoint="" mover="se12" landmark="" goal_reached="" pathID="p3" motion_signalID="ms1" comment="" />
+<MOVELINK id="mvl22" fromID="m14" fromText="crossed" toID="p4" toText="road" trigger="m14" source="pl7" goal="pl9" midPoint="pl37" mover="p4" landmark="" goal_reached="NO" pathID="" motion_signalID="ms20" comment="" />
+<MOVELINK id="mvl23" fromID="m34" fromText="avoiding" toID="p4" toText="road" trigger="m34" source="" goal="" midPoint="" mover="p4" landmark="pl38" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl24" fromID="m15" fromText="bicycling" toID="se40" toText="he" trigger="m15" source="" goal="" midPoint="" mover="se40" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl26" fromID="m17" fromText="moved" toID="se15" toText="American" trigger="m17" source="" goal="pl39" midPoint="" mover="se15" landmark="" goal_reached="YES" pathID="" motion_signalID="ms10" comment="" />
+<MOVELINK id="mvl27" fromID="m19" fromText="diving" toID="se18" toText="kitten" trigger="m19" source="" goal="se19" midPoint="" mover="se18" landmark="" goal_reached="YES" pathID="" motion_signalID="ms11" comment="" />
+<MOVELINK id="mvl29" fromID="m21" fromText="leapt" toID="se20" toText="jaguar" trigger="m21" source="" goal="se21" midPoint="" mover="se20" landmark="" goal_reached="YES" pathID="" motion_signalID="ms13" comment="" />
+<MOVELINK id="mvl3" fromID="m2" fromText="bike" toID="se2" toText="I" trigger="m2" source="" goal="" midPoint="" mover="se2" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl31" fromID="m24" fromText="biked" toID="se25" toText="we" trigger="m24" source="" goal="pl44" midPoint="" mover="se25" landmark="" goal_reached="YES" pathID="p6" motion_signalID="ms15" comment="" />
+<MOVELINK id="mvl32" fromID="m25" fromText="visit" toID="se26" toText="we" trigger="m25" source="pl46" goal="pl47" midPoint="" mover="se26" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms16" comment="" />
+<MOVELINK id="mvl33" fromID="m26" fromText="visit" toID="se27" toText="I" trigger="m26" source="" goal="pl50" midPoint="" mover="se27" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl4" fromID="m28" fromText="meet" toID="se2" toText="I" trigger="m28" source="" goal="se31" midPoint="" mover="se2" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl5" fromID="m29" fromText="met" toID="se33" toText="I" trigger="m29" source="" goal="se32" midPoint="" mover="se33" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl6" fromID="m30" fromText="met" toID="se34" toText="I" trigger="m30" source="" goal="se35" midPoint="" mover="se34" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl7" fromID="m3" fromText="rode" toID="se4" toText="We" trigger="m3" source="" goal="pl25" midPoint="" mover="se4" landmark="" goal_reached="YES" pathID="" motion_signalID="ms4" comment="" />
+<MOVELINK id="mvl8" fromID="m4" fromText="biked" toID="se5" toText="Dennis" trigger="m4" source="" goal="" midPoint="" mover="se5" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl9" fromID="m31" fromText="touring" toID="se5" toText="Dennis" trigger="m31" source="" goal="" midPoint="" mover="se5" landmark="" goal_reached="" pathID="" motion_signalID="ms17" comment="" />
+<MOVELINK id="mvl25" fromID="m20" fromText="ran" toID="se44" toText="" trigger="m20" source="se19" goal="" midPoint="" mover="se44" landmark="" goal_reached="" pathID="" motion_signalID="ms12" comment="" />
+<MOVELINK id="mvl34" fromID="m22" fromText="ran" toID="se47" toText="" trigger="m22" source="se42" goal="" midPoint="" mover="se47" landmark="" goal_reached="" pathID="" motion_signalID="ms14" comment="" />
+<MLINK id="ml0" fromID="p7" fromText="it" toID="p7" toText="it" trajector="p7" landmark="p7" relType="LENGTH" val="me0" endPoint1="" endPoint2="" comment="" />
+<MLINK id="ml1" fromID="m8" fromText="biking" toID="m8" toText="biking" trajector="m8" landmark="m8" relType="GENERAL_DIMENSION" val="me2" endPoint1="" endPoint2="" comment="" />
+<MLINK id="ml2" fromID="m10" fromText="Biking" toID="m10" toText="Biking" trajector="m10" landmark="m10" relType="GENERAL_DIMENSION" val="me3" endPoint1="" endPoint2="" comment="" />
+<MLINK id="ml3" fromID="m4" fromText="biked" toID="m4" toText="biked" trajector="m4" landmark="m4" relType="GENERAL_DIMENSION" val="me1" endPoint1="" endPoint2="" comment="" />
+<METALINK id="metal0" fromID="pl11" fromText="town" toID="pl44" toText="Placencia" objectID1="pl11" objectID2="pl44" relType="COREFERENCE" comment="" />
+<METALINK id="metal1" fromID="se1" fromText="I" toID="se29" toText="I" objectID1="se1" objectID2="se29" relType="COREFERENCE" comment="" />
+<METALINK id="metal10" fromID="pl39" fromText="Belize" toID="pl2" toText="Belize" objectID1="pl39" objectID2="pl2" relType="COREFERENCE" comment="" />
+<METALINK id="metal11" fromID="pl20" fromText="Belize" toID="pl2" toText="Belize" objectID1="pl20" objectID2="pl2" relType="COREFERENCE" comment="" />
+<METALINK id="metal12" fromID="pl50" fromText="Belize" toID="pl2" toText="Belize" objectID1="pl50" objectID2="pl2" relType="COREFERENCE" comment="" />
+<METALINK id="metal13" fromID="pl14" fromText="country" toID="pl2" toText="Belize" objectID1="pl14" objectID2="pl2" relType="COREFERENCE" comment="" />
+<METALINK id="metal14" fromID="pl8" fromText="Belize" toID="pl2" toText="Belize" objectID1="pl8" objectID2="pl2" relType="COREFERENCE" comment="" />
+<METALINK id="metal15" fromID="pl28" fromText="Belize" toID="pl2" toText="Belize" objectID1="pl28" objectID2="pl2" relType="COREFERENCE" comment="" />
+<METALINK id="metal16" fromID="pl17" fromText="country" toID="pl2" toText="Belize" objectID1="pl17" objectID2="pl2" relType="COREFERENCE" comment="" />
+<METALINK id="metal17" fromID="se12" fromText="Dennis" toID="se30" toText="Dennis Murphree" objectID1="se12" objectID2="se30" relType="COREFERENCE" comment="" />
+<METALINK id="metal18" fromID="se31" fromText="him" toID="se30" toText="Dennis Murphree" objectID1="se31" objectID2="se30" relType="COREFERENCE" comment="" />
+<METALINK id="metal19" fromID="se35" fromText="Dennis" toID="se30" toText="Dennis Murphree" objectID1="se35" objectID2="se30" relType="COREFERENCE" comment="" />
+<METALINK id="metal2" fromID="se2" fromText="I" toID="se29" toText="I" objectID1="se2" objectID2="se29" relType="COREFERENCE" comment="" />
+<METALINK id="metal20" fromID="se40" fromText="he" toID="se30" toText="Dennis Murphree" objectID1="se40" objectID2="se30" relType="COREFERENCE" comment="" />
+<METALINK id="metal21" fromID="se5" fromText="Dennis" toID="se30" toText="Dennis Murphree" objectID1="se5" objectID2="se30" relType="COREFERENCE" comment="" />
+<METALINK id="metal22" fromID="se36" fromText="he" toID="se30" toText="Dennis Murphree" objectID1="se36" objectID2="se30" relType="COREFERENCE" comment="" />
+<METALINK id="metal23" fromID="se7" fromText="he" toID="se30" toText="Dennis Murphree" objectID1="se7" objectID2="se30" relType="COREFERENCE" comment="" />
+<METALINK id="metal24" fromID="se9" fromText="Dennis" toID="se30" toText="Dennis Murphree" objectID1="se9" objectID2="se30" relType="COREFERENCE" comment="" />
+<METALINK id="metal27" fromID="pl5" fromText="Belize City airport" toID="pl3" toText="Belize City" objectID1="pl5" objectID2="pl3" relType="COREFERENCE" comment="" />
+<METALINK id="metal28" fromID="pl25" fromText="Belize City" toID="pl6" toText="Belize City" objectID1="pl25" objectID2="pl6" relType="COREFERENCE" comment="" />
+<METALINK id="metal29" fromID="pl22" fromText="Belize City" toID="pl6" toText="Belize City" objectID1="pl22" objectID2="pl6" relType="COREFERENCE" comment="" />
+<METALINK id="metal3" fromID="se27" fromText="I" toID="se29" toText="I" objectID1="se27" objectID2="se29" relType="COREFERENCE" comment="" />
+<METALINK id="metal30" fromID="se24" fromText="we" toID="se4" toText="We" objectID1="se24" objectID2="se4" relType="COREFERENCE" comment="" />
+<METALINK id="metal31" fromID="se14" fromText="we" toID="se4" toText="We" objectID1="se14" objectID2="se4" relType="COREFERENCE" comment="" />
+<METALINK id="metal32" fromID="se8" fromText="we" toID="se4" toText="We" objectID1="se8" objectID2="se4" relType="COREFERENCE" comment="" />
+<METALINK id="metal33" fromID="se11" fromText="we" toID="se4" toText="We" objectID1="se11" objectID2="se4" relType="COREFERENCE" comment="" />
+<METALINK id="metal34" fromID="se38" fromText="we" toID="se4" toText="We" objectID1="se38" objectID2="se4" relType="COREFERENCE" comment="" />
+<METALINK id="metal35" fromID="se25" fromText="we" toID="se4" toText="We" objectID1="se25" objectID2="se4" relType="COREFERENCE" comment="" />
+<METALINK id="metal36" fromID="se26" fromText="we" toID="se4" toText="We" objectID1="se26" objectID2="se4" relType="COREFERENCE" comment="" />
+<METALINK id="metal37" fromID="se6" fromText="we" toID="se4" toText="We" objectID1="se6" objectID2="se4" relType="COREFERENCE" comment="" />
+<METALINK id="metal38" fromID="se16" fromText="we" toID="se4" toText="We" objectID1="se16" objectID2="se4" relType="COREFERENCE" comment="" />
+<METALINK id="metal39" fromID="se4" fromText="We" toID="se43" toText="" objectID1="se4" objectID2="se43" relType="SPLITCOREFERENCE" comment="" />
+<METALINK id="metal4" fromID="se33" fromText="I" toID="se29" toText="I" objectID1="se33" objectID2="se29" relType="COREFERENCE" comment="" />
+<METALINK id="metal40" fromID="se34" fromText="I" toID="se43" toText="" objectID1="se34" objectID2="se43" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal41" fromID="se35" fromText="Dennis" toID="se43" toText="" objectID1="se35" objectID2="se43" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal42" fromID="pl29" fromText="Belmopan" toID="pl27" toText="capital" objectID1="pl29" objectID2="pl27" relType="COREFERENCE" comment="" />
+<METALINK id="metal43" fromID="pl30" fromText="town" toID="pl27" toText="capital" objectID1="pl30" objectID2="pl27" relType="COREFERENCE" comment="" />
+<METALINK id="metal44" fromID="pl37" fromText="mountains" toID="p8" toText="Maya mountains" objectID1="pl37" objectID2="p8" relType="COREFERENCE" comment="" />
+<METALINK id="metal45" fromID="se42" fromText="man" toID="se15" toText="American" objectID1="se42" objectID2="se15" relType="COREFERENCE" comment="" />
+<METALINK id="metal46" fromID="se45" fromText="I" toID="se15" toText="American" objectID1="se45" objectID2="se15" relType="COREFERENCE" comment="" />
+<METALINK id="metal47" fromID="se17" fromText="him" toID="se46" toText="jaguar" objectID1="se17" objectID2="se46" relType="COREFERENCE" comment="" />
+<METALINK id="metal48" fromID="se18" fromText="kitten" toID="se46" toText="jaguar" objectID1="se18" objectID2="se46" relType="COREFERENCE" comment="" />
+<METALINK id="metal49" fromID="se20" fromText="jaguar" toID="se46" toText="jaguar" objectID1="se20" objectID2="se46" relType="COREFERENCE" comment="" />
+<METALINK id="metal5" fromID="se10" fromText="I" toID="se29" toText="I" objectID1="se10" objectID2="se29" relType="COREFERENCE" comment="" />
+<METALINK id="metal50" fromID="se22" fromText="jaguar" toID="se46" toText="jaguar" objectID1="se22" objectID2="se46" relType="COREFERENCE" comment="" />
+<METALINK id="metal51" fromID="se23" fromText="kitten" toID="se46" toText="jaguar" objectID1="se23" objectID2="se46" relType="COREFERENCE" comment="" />
+<METALINK id="metal52" fromID="pl43" fromText="town" toID="pl42" toText="Maya Center" objectID1="pl43" objectID2="pl42" relType="COREFERENCE" comment="" />
+<METALINK id="metal53" fromID="pl13" fromText="reefs" toID="pl47" toText="reefs" objectID1="pl13" objectID2="pl47" relType="COREFERENCE" comment="" />
+<METALINK id="metal6" fromID="se34" fromText="I" toID="se29" toText="I" objectID1="se34" objectID2="se29" relType="COREFERENCE" comment="" />
+<METALINK id="metal7" fromID="se13" fromText="I" toID="se29" toText="I" objectID1="se13" objectID2="se29" relType="COREFERENCE" comment="" />
+<METALINK id="metal8" fromID="se37" fromText="me" toID="se29" toText="I" objectID1="se37" objectID2="se29" relType="COREFERENCE" comment="" />
+<METALINK id="metal9" fromID="pl48" fromText="Belize" toID="pl2" toText="Belize" objectID1="pl48" objectID2="pl2" relType="COREFERENCE" comment="" />
+<METALINK id="metal25" fromID="se18" fromText="kitten" toID="se44" toText="" objectID1="se18" objectID2="se44" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal26" fromID="se41" fromText="glove" toID="se44" toText="" objectID1="se41" objectID2="se44" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal54" fromID="se23" fromText="kitten" toID="se47" toText="" objectID1="se23" objectID2="se47" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal55" fromID="se0" fromText="helmet" toID="se47" toText="" objectID1="se0" objectID2="se47" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal56" fromID="pl12" fromText="It" toID="pl2" toText="Belize" objectID1="pl12" objectID2="pl2" relType="COREFERENCE" comment="" />
+<METALINK id="metal57" fromID="pl16" fromText="It" toID="pl2" toText="Belize" objectID1="pl16" objectID2="pl2" relType="COREFERENCE" comment="" />
+<METALINK id="metal58" fromID="pl19" fromText="It" toID="pl2" toText="Belize" objectID1="pl19" objectID2="pl2" relType="COREFERENCE" comment="" />
+<METALINK id="metal59" fromID="pl21" fromText="university" toID="pl32" toText="Galen University" objectID1="pl21" objectID2="pl32" relType="COREFERENCE" comment="" />
+<METALINK id="metal60" fromID="pl23" fromText="center" toID="pl34" toText="Jaguar Creek" objectID1="pl23" objectID2="pl34" relType="COREFERENCE" comment="" />
+<METALINK id="metal61" fromID="se55" fromText="Dennis" toID="se30" toText="Dennis Murphree" objectID1="se55" objectID2="se30" relType="COREFERENCE" comment="" />
+<METALINK id="metal62" fromID="se56" fromText="owner" toID="se15" toText="American" objectID1="se56" objectID2="se15" relType="COREFERENCE" comment="" />
+<METALINK id="metal63" fromID="se57" fromText="helmet" toID="se0" toText="helmet" objectID1="se57" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal64" fromID="se59" fromText="Dennis" toID="se30" toText="Dennis Murphree" objectID1="se59" objectID2="se30" relType="COREFERENCE" comment="" />
+<METALINK id="metal65" fromID="se61" fromText="Dennis" toID="se30" toText="Dennis Murphree" objectID1="se61" objectID2="se30" relType="COREFERENCE" comment="" />
+<METALINK id="metal66" fromID="se60" fromText="I" toID="se29" toText="I" objectID1="se60" objectID2="se29" relType="COREFERENCE" comment="" />
+<METALINK id="metal67" fromID="se58" fromText="I" toID="se29" toText="I" objectID1="se58" objectID2="se29" relType="COREFERENCE" comment="" />
+<METALINK id="metal68" fromID="se54" fromText="I" toID="se29" toText="I" objectID1="se54" objectID2="se29" relType="COREFERENCE" comment="" />
+<METALINK id="metal69" fromID="se53" fromText="I" toID="se29" toText="I" objectID1="se53" objectID2="se29" relType="COREFERENCE" comment="" />
+<METALINK id="metal70" fromID="se52" fromText="I" toID="se29" toText="I" objectID1="se52" objectID2="se29" relType="COREFERENCE" comment="" />
+<METALINK id="metal71" fromID="se51" fromText="I" toID="se29" toText="I" objectID1="se51" objectID2="se29" relType="COREFERENCE" comment="" />
+<METALINK id="metal72" fromID="se50" fromText="I" toID="se29" toText="I" objectID1="se50" objectID2="se29" relType="COREFERENCE" comment="" />
+<METALINK id="metal73" fromID="se49" fromText="I" toID="se29" toText="I" objectID1="se49" objectID2="se29" relType="COREFERENCE" comment="" />
+<METALINK id="metal74" fromID="se48" fromText="I" toID="se29" toText="I" objectID1="se48" objectID2="se29" relType="COREFERENCE" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2>

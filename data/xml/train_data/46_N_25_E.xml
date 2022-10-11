@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[
+
+19-Apr-2012 -- The conditions of our further trip allowed it to make an excursion into the upstate of Romania and to visit this confluence point at this opportunity. Partially, the roads were very shabby and it seemed not only because of the last winter.
+
+We could park our car appr. 950 m away from the point and could make a comfortable walk to the mountain ridge. There is a herdsmen station not far from the point, but only the dogs came to visit us.
+
+Because we had good weather and still a bit time we decided to drive on small roads to the west to point 46N 24E.
+
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="104" end="111" text="Romania" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="141" end="146" text="point" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="306" end="311" text="point" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="389" end="396" text="station" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="414" end="419" text="point" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="557" end="562" text="point" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="563" end="570" text="46N 24E" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="93" end="100" text="upstate" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PATH id="p0" start="362" end="367" text="ridge" beginID="" endID="" midIDs="" type="" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p1" start="536" end="541" text="roads" beginID="" endID="" midIDs="" type="" dimensionality="VOLUME" form="NOM" domain="" gazref="" latLong="" elevation="" mod="small" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="258" end="260" text="We" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="276" end="279" text="car" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se2" start="434" end="438" text="dogs" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se3" start="453" end="455" text="us" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se4" start="507" end="509" text="we" type="" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e0" start="267" end="271" text="park" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m1" start="119" end="124" text="visit" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m2" start="341" end="345" text="walk" domain="" latLong="" elevation="" motion_type="COMPOUND" motion_class="REACH" motion_sense="LITERAL" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<MOTION id="m3" start="439" end="443" text="came" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m4" start="521" end="526" text="drive" domain="" latLong="" elevation="" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="74" end="83" text="excursion" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s0" start="292" end="301" text="away from" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms1" start="346" end="348" text="to" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms2" start="527" end="529" text="on" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms3" start="542" end="553" text="to the west" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms4" start="554" end="556" text="to" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms0" start="84" end="88" text="into" motion_signal_type="PATH" comment="" />
+<MEASURE id="me0" start="280" end="291" text="appr. 950 m" value="~950" unit="meters" comment="" />
+<MEASURE id="me1" start="397" end="404" text="not far" value="NEAR" unit="" comment="" />
+<QSLINK id="qsl0" fromID="pl7" fromText="upstate" toID="pl0" toText="Romania" relType="TPP" trajector="pl7" landmark="pl0" trigger="" comment="" />
+<QSLINK id="qsl4" fromID="e0" fromText="park" toID="pl2" toText="point" relType="DC" trajector="e0" landmark="pl2" trigger="s0" comment="" />
+<MOVELINK id="mvl0" fromID="m0" fromText="excursion" toID="m0" toText="excursion" trigger="m0" source="" goal="pl7" midPoint="" mover="m0" landmark="" goal_reached="YES" pathID="" motion_signalID="ms0" comment="" />
+<MOVELINK id="mvl1" fromID="m1" fromText="visit" toID="m1" toText="visit" trigger="m1" source="" goal="pl1" midPoint="" mover="m1" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl2" fromID="m2" fromText="walk" toID="se0" toText="We" trigger="m2" source="" goal="p0" midPoint="" mover="se0" landmark="" goal_reached="YES" pathID="" motion_signalID="ms1" comment="" />
+<MOVELINK id="mvl3" fromID="m3" fromText="came" toID="se2" toText="dogs" trigger="m3" source="" goal="se3" midPoint="" mover="se2" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl4" fromID="m4" fromText="drive" toID="se4" toText="we" trigger="m4" source="" goal="pl5" midPoint="" mover="se4" landmark="" goal_reached="YES" pathID="p1" motion_signalID="ms2, ms3, ms4" comment="" />
+<MEASURELINK id="ml1" fromID="pl3" fromText="station" toID="pl4" toText="point" trajector="pl3" landmark="pl4" relType="DISTANCE" val="me1" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml2" fromID="e0" fromText="park" toID="pl2" toText="point" trajector="e0" landmark="pl2" relType="DISTANCE" val="me0" endPoint1="" endPoint2="" comment="" />
+<METALINK id="metal0" fromID="pl4" fromText="point" toID="pl1" toText="point" objectID1="pl4" objectID2="pl1" relType="COREFERENCE" comment="" />
+<METALINK id="metal1" fromID="pl2" fromText="point" toID="pl1" toText="point" objectID1="pl2" objectID2="pl1" relType="COREFERENCE" comment="" />
+<METALINK id="metal2" fromID="se4" fromText="we" toID="se0" toText="We" objectID1="se4" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal3" fromID="se3" fromText="us" toID="se0" toText="We" objectID1="se3" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal4" fromID="pl6" fromText="46N 24E" toID="pl5" toText="point" objectID1="pl6" objectID2="pl5" relType="COREFERENCE" comment="" />
+<CP><![CDATA[46N25E]]></CP>
+<URL><![CDATA[http://confluence.org/confluence.php?id=9789]]></URL>
+</TAGS>
+</SpaceEvalTaskv1.2>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ISOSpaceTaskv1.15>
+<TEXT><![CDATA[
+Aerial shot of Arequipa
+
+view of the houses of a city with a few fields in the centre and a mountain range with a couple of snow covered peaks in the background;
+
+Arequipa, Peru
+
+images/02/2018.jpg
+
+]]></TEXT>
+<TAGS>
+<PLACE id="pl5" start="138" end="143" text="peaks" type="" dimensionality="VOLUME" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="151" end="161" text="background" type="" dimensionality="VOLUME" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl0" start="16" end="24" text="Arequipa" type="" dimensionality="AREA" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="TRUE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="164" end="178" text="Arequipa, Peru" type="" dimensionality="AREA" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="38" end="44" text="houses" type="" dimensionality="AREA" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="50" end="54" text="city" type="" dimensionality="AREA" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="66" end="72" text="fields" type="" dimensionality="AREA" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="80" end="86" text="centre" type="" dimensionality="AREA" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p0" start="102" end="107" text="range" beginID="" endID="" midIDs="" type="" dimensionality="VOLUME" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="125" end="129" text="snow" type="" dimensionality="VOLUME" form="NOM" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s3" start="108" end="112" text="with" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="130" end="137" text="covered" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s0" start="45" end="47" text="of" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="55" end="59" text="with" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="73" end="75" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+</TAGS>
+</ISOSpaceTaskv1.15>

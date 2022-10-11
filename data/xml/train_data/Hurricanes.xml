@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[
+Hurricanes, Climate Change, and Central America
+Tuesday, April 18th, 2006
+   Since arriving in Central America, I have asked nearly every person I have stayed with about how hurricanes have affected their lives.
+
+
+   In Belize, the majority of the population lives in coastal settlements that are barely above sea level. The town where I learned to SCUBA dive, Placencia, was almost completely destroyed by Hurricane Iris in 1991. People with insurance or in the tourism industry have rebuilt. Others sold their land and moved. Down the road from Placencia is Sand Bite, a small town that does not receive tourism dollars. This town has not fully rebuilt from the storm.
+
+   Hurricanes are likely to be stronger on a warmer earth. A recent study (here is a description) showed how an increase in the power of Atlantic hurricanes over the past 20 years is correlated with warmer ocean water in the Atlantic. This makes intuitive sense – hurricanes get their energy from warm ocean water, and warmer ocean water should mean more powerful hurricanes. More powerful hurricanes are also predicted by climate models. Furthermore, much of the damage done by hurricanes is not just by their winds, but by the rain that accompanies the storms. A warmer atmosphere can hold more water, and thus will likely provide heavier rains (read more on rains here).
+
+   In 1998, a huge category 5 hurricane, Hurricane Mitch, tore through the Caribbean and then parked itself over Central America, affecting almost every country. Ten thousand people died, and over 100,000 were left homeless.
+
+ 
+   The storm hit Honduras the hardest. It destroyed some coastal communities and then dropped amazing amounts of rain. A security guard at the San Pedro Sula airport described water in his house up to his armpits. A family who I stayed with in the countryside told me that they lost all of their crops. I asked what they did that year, and they replied that they were hungry that year. In Tegucigalpa, the flooding reached the third floor of some buildings (such as the building on the left). According to my city guide Carleton, many of the houses on the hill sides washed away. He showed me a large section of bare earth (shown on the right) where there used to be houses.
+
+ 
+   The destruction continued in the rest of Central America. In San Miguel, El Salvador, one man described a landslide that destroyed many homes. In Nicaragua, the family that I swam with on Good Friday invited me back to their house. Their house had been destroyed by Mitch, and rebuilt a year later by help from the government (photo left). Also in Nicaragua, I spent one night at the house of Cristina, who is shown on the right. Cristina explained that although no one in her community died, they lost all of their animals. “We ate a lot of rice and beans.”
+
+   Mitch was so strong that its name has been retired – whereas most names for storms are reused after a few years, meteorologists will never again use the name Mitch. If current research is correct, though, we will see more storms like Mitch. And, the people who will suffer the most will be the people who I have met here in Central America – people who live in poorly constructed houses, who live on vulnerable slopes, or who rely on the food they grow to live.
+
+   Based on these stories, it seems that the human toll of Hurricane Mitch was many times worse than any storm in the U.S. Again, this is because of how people live here â€“ they have fewer resources to survive and recover from a storm. Yet, growing up in the U.S., for a long time I thought that hurricanes damaged only Florida and nearby states because that is what I heard about in the media. Somehow we need to expand our view to other countries, especially as our actions â€“ emissions of greenhouse gasses â€“ will make storms worse internationally.
+
+]]></TEXT>
+<TAGS>
+<PLACE id="pl10" start="-1" end="-1" text="" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="The source for the tearing event in 'In 1998, a huge category 5 hurricane, Hurricane Mitch, tore through the Caribbean...'" domain="" />
+<PLACE id="pl14" start="-1" end="-1" text="" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="The goal for the tearing event in 'In 1998, a huge category 5 hurricane, Hurricane Mitch, tore through the Caribbean...'" domain="" />
+<PLACE id="pl12" start="1423" end="1432" text="Caribbean" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl13" start="1461" end="1476" text="Central America" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl15" start="1593" end="1601" text="Honduras" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl18" start="1765" end="1770" text="house" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl3" start="1824" end="1835" text="countryside" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl20" start="1965" end="1976" text="Tegucigalpa" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl21" start="2009" end="2014" text="floor" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl22" start="2023" end="2032" text="buildings" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="SPATIAL_FUNCTION" domain="" />
+<PLACE id="pl25" start="2118" end="2124" text="houses" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl27" start="2177" end="2184" text="section" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl1" start="221" end="227" text="Belize" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl9" start="2243" end="2249" text="houses" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl29" start="2290" end="2294" text="rest" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl30" start="2298" end="2313" text="Central America" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl31" start="2318" end="2341" text="San Miguel, El Salvador" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl33" start="2403" end="2412" text="Nicaragua" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl36" start="2605" end="2614" text="Nicaragua" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl37" start="2641" end="2646" text="house" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl2" start="277" end="288" text="settlements" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl38" start="3136" end="3140" text="here" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl39" start="3144" end="3159" text="Central America" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl4" start="326" end="330" text="town" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl42" start="3401" end="3405" text="U.S." type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl44" start="3543" end="3547" text="U.S." type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl45" start="3604" end="3611" text="Florida" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl5" start="362" end="371" text="Placencia" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl46" start="3623" end="3629" text="states" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl6" start="548" end="557" text="Placencia" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl7" start="561" end="570" text="Sand Bite" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl11" start="898" end="906" text="Atlantic" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl0" start="96" end="111" text="Central America" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl8" start="1719" end="1741" text="San Pedro Sula airport" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl16" start="580" end="584" text="town" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="small" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl17" start="629" end="633" text="town" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl19" start="3200" end="3206" text="houses" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PATH id="p5" start="2137" end="2142" text="sides" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="Possible SPATIAL_FUNCTION with 'hill'" domain="" dcl="" />
+<PATH id="p4" start="315" end="320" text="level" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<PATH id="p0" start="538" end="542" text="road" beginID="" endID="" midIDs="pl6,pl7" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<PATH id="p1" start="3231" end="3237" text="slopes" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se0" start="113" end="114" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se7" start="1583" end="1588" text="storm" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se2" start="1689" end="1693" text="rain" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se8" start="1706" end="1711" text="guard" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se9" start="1752" end="1757" text="water" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se10" start="1781" end="1788" text="armpits" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se11" start="1792" end="1798" text="family" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se12" start="1803" end="1804" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se16" start="2418" end="2424" text="family" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se17" start="2430" end="2431" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se5" start="249" end="259" text="population" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se18" start="2616" end="2617" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se20" start="3125" end="3126" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se3" start="495" end="501" text="Others" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se4" start="885" end="890" text="water" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se1" start="-1" end="-1" text="" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="Subsuming mover for 'the family that I swam with on Good Friday'" domain="" dcl="" />
+<SPATIAL_ENTITY id="se6" start="146" end="147" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se13" start="1615" end="1617" text="It" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se14" start="1841" end="1843" text="me" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se15" start="1879" end="1880" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se19" start="2166" end="2168" text="me" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se21" start="2465" end="2467" text="me" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se22" start="3565" end="3566" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se23" start="3651" end="3652" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<NONMOTION_EVENT id="e13" start="1378" end="1387" text="hurricane" latLong="" elevation="" mod="huge" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e14" start="1389" end="1404" text="Hurricane Mitch" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e4" start="1442" end="1448" text="parked" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e5" start="1805" end="1811" text="stayed" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e8" start="1982" end="1990" text="flooding" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e10" start="2261" end="2272" text="destruction" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e3" start="2351" end="2360" text="described" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e11" start="2457" end="2464" text="invited" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e2" start="260" end="265" text="lives" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e6" start="2618" end="2623" text="spent" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e12" start="3388" end="3393" text="storm" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e1" start="339" end="346" text="learned" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e0" start="356" end="360" text="dive" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e7" start="3132" end="3135" text="met" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e9" start="2820" end="2825" text="Mitch" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e15" start="3054" end="3059" text="Mitch" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e16" start="3173" end="3177" text="live" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e17" start="3212" end="3216" text="live" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e18" start="3342" end="3357" text="Hurricane Mitch" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<MOTION id="m4" start="1406" end="1410" text="tore" motion_type="COMPOUND" motion_class="CROSS" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m6" start="1589" end="1592" text="hit" motion_type="PATH" motion_class="HIT" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m13" start="1662" end="1669" text="dropped" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m8" start="1991" end="1998" text="reached" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m9" start="2143" end="2149" text="washed" motion_type="COMPOUND" motion_class="DETACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m11" start="2432" end="2436" text="swam" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m3" start="522" end="527" text="moved" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m1" start="84" end="92" text="arriving" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<SPATIAL_SIGNAL id="s6" start="1456" end="1460" text="over" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s8" start="1712" end="1714" text="at" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s7" start="1758" end="1760" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s9" start="1771" end="1776" text="up to" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s10" start="1817" end="1819" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s11" start="1962" end="1964" text="In" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s12" start="2125" end="2127" text="on" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s0" start="218" end="220" text="In" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s13" start="2220" end="2225" text="where" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="2283" end="2285" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s14" start="2295" end="2297" text="of" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s15" start="2315" end="2317" text="In" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s16" start="2400" end="2402" text="In" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s17" start="2602" end="2604" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s20" start="2634" end="2636" text="at" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s22" start="266" end="268" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="305" end="310" text="above" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s18" start="3141" end="3143" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="331" end="336" text="where" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s21" start="3394" end="3396" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="529" end="533" text="Down" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s5" start="891" end="893" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s19" start="3178" end="3180" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s23" start="3217" end="3219" text="on" cluster="" semantic_type="DIR_TOP" comment="" />
+<MOTION_SIGNAL id="ms3" start="1411" end="1418" text="through" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms5" start="2150" end="2154" text="away" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms2" start="93" end="95" text="in" motion_signal_type="PATH" comment="" />
+<MEASURE id="me0" start="3616" end="3622" text="nearby" value="NEAR" unit="" comment="" />
+<QSLINK id="qsl0" fromID="e2" fromText="lives" toID="pl2" toText="settlements" relType="IN" trajector="e2" landmark="pl2" trigger="s22" comment="" />
+<QSLINK id="qsl1" fromID="se5" fromText="population" toID="pl1" toText="Belize" relType="IN" trajector="se5" landmark="pl1" trigger="s0" comment="" />
+<QSLINK id="qsl10" fromID="e8" fromText="flooding" toID="pl20" toText="Tegucigalpa" relType="IN" trajector="e8" landmark="pl20" trigger="s11" comment="" />
+<QSLINK id="qsl11" fromID="pl25" fromText="houses" toID="p5" toText="hill sides" relType="EC" trajector="pl25" landmark="p5" trigger="s12" comment="" />
+<QSLINK id="qsl13" fromID="pl9" fromText="houses" toID="pl27" toText="section" relType="IN" trajector="pl9" landmark="pl27" trigger="s13" comment="" />
+<QSLINK id="qsl14" fromID="e10" fromText="destruction" toID="pl29" toText="rest" relType="IN" trajector="e10" landmark="pl29" trigger="s1" comment="" />
+<QSLINK id="qsl15" fromID="pl29" fromText="rest" toID="pl30" toText="Central America" relType="IN" trajector="pl29" landmark="pl30" trigger="s14" comment="SPATIAL_FUNCTION" />
+<QSLINK id="qsl16" fromID="e3" fromText="described" toID="pl31" toText="San Miguel, El Salvador" relType="IN" trajector="e3" landmark="pl31" trigger="s15" comment="" />
+<QSLINK id="qsl17" fromID="e11" fromText="invited" toID="pl33" toText="Nicaragua" relType="IN" trajector="e11" landmark="pl33" trigger="s16" comment="" />
+<QSLINK id="qsl18" fromID="e6" fromText="spent" toID="pl37" toText="house" relType="IN" trajector="e6" landmark="pl37" trigger="s20" comment="" />
+<QSLINK id="qsl19" fromID="e6" fromText="spent" toID="pl36" toText="Nicaragua" relType="IN" trajector="e6" landmark="pl36" trigger="s17" comment="" />
+<QSLINK id="qsl2" fromID="e1" fromText="learned" toID="pl4" toText="town" relType="IN" trajector="e1" landmark="pl4" trigger="s3" comment="" />
+<QSLINK id="qsl21" fromID="pl38" fromText="here" toID="pl39" toText="Central America" relType="IN" trajector="pl38" landmark="pl39" trigger="s18" comment="" />
+<QSLINK id="qsl22" fromID="e12" fromText="storm" toID="pl42" toText="U.S." relType="IN" trajector="e12" landmark="pl42" trigger="s21" comment="" />
+<QSLINK id="qsl3" fromID="pl7" fromText="Sand Bite" toID="pl6" toText="Placencia" relType="DC" trajector="pl7" landmark="pl6" trigger="s4" comment="" />
+<QSLINK id="qsl4" fromID="se4" fromText="water" toID="pl11" toText="Atlantic" relType="IN" trajector="se4" landmark="pl11" trigger="s5" comment="" />
+<QSLINK id="qsl6" fromID="se9" fromText="water" toID="pl18" toText="house" relType="IN" trajector="se9" landmark="pl18" trigger="s7" comment="" />
+<QSLINK id="qsl7" fromID="se9" fromText="water" toID="se10" toText="armpits" relType="EC" trajector="se9" landmark="se10" trigger="s9" comment="" />
+<QSLINK id="qsl9" fromID="e5" fromText="stayed" toID="pl3" toText="countryside" relType="IN" trajector="e5" landmark="pl3" trigger="s10" comment="" />
+<QSLINK id="qsl8" fromID="se8" fromText="guard" toID="pl8" toText="San Pedro Sula airport" relType="IN" trajector="se8" landmark="pl8" trigger="s8" comment="" />
+<QSLINK id="qsl12" fromID="e7" fromText="met" toID="pl38" toText="here" relType="IN" trajector="e7" landmark="pl38" trigger="" comment="" />
+<QSLINK id="qsl23" fromID="e16" fromText="live" toID="pl19" toText="houses" relType="IN" trajector="e16" landmark="pl19" trigger="s19" comment="" />
+<QSLINK id="qsl24" fromID="e17" fromText="live" toID="p1" toText="slopes" relType="EC" trajector="e17" landmark="p1" trigger="s23" comment="" />
+<OLINK id="ol0" fromID="e4" fromText="parked" toID="pl13" toText="Central America" relType="ABOVE" trajector="e4" landmark="pl13" trigger="s6" frame_type="INTRINSIC" referencePt="pl13" projective="FALSE" comment="" />
+<OLINK id="ol1" fromID="pl2" fromText="settlements" toID="p4" toText="level" relType="ABOVE" trajector="pl2" landmark="p4" trigger="s2" frame_type="INTRINSIC" referencePt="p4" projective="FALSE" comment="" />
+<OLINK id="ol3" fromID="pl7" fromText="Sand Bite" toID="p0" toText="road" relType="DOWN" trajector="pl7" landmark="p0" trigger="s4" frame_type="RELATIVE" referencePt="pl6" projective="FALSE" comment="" />
+<OLINK id="ol4" fromID="se9" fromText="water" toID="se10" toText="armpits" relType="BELOW" trajector="se9" landmark="se10" trigger="s9" frame_type="INTRINSIC" referencePt="se10" projective="FALSE" comment="" />
+<OLINK id="ol5" fromID="pl14" fromText="" toID="pl12" toText="Caribbean" relType="ACROSS" trajector="pl14" landmark="pl12" trigger="" frame_type="RELATIVE" referencePt="pl10" projective="FALSE" comment="" />
+<OLINK id="ol6" fromID="pl25" fromText="houses" toID="p5" toText="hill sides" relType="ABOVE" trajector="pl25" landmark="p5" trigger="s12" frame_type="INTRINSIC" referencePt="p5" projective="FALSE" comment="" />
+<OLINK id="ol2" fromID="e17" fromText="live" toID="p1" toText="slopes" relType="ABOVE" trajector="e17" landmark="p1" trigger="s23" frame_type="INTRINSIC" referencePt="p1" projective="FALSE" comment="" />
+<MOVELINK id="mvl0" fromID="m1" fromText="arriving" toID="se0" toText="I" trigger="m1" source="" goal="pl0" midPoint="" mover="se0" landmark="" goal_reached="YES" pathID="" motion_signalID="ms2" comment="" />
+<MOVELINK id="mvl1" fromID="m3" fromText="moved" toID="se3" toText="Others" trigger="m3" source="" goal="" midPoint="" mover="se3" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl3" fromID="m6" fromText="hit" toID="se7" toText="storm" trigger="m6" source="" goal="pl15" midPoint="" mover="se7" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl4" fromID="m13" fromText="dropped" toID="se2" toText="rain" trigger="m13" source="" goal="" midPoint="" mover="se2" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl5" fromID="m8" fromText="reached" toID="e8" toText="flooding" trigger="m8" source="" goal="pl21" midPoint="" mover="e8" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl6" fromID="m9" fromText="washed" toID="pl25" toText="houses" trigger="m9" source="p5" goal="" midPoint="" mover="pl25" landmark="" goal_reached="" pathID="" motion_signalID="ms5" comment="" />
+<MOVELINK id="mvl9" fromID="m4" fromText="tore" toID="e13" toText="hurricane" trigger="m4" source="pl10" goal="pl14" midPoint="pl12" mover="e13" landmark="" goal_reached="YES" pathID="" motion_signalID="ms3" comment="" />
+<MOVELINK id="mvl10" fromID="m11" fromText="swam" toID="se1" toText="" trigger="m11" source="" goal="" midPoint="" mover="se1" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MLINK id="ml0" fromID="pl46" fromText="states" toID="pl45" toText="Florida" trajector="pl46" landmark="pl45" relType="DISTANCE" val="me0" endPoint1="" endPoint2="" comment="" />
+<METALINK id="metal0" fromID="pl13" fromText="Central America" toID="pl0" toText="Central America" objectID1="pl13" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal1" fromID="pl39" fromText="Central America" toID="pl0" toText="Central America" objectID1="pl39" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal10" fromID="pl36" fromText="Nicaragua" toID="pl33" toText="Nicaragua" objectID1="pl36" objectID2="pl33" relType="COREFERENCE" comment="" />
+<METALINK id="metal11" fromID="pl44" fromText="U.S." toID="pl42" toText="U.S." objectID1="pl44" objectID2="pl42" relType="COREFERENCE" comment="" />
+<METALINK id="metal2" fromID="pl30" fromText="Central America" toID="pl0" toText="Central America" objectID1="pl30" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal3" fromID="se12" fromText="I" toID="se0" toText="I" objectID1="se12" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal4" fromID="se18" fromText="I" toID="se0" toText="I" objectID1="se18" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal5" fromID="se20" fromText="I" toID="se0" toText="I" objectID1="se20" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal6" fromID="se17" fromText="I" toID="se0" toText="I" objectID1="se17" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal7" fromID="pl5" fromText="Placencia" toID="pl4" toText="town" objectID1="pl5" objectID2="pl4" relType="COREFERENCE" comment="" />
+<METALINK id="metal8" fromID="pl6" fromText="Placencia" toID="pl4" toText="town" objectID1="pl6" objectID2="pl4" relType="COREFERENCE" comment="" />
+<METALINK id="metal9" fromID="e14" fromText="Hurricane Mitch" toID="e13" toText="hurricane" objectID1="e14" objectID2="e13" relType="COREFERENCE" comment="" />
+<METALINK id="metal12" fromID="se16" fromText="family" toID="se1" toText="" objectID1="se16" objectID2="se1" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal13" fromID="se17" fromText="I" toID="se1" toText="" objectID1="se17" objectID2="se1" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal14" fromID="se6" fromText="I" toID="se0" toText="I" objectID1="se6" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal15" fromID="pl16" fromText="town" toID="pl7" toText="Sand Bite" objectID1="pl16" objectID2="pl7" relType="COREFERENCE" comment="" />
+<METALINK id="metal16" fromID="pl17" fromText="town" toID="pl7" toText="Sand Bite" objectID1="pl17" objectID2="pl7" relType="COREFERENCE" comment="" />
+<METALINK id="metal17" fromID="se13" fromText="It" toID="se7" toText="storm" objectID1="se13" objectID2="se7" relType="COREFERENCE" comment="" />
+<METALINK id="metal18" fromID="se14" fromText="me" toID="se0" toText="I" objectID1="se14" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal19" fromID="se15" fromText="I" toID="se0" toText="I" objectID1="se15" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal20" fromID="se19" fromText="me" toID="se0" toText="I" objectID1="se19" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal21" fromID="se21" fromText="me" toID="se0" toText="I" objectID1="se21" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal22" fromID="e9" fromText="Mitch" toID="e13" toText="hurricane" objectID1="e9" objectID2="e13" relType="COREFERENCE" comment="" />
+<METALINK id="metal23" fromID="e15" fromText="Mitch" toID="e13" toText="hurricane" objectID1="e15" objectID2="e13" relType="COREFERENCE" comment="" />
+<METALINK id="metal24" fromID="e18" fromText="Hurricane Mitch" toID="e13" toText="hurricane" objectID1="e18" objectID2="e13" relType="COREFERENCE" comment="" />
+<METALINK id="metal25" fromID="se22" fromText="I" toID="se0" toText="I" objectID1="se22" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal26" fromID="se23" fromText="I" toID="se0" toText="I" objectID1="se23" objectID2="se0" relType="COREFERENCE" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2>

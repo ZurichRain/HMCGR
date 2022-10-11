@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[
+
+23-Jul-2002 -- 47°N 26°E is located in the Ceahlău mountains near the village Izvoru Alb.
+
+In the 3rd day of our trekking-tour through Ceahlău we visited the confluence at 16:12 o'clock. Only thick forest, nothing to see, only trees. It wasn`t very easy to get there with our big rucksacks on the back.
+
+]]></TEXT>
+<TAGS>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="170" form="NOM" gazref="" gquant="" id="pl3" latLong="" mod="" scopes="" start="160" state="" text="confluence" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="26" form="NOM" gazref="" gquant="" id="pl0" latLong="" mod="" scopes="" start="17" state="" text="47°N 26°E" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="268" form="NOM" gazref="" gquant="" id="pl4" latLong="" mod="" scopes="" start="263" state="" text="there" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="79" form="NOM" gazref="" gquant="" id="pl1" latLong="" mod="" scopes="" start="72" state="" text="village" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="90" form="NAM" gazref="" gquant="" id="pl2" latLong="" mod="" scopes="" start="80" state="" text="Izvoru Alb" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="144" endID="" form="NAM" gazref="" gquant="" id="p1" latLong="" midIDs="" mod="" scopes="" start="137" text="Ceahlău" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="62" endID="" form="NAM" gazref="" gquant="" id="p0" latLong="" midIDs="" mod="" scopes="" start="45" text="Ceahlău mountains" type=""/>
+<SPATIAL_ENTITY comment="Mover for 'It wasn`t very easy to get there with our big rucksacks on the back'." countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="-1" form="NOM" gquant="" id="se3" latLong="" mod="" scopes="" start="-1" text="" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="147" form="NOM" gquant="" id="se2" latLong="" mod="" scopes="" start="145" text="we" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="291" form="NOM" gquant="" id="se1" latLong="" mod="big" scopes="" start="282" text="rucksacks" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="303" form="NOM" gquant="" id="se0" latLong="" mod="" scopes="" start="299" text="back" type=""/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="37" gquant="" id="e0" latLong="" mod="" scopes="" start="30" text="located"/>
+<MOTION comment="" countable="TRUE" domain="" elevation="" end="128" gquant="" id="m1" latLong="" mod="" motion_class="MOVE_INTERNAL" motion_sense="LITERAL" motion_type="COMPOUND" scopes="" start="115" text="trekking-tour"/>
+<MOTION comment="" countable="" domain="" elevation="" end="155" gquant="" id="m0" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="148" text="visited"/>
+<MOTION comment="" countable="" domain="" elevation="" end="262" gquant="" id="m2" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="259" text="get"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="294" id="s1" semantic_type="DIR_TOP" start="292" text="on"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="40" id="s0" semantic_type="TOPOLOGICAL" start="38" text="in"/>
+<MOTION_SIGNAL comment="" end="136" id="ms0" motion_signal_type="PATH" start="129" text="through"/>
+<MEASURE comment="" end="67" id="me0" start="63" text="near" unit="" value="NEAR"/>
+<QSLINK comment="" fromID="e0" fromText="located" id="qsl0" landmark="p0" relType="IN" toID="p0" toText="Ceahlău mountains" trajector="e0" trigger="s0"/>
+<QSLINK comment="" fromID="se1" fromText="rucksacks" id="qsl1" landmark="se0" relType="EC" toID="se0" toText="back" trajector="se1" trigger="s1"/>
+<OLINK comment="" frame_type="INTRINSIC" fromID="se1" fromText="rucksacks" id="ol0" landmark="se0" projective="FALSE" referencePt="se0" relType="BEHIND" toID="se0" toText="back" trajector="se1" trigger="s1"/>
+<MOVELINK comment="" fromID="m1" fromText="trekking-tour" goal="" goal_reached="" id="mvl0" landmark="p1" midPoint="" motion_signalID="ms0" mover="se2" pathID="" source="" toID="se2" toText="we" trigger="m1"/>
+<MOVELINK comment="" fromID="m0" fromText="visited" goal="pl3" goal_reached="YES" id="mvl1" landmark="" midPoint="" motion_signalID="" mover="se2" pathID="" source="" toID="se2" toText="we" trigger="m0"/>
+<MOVELINK comment="Implied mover is 'we'." fromID="m2" fromText="get" goal="pl4" goal_reached="YES" id="mvl2" landmark="" midPoint="" motion_signalID="" mover="se3" pathID="" source="" toID="se3" toText="" trigger="m2"/>
+<MEASURELINK comment="" endPoint1="" endPoint2="" fromID="e0" fromText="located" id="ml0" landmark="pl1" relType="DISTANCE" toID="pl1" toText="village" trajector="e0" val="me0"/>
+<METALINK comment="" fromID="pl4" fromText="there" id="metal0" objectID1="pl4" objectID2="pl3" relType="COREFERENCE" toID="pl3" toText="confluence"/>
+<METALINK comment="" fromID="p1" fromText="Ceahlău" id="metal1" objectID1="p1" objectID2="p0" relType="COREFERENCE" toID="p0" toText="Ceahlău mountains"/>
+<METALINK comment="" fromID="pl2" fromText="Izvoru Alb" id="metal2" objectID1="pl2" objectID2="pl1" relType="COREFERENCE" toID="pl1" toText="village"/>
+<METALINK comment="" fromID="se3" fromText="" id="metal3" objectID1="se3" objectID2="se2" relType="COREFERENCE" toID="se2" toText="we"/>
+<CP><![CDATA[47N26E]]></CP>
+<URL><![CDATA[http://confluence.org/confluence.php?id=9803]]></URL>
+</TAGS>
+</SpaceEvalTaskv1.2>

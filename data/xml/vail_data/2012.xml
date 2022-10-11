@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ISOSpaceTaskv1.15>
+<TEXT><![CDATA[
+The Santa Catalina Monastery
+
+a tree surrounded by flowers in a courtyard of a red building with several arches and columns; there is a large clay jug on the left of the tree;
+
+Arequipa, Peru
+
+images/02/2012.jpg
+
+]]></TEXT>
+<TAGS>
+<PLACE id="pl4" start="159" end="163" text="left" type="" dimensionality="AREA" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="178" end="192" text="Arequipa, Peru" type="" dimensionality="AREA" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl0" start="5" end="29" text="Santa Catalina Monastery" type="" dimensionality="AREA" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="TRUE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="65" end="74" text="courtyard" type="" dimensionality="VOLUME" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="84" end="92" text="building" type="" dimensionality="VOLUME" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se2" start="106" end="112" text="arches" type="" dimensionality="VOLUME" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se3" start="117" end="124" text="columns" type="" dimensionality="VOLUME" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se4" start="148" end="151" text="jug" type="" dimensionality="AREA" form="NOM" latLong="" elevation="" mod="large" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se5" start="171" end="175" text="tree" type="" dimensionality="AREA" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="33" end="37" text="tree" type="" dimensionality="VOLUME" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="52" end="59" text="flowers" type="" dimensionality="VOLUME" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s4" start="152" end="154" text="on" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="38" end="48" text="surrounded" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s1" start="60" end="62" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="75" end="77" text="of" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="93" end="97" text="with" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+</TAGS>
+</ISOSpaceTaskv1.15>

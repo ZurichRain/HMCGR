@@ -1,0 +1,11 @@
+{'f1': 0.6730168344341573, 'loss': 1.1527990155485401}
+              precision    recall  f1-score   support
+
+     no-link       0.95      0.70      0.80       387
+      qslink       0.51      0.89      0.65       140
+       olink       0.55      0.46      0.50        35
+    movelink       0.82      0.92      0.87        86
+
+    accuracy                           0.75       648
+   macro avg       0.71      0.74      0.71       648
+weighted avg       0.82      0.75      0.76       648

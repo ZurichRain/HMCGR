@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[
+Ventura to Los Angeles â€“ 1 day, 73 miles
+Wednesday, November 16th, 2005
+  
+   For a day in Ventura, in addition to visiting schools, I watched surfers, sat at the beach for sunset, and visited Patagonia. I stopped by the headquarters of environmental friendly and profitable Patagonia, which generates a large portion of their electricity from photovoltaic cells over their parking lot. I also met three cyclists riding south from Vancouver with their own environmental web log.
+
+ 
+   After staying at the house of a teacher at Cabrillo middle school, I left at dawn to try to avoid the Santa Ana winds. Passing a navy base, I followed the Pacific Coast Highway along the coastal mountains, passing through Malibu and Santa Monica before turning towards West Los Angeles where I met my friend Julia Goodnough.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl10" start="-1" end="-1" text="" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="beginning of '... passing through Malibu ...'" domain="" />
+<PLACE id="pl11" start="-1" end="-1" text="" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="end of '... passing through Malibu ...'" domain="" />
+<PLACE id="pl17" start="-1" end="-1" text="" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="beginning of '... passing through ... Santa Monica ...'" domain="" />
+<PLACE id="pl18" start="-1" end="-1" text="" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="end of '... passing through ... Santa Monica ...'" domain="" />
+<PLACE id="pl20" start="-1" end="-1" text="" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="The set of [Malibu,pl] and [Santa Monica,se] in '... passing through Malibu and Santa Monica before turning towards ...'" domain="" />
+<PLACE id="pl1" start="127" end="134" text="schools" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="amount=gt1" domain="" />
+<PLACE id="pl2" start="166" end="171" text="beach" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl3" start="196" end="205" text="Patagonia" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl4" start="224" end="236" text="headquarters" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl5" start="278" end="287" text="Patagonia" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl6" start="385" end="388" text="lot" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl7" start="434" end="443" text="Vancouver" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl8" start="509" end="514" text="house" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl9" start="531" end="539" text="Cabrillo" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl12" start="622" end="626" text="base" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl13" start="683" end="692" text="mountains" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="amoung=gt1" domain="" />
+<PLACE id="pl14" start="710" end="716" text="Malibu" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl15" start="721" end="733" text="Santa Monica" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl16" start="757" end="773" text="West Los Angeles" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl0" start="94" end="101" text="Ventura" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PATH id="p0" start="643" end="664" text="Pacific Coast Highway" beginID="" endID="" midIDs="" type="" dimensionality="" form="NAM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se0" start="136" end="137" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se1" start="207" end="208" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se2" start="360" end="365" text="cells" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="photovoltaic" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se9" start="390" end="391" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se3" start="407" end="415" text="cyclists" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se5" start="555" end="556" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se6" start="590" end="605" text="Santa Ana winds" type="" dimensionality="" form="NAM" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se7" start="628" end="629" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se10" start="780" end="781" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se8" start="796" end="811" text="Julia Goodnough" type="" dimensionality="" form="NAM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<NONMOTION_EVENT id="e0" start="138" end="145" text="watched" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e1" start="87" end="90" text="day" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e2" start="155" end="158" text="sat" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e3" start="494" end="501" text="staying" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<MOTION id="m0" start="118" end="126" text="visiting" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m2" start="188" end="195" text="visited" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m3" start="209" end="216" text="stopped" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m12" start="397" end="400" text="met" motion_type="PATH" motion_class="HIT" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m4" start="416" end="422" text="riding" motion_type="COMPOUND" motion_class="LEAVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m6" start="557" end="561" text="left" motion_type="PATH" motion_class="LEAVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m7" start="580" end="585" text="avoid" motion_type="PATH" motion_class="MOVE_EXTERNAL" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m8" start="607" end="614" text="Passing" motion_type="PATH" motion_class="MOVE_EXTERNAL" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m9" start="630" end="638" text="followed" motion_type="PATH" motion_class="FOLLOW" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m10" start="694" end="701" text="passing" motion_type="PATH" motion_class="CROSS" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m11" start="741" end="748" text="turning" motion_type="PATH" motion_class="DEVIATE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m13" start="782" end="785" text="met" motion_type="PATH" motion_class="HIT" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<SPATIAL_SIGNAL id="s1" start="159" end="161" text="at" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="366" end="370" text="over" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s4" start="665" end="670" text="along" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="774" end="779" text="where" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="91" end="93" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="502" end="504" text="at" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms1" start="217" end="219" text="by" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms2" start="423" end="428" text="south" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms3" start="429" end="433" text="from" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms5" start="702" end="709" text="through" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms6" start="749" end="756" text="towards" motion_signal_type="PATH" comment="" />
+<QSLINK id="qsl0" fromID="e1" fromText="day" toID="pl0" toText="Ventura" relType="IN" trajector="e1" landmark="pl0" trigger="s0" comment="" />
+<QSLINK id="qsl1" fromID="m0" fromText="visiting" toID="pl0" toText="Ventura" relType="IN" trajector="m0" landmark="pl0" trigger="s0" comment="" />
+<QSLINK id="qsl2" fromID="e0" fromText="watched" toID="pl0" toText="Ventura" relType="IN" trajector="e0" landmark="pl0" trigger="s0" comment="" />
+<QSLINK id="qsl5" fromID="se2" fromText="cells" toID="pl6" toText="lot" relType="DC" trajector="se2" landmark="pl6" trigger="s2" comment="" />
+<QSLINK id="qsl6" fromID="p0" fromText="Pacific Coast Highway" toID="pl13" toText="mountains" relType="EC" trajector="p0" landmark="pl13" trigger="s4" comment="" />
+<QSLINK id="qsl7" fromID="m13" fromText="met" toID="pl16" toText="West Los Angeles" relType="IN" trajector="m13" landmark="pl16" trigger="s5" comment="" />
+<QSLINK id="qsl8" fromID="pl10" fromText="" toID="pl14" toText="Malibu" relType="EC" trajector="pl10" landmark="pl14" trigger="" comment="" />
+<QSLINK id="qsl9" fromID="pl11" fromText="" toID="pl14" toText="Malibu" relType="EC" trajector="pl11" landmark="pl14" trigger="" comment="" />
+<QSLINK id="qsl10" fromID="pl17" fromText="" toID="pl15" toText="Santa Monica" relType="EC" trajector="pl17" landmark="pl15" trigger="" comment="" />
+<QSLINK id="qsl11" fromID="pl18" fromText="" toID="pl15" toText="Santa Monica" relType="EC" trajector="pl18" landmark="pl15" trigger="" comment="" />
+<QSLINK id="qsl12" fromID="e2" fromText="sat" toID="pl2" toText="beach" relType="IN" trajector="e2" landmark="pl2" trigger="s1" comment="" />
+<QSLINK id="qsl13" fromID="e2" fromText="sat" toID="e1" toText="day" relType="IN" trajector="e2" landmark="e1" trigger="s0" comment="" />
+<QSLINK id="qsl14" fromID="e3" fromText="staying" toID="pl8" toText="house" relType="IN" trajector="e3" landmark="pl8" trigger="s3" comment="" />
+<OLINK id="ol0" fromID="se2" fromText="cells" toID="pl6" toText="lot" relType="ABOVE" trajector="se2" landmark="pl6" trigger="s2" frame_type="INTRINSIC" referencePt="pl6" projective="FALSE" comment="" />
+<OLINK id="ol1" fromID="pl10" fromText="" toID="pl14" toText="Malibu" relType="ACROSS" trajector="pl10" landmark="pl14" trigger="" frame_type="RELATIVE" referencePt="pl11" projective="FALSE" comment="" />
+<OLINK id="ol2" fromID="pl17" fromText="" toID="pl15" toText="Santa Monica" relType="ACROSS" trajector="pl17" landmark="pl15" trigger="" frame_type="RELATIVE" referencePt="pl18" projective="FALSE" comment="" />
+<MOVELINK id="mvl0" fromID="m0" fromText="visiting" toID="se0" toText="I" trigger="m0" source="" goal="pl1" midPoint="" mover="se0" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl10" fromID="m9" fromText="followed" toID="se7" toText="I" trigger="m9" source="" goal="" midPoint="" mover="se7" landmark="" goal_reached="" pathID="p0" motion_signalID="" comment="" />
+<MOVELINK id="mvl11" fromID="m10" fromText="passing" toID="se7" toText="I" trigger="m10" source="pl10" goal="pl11" midPoint="pl14" mover="se7" landmark="" goal_reached="YES" pathID="" motion_signalID="ms5" comment="" />
+<MOVELINK id="mvl12" fromID="m10" fromText="passing" toID="se7" toText="I" trigger="m10" source="pl17" goal="pl18" midPoint="pl15" mover="se7" landmark="" goal_reached="YES" pathID="" motion_signalID="ms5" comment="" />
+<MOVELINK id="mvl13" fromID="m11" fromText="turning" toID="se7" toText="I" trigger="m11" source="p0" goal="pl16" midPoint="" mover="se7" landmark="" goal_reached="YES" pathID="" motion_signalID="ms6" comment="" />
+<MOVELINK id="mvl14" fromID="m13" fromText="met" toID="se10" toText="I" trigger="m13" source="" goal="se8" midPoint="" mover="se10" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl2" fromID="m2" fromText="visited" toID="se0" toText="I" trigger="m2" source="" goal="pl3" midPoint="" mover="se0" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl3" fromID="m3" fromText="stopped" toID="se1" toText="I" trigger="m3" source="" goal="pl4" midPoint="" mover="se1" landmark="" goal_reached="YES" pathID="" motion_signalID="ms1" comment="" />
+<MOVELINK id="mvl4" fromID="m12" fromText="met" toID="se9" toText="I" trigger="m12" source="" goal="se3" midPoint="" mover="se9" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl5" fromID="m4" fromText="riding" toID="se3" toText="cyclists" trigger="m4" source="pl7" goal="" midPoint="" mover="se3" landmark="" goal_reached="" pathID="" motion_signalID="ms2, ms3" comment="" />
+<MOVELINK id="mvl7" fromID="m6" fromText="left" toID="se5" toText="I" trigger="m6" source="pl8" goal="" midPoint="" mover="se5" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl8" fromID="m7" fromText="avoid" toID="se5" toText="I" trigger="m7" source="" goal="" midPoint="" mover="se5" landmark="se6" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl9" fromID="m8" fromText="Passing" toID="se7" toText="I" trigger="m8" source="" goal="" midPoint="" mover="se7" landmark="pl12" goal_reached="" pathID="" motion_signalID="" comment="" />
+<METALINK id="metal0" fromID="pl14" fromText="Malibu" toID="pl20" toText="" objectID1="pl14" objectID2="pl20" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal1" fromID="pl15" fromText="Santa Monica" toID="pl20" toText="" objectID1="pl15" objectID2="pl20" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal2" fromID="se7" fromText="I" toID="se0" toText="I" objectID1="se7" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal3" fromID="se5" fromText="I" toID="se0" toText="I" objectID1="se5" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal4" fromID="se1" fromText="I" toID="se0" toText="I" objectID1="se1" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal5" fromID="se10" fromText="I" toID="se0" toText="I" objectID1="se10" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal6" fromID="se9" fromText="I" toID="se0" toText="I" objectID1="se9" objectID2="se0" relType="COREFERENCE" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2>

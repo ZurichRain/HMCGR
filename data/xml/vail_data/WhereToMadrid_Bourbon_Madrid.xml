@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ISOSpaceTaskv1.15>
+<TEXT><![CDATA[
+
+        Bourbon Madrid
+        West of Puerta del Sol is the city’s 18th-century expansion
+        engineered by the Bourbon monarchs. Calle de Alcalá merges with Gran         Vía and leads to the Plaza de la Cibeles and the Paseo del Prado,with
+        its trio of art museums. The area’s spacious boulevards, grand plazas,
+        and fountains are interspersed with densely populated 18th-century
+        apartment buildings. After hitting the art world’s Big Three, visitors
+        can repair to Retiro Park, where kings once found respite from the
+        demands of hectic city life.
+        Except for the traffic spitting out noise and air
+        pollution, the ample Plaza de la Cibeles is splendid. The central
+        fountain depicts Cybele, a controversial Greek fertility goddess,
+        serenely settled in a chariot pulled by two lions. The sculptural
+        ensemble is probably the best-known fountain in all Spain. The most
+        unavoidable building on the plaza is the cathedral-like Palacio de         Comunicaciones, teasingly nicknamed Nuestra Señora de las         Comunicaciones (Our Lady of Communications). Inaugurated in 1919, the
+        building is the quite remarkable central post office, with high
+        ceilings and overhead walkways.
+        Also facing Plaza de la Cibeles, the Banco de España (Bank         of Spain) headquarters combines Neo-classical, Baroque, and rococo
+        styles. The financial district, Madrid’s Wall Street, begins here on
+        calle de Alcalá. Imposing buildings in this high-rent district contain
+        the head offices or branches of more than 100 banks, plus insurance
+        companies, the finance ministry, and on nearby Plaza de la Lealtad, the
+        Bolsa de Comercio (Stock E xchange). Heading down leafy Paseo del Prado
+        you’ll find the first, and greatest, of the art museums here.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl1" start="41" end="55" text="Puerta del Sol" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="83" end="92" text="expansion" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="199" end="218" text="Plaza de la Cibeles" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="285" end="289" text="area" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="319" end="325" text="plazas" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="461" end="470" text="Big Three" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="503" end="514" text="Retiro Park" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="680" end="699" text="Plaza de la Cibeles" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="ample" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="933" end="938" text="Spain" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="63" end="67" text="city" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="985" end="990" text="plaza" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="1222" end="1228" text="office" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="1300" end="1319" text="Plaza de la Cibeles" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl23" start="1452" end="1460" text="district" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl24" start="1491" end="1495" text="here" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl25" start="1561" end="1569" text="district" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl26" start="1595" end="1602" text="offices" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl27" start="1606" end="1614" text="branches" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl28" start="1742" end="1759" text="Bolsa de Comercio" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl29" start="1761" end="1776" text="Stock E xchange" type="" dimensionality="VOLUME" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl30" start="1870" end="1877" text="museums" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl31" start="1878" end="1882" text="here" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl32" start="1838" end="1843" text="first" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl33" start="1462" end="1468" text="Madrid" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl34" start="10" end="24" text="Bourbon Madrid" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl35" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="Represents 'Plaza de la Cibeles' for linking to the 'fountain'" />
+<PLACE id="pl0" start="272" end="279" text="museums" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p0" start="137" end="152" text="Calle de Alcalá" beginID="" endID="" midIDs="" type="" dimensionality="AREA" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p1" start="165" end="181" text="Gran         Vía" beginID="" endID="" midIDs="" type="" dimensionality="AREA" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p2" start="227" end="242" text="Paseo del Prado" beginID="" endID="" midIDs="" type="" dimensionality="AREA" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p3" start="1248" end="1256" text="ceilings" beginID="" endID="" midIDs="" type="" dimensionality="VOLUME" form="NOM" domain="" gazref="" latLong="" elevation="" mod="high" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p4" start="1270" end="1278" text="walkways" beginID="" endID="" midIDs="" type="" dimensionality="VOLUME" form="NOM" domain="" gazref="" latLong="" elevation="" mod="overhead" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p5" start="1471" end="1482" text="Wall Street" beginID="" endID="" midIDs="" type="" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p6" start="1507" end="1522" text="calle de Alcalá" beginID="" endID="" midIDs="" type="" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p7" start="1709" end="1728" text="Plaza de la Lealtad" beginID="" endID="" midIDs="" type="" dimensionality="VOLUME" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p8" start="1798" end="1813" text="Paseo del Prado" beginID="" endID="" midIDs="pl32" type="" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p9" start="301" end="311" text="boulevards" beginID="" endID="" midIDs="" type="" dimensionality="AREA" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p10" start="-1" end="-1" text="" beginID="" endID="" midIDs="" type="" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="The 'calle de Alcalá' for an MLINK" />
+<SPATIAL_ENTITY id="se0" start="339" end="348" text="fountains" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="420" end="429" text="buildings" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se2" start="472" end="480" text="visitors" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se3" start="616" end="623" text="traffic" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se4" start="659" end="668" text="pollution" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se5" start="969" end="977" text="building" type="" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se6" start="1176" end="1184" text="building" type="" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se8" start="1533" end="1542" text="buildings" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se9" start="1822" end="1825" text="you" type="" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se10" start="917" end="925" text="fountain" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se11" start="881" end="889" text="ensemble" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se12" start="733" end="741" text="fountain" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se14" start="829" end="836" text="chariot" type="" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se15" start="1013" end="1046" text="Palacio de         Comunicaciones" type="" dimensionality="VOLUME" form="NAM" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se16" start="1068" end="1112" text="Nuestra Señora de las         Comunicaciones" type="" dimensionality="VOLUME" form="NAM" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se17" start="1114" end="1140" text="Our Lady of Communications" type="" dimensionality="VOLUME" form="NAM" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se19" start="1325" end="1377" text="Banco de España (Bank         of Spain) headquarters" type="" dimensionality="VOLUME" form="NAM" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e0" start="816" end="823" text="settled" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e1" start="1484" end="1490" text="begins" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="153" end="159" text="merges" domain="" latLong="" elevation="" motion_type="PATH" motion_class="HIT" motion_sense="FICTIVE" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m1" start="186" end="191" text="leads" domain="" latLong="" elevation="" motion_type="PATH" motion_class="HIT" motion_sense="FICTIVE" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m2" start="493" end="499" text="repair" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m3" start="624" end="632" text="spitting" domain="" latLong="" elevation="" motion_type="COMPOUND" motion_class="DETACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m4" start="1779" end="1786" text="Heading" domain="" latLong="" elevation="" motion_type="PATH" motion_class="FOLLOW" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m5" start="437" end="444" text="hitting" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s0" start="33" end="37" text="West" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="243" end="247" text="with" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="353" end="365" text="interspersed" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="978" end="980" text="on" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s4" start="1230" end="1234" text="with" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="1293" end="1299" text="facing" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="1496" end="1498" text="on" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s7" start="1543" end="1545" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s8" start="1570" end="1577" text="contain" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s9" start="1699" end="1701" text="on" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s10" start="926" end="928" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s11" start="717" end="724" text="central" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s12" start="824" end="826" text="in" cluster="" semantic_type="DIR_TOP" comment="" />
+<MOTION_SIGNAL id="a0" start="192" end="194" text="to" adjunct_type="PATH" comment="" />
+<MOTION_SIGNAL id="a1" start="500" end="502" text="to" adjunct_type="PATH" comment="" />
+<MOTION_SIGNAL id="a2" start="633" end="636" text="out" adjunct_type="PATH" comment="" />
+<MOTION_SIGNAL id="a4" start="1787" end="1791" text="down" adjunct_type="PATH" comment="" />
+<MEASURE id="me0" start="1702" end="1708" text="nearby" value="NEAR" unit="" comment="" />
+<QSLINK id="qsl0" fromID="pl18" fromText="office" toID="se6" toText="building" relType="EQ" trajector="pl18" landmark="se6" trigger="" comment="" />
+<QSLINK id="qsl3" fromID="pl7" fromText="plazas" toID="pl5" toText="area" relType="IN" trajector="pl7" landmark="pl5" trigger="" comment="" />
+<QSLINK id="qsl4" fromID="se0" fromText="fountains" toID="pl5" toText="area" relType="IN" trajector="se0" landmark="pl5" trigger="" comment="" />
+<QSLINK id="qsl5" fromID="p9" fromText="boulevards" toID="pl5" toText="area" relType="IN" trajector="p9" landmark="pl5" trigger="" comment="" />
+<QSLINK id="qsl6" fromID="se1" fromText="buildings" toID="p9" toText="boulevards" relType="EC" trajector="se1" landmark="p9" trigger="s2" comment="" />
+<QSLINK id="qsl7" fromID="se1" fromText="buildings" toID="pl7" toText="plazas" relType="EC" trajector="se1" landmark="pl7" trigger="s2" comment="" />
+<QSLINK id="qsl8" fromID="se1" fromText="buildings" toID="se0" toText="fountains" relType="DC" trajector="se1" landmark="se0" trigger="s2" comment="" />
+<QSLINK id="qsl10" fromID="se10" fromText="fountain" toID="pl11" toText="Spain" relType="NTPP" trajector="se10" landmark="pl11" trigger="s10" comment="" />
+<QSLINK id="qsl12" fromID="se12" fromText="fountain" toID="pl35" toText="" relType="NTPP" trajector="se12" landmark="pl35" trigger="s11" comment="" />
+<QSLINK id="qsl13" fromID="se5" fromText="building" toID="pl14" toText="plaza" relType="EC" trajector="se5" landmark="pl14" trigger="s3" comment="" />
+<QSLINK id="qsl14" fromID="p3" fromText="ceilings" toID="se6" toText="building" relType="IN" trajector="p3" landmark="se6" trigger="s4" comment="" />
+<QSLINK id="qsl15" fromID="p4" fromText="walkways" toID="se6" toText="building" relType="IN" trajector="p4" landmark="se6" trigger="s4" comment="" />
+<QSLINK id="qsl16" fromID="pl24" fromText="here" toID="p6" toText="calle de Alcalá" relType="NTPP" trajector="pl24" landmark="p6" trigger="s6" comment="" />
+<QSLINK id="qsl17" fromID="se8" fromText="buildings" toID="pl25" toText="district" relType="IN" trajector="se8" landmark="pl25" trigger="s7" comment="" />
+<QSLINK id="qsl18" fromID="pl26" fromText="offices" toID="se8" toText="buildings" relType="IN" trajector="pl26" landmark="se8" trigger="s8" comment="" />
+<QSLINK id="qsl19" fromID="pl27" fromText="branches" toID="se8" toText="buildings" relType="IN" trajector="pl27" landmark="se8" trigger="s8" comment="" />
+<QSLINK id="qsl20" fromID="pl28" fromText="Bolsa de Comercio" toID="p7" toText="Plaza de la Lealtad" relType="EC" trajector="pl28" landmark="p7" trigger="s9" comment="" />
+<QSLINK id="qsl21" fromID="pl30" fromText="museums" toID="pl31" toText="here" relType="IN" trajector="pl30" landmark="pl31" trigger="" comment="" />
+<QSLINK id="qsl2" fromID="pl0" fromText="museums" toID="p2" toText="Paseo del Prado" relType="EC" trajector="pl0" landmark="p2" trigger="s1" comment="" />
+<QSLINK id="qsl9" fromID="e0" fromText="settled" toID="se14" toText="chariot" relType="EC" trajector="e0" landmark="se14" trigger="s12" comment="" />
+<QSLINK id="qsl11" fromID="e1" fromText="begins" toID="pl24" toText="here" relType="EQ" trajector="e1" landmark="pl24" trigger="" comment="" />
+<OLINK id="ol0" fromID="pl2" fromText="expansion" toID="pl1" toText="Puerta del Sol" relType="WEST" trajector="pl2" landmark="pl1" trigger="s0" frame_type="ABSOLUTE" referencePt="WEST" projective="FALSE" comment="" />
+<OLINK id="ol1" fromID="se5" fromText="building" toID="pl14" toText="plaza" relType="ABOVE" trajector="se5" landmark="pl14" trigger="s3" frame_type="INTRINSIC" referencePt="pl14" projective="TRUE" comment="" />
+<OLINK id="ol3" fromID="pl28" fromText="Bolsa de Comercio" toID="p7" toText="Plaza de la Lealtad" relType="ABOVE" trajector="pl28" landmark="p7" trigger="s9" frame_type="INTRINSIC" referencePt="p7" projective="TRUE" comment="" />
+<OLINK id="ol4" fromID="e0" fromText="settled" toID="se14" toText="chariot" relType="ABOVE" trajector="e0" landmark="se14" trigger="s12" frame_type="INTRINSIC" referencePt="se14" projective="FALSE" comment="" />
+<OLINK id="ol6" fromID="pl19" fromText="Plaza de la Cibeles" toID="se19" toText="Banco de España (Bank         of Spain) headquarters" relType="FRONT_FACE" trajector="pl19" landmark="se19" trigger="s5" frame_type="INTRINSIC" referencePt="se19" projective="FALSE" comment="" />
+<MOVELINK id="mvl0" fromID="m0" fromText="merges" toID="p0" toText="Calle de Alcalá" trigger="m0" source="" goal="p1" midPoint="" mover="p0" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl1" fromID="m1" fromText="leads" toID="p0" toText="Calle de Alcalá" trigger="m1" source="" goal="pl3" midPoint="" mover="p0" landmark="" goal_reached="YES" pathID="" motion_signalID="ms0" comment="" />
+<MOVELINK id="mvl2" fromID="m1" fromText="leads" toID="p0" toText="Calle de Alcalá" trigger="m1" source="" goal="p2" midPoint="" mover="p0" landmark="" goal_reached="YES" pathID="" motion_signalID="ms0" comment="" />
+<MOVELINK id="mvl3" fromID="m2" fromText="repair" toID="se2" toText="visitors" trigger="m2" source="" goal="pl9" midPoint="" mover="se2" landmark="" goal_reached="YES" pathID="" motion_signalID="ms1" comment="" />
+<MOVELINK id="mvl4" fromID="m3" fromText="spitting" toID="se4" toText="pollution" trigger="m3" source="se3" goal="" midPoint="" mover="se4" landmark="" goal_reached="" pathID="" motion_signalID="ms2" comment="" />
+<MOVELINK id="mvl5" fromID="m4" fromText="Heading" toID="se9" toText="you" trigger="m4" source="" goal="" midPoint="" mover="se9" landmark="" goal_reached="" pathID="p8" motion_signalID="ms4" comment="" />
+<MOVELINK id="mvl6" fromID="m5" fromText="hitting" toID="se2" toText="visitors" trigger="m5" source="" goal="pl8" midPoint="" mover="se2" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MEASURELINK id="ml0" fromID="p7" fromText="Plaza de la Lealtad" toID="p10" toText="" trajector="p7" landmark="p10" relType="DISTANCE" val="me0" endPoint1="" endPoint2="" comment="" />
+<METALINK id="metal0" fromID="pl5" fromText="area" toID="pl2" toText="expansion" objectID1="pl5" objectID2="pl2" relType="COREFERENCE" comment="" />
+<METALINK id="metal2" fromID="pl10" fromText="Plaza de la Cibeles" toID="pl3" toText="Plaza de la Cibeles" objectID1="pl10" objectID2="pl3" relType="COREFERENCE" comment="" />
+<METALINK id="metal5" fromID="se6" fromText="building" toID="se5" toText="building" objectID1="se6" objectID2="se5" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal6" fromID="pl19" fromText="Plaza de la Cibeles" toID="pl3" toText="Plaza de la Cibeles" objectID1="pl19" objectID2="pl3" relType="COREFERENCE" comment="" />
+<METALINK id="metal7" fromID="pl14" fromText="plaza" toID="pl3" toText="Plaza de la Cibeles" objectID1="pl14" objectID2="pl3" relType="COREFERENCE" comment="" />
+<METALINK id="metal8" fromID="p6" fromText="calle de Alcalá" toID="p0" toText="Calle de Alcalá" objectID1="p6" objectID2="p0" relType="COREFERENCE" comment="" />
+<METALINK id="metal9" fromID="pl25" fromText="district" toID="pl23" toText="district" objectID1="pl25" objectID2="pl23" relType="COREFERENCE" comment="" />
+<METALINK id="metal10" fromID="pl28" fromText="Bolsa de Comercio" toID="pl29" toText="Stock E xchange" objectID1="pl28" objectID2="pl29" relType="COREFERENCE" comment="" />
+<METALINK id="metal11" fromID="pl32" fromText="first" toID="pl30" toText="museums" objectID1="pl32" objectID2="pl30" relType="COREFERENCE" comment="" />
+<METALINK id="metal12" fromID="p8" fromText="Paseo del Prado" toID="p2" toText="Paseo del Prado" objectID1="p8" objectID2="p2" relType="COREFERENCE" comment="" />
+<METALINK id="metal13" fromID="pl31" fromText="here" toID="pl34" toText="Bourbon Madrid" objectID1="pl31" objectID2="pl34" relType="COREFERENCE" comment="" />
+<METALINK id="metal14" fromID="pl33" fromText="Madrid" toID="pl12" toText="city" objectID1="pl33" objectID2="pl12" relType="COREFERENCE" comment="" />
+<METALINK id="metal15" fromID="p10" fromText="" toID="p6" toText="calle de Alcalá" objectID1="p10" objectID2="p6" relType="COREFERENCE" comment="" />
+<METALINK id="metal16" fromID="se11" fromText="ensemble" toID="se12" toText="fountain" objectID1="se11" objectID2="se12" relType="COREFERENCE" comment="" />
+<METALINK id="metal17" fromID="se10" fromText="fountain" toID="se12" toText="fountain" objectID1="se10" objectID2="se12" relType="COREFERENCE" comment="" />
+<METALINK id="metal18" fromID="pl35" fromText="" toID="pl10" toText="Plaza de la Cibeles" objectID1="pl35" objectID2="pl10" relType="COREFERENCE" comment="" />
+<METALINK id="metal3" fromID="se16" fromText="Nuestra Señora de las         Comunicaciones" toID="se15" toText="Palacio de         Comunicaciones" objectID1="se16" objectID2="se15" relType="COREFERENCE" comment="" />
+<METALINK id="metal19" fromID="se17" fromText="Our Lady of Communications" toID="se15" toText="Palacio de         Comunicaciones" objectID1="se17" objectID2="se15" relType="COREFERENCE" comment="" />
+</TAGS>
+</ISOSpaceTaskv1.15>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[
+
+28-Mar-2004 -- we started our trip in Galaţi, it takes around 1.5 h from our hotel to the confluence point. The point was very easy to access because the confluence point was only 35 m next to the street..... 
+
+]]></TEXT>
+<TAGS>
+<PLACE id="pl1" start="103" end="108" text="point" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="114" end="119" text="point" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="167" end="172" text="point" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl0" start="40" end="46" text="Galaţi" type="" dimensionality="VOLUME" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="79" end="84" text="hotel" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p0" start="199" end="205" text="street" beginID="" endID="" midIDs="" type="" dimensionality="VOLUME" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="17" end="19" text="we" type="" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<MOTION id="m2" start="137" end="143" text="access" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="32" end="36" text="trip" domain="" latLong="" elevation="" motion_type="PATH" motion_class="LEAVE" motion_sense="LITERAL" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<MOTION id="m1" start="51" end="56" text="takes" domain="" latLong="" elevation="" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s1" start="187" end="194" text="next to" cluster="" semantic_type="DIR_TOP" comment="" />
+<MOTION_SIGNAL id="ms0" start="37" end="39" text="in" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms1" start="70" end="74" text="from" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms2" start="85" end="87" text="to" motion_signal_type="PATH" comment="" />
+<MEASURE id="me0" start="182" end="186" text="35 m" value="35" unit="meters" comment="" />
+<QSLINK id="qsl0" fromID="pl4" fromText="point" toID="p0" toText="street" relType="DC" trajector="pl4" landmark="p0" trigger="s1" comment="" />
+<OLINK id="ol1" fromID="pl4" fromText="point" toID="p0" toText="street" relType="BESIDE" trajector="pl4" landmark="p0" trigger="s1" frame_type="RELATIVE" referencePt="VIEWER" projective="FALSE" comment="" />
+<MOVELINK id="mvl0" fromID="m0" fromText="trip" toID="se0" toText="we" trigger="m0" source="pl0" goal="" midPoint="" mover="se0" landmark="" goal_reached="" pathID="" motion_signalID="ms0" comment="" />
+<MOVELINK id="mvl1" fromID="m1" fromText="takes" toID="se0" toText="we" trigger="m1" source="pl2" goal="pl1" midPoint="" mover="se0" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms1, ms2" comment="" />
+<MOVELINK id="mvl2" fromID="m2" fromText="access" toID="m2" toText="access" trigger="m2" source="" goal="pl3" midPoint="" mover="" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MEASURELINK id="ml0" fromID="pl4" fromText="point" toID="p0" toText="street" trajector="pl4" landmark="p0" relType="DISTANCE" val="me0" endPoint1="" endPoint2="" comment="" />
+<METALINK id="metal0" fromID="pl3" fromText="point" toID="pl1" toText="point" objectID1="pl3" objectID2="pl1" relType="COREFERENCE" comment="" />
+<METALINK id="metal1" fromID="pl4" fromText="point" toID="pl1" toText="point" objectID1="pl4" objectID2="pl1" relType="COREFERENCE" comment="" />
+<CP><![CDATA[46N28E]]></CP>
+<URL><![CDATA[http://confluence.org/confluence.php?id=9797]]></URL>
+</TAGS>
+</SpaceEvalTaskv1.2>

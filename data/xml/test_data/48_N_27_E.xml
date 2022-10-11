@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[
+
+02-Aug-2005 -- Continues from 48N 26E.
+
+After an easy entry to Romania we visited the church of Pătrăuţi. There we met the priest, who was building a new wooden church to prevent the old one from damage. He gave us an very interesting guide of the church's history. It is painted outside at one wall and also inside it is completely painted.
+
+Then passing Suceava and Botoşani we headed to Săveni, where we took road 29 towards Manoleasa. This road brought us to a distance of 410 m to 48N 27E, so it is not very difficult to find the point! We parked our car beside the hardly used street. Only some horse-drawn trolleys with hay came along from time to time. So we entered a huge field-area again and walked around a corn-field and through a sunflower-field to a meadow, where we easily could locate the CP. Back at the car we headed on to Iaşi and on the way along the river Prut we were able to see the country Moldavia at the other edge.
+
+Continues at 46N 15E
+
+﻿http://confluence.org/confluence.php?id=9787]]></TEXT>
+<TAGS>
+<PLACE comment="'This road brought us to a distance of 410 m to 48N 27E'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl2" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="Goal for 'We parked our car beside the hardly used street'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl3" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="Source for 'we walked ... through a sunflower-field to a meadow'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl4" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="Source for 'Back at the car we headed on to Iaşi'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl10" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="113" form="NOM" gazref="" gquant="" id="pl8" latLong="" mod="" scopes="" start="108" state="" text="There" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="289" form="NOM" gazref="" gquant="" id="pl9" latLong="" mod="" scopes="" start="282" state="" text="outside" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="365" form="NAM" gazref="" gquant="" id="pl11" latLong="" mod="" scopes="" start="358" state="" text="Suceava" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="378" form="NAM" gazref="" gquant="" id="pl12" latLong="" mod="" scopes="" start="370" state="" text="Botoşani" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="398" form="NAM" gazref="" gquant="" id="pl13" latLong="" mod="" scopes="" start="392" state="" text="Săveni" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="439" form="NAM" gazref="" gquant="" id="pl14" latLong="" mod="" scopes="" start="430" state="" text="Manoleasa" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="495" form="NAM" gazref="" gquant="" id="pl0" latLong="" mod="" scopes="" start="488" state="" text="48N 27E" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="542" form="NOM" gazref="" gquant="" id="pl1" latLong="" mod="" scopes="" start="537" state="" text="point" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="72" form="NAM" gazref="" gquant="" id="pl5" latLong="" mod="" scopes="" start="65" state="" text="Romania" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="694" form="NOM" gazref="" gquant="" id="pl15" latLong="" mod="huge" scopes="" start="684" state="" text="field-area" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="731" form="NOM" gazref="" gquant="" id="pl16" latLong="" mod="" scopes="" start="721" state="" text="corn-field" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="761" form="NOM" gazref="" gquant="" id="pl17" latLong="" mod="" scopes="" start="746" state="" text="sunflower-field" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="773" form="NOM" gazref="" gquant="" id="pl18" latLong="" mod="" scopes="" start="767" state="" text="meadow" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="810" form="NOM" gazref="" gquant="" id="pl19" latLong="" mod="" scopes="" start="808" state="" text="CP" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="848" form="NAM" gazref="" gquant="" id="pl20" latLong="" mod="" scopes="" start="844" state="" text="Iaşi" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="94" form="NOM" gazref="" gquant="" id="pl6" latLong="" mod="" scopes="" start="88" state="" text="church" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="916" form="NOM" gazref="" gquant="" id="pl21" latLong="" mod="" scopes="" start="909" state="" text="country" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="925" form="NAM" gazref="" gquant="" id="pl22" latLong="" mod="" scopes="" start="917" state="" text="Moldavia" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="966" form="NAM" gazref="" gquant="" id="pl23" latLong="" mod="" scopes="" start="959" state="" text="46N 15E" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="106" form="NAM" gazref="" gquant="" id="pl7" latLong="" mod="" scopes="" start="98" state="" text="Pătrăuţi" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="301" endID="" form="NOM" gazref="" gquant="" id="p2" latLong="" midIDs="" mod="" scopes="" start="297" text="wall" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="421" endID="" form="NAM" gazref="" gquant="" id="p3" latLong="" midIDs="" mod="" scopes="" start="414" text="road 29" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="LINE" domain="" elevation="" end="450" endID="" form="NOM" gazref="" gquant="" id="p0" latLong="" midIDs="" mod="" scopes="" start="446" text="road" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="LINE" domain="" elevation="" end="591" endID="" form="NOM" gazref="" gquant="" id="p1" latLong="" midIDs="" mod="" scopes="" start="585" text="street" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="LINE" domain="" elevation="" end="863" endID="" form="NOM" gazref="" gquant="" id="p5" latLong="" midIDs="" mod="" scopes="" start="860" text="way" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="LINE" domain="" elevation="" end="879" endID="" form="NOM" gazref="" gquant="" id="p7" latLong="" midIDs="" mod="" scopes="" start="874" text="river" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="LINE" domain="" elevation="" end="884" endID="" form="NAM" gazref="" gquant="" id="p8" latLong="" midIDs="" mod="" scopes="" start="880" text="Prut" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="943" endID="" form="NOM" gazref="" gquant="" id="p4" latLong="" midIDs="" mod="" scopes="" start="939" text="edge" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="116" form="NOM" gquant="" id="se6" latLong="" mod="" scopes="" start="114" text="we" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="192" form="NOM" gquant="" id="se4" latLong="" mod="" scopes="" start="189" text="one" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="216" form="NOM" gquant="" id="se7" latLong="" mod="" scopes="" start="214" text="us" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="381" form="NOM" gquant="" id="se8" latLong="" mod="" scopes="" start="379" text="we" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="408" form="NOM" gquant="" id="se9" latLong="" mod="" scopes="" start="406" text="we" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="461" form="NOM" gquant="" id="se0" latLong="" mod="" scopes="" start="459" text="us" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="546" form="NOM" gquant="" id="se1" latLong="" mod="" scopes="" start="544" text="We" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="561" form="NOM" gquant="" id="se2" latLong="" mod="" scopes="" start="558" text="car" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="623" form="NOM" gquant="" id="se10" latLong="" mod="" scopes="" start="615" text="trolleys" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="668" form="NOM" gquant="" id="se11" latLong="" mod="" scopes="" start="666" text="we" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="75" form="NOM" gquant="" id="se5" latLong="" mod="" scopes="" start="73" text="we" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="783" form="NOM" gquant="" id="se12" latLong="" mod="" scopes="" start="781" text="we" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="827" form="NOM" gquant="" id="se13" latLong="" mod="" scopes="" start="824" text="car" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="830" form="NOM" gquant="" id="se14" latLong="" mod="" scopes="" start="828" text="we" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="887" form="NOM" gquant="" id="se15" latLong="" mod="" scopes="" start="885" text="we" type=""/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="120" gquant="" id="e0" latLong="" mod="" scopes="" start="117" text="met"/>
+<MOTION comment="" countable="" domain="" elevation="" end="357" gquant="" id="m6" latLong="" mod="" motion_class="MOVE_EXTERNAL" motion_sense="LITERAL" motion_type="PATH" scopes="" start="350" text="passing"/>
+<MOTION comment="" countable="" domain="" elevation="" end="388" gquant="" id="m7" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="382" text="headed"/>
+<MOTION comment="" countable="" domain="" elevation="" end="413" gquant="" id="m8" latLong="" mod="" motion_class="FOLLOW" motion_sense="LITERAL" motion_type="PATH" scopes="" start="409" text="took"/>
+<MOTION comment="" countable="" domain="" elevation="" end="458" gquant="" id="m0" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="451" text="brought"/>
+<MOTION comment="" countable="" domain="" elevation="" end="532" gquant="" id="m1" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="528" text="find"/>
+<MOTION comment="" countable="" domain="" elevation="" end="553" gquant="" id="m2" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="547" text="parked"/>
+<MOTION comment="" countable="TRUE" domain="" elevation="" end="61" gquant="" id="m3" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="56" text="entry"/>
+<MOTION comment="" countable="" domain="" elevation="" end="637" gquant="" id="m10" latLong="" mod="" motion_class="MOVE" motion_sense="LITERAL" motion_type="PATH" scopes="" start="633" text="came"/>
+<MOTION comment="" countable="" domain="" elevation="" end="676" gquant="" id="m12" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="669" text="entered"/>
+<MOTION comment="" countable="" domain="" elevation="" end="711" gquant="" id="m13" latLong="" mod="" motion_class="MOVE" motion_sense="LITERAL" motion_type="COMPOUND" scopes="" start="705" text="walked"/>
+<MOTION comment="" countable="" domain="" elevation="" end="83" gquant="" id="m4" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="76" text="visited"/>
+<MOTION comment="" countable="" domain="" elevation="" end="803" gquant="" id="m11" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="797" text="locate"/>
+<MOTION comment="" countable="" domain="" elevation="" end="837" gquant="" id="m14" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="831" text="headed"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="405" id="s3" semantic_type="TOPOLOGICAL" start="400" text="where"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="568" id="s1" semantic_type="DIRECTIONAL" start="562" text="beside"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="780" id="s4" semantic_type="TOPOLOGICAL" start="775" text="where"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="819" id="s5" semantic_type="TOPOLOGICAL" start="817" text="at"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="869" id="s6" semantic_type="DIRECTIONAL" start="864" text="along"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="928" id="s7" semantic_type="TOPOLOGICAL" start="926" text="at"/>
+<MOTION_SIGNAL comment="" end="391" id="ms2" motion_signal_type="PATH" start="389" text="to"/>
+<MOTION_SIGNAL comment="" end="429" id="ms3" motion_signal_type="PATH" start="422" text="towards"/>
+<MOTION_SIGNAL comment="" end="464" id="ms0" motion_signal_type="PATH" start="462" text="to"/>
+<MOTION_SIGNAL comment="" end="64" id="ms1" motion_signal_type="PATH" start="62" text="to"/>
+<MOTION_SIGNAL comment="" end="643" id="ms5" motion_signal_type="PATH" start="638" text="along"/>
+<MOTION_SIGNAL comment="" end="718" id="ms6" motion_signal_type="PATH" start="712" text="around"/>
+<MOTION_SIGNAL comment="" end="743" id="ms7" motion_signal_type="PATH" start="736" text="through"/>
+<MOTION_SIGNAL comment="" end="764" id="ms8" motion_signal_type="PATH" start="762" text="to"/>
+<MOTION_SIGNAL comment="" end="840" id="ms10" motion_signal_type="PATH" start="838" text="on"/>
+<MOTION_SIGNAL comment="" end="843" id="ms11" motion_signal_type="PATH" start="841" text="to"/>
+<MEASURE comment="" end="484" id="me0" start="479" text="410 m" unit="meters" value="410"/>
+<QSLINK id="qsl0" fromID="" fromText="" toID="" toText="" relType="" trajector="e0" landmark="pl8" trigger="" comment=""/>
+<QSLINK id="qsl1" fromID="" fromText="" toID="" toText="" relType="" trajector="p2" landmark="pl9" trigger="" comment=""/>
+<QSLINK id="qsl2" fromID="" fromText="" toID="" toText="" relType="" trajector="p4" landmark="p7" trigger="" comment=""/>
+<QSLINK id="qsl3" fromID="" fromText="" toID="" toText="" relType="" trajector="pl18" landmark="pl17" trigger="" comment=""/>
+<QSLINK id="qsl4" fromID="" fromText="" toID="" toText="" relType="" trajector="m8" landmark="pl13" trigger="s3" comment=""/>
+<QSLINK id="qsl5" fromID="" fromText="" toID="" toText="" relType="" trajector="m11" landmark="pl18" trigger="s4" comment=""/>
+<QSLINK id="qsl6" fromID="" fromText="" toID="" toText="" relType="" trajector="pl22" landmark="p4" trigger="s7" comment=""/>
+<OLINK id="ol0" fromID="" fromText="" toID="" toText="" relType="" trajector="pl18" landmark="pl17" trigger="" frame_type="" referencePt="" projective="" comment=""/>
+<OLINK id="ol1" fromID="" fromText="" toID="" toText="" relType="" trajector="p5" landmark="p7" trigger="s6" frame_type="" referencePt="" projective="" comment=""/>
+<MOVELINK id="mvl0" fromID="" fromText="" toID="" toText="" trigger="m0" source="" goal="" midPoint="" mover="se0" landmark="" goal_reached="" pathID="p0" motion_signalID="" comment=""/>
+<MOVELINK id="mvl1" fromID="" fromText="" toID="" toText="" trigger="m1" source="" goal="pl1" midPoint="" mover="se0" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl2" fromID="" fromText="" toID="" toText="" trigger="m10" source="" goal="" midPoint="" mover="se10" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl3" fromID="" fromText="" toID="" toText="" trigger="m11" source="" goal="pl19" midPoint="" mover="se12" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl4" fromID="" fromText="" toID="" toText="" trigger="m12" source="" goal="pl15" midPoint="" mover="se11" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl5" fromID="" fromText="" toID="" toText="" trigger="m13" source="" goal="" midPoint="" mover="se11" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl6" fromID="" fromText="" toID="" toText="" trigger="m13" source="" goal="pl18" midPoint="pl17" mover="se11" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl7" fromID="" fromText="" toID="" toText="" trigger="m14" source="" goal="pl20" midPoint="" mover="se14" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl8" fromID="" fromText="" toID="" toText="" trigger="m2" source="" goal="" midPoint="" mover="se1" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl9" fromID="" fromText="" toID="" toText="" trigger="m2" source="" goal="" midPoint="" mover="se2" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl10" fromID="" fromText="" toID="" toText="" trigger="m3" source="" goal="pl5" midPoint="" mover="se5" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl11" fromID="" fromText="" toID="" toText="" trigger="m4" source="" goal="pl6" midPoint="" mover="se5" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl12" fromID="" fromText="" toID="" toText="" trigger="m6" source="" goal="" midPoint="" mover="se8" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl13" fromID="" fromText="" toID="" toText="" trigger="m6" source="" goal="" midPoint="" mover="se8" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl14" fromID="" fromText="" toID="" toText="" trigger="m7" source="" goal="pl13" midPoint="" mover="se8" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl15" fromID="" fromText="" toID="" toText="" trigger="m8" source="" goal="pl14" midPoint="" mover="se9" landmark="" goal_reached="" pathID="p3" motion_signalID="" comment=""/>
+<CP>48N27E</CP>
+<URL>http://confluence.org/confluence.php?id=9787</URL>
+</TAGS>
+<TOKENS>
+<s>
+<lex begin="2" end="13">02-Aug-2005</lex>
+<lex begin="14" end="16">--</lex>
+<lex begin="17" end="26">Continues</lex>
+<lex begin="27" end="31">from</lex>
+<lex begin="32" end="35">48N</lex>
+<lex begin="36" end="39">26E</lex>
+<lex begin="39" end="40">.</lex>
+</s>
+<s>
+<lex begin="42" end="47">After</lex>
+<lex begin="48" end="50">an</lex>
+<lex begin="51" end="55">easy</lex>
+<lex begin="56" end="61">entry</lex>
+<lex begin="62" end="64">to</lex>
+<lex begin="65" end="72">Romania</lex>
+<lex begin="73" end="75">we</lex>
+<lex begin="76" end="83">visited</lex>
+<lex begin="84" end="87">the</lex>
+<lex begin="88" end="94">church</lex>
+<lex begin="95" end="97">of</lex>
+<lex begin="98" end="106">Pătrăuţi</lex>
+<lex begin="106" end="107">.</lex>
+</s>
+<s>
+<lex begin="108" end="113">There</lex>
+<lex begin="114" end="116">we</lex>
+<lex begin="117" end="120">met</lex>
+<lex begin="121" end="124">the</lex>
+<lex begin="125" end="131">priest</lex>
+<lex begin="131" end="132">,</lex>
+<lex begin="133" end="136">who</lex>
+<lex begin="137" end="140">was</lex>
+<lex begin="141" end="149">building</lex>
+<lex begin="150" end="151">a</lex>
+<lex begin="152" end="155">new</lex>
+<lex begin="156" end="162">wooden</lex>
+<lex begin="163" end="169">church</lex>
+<lex begin="170" end="172">to</lex>
+<lex begin="173" end="180">prevent</lex>
+<lex begin="181" end="184">the</lex>
+<lex begin="185" end="188">old</lex>
+<lex begin="189" end="192">one</lex>
+<lex begin="193" end="197">from</lex>
+<lex begin="198" end="204">damage</lex>
+<lex begin="204" end="205">.</lex>
+</s>
+<s>
+<lex begin="206" end="208">He</lex>
+<lex begin="209" end="213">gave</lex>
+<lex begin="214" end="216">us</lex>
+<lex begin="217" end="219">an</lex>
+<lex begin="220" end="224">very</lex>
+<lex begin="225" end="236">interesting</lex>
+<lex begin="237" end="242">guide</lex>
+<lex begin="243" end="245">of</lex>
+<lex begin="246" end="249">the</lex>
+<lex begin="250" end="256">church</lex>
+<lex begin="256" end="258">'s</lex>
+<lex begin="259" end="266">history</lex>
+<lex begin="266" end="267">.</lex>
+</s>
+<s>
+<lex begin="268" end="270">It</lex>
+<lex begin="271" end="273">is</lex>
+<lex begin="274" end="281">painted</lex>
+<lex begin="282" end="289">outside</lex>
+<lex begin="290" end="292">at</lex>
+<lex begin="293" end="296">one</lex>
+<lex begin="297" end="301">wall</lex>
+<lex begin="302" end="305">and</lex>
+<lex begin="306" end="310">also</lex>
+<lex begin="311" end="317">inside</lex>
+<lex begin="318" end="320">it</lex>
+<lex begin="321" end="323">is</lex>
+<lex begin="324" end="334">completely</lex>
+<lex begin="335" end="342">painted</lex>
+<lex begin="342" end="343">.</lex>
+</s>
+<s>
+<lex begin="345" end="349">Then</lex>
+<lex begin="350" end="357">passing</lex>
+<lex begin="358" end="365">Suceava</lex>
+<lex begin="366" end="369">and</lex>
+<lex begin="370" end="378">Botoşani</lex>
+<lex begin="379" end="381">we</lex>
+<lex begin="382" end="388">headed</lex>
+<lex begin="389" end="391">to</lex>
+<lex begin="392" end="398">Săveni</lex>
+<lex begin="398" end="399">,</lex>
+<lex begin="400" end="405">where</lex>
+<lex begin="406" end="408">we</lex>
+<lex begin="409" end="413">took</lex>
+<lex begin="414" end="418">road</lex>
+<lex begin="419" end="421">29</lex>
+<lex begin="422" end="429">towards</lex>
+<lex begin="430" end="439">Manoleasa</lex>
+<lex begin="439" end="440">.</lex>
+</s>
+<s>
+<lex begin="441" end="445">This</lex>
+<lex begin="446" end="450">road</lex>
+<lex begin="451" end="458">brought</lex>
+<lex begin="459" end="461">us</lex>
+<lex begin="462" end="464">to</lex>
+<lex begin="465" end="466">a</lex>
+<lex begin="467" end="475">distance</lex>
+<lex begin="476" end="478">of</lex>
+<lex begin="479" end="482">410</lex>
+<lex begin="483" end="484">m</lex>
+<lex begin="485" end="487">to</lex>
+<lex begin="488" end="491">48N</lex>
+<lex begin="492" end="495">27E</lex>
+<lex begin="495" end="496">,</lex>
+<lex begin="497" end="499">so</lex>
+<lex begin="500" end="502">it</lex>
+<lex begin="503" end="505">is</lex>
+<lex begin="506" end="509">not</lex>
+<lex begin="510" end="514">very</lex>
+<lex begin="515" end="524">difficult</lex>
+<lex begin="525" end="527">to</lex>
+<lex begin="528" end="532">find</lex>
+<lex begin="533" end="536">the</lex>
+<lex begin="537" end="542">point</lex>
+<lex begin="542" end="543">!</lex>
+</s>
+<s>
+<lex begin="544" end="546">We</lex>
+<lex begin="547" end="553">parked</lex>
+<lex begin="554" end="557">our</lex>
+<lex begin="558" end="561">car</lex>
+<lex begin="562" end="568">beside</lex>
+<lex begin="569" end="572">the</lex>
+<lex begin="573" end="579">hardly</lex>
+<lex begin="580" end="584">used</lex>
+<lex begin="585" end="591">street</lex>
+<lex begin="591" end="592">.</lex>
+</s>
+<s>
+<lex begin="593" end="597">Only</lex>
+<lex begin="598" end="602">some</lex>
+<lex begin="603" end="614">horse-drawn</lex>
+<lex begin="615" end="623">trolleys</lex>
+<lex begin="624" end="628">with</lex>
+<lex begin="629" end="632">hay</lex>
+<lex begin="633" end="637">came</lex>
+<lex begin="638" end="643">along</lex>
+<lex begin="644" end="648">from</lex>
+<lex begin="649" end="653">time</lex>
+<lex begin="654" end="656">to</lex>
+<lex begin="657" end="661">time</lex>
+<lex begin="661" end="662">.</lex>
+</s>
+<s>
+<lex begin="663" end="665">So</lex>
+<lex begin="666" end="668">we</lex>
+<lex begin="669" end="676">entered</lex>
+<lex begin="677" end="678">a</lex>
+<lex begin="679" end="683">huge</lex>
+<lex begin="684" end="694">field-area</lex>
+<lex begin="695" end="700">again</lex>
+<lex begin="701" end="704">and</lex>
+<lex begin="705" end="711">walked</lex>
+<lex begin="712" end="718">around</lex>
+<lex begin="719" end="720">a</lex>
+<lex begin="721" end="731">corn-field</lex>
+<lex begin="732" end="735">and</lex>
+<lex begin="736" end="743">through</lex>
+<lex begin="744" end="745">a</lex>
+<lex begin="746" end="761">sunflower-field</lex>
+<lex begin="762" end="764">to</lex>
+<lex begin="765" end="766">a</lex>
+<lex begin="767" end="773">meadow</lex>
+<lex begin="773" end="774">,</lex>
+<lex begin="775" end="780">where</lex>
+<lex begin="781" end="783">we</lex>
+<lex begin="784" end="790">easily</lex>
+<lex begin="791" end="796">could</lex>
+<lex begin="797" end="803">locate</lex>
+<lex begin="804" end="807">the</lex>
+<lex begin="808" end="810">CP</lex>
+<lex begin="810" end="811">.</lex>
+</s>
+<s>
+<lex begin="812" end="816">Back</lex>
+<lex begin="817" end="819">at</lex>
+<lex begin="820" end="823">the</lex>
+<lex begin="824" end="827">car</lex>
+<lex begin="828" end="830">we</lex>
+<lex begin="831" end="837">headed</lex>
+<lex begin="838" end="840">on</lex>
+<lex begin="841" end="843">to</lex>
+<lex begin="844" end="848">Iaşi</lex>
+<lex begin="849" end="852">and</lex>
+<lex begin="853" end="855">on</lex>
+<lex begin="856" end="859">the</lex>
+<lex begin="860" end="863">way</lex>
+<lex begin="864" end="869">along</lex>
+<lex begin="870" end="873">the</lex>
+<lex begin="874" end="879">river</lex>
+<lex begin="880" end="884">Prut</lex>
+<lex begin="885" end="887">we</lex>
+<lex begin="888" end="892">were</lex>
+<lex begin="893" end="897">able</lex>
+<lex begin="898" end="900">to</lex>
+<lex begin="901" end="904">see</lex>
+<lex begin="905" end="908">the</lex>
+<lex begin="909" end="916">country</lex>
+<lex begin="917" end="925">Moldavia</lex>
+<lex begin="926" end="928">at</lex>
+<lex begin="929" end="932">the</lex>
+<lex begin="933" end="938">other</lex>
+<lex begin="939" end="943">edge</lex>
+<lex begin="943" end="944">.</lex>
+</s>
+<lex begin="946" end="955">Continues</lex>
+<lex begin="956" end="958">at</lex>
+<lex begin="959" end="962">46N</lex>
+<lex begin="963" end="966">15E</lex>
+<lex begin="968" end="1013">﻿http://confluence.org/confluence.php?id=9787</lex>
+</TOKENS>
+</SpaceEvalTaskv1.2>

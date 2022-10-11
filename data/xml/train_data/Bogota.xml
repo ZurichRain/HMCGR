@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[
+Bogota to Bucaramanga
+Monday, June 26th, 2006
+ 
+   After a week in Bogota, I departed the city, leaving behind what almost seems routine at this point – a group of new friends, a newspaper appearance, and a city that I hope to return to someday. I was escorted out of town by Bruce, an American who helped me out while in Bogota.
+
+   Heading northwest towards Venezuela (map), I first stopped in the colonial town of Zipaquira, where the locals have converted a salt mine into an underground cathedral. Continuing on, I was told by everyone that this stretch of road was safe, and I proceeded to camp in the countryside next to families.
+
+ 
+   My first night I camped next to Marco’s family’s house. Marcos cuts clay out of the roadside next to his house, then forms the clay into bricks, and then cooks the bricks with coal to harden them. The majority of Colombia’s buildings are made out of bricks, and apparently this is where they come from. I helped cut some clay (video center), but I think I was more a source of entertainment than assistance.
+
+  
+   Camping next to families in the countryside, I am inevitably asked about money and about what life is like in the U.S. I try to explain that there is a difference between standard of living and quality of life, and that while you make more money in the U.S., things are also more expensive (just say what rent in Palo Alto is). But, while most families I see seem to have good family and community lives, the health care is poor and they have nowhere near the options that I or my friends have â€“ minimum wage her is $200 a month. (More thoughts on this in my first comment on this post.)
+
+   Heading north, I camped next to the houses of a few more families, and followed long scenic valleys and canyons up and down until reaching the city of Bucaramanga, another of Colombia’s major cities.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl12" start="-1" end="-1" text="" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="'this is where they come from'" domain="" />
+<PLACE id="pl17" start="1092" end="1103" text="countryside" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl18" start="1174" end="1178" text="U.S." type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl21" start="1313" end="1317" text="U.S." type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl20" start="1373" end="1382" text="Palo Alto" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl13" start="1690" end="1696" text="houses" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl4" start="208" end="212" text="city" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl2" start="269" end="273" text="town" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl3" start="323" end="329" text="Bogota" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl5" start="361" end="370" text="Venezuela" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl8" start="468" end="472" text="mine" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl9" start="493" end="502" text="cathedral" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="underground" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl10" start="609" end="620" text="countryside" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl0" start="68" end="74" text="Bogota" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl15" start="694" end="699" text="house" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl19" start="750" end="755" text="house" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl1" start="91" end="95" text="city" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl16" start="918" end="922" text="this" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl7" start="410" end="414" text="town" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl11" start="418" end="427" text="Zipaquira" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl22" start="1797" end="1801" text="city" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl23" start="1805" end="1816" text="Bucaramanga" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PATH id="p3" start="1746" end="1753" text="valleys" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="long" countable="TRUE" gquant="" scopes="" comment="amount=gt1" domain="" dcl="" />
+<PATH id="p2" start="1758" end="1765" text="canyons" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="long" countable="TRUE" gquant="" scopes="" comment="amount=gt1" domain="" dcl="" />
+<PATH id="p0" start="729" end="737" text="roadside" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se10" start="1076" end="1084" text="families" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="amount=gt1" domain="" dcl="" />
+<SPATIAL_ENTITY id="se12" start="1105" end="1106" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se1" start="156" end="161" text="group" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="of new friends" domain="" dcl="" />
+<SPATIAL_ENTITY id="se11" start="1669" end="1670" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se14" start="218" end="219" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se2" start="247" end="248" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se3" start="277" end="282" text="Bruce" type="" dimensionality="" form="NAM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="an American" domain="" dcl="" />
+<SPATIAL_ENTITY id="se4" start="378" end="379" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se6" start="582" end="583" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se7" start="629" end="637" text="families" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se8" start="660" end="661" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se9" start="713" end="717" text="clay" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se0" start="76" end="77" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se5" start="895" end="901" text="bricks" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se13" start="932" end="936" text="they" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="bricks" domain="" dcl="" />
+<SPATIAL_ENTITY id="se17" start="966" end="970" text="clay" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="quant=some" domain="" dcl="" />
+<SPATIAL_ENTITY id="se15" start="-1" end="-1" text="" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se16" start="519" end="520" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se18" start="948" end="949" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se19" start="991" end="992" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se20" start="999" end="1000" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se21" start="1179" end="1180" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se22" start="1413" end="1414" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se23" start="1533" end="1534" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<NONMOTION_EVENT id="e8" start="1060" end="1067" text="Camping" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e5" start="1154" end="1158" text="life" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e6" start="1671" end="1677" text="camped" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e0" start="300" end="306" text="helped" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e3" start="386" end="393" text="stopped" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e1" start="451" end="460" text="converted" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e2" start="584" end="593" text="proceeded" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e4" start="597" end="601" text="camp" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e7" start="662" end="668" text="camped" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<MOTION id="m14" start="1654" end="1661" text="Heading" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m16" start="1725" end="1733" text="followed" motion_type="PATH" motion_class="FOLLOW" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m17" start="1784" end="1792" text="reaching" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m2" start="228" end="234" text="return" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m3" start="253" end="261" text="escorted" motion_type="COMPOUND" motion_class="LEAVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m4" start="335" end="342" text="Heading" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m9" start="708" end="712" text="cuts" motion_type="COMPOUND" motion_class="DETACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m0" start="78" end="86" text="departed" motion_type="PATH" motion_class="LEAVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m11" start="937" end="941" text="come" motion_type="PATH" motion_class="LEAVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m12" start="957" end="960" text="cut" motion_type="MANNER" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m1" start="97" end="104" text="leaving" motion_type="PATH" motion_class="LEAVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<SPATIAL_SIGNAL id="s10" start="105" end="111" text="behind" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="1068" end="1075" text="next to" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s15" start="1085" end="1087" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s7" start="1167" end="1169" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="1678" end="1685" text="next to" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s9" start="320" end="322" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="394" end="396" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="429" end="434" text="where" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s13" start="602" end="604" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s8" start="621" end="628" text="next to" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s2" start="669" end="676" text="next to" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s3" start="738" end="745" text="next to" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s5" start="926" end="931" text="where" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms0" start="1662" end="1667" text="north" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms12" start="1766" end="1768" text="up" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms13" start="1773" end="1777" text="down" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms1" start="235" end="237" text="to" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms11" start="262" end="265" text="out" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms2" start="343" end="352" text="northwest" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms14" start="353" end="360" text="towards" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms16" start="718" end="724" text="out of" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms10" start="942" end="946" text="from" motion_signal_type="PATH" comment="" />
+<QSLINK id="qsl0" fromID="e0" fromText="helped" toID="pl3" toText="Bogota" relType="IN" trajector="e0" landmark="pl3" trigger="s9" comment="" />
+<QSLINK id="qsl4" fromID="se10" fromText="families" toID="pl17" toText="countryside" relType="IN" trajector="se10" landmark="pl17" trigger="s15" comment="" />
+<QSLINK id="qsl5" fromID="e5" fromText="life" toID="pl18" toText="U.S." relType="IN" trajector="e5" landmark="pl18" trigger="s7" comment="" />
+<QSLINK id="qsl6" fromID="e2" fromText="proceeded" toID="pl10" toText="countryside" relType="IN" trajector="e2" landmark="pl10" trigger="s13" comment="" />
+<QSLINK id="qsl7" fromID="e4" fromText="camp" toID="pl10" toText="countryside" relType="IN" trajector="e4" landmark="pl10" trigger="s13" comment="" />
+<QSLINK id="qsl8" fromID="e4" fromText="camp" toID="se7" toText="families" relType="DC" trajector="e4" landmark="se7" trigger="s8" comment="" />
+<QSLINK id="qsl9" fromID="e7" fromText="camped" toID="pl15" toText="house" relType="DC" trajector="e7" landmark="pl15" trigger="s2" comment="" />
+<QSLINK id="qsl10" fromID="p0" fromText="roadside" toID="pl19" toText="house" relType="DC" trajector="p0" landmark="pl19" trigger="s3" comment="" />
+<QSLINK id="qsl11" fromID="e3" fromText="stopped" toID="pl11" toText="Zipaquira" relType="IN" trajector="e3" landmark="pl11" trigger="s1" comment="" />
+<QSLINK id="qsl12" fromID="e1" fromText="converted" toID="pl11" toText="Zipaquira" relType="IN" trajector="e1" landmark="pl11" trigger="s0" comment="" />
+<QSLINK id="qsl13" fromID="pl8" fromText="mine" toID="pl11" toText="Zipaquira" relType="IN" trajector="pl8" landmark="pl11" trigger="" comment="" />
+<OLINK id="ol0" fromID="e6" fromText="camped" toID="pl13" toText="houses" relType="NEXT_TO" trajector="e6" landmark="pl13" trigger="s6" frame_type="INTRINSIC" referencePt="pl13" projective="FALSE" comment="" />
+<OLINK id="ol3" fromID="e7" fromText="camped" toID="pl15" toText="house" relType="NEXT_TO" trajector="e7" landmark="pl15" trigger="s2" frame_type="INTRINSIC" referencePt="pl15" projective="FALSE" comment="" />
+<OLINK id="ol4" fromID="p0" fromText="roadside" toID="pl19" toText="house" relType="NEXT_TO" trajector="p0" landmark="pl19" trigger="s3" frame_type="INTRINSIC" referencePt="pl19" projective="FALSE" comment="" />
+<OLINK id="ol5" fromID="e8" fromText="Camping" toID="se10" toText="families" relType="NEXT_TO" trajector="e8" landmark="se10" trigger="s4" frame_type="INTRINSIC" referencePt="se10" projective="FALSE" comment="" />
+<OLINK id="ol1" fromID="e4" fromText="camp" toID="se7" toText="families" relType="NEXT_TO" trajector="e4" landmark="se7" trigger="s8" frame_type="INTRINSIC" referencePt="se7" projective="FALSE" comment="" />
+<MOVELINK id="mvl0" fromID="m0" fromText="departed" toID="se0" toText="I" trigger="m0" source="pl1" goal="" midPoint="" mover="se0" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl1" fromID="m1" fromText="leaving" toID="se0" toText="I" trigger="m1" source="pl1" goal="" midPoint="" mover="se0" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl10" fromID="m12" fromText="cut" toID="se17" toText="clay" trigger="m12" source="" goal="" midPoint="" mover="se17" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl2" fromID="m2" fromText="return" toID="se14" toText="I" trigger="m2" source="" goal="pl4" midPoint="" mover="se14" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms1" comment="" />
+<MOVELINK id="mvl3" fromID="m3" fromText="escorted" toID="se15" toText="" trigger="m3" source="pl2" goal="" midPoint="" mover="se15" landmark="" goal_reached="" pathID="" motion_signalID="ms11" comment="" />
+<MOVELINK id="mvl4" fromID="m4" fromText="Heading" toID="se4" toText="I" trigger="m4" source="" goal="pl5" midPoint="" mover="se4" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms2, ms14" comment="" />
+<MOVELINK id="mvl5" fromID="m9" fromText="cuts" toID="se9" toText="clay" trigger="m9" source="p0" goal="" midPoint="" mover="se9" landmark="" goal_reached="" pathID="" motion_signalID="ms16" comment="" />
+<MOVELINK id="mvl6" fromID="m11" fromText="come" toID="se13" toText="they" trigger="m11" source="pl16" goal="" midPoint="" mover="se13" landmark="" goal_reached="" pathID="" motion_signalID="ms10" comment="" />
+<MOVELINK id="mvl7" fromID="m14" fromText="Heading" toID="se11" toText="I" trigger="m14" source="" goal="" midPoint="" mover="se11" landmark="" goal_reached="" pathID="" motion_signalID="ms0" comment="" />
+<MOVELINK id="mvl8" fromID="m16" fromText="followed" toID="se11" toText="I" trigger="m16" source="" goal="" midPoint="" mover="se11" landmark="" goal_reached="" pathID="p3, p2" motion_signalID="ms12, ms13" comment="" />
+<MOVELINK id="mvl9" fromID="m17" fromText="reaching" toID="se11" toText="I" trigger="m17" source="" goal="pl23" midPoint="" mover="se11" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<METALINK id="metal0" fromID="se13" fromText="they" toID="se5" toText="bricks" objectID1="se13" objectID2="se5" relType="COREFERENCE" comment="" />
+<METALINK id="metal1" fromID="pl4" fromText="city" toID="pl0" toText="Bogota" objectID1="pl4" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal10" fromID="se2" fromText="I" toID="se0" toText="I" objectID1="se2" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal11" fromID="se8" fromText="I" toID="se0" toText="I" objectID1="se8" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal12" fromID="pl17" fromText="countryside" toID="pl10" toText="countryside" objectID1="pl17" objectID2="pl10" relType="COREFERENCE" comment="" />
+<METALINK id="metal13" fromID="se10" fromText="families" toID="se7" toText="families" objectID1="se10" objectID2="se7" relType="COREFERENCE" comment="" />
+<METALINK id="metal14" fromID="pl19" fromText="house" toID="pl15" toText="house" objectID1="pl19" objectID2="pl15" relType="COREFERENCE" comment="" />
+<METALINK id="metal15" fromID="pl21" fromText="U.S." toID="pl18" toText="U.S." objectID1="pl21" objectID2="pl18" relType="COREFERENCE" comment="" />
+<METALINK id="metal16" fromID="se17" fromText="clay" toID="se9" toText="clay" objectID1="se17" objectID2="se9" relType="COREFERENCE" comment="" />
+<METALINK id="metal2" fromID="pl1" fromText="city" toID="pl0" toText="Bogota" objectID1="pl1" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal3" fromID="pl3" fromText="Bogota" toID="pl0" toText="Bogota" objectID1="pl3" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal4" fromID="pl2" fromText="town" toID="pl0" toText="Bogota" objectID1="pl2" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal5" fromID="se11" fromText="I" toID="se0" toText="I" objectID1="se11" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal6" fromID="se12" fromText="I" toID="se0" toText="I" objectID1="se12" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal7" fromID="se14" fromText="I" toID="se0" toText="I" objectID1="se14" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal8" fromID="se6" fromText="I" toID="se0" toText="I" objectID1="se6" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal9" fromID="se4" fromText="I" toID="se0" toText="I" objectID1="se4" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal17" fromID="se2" fromText="I" toID="se15" toText="" objectID1="se2" objectID2="se15" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal18" fromID="se3" fromText="Bruce" toID="se15" toText="" objectID1="se3" objectID2="se15" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal20" fromID="se16" fromText="I" toID="se0" toText="I" objectID1="se16" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal21" fromID="se18" fromText="I" toID="se0" toText="I" objectID1="se18" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal22" fromID="se19" fromText="I" toID="se0" toText="I" objectID1="se19" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal23" fromID="se20" fromText="I" toID="se0" toText="I" objectID1="se20" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal24" fromID="se21" fromText="I" toID="se0" toText="I" objectID1="se21" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal25" fromID="se22" fromText="I" toID="se0" toText="I" objectID1="se22" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal26" fromID="se23" fromText="I" toID="se0" toText="I" objectID1="se23" objectID2="se0" relType="COREFERENCE" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ISOSpaceTaskv1.15>
+<TEXT><![CDATA[
+
+        Near the Puerta del Sol
+        Puerta del Sol (Gateway to the Sun) is Madrid’s busiest
+        plaza and for centuries has been the commercial hub of the city. Today
+        it marks the transition between Hapsburg Madrid and the city expansion
+        of the Bourbon kings. The original gate that once existed here — part
+        of the ancient town wall — was torn down in 1570. Ten streets converge
+        on the plaza, and all the radial highways of Spain are measured from
+        Puerta del Sol, designated “Kilometer Zero” (on the sidewalk on the
+        south side of the square is a symbol of this distinction).
+        The no-nonsense, Neo-classical building on the south side
+        of the square (Casa de Correos) houses the main offices of the regional
+        government. Thousands of Madrileños gather here for a ritual every New
+        Year’s Eve. They try to swallow a dozen grapes while the clock atop the
+        building strikes 12, after which pandemonium breaks out.
+        Facing all the bustle of a remodeled Puerta del Sol is a
+        statue based on Madrid’s coat of arms, which depicts a bear leaning
+        against a madroño tree (an arbutus, or strawberry tree). The bear is a
+        symbol of Madrid, while the Tío Pepe sign, an advertisement for one of
+        Spain’s most famous brands of sherry, has become the unofficial symbol
+        of the Puerta del Sol.
+        Just north of the Puerta del Sol and next door to the
+        Ministry of Finance, is the Real Academia de Bellas Artes de San         Fernando — call it the Museum of the Royal Academy. It possesses a
+        celebrated collection of Goya’s paintings, including Burial of the
+        Sardine, and a superb self-portrait of the artist in his old age.
+        Velázquez, Murillo, and Rubens are also represented among the hundreds
+        of works on display. The Royal Academy also has a magnificent
+        collection of paintings by Zurbarán, rivaling that of the Prado Museum.
+        Representative of the artist’s austere, devotional style is Vision of
+        the Blessed Alonso Rodríguez.
+        Southeast of Puerta del Sol is Plaza Santa Ana and the
+        Huertas district, both of which are chock full of restaurants, tascas
+        and tapas bars, theaters, and live music and flamenco clubs. The area
+        really springs to life at night.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" start="19" end="33" text="Puerta del Sol" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="42" end="56" text="Puerta del Sol" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="58" end="76" text="Gateway to the Sun" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="81" end="87" text="Madrid" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="106" end="111" text="plaza" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="154" end="157" text="hub" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="165" end="169" text="city" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="185" end="187" text="it" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="217" end="232" text="Hapsburg Madrid" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="322" end="326" text="here" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="428" end="433" text="plaza" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="466" end="471" text="Spain" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="498" end="512" text="Puerta del Sol" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="580" end="584" text="side" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="south" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="592" end="598" text="square" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="694" end="698" text="side" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="south" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="714" end="720" text="square" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="722" end="737" text="Casa de Correos" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="755" end="762" text="offices" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="830" end="834" text="here" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="1048" end="1062" text="Puerta del Sol" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="1092" end="1098" text="Madrid" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="1241" end="1247" text="Madrid" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl23" start="1310" end="1315" text="Spain" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl24" start="1396" end="1410" text="Puerta del Sol" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl25" start="1438" end="1452" text="Puerta del Sol" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl26" start="1482" end="1501" text="Ministry of Finance" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl27" start="1510" end="1563" text="Real Academia de Bellas Artes de San         Fernando" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl28" start="1578" end="1605" text="Museum of the Royal Academy" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl29" start="1607" end="1609" text="It" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl30" start="1883" end="1896" text="Royal Academy" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl31" start="1986" end="1998" text="Prado Museum" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl32" start="2137" end="2151" text="Puerta del Sol" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl33" start="2155" end="2170" text="Plaza Santa Ana" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl34" start="2187" end="2203" text="Huertas district" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl35" start="2205" end="2209" text="both" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl36" start="2237" end="2248" text="restaurants" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl37" start="2250" end="2256" text="tascas" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl38" start="2275" end="2279" text="bars" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl39" start="2281" end="2289" text="theaters" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl40" start="2319" end="2324" text="clubs" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl42" start="198" end="208" text="transition" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl43" start="246" end="255" text="expansion" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl44" start="526" end="540" text="Kilometer Zero" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p0" start="362" end="366" text="wall" beginID="" endID="" midIDs="" type="" dimensionality="VOLUME" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p1" start="396" end="403" text="streets" beginID="" endID="" midIDs="" type="" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p2" start="454" end="462" text="highways" beginID="" endID="" midIDs="" type="" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p3" start="550" end="558" text="sidewalk" beginID="" endID="" midIDs="" type="" dimensionality="VOLUME" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="299" end="303" text="gate" type="" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="329" end="333" text="part" type="" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se2" start="604" end="610" text="symbol" type="" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se3" start="672" end="680" text="building" type="" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se4" start="812" end="822" text="Madrileños" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se5" start="878" end="882" text="They" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se6" start="923" end="928" text="clock" type="" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se7" start="946" end="954" text="building" type="" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se8" start="1076" end="1082" text="statue" type="" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se9" start="1131" end="1135" text="bear" type="" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se10" start="1170" end="1174" text="tree" type="" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e0" start="841" end="847" text="ritual" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e1" start="1026" end="1032" text="bustle" domain="" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e2" start="1136" end="1143" text="leaning" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e3" start="314" end="321" text="existed" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="373" end="377" text="torn" domain="" latLong="" elevation="" motion_type="MANNER" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m1" start="404" end="412" text="converge" domain="" latLong="" elevation="" motion_type="PATH" motion_class="HIT" motion_sense="FICTIVE" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m2" start="823" end="829" text="gather" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s1" start="559" end="561" text="on" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="739" end="745" text="houses" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="929" end="933" text="atop" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s4" start="1011" end="1017" text="Facing" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="1152" end="1159" text="against" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="1425" end="1430" text="north" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s7" start="1457" end="1466" text="next door" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s8" start="2124" end="2133" text="Southeast" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s9" start="2229" end="2233" text="full" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s10" start="681" end="683" text="on" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s11" start="209" end="216" text="between" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s12" start="543" end="545" text="on" cluster="" semantic_type="DIR_TOP" comment="" />
+<MOTION_SIGNAL id="a0" start="378" end="382" text="down" adjunct_type="PATH" comment="" />
+<MOTION_SIGNAL id="a1" start="421" end="423" text="on" adjunct_type="PATH" comment="" />
+<QSLINK id="qsl0" fromID="pl42" fromText="transition" toID="pl7" toText="it" relType="IN" trajector="pl42" landmark="pl7" trigger="" comment="" />
+<QSLINK id="qsl1" fromID="pl42" fromText="transition" toID="pl8" toText="Hapsburg Madrid" relType="EC" trajector="pl42" landmark="pl8" trigger="s11" comment="" />
+<QSLINK id="qsl2" fromID="pl42" fromText="transition" toID="pl43" toText="expansion" relType="EC" trajector="pl42" landmark="pl43" trigger="s11" comment="" />
+<QSLINK id="qsl3" fromID="e3" fromText="existed" toID="pl9" toText="here" relType="IN" trajector="e3" landmark="pl9" trigger="" comment="" />
+<QSLINK id="qsl4" fromID="se1" fromText="part" toID="p0" toText="wall" relType="TPP" trajector="se1" landmark="p0" trigger="" comment="S_F?" />
+<QSLINK id="qsl5" fromID="pl5" fromText="hub" toID="pl6" toText="city" relType="IN" trajector="pl5" landmark="pl6" trigger="" comment="S_F?" />
+<!--<QSLINK id="qsl6" fromID="m1" fromText="converge" toID="pl10" toText="plaza" relType="EC" trajector="m1" landmark="pl10" trigger="s0" comment="" />-->
+<QSLINK id="qsl7" fromID="p2" fromText="highways" toID="pl11" toText="Spain" relType="IN" trajector="p2" landmark="pl11" trigger="" comment="S_F?" />
+<QSLINK id="qsl8" fromID="p3" fromText="sidewalk" toID="pl13" toText="side" relType="IN" trajector="p3" landmark="pl13" trigger="s1" comment="" />
+<QSLINK id="qsl9" fromID="pl13" fromText="side" toID="pl14" toText="square" relType="TPP" trajector="pl13" landmark="pl14" trigger="" comment="S_F?" />
+<QSLINK id="qsl10" fromID="se2" fromText="symbol" toID="p3" toText="sidewalk" relType="EC" trajector="se2" landmark="p3" trigger="s12" comment="" />
+<QSLINK id="qsl11" fromID="se3" fromText="building" toID="pl15" toText="side" relType="EC" trajector="se3" landmark="pl15" trigger="s10" comment="" />
+<QSLINK id="qsl12" fromID="pl15" fromText="side" toID="pl16" toText="square" relType="TPP" trajector="pl15" landmark="pl16" trigger="" comment="S_F?" />
+<QSLINK id="qsl13" fromID="pl18" fromText="offices" toID="se3" toText="building" relType="IN" trajector="pl18" landmark="se3" trigger="s2" comment="" />
+<QSLINK id="qsl14" fromID="e0" fromText="ritual" toID="pl19" toText="here" relType="IN" trajector="e0" landmark="pl19" trigger="" comment="" />
+<QSLINK id="qsl15" fromID="se6" fromText="clock" toID="se7" toText="building" relType="TPP" trajector="se6" landmark="se7" trigger="s3" comment="" />
+<QSLINK id="qsl16" fromID="se9" fromText="bear" toID="se8" toText="statue" relType="TPP" trajector="se9" landmark="se8" trigger="" comment="" />
+<QSLINK id="qsl17" fromID="e2" fromText="leaning" toID="se10" toText="tree" relType="EC" trajector="e2" landmark="se10" trigger="s5" comment="" />
+<QSLINK id="qsl18" fromID="pl36" fromText="restaurants" toID="pl35" toText="both" relType="IN" trajector="pl36" landmark="pl35" trigger="s9" comment="" />
+<QSLINK id="qsl19" fromID="pl37" fromText="tascas" toID="pl35" toText="both" relType="IN" trajector="pl37" landmark="pl35" trigger="s9" comment="" />
+<QSLINK id="qsl20" fromID="pl38" fromText="bars" toID="pl35" toText="both" relType="IN" trajector="pl38" landmark="pl35" trigger="s9" comment="" />
+<QSLINK id="qsl21" fromID="pl39" fromText="theaters" toID="pl35" toText="both" relType="IN" trajector="pl39" landmark="pl35" trigger="s9" comment="" />
+<QSLINK id="qsl22" fromID="pl40" fromText="clubs" toID="pl35" toText="both" relType="IN" trajector="pl40" landmark="pl35" trigger="s9" comment="" />
+<OLINK id="ol0" fromID="pl8" fromText="Hapsburg Madrid" toID="pl42" toText="transition" relType="ACROSS" trajector="pl8" landmark="pl42" trigger="s11" frame_type="RELATIVE" referencePt="pl43" projective="FALSE" comment="" />
+<!--<OLINK id="ol1" fromID="m1" fromText="converge" toID="pl10" toText="plaza" relType="ABOVE" trajector="m1" landmark="pl10" trigger="s0" frame_type="INTRINSIC" referencePt="pl10" projective="FALSE" comment="" />-->
+<OLINK id="ol2" fromID="se2" fromText="symbol" toID="p3" toText="sidewalk" relType="ABOVE" trajector="se2" landmark="p3" trigger="s12" frame_type="INTRINSIC" referencePt="p3" projective="FALSE" comment="" />
+<OLINK id="ol3" fromID="se3" fromText="building" toID="pl15" toText="side" relType="ABOVE" trajector="se3" landmark="pl15" trigger="s10" frame_type="INTRINSIC" referencePt="pl15" projective="TRUE" comment="" />
+<OLINK id="ol4" fromID="se6" fromText="clock" toID="se7" toText="building" relType="TOP" trajector="se6" landmark="se7" trigger="s3" frame_type="INTRINSIC" referencePt="se7" projective="FALSE" comment="" />
+<OLINK id="ol6" fromID="pl27" fromText="Real Academia de Bellas Artes de San         Fernando" toID="pl25" toText="Puerta del Sol" relType="NORTH" trajector="pl27" landmark="pl25" trigger="s6" frame_type="ABSOLUTE" referencePt="NORTH" projective="FALSE" comment="" />
+<OLINK id="ol7" fromID="pl27" fromText="Real Academia de Bellas Artes de San         Fernando" toID="pl26" toText="Ministry of Finance" relType="BESIDE" trajector="pl27" landmark="pl26" trigger="s7" frame_type="INTRINSIC" referencePt="pl26" projective="FALSE" comment="" />
+<OLINK id="ol8" fromID="pl33" fromText="Plaza Santa Ana" toID="pl32" toText="Puerta del Sol" relType="SOUTHEAST" trajector="pl33" landmark="pl32" trigger="s8" frame_type="ABSOLUTE" referencePt="SOUTHEAST" projective="FALSE" comment="" />
+<OLINK id="ol9" fromID="pl34" fromText="Huertas district" toID="pl32" toText="Puerta del Sol" relType="SOUTHEAST" trajector="pl34" landmark="pl32" trigger="s8" frame_type="ABSOLUTE" referencePt="SOUTHEAST" projective="FALSE" comment="" />
+<OLINK id="ol5" fromID="e1" fromText="bustle" toID="se8" toText="statue" relType="FRONT_FACE" trajector="e1" landmark="se8" trigger="s4" frame_type="INTRINSIC" referencePt="se8" projective="FALSE" comment="" />
+<MOVELINK id="mvl0" fromID="m0" fromText="torn" toID="se0" toText="gate" trigger="m0" source="" goal="" midPoint="" mover="se0" landmark="" goal_reached="" pathID="" motion_signalID="ms0" comment="" />
+<MOVELINK id="mvl2" fromID="m2" fromText="gather" toID="se4" toText="Madrileños" trigger="m2" source="" goal="pl19" midPoint="" mover="se4" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl3" fromID="m1" fromText="converge" toID="p1" toText="streets" trigger="m1" source="" goal="pl10" midPoint="" mover="p1" landmark="" goal_reached="YES" pathID="" motion_signalID="ms1" comment="" />
+<METALINK id="metal0" fromID="pl1" fromText="Puerta del Sol" toID="pl0" toText="Puerta del Sol" objectID1="pl1" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal1" fromID="pl2" fromText="Gateway to the Sun" toID="pl0" toText="Puerta del Sol" objectID1="pl2" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal3" fromID="pl6" fromText="city" toID="pl3" toText="Madrid" objectID1="pl6" objectID2="pl3" relType="COREFERENCE" comment="" />
+<METALINK id="metal4" fromID="pl7" fromText="it" toID="pl0" toText="Puerta del Sol" objectID1="pl7" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal5" fromID="pl9" fromText="here" toID="pl0" toText="Puerta del Sol" objectID1="pl9" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal6" fromID="pl10" fromText="plaza" toID="pl0" toText="Puerta del Sol" objectID1="pl10" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal7" fromID="pl12" fromText="Puerta del Sol" toID="pl0" toText="Puerta del Sol" objectID1="pl12" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal8" fromID="pl14" fromText="square" toID="pl0" toText="Puerta del Sol" objectID1="pl14" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal9" fromID="pl15" fromText="side" toID="pl13" toText="side" objectID1="pl15" objectID2="pl13" relType="COREFERENCE" comment="" />
+<METALINK id="metal10" fromID="pl16" fromText="square" toID="pl0" toText="Puerta del Sol" objectID1="pl16" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal11" fromID="pl17" fromText="Casa de Correos" toID="se3" toText="building" objectID1="pl17" objectID2="se3" relType="COREFERENCE" comment="" />
+<METALINK id="metal12" fromID="pl19" fromText="here" toID="se3" toText="building" objectID1="pl19" objectID2="se3" relType="COREFERENCE" comment="" />
+<METALINK id="metal13" fromID="se5" fromText="They" toID="se4" toText="Madrileños" objectID1="se5" objectID2="se4" relType="COREFERENCE" comment="" />
+<METALINK id="metal14" fromID="se7" fromText="building" toID="se3" toText="building" objectID1="se7" objectID2="se3" relType="COREFERENCE" comment="" />
+<METALINK id="metal15" fromID="pl20" fromText="Puerta del Sol" toID="pl0" toText="Puerta del Sol" objectID1="pl20" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal16" fromID="pl21" fromText="Madrid" toID="pl3" toText="Madrid" objectID1="pl21" objectID2="pl3" relType="COREFERENCE" comment="" />
+<METALINK id="metal17" fromID="pl22" fromText="Madrid" toID="pl3" toText="Madrid" objectID1="pl22" objectID2="pl3" relType="COREFERENCE" comment="" />
+<METALINK id="metal18" fromID="pl23" fromText="Spain" toID="pl11" toText="Spain" objectID1="pl23" objectID2="pl11" relType="COREFERENCE" comment="" />
+<METALINK id="metal19" fromID="pl24" fromText="Puerta del Sol" toID="pl0" toText="Puerta del Sol" objectID1="pl24" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal20" fromID="pl25" fromText="Puerta del Sol" toID="pl0" toText="Puerta del Sol" objectID1="pl25" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal21" fromID="pl28" fromText="Museum of the Royal Academy" toID="pl27" toText="Real Academia de Bellas Artes de San         Fernando" objectID1="pl28" objectID2="pl27" relType="COREFERENCE" comment="" />
+<METALINK id="metal22" fromID="pl30" fromText="Royal Academy" toID="pl27" toText="Real Academia de Bellas Artes de San         Fernando" objectID1="pl30" objectID2="pl27" relType="COREFERENCE" comment="" />
+<METALINK id="metal23" fromID="pl32" fromText="Puerta del Sol" toID="pl0" toText="Puerta del Sol" objectID1="pl32" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal24" fromID="pl33" fromText="Plaza Santa Ana" toID="pl35" toText="both" objectID1="pl33" objectID2="pl35" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal25" fromID="pl34" fromText="Huertas district" toID="pl35" toText="both" objectID1="pl34" objectID2="pl35" relType="SUBCOREFERENCE" comment="" />
+</TAGS>
+</ISOSpaceTaskv1.15>

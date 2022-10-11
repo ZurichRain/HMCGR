@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ISOSpaceTaskv1.15>
+<TEXT><![CDATA[
+View of the farmed landscape of Llachón
+
+Fields on terraces that are surrounded by a few trees; there is a lake in the background;
+
+Lake Titicaca in the background;
+
+Capachica, Peru
+
+images/02/2014.jpg
+
+]]></TEXT>
+<TAGS>
+<PLACE id="pl4" start="108" end="112" text="lake" type="" dimensionality="VOLUME" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="120" end="130" text="background" type="" dimensionality="VOLUME" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="133" end="146" text="Lake Titicaca" type="" dimensionality="VOLUME" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="154" end="164" text="background" type="" dimensionality="VOLUME" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="167" end="182" text="Capachica, Peru" type="" dimensionality="AREA" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl0" start="20" end="29" text="landscape" type="" dimensionality="VOLUME" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="33" end="40" text="Llachón" type="" dimensionality="VOLUME" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="TRUE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="42" end="48" text="Fields" type="" dimensionality="VOLUME" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="52" end="60" text="terraces" type="" dimensionality="VOLUME" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="90" end="95" text="trees" type="" dimensionality="VOLUME" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s2" start="113" end="115" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="147" end="149" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="49" end="51" text="on" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s1" start="70" end="80" text="surrounded" cluster="" semantic_type="DIR_TOP" comment="" />
+</TAGS>
+</ISOSpaceTaskv1.15>

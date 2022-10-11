@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ISOSpaceTaskv1.15>
+<TEXT><![CDATA[
+Beer-Advertisement on a wall in Arequipa
+
+a beer advertisement on a wall of a house with a corrugated sheet roof;
+
+Arequipa, Peru
+
+images/02/2020.jpg
+
+]]></TEXT>
+<TAGS>
+<PLACE id="pl3" start="116" end="130" text="Arequipa, Peru" type="" dimensionality="AREA" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="33" end="41" text="Arequipa" type="" dimensionality="VOLUME" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="TRUE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="79" end="84" text="house" type="" dimensionality="VOLUME" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p2" start="109" end="113" text="roof" beginID="" endID="" midIDs="" type="" dimensionality="VOLUME" form="NOM" gazref="" latLong="" elevation="" mod="corrugated, sheet" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p0" start="25" end="29" text="wall" beginID="" endID="" midIDs="" type="" dimensionality="VOLUME" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p1" start="69" end="73" text="wall" beginID="" endID="" midIDs="" type="" dimensionality="VOLUME" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="1" end="19" text="Beer-Advertisement" type="" dimensionality="VOLUME" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="50" end="63" text="advertisement" type="" dimensionality="VOLUME" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s0" start="20" end="22" text="on" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s1" start="30" end="32" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="64" end="66" text="on" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s3" start="74" end="76" text="of" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="85" end="89" text="with" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+</TAGS>
+</ISOSpaceTaskv1.15>

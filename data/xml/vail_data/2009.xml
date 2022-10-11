@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ISOSpaceTaskv1.15>
+<TEXT><![CDATA[
+The Plaza de Armas in Arequipa
+
+a square that is already partly in the shade, with a lot of palm trees, a fountain in the centre and many people around it; there is a white cathedral with two narrow towers behind it; mountains in the background;
+
+Arequipa, Peru
+
+images/02/2009.jpg
+
+]]></TEXT>
+<TAGS>
+<PLACE id="pl3" start="123" end="129" text="centre" type="" dimensionality="VOLUME" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="174" end="183" text="cathedral" type="" dimensionality="VOLUME" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="200" end="206" text="towers" type="" dimensionality="VOLUME" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="narrow" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="214" end="216" text="it" type="" dimensionality="VOLUME" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="23" end="31" text="Arequipa" type="" dimensionality="AREA" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="235" end="245" text="background" type="" dimensionality="VOLUME" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="248" end="262" text="Arequipa, Peru" type="" dimensionality="AREA" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="35" end="41" text="square" type="" dimensionality="VOLUME" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl0" start="5" end="19" text="Plaza de Armas" type="" dimensionality="AREA" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="TRUE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p0" start="218" end="227" text="mountains" beginID="" endID="" midIDs="" type="" dimensionality="VOLUME" form="NOM" gazref="" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="107" end="115" text="fountain" type="" dimensionality="VOLUME" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se2" start="139" end="145" text="people" type="" dimensionality="VOLUME" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se3" start="153" end="155" text="it" type="" dimensionality="VOLUME" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="98" end="103" text="trees" type="" dimensionality="VOLUME" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s2" start="116" end="118" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="146" end="152" text="around" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s4" start="184" end="188" text="with" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s0" start="20" end="22" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="207" end="213" text="behind" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="228" end="230" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="79" end="83" text="with" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+</TAGS>
+</ISOSpaceTaskv1.15>

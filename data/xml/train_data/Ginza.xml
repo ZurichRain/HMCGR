@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[        Ginza
+        Tokyo’s best-known district is named after a silver mint
+        originally located here. Once the epitome of chic, Ginza has lost many
+        of its smartest young shoppers to the fashion boutiques of districts
+        like Aoyama and Omote-sando, but the area is still fascinating.
+        The windows of such department stores as Wako and
+        Mitsukoshi are works of art. Inside, there’s more art: all the major
+        department stores project themselves as bastions of culture,
+        maintaining their own galleries and mounting frequent world-class
+        exhibitions of prints, painting, pottery, and sculpture. Downstairs you
+        can find still more “art” — to Western eyes at least — in the
+        astonishing basement gourmet food displays. (The basement is also a
+        good place for cheaper snacks than you’ll find in the street-level
+        restaurants. )
+        Running roughly north–south through Ginza from the corner
+        of Hibiya Park all the way to Tokyo Bay is the broad avenue called
+        Harumi-dori. Taking a stroll down the avenue is such a national
+        institution that there’s even a colloquial expression for it: gin-bura.
+        Just south of Ginza itself, as you walk toward the bay, you see on your
+        left the red lanterns and long banners of the Kabuki-za, home base for
+        that most thrilling and colorful form of traditional Japanese drama.
+        The first kabuki theater was built in on this site in 1889. Designed to
+        invoke the castle architecture of the Tokugawa period, the theater was
+        destroyed in an air raid in World War II and rebuilt in 1951.
+        Still farther south is the Tsukiji Central Wholesale         Market — the largest fish market in Asia. Some 1,600 wholesale dealers
+        do business here, supplying 90 percent of the fish consumed in Tokyo
+        every day. Get here very early (5am is ideal) to see the tuna auctions
+        and enjoy the orchestrated pandemonium of the market at its finest.
+        From here, you could walk to the lovely Hama Rikyu Detached Palace         Garden. Originally a Tokugawa family estate, the garden became a public
+        park in 1945. The path to the left as you enter leads to the ferry
+        landing, where the “river buses” depart for their journeys up the
+        Sumida River to Asakusa.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl22" start="1013" end="1022" text="Tokyo Bay" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="106" end="110" text="here" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl23" start="1224" end="1229" text="Ginza" type="" dimensionality="VOLUME" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl24" start="1261" end="1264" text="bay" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl25" start="1290" end="1294" text="left" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl26" start="1336" end="1345" text="Kabuki-za" type="" dimensionality="VOLUME" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="138" end="143" text="Ginza" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl27" start="1492" end="1496" text="site" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl28" start="1702" end="1742" text="Tsukiji Central Wholesale         Market" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl29" start="1762" end="1768" text="market" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="largest" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl30" start="1772" end="1776" text="Asia" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl31" start="1827" end="1831" text="here" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl32" start="1878" end="1883" text="Tokyo" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl33" start="1907" end="1911" text="here" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl34" start="2052" end="2056" text="here" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl35" start="2087" end="2128" text="Hama Rikyu Detached Palace         Garden" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="212" end="221" text="boutiques" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl36" start="2159" end="2165" text="estate" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl37" start="2171" end="2177" text="garden" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="22" end="27" text="Tokyo" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="225" end="234" text="districts" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl39" start="2277" end="2284" text="landing" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl40" start="2367" end="2374" text="Asakusa" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="248" end="254" text="Aoyama" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="259" end="270" text="Omote-sando" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="280" end="284" text="area" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="346" end="352" text="stores" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="356" end="360" text="Wako" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="373" end="383" text="Mitsukoshi" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="41" end="49" text="district" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="461" end="467" text="stores" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="650" end="660" text="Downstairs" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="74" end="78" text="mint" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="792" end="800" text="basement" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl0" start="8" end="13" text="Ginza" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="824" end="829" text="place" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="894" end="905" text="restaurants" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="street-level" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="953" end="958" text="Ginza" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="968" end="974" text="corner" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="986" end="997" text="Hibiya Park" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl41" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="The landmark that [art, se33] is related to in 'Inside, there’s more art: all the major         department stores project themselves as bastions of culture,         maintaining their own galleries and mounting frequent world-class         exhibitions of prints, painting, pottery, and sculpture.'" />
+<PLACE id="pl42" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="The landmark that is south of [Tsukiji Central Wholesale Market, pl28] in ' Still farther south is the Tsukiji Central Wholesale         Market — the largest fish market in Asia.'" />
+<PLACE id="pl43" start="1352" end="1356" text="base" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl44" start="-1" end="-1" text="" type="" dimensionality="" form="" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="" gquant="" scopes="" comment="The source for [depart, m29] in ''" />
+<PATH id="p4" start="1036" end="1042" text="avenue" beginID="pl20" endID="pl22" midIDs="" type="" dimensionality="AREA" form="NOM" domain="" gazref="" latLong="" elevation="" mod="broad" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p6" start="1058" end="1069" text="Harumi-dori" beginID="" endID="" midIDs="" type="" dimensionality="AREA" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p13" start="1096" end="1102" text="avenue" beginID="" endID="" midIDs="" type="" dimensionality="AREA" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p7" start="2220" end="2224" text="path" beginID="" endID="" midIDs="" type="" dimensionality="AREA" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p8" start="2351" end="2363" text="Sumida River" beginID="" endID="" midIDs="" type="" dimensionality="AREA" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p0" start="1006" end="1009" text="way" beginID="" endID="" midIDs="" type="" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se61" start="1241" end="1244" text="you" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se62" start="1266" end="1269" text="you" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se63" start="1303" end="1311" text="lanterns" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se64" start="1321" end="1328" text="banners" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="long" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se37" start="2058" end="2061" text="you" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se38" start="2240" end="2243" text="you" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se40" start="2303" end="2308" text="buses" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se32" start="319" end="326" text="windows" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se33" start="423" end="426" text="art" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se34" start="694" end="697" text="art" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se35" start="777" end="785" text="displays" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="basement" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se36" start="842" end="848" text="snacks" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="-1" end="-1" text="" type="" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="The set subsuming [lanterns , se63] and [banners , se64] in 'Just south of Ginza itself, as you walk toward the bay, you see on your         left the red lanterns and long banners of the Kabuki-za, home base for         that most thrilling and colorful form of traditional Japanese drama.'" />
+<NONMOTION_EVENT id="e16" start="1475" end="1480" text="built" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e0" start="1818" end="1826" text="business" domain="" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e8" start="1866" end="1874" text="consumed" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e318" start="677" end="681" text="find" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e319" start="861" end="865" text="find" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m420" start="1080" end="1086" text="stroll" domain="" latLong="" elevation="" motion_type="COMPOUND" motion_class="FOLLOW" motion_sense="LITERAL" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<MOTION id="m23" start="1245" end="1249" text="walk" domain="" latLong="" elevation="" motion_type="COMPOUND" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m25" start="1903" end="1906" text="Get" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m26" start="2068" end="2072" text="walk" domain="" latLong="" elevation="" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m27" start="2244" end="2249" text="enter" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m28" start="2250" end="2255" text="leads" domain="" latLong="" elevation="" motion_type="COMPOUND" motion_class="REACH" motion_sense="FICTIVE" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m29" start="2310" end="2316" text="depart" domain="" latLong="" elevation="" motion_type="PATH" motion_class="LEAVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m30" start="2327" end="2335" text="journeys" domain="" latLong="" elevation="" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<MOTION id="m22" start="917" end="924" text="Running" domain="" latLong="" elevation="" motion_type="COMPOUND" motion_class="MOVE_INTERNAL" motion_sense="FICTIVE" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s30" start="1215" end="1223" text="south of" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="1274" end="1276" text="on" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s33" start="1484" end="1486" text="on" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s34" start="1689" end="1694" text="south" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s35" start="1769" end="1771" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s36" start="1875" end="1877" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s37" start="2225" end="2236" text="to the left" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s38" start="2286" end="2291" text="where" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1032" start="402" end="408" text="Inside" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s27" start="728" end="730" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1033" start="866" end="868" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms22" start="1010" end="1012" text="to" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms23" start="1087" end="1091" text="down" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms24" start="1250" end="1256" text="toward" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms26" start="2047" end="2051" text="From" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms27" start="2073" end="2075" text="to" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms28" start="2256" end="2258" text="to" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms29" start="2336" end="2338" text="up" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms30" start="2364" end="2366" text="to" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms19" start="933" end="944" text="north–south" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms20" start="945" end="952" text="through" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms21" start="959" end="963" text="from" motion_signal_type="PATH" comment="" />
+<QSLINK id="qsl0" fromID="se34" fromText="art" toID="se35" toText="displays" relType="IN" trajector="se34" landmark="se35" trigger="s27" comment="" />
+<QSLINK id="qsl1" fromID="pl20" fromText="corner" toID="pl21" toText="Hibiya Park" relType="TPP" trajector="pl20" landmark="pl21" trigger="" comment="" />
+<QSLINK id="qsl2" fromID="e319" fromText="find" toID="pl18" toText="restaurants" relType="IN" trajector="e319" landmark="pl18" trigger="s1033" comment="" />
+<QSLINK id="qsl3" fromID="se36" fromText="snacks" toID="pl17" toText="place" relType="IN" trajector="se36" landmark="pl17" trigger="" comment="" />
+<QSLINK id="qsl4" fromID="pl3" fromText="mint" toID="pl4" toText="here" relType="IN" trajector="pl3" landmark="pl4" trigger="" comment="" />
+<QSLINK id="qsl5" fromID="pl6" fromText="boutiques" toID="pl7" toText="districts" relType="IN" trajector="pl6" landmark="pl7" trigger="" comment="" />
+<QSLINK id="qsl6" fromID="se32" fromText="windows" toID="pl11" toText="stores" relType="TPP" trajector="se32" landmark="pl11" trigger="" comment="" />
+<QSLINK id="qsl7" fromID="e318" fromText="find" toID="pl15" toText="Downstairs" relType="IN" trajector="e318" landmark="pl15" trigger="" comment="" />
+<QSLINK id="qsl8" fromID="se34" fromText="art" toID="se35" toText="displays" relType="IN" trajector="se34" landmark="se35" trigger="s27" comment="" />
+<QSLINK id="qsl9" fromID="se0" fromText="" toID="pl26" toText="Kabuki-za" relType="IN" trajector="se0" landmark="pl26" trigger="" comment="" />
+<QSLINK id="qsl10" fromID="se0" fromText="" toID="pl25" toText="left" relType="IN" trajector="se0" landmark="pl25" trigger="s0" comment="" />
+<QSLINK id="qsl11" fromID="e16" fromText="built" toID="pl27" toText="site" relType="EC" trajector="e16" landmark="pl27" trigger="s33" comment="" />
+<QSLINK id="qsl12" fromID="pl29" fromText="market" toID="pl30" toText="Asia" relType="IN" trajector="pl29" landmark="pl30" trigger="s35" comment="" />
+<QSLINK id="qsl13" fromID="e0" fromText="business" toID="pl31" toText="here" relType="IN" trajector="e0" landmark="pl31" trigger="" comment="" />
+<QSLINK id="qsl14" fromID="e8" fromText="consumed" toID="pl32" toText="Tokyo" relType="IN" trajector="e8" landmark="pl32" trigger="s36" comment="" />
+<QSLINK id="qsl15" fromID="pl36" fromText="estate" toID="pl37" toText="garden" relType="EQ" trajector="pl36" landmark="pl37" trigger="" comment="" />
+<QSLINK id="qsl16" fromID="pl39" fromText="landing" toID="pl44" toText="pl39" relType="EQ" trajector="pl39" landmark="pl44" trigger="s38" comment="" />
+<OLINK id="ol0" fromID="m23" fromText="walk" toID="pl23" toText="Ginza" relType="SOUTH" trajector="m23" landmark="pl23" trigger="s30" frame_type="ABSOLUTE" referencePt="SOUTH" projective="FALSE" comment="" />
+<OLINK id="ol1" fromID="pl25" fromText="left" toID="se62" toText="you" relType="LEFT" trajector="pl25" landmark="se62" trigger="" frame_type="INTRINSIC" referencePt="se62" projective="FALSE" comment="" />
+<OLINK id="ol2" fromID="e16" fromText="built" toID="pl27" toText="site" relType="TOP" trajector="e16" landmark="pl27" trigger="s33" frame_type="INTRINSIC" referencePt="pl27" projective="FALSE" comment="" />
+<OLINK id="ol3" fromID="pl28" fromText="Tsukiji Central Wholesale         Market" toID="pl42" toText="" relType="SOUTH" trajector="pl28" landmark="pl42" trigger="s34" frame_type="ABSOLUTE" referencePt="SOUTH" projective="FALSE" comment="" />
+<OLINK id="ol5" fromID="p7" fromText="path" toID="m27" toText="enter" relType="LEFT" trajector="p7" landmark="m27" trigger="s37" frame_type="RELATIVE" referencePt="se38" projective="FALSE" comment="" />
+<MOVELINK id="mvl0" fromID="m22" fromText="Running" toID="p4" toText="avenue" trigger="m22" source="pl20" goal="pl22" midPoint="" mover="p4" landmark="pl19" goal_reached="YES" pathID="p0" motion_signalID="ms19, ms20, ms21" comment="" />
+<MOVELINK id="mvl1" fromID="m420" fromText="stroll" toID="m420" toText="stroll" trigger="m420" source="" goal="" midPoint="" mover="" landmark="" goal_reached="" pathID="p13" motion_signalID="ms23" comment="" />
+<MOVELINK id="mvl2" fromID="m23" fromText="walk" toID="se61" toText="you" trigger="m23" source="" goal="pl24" midPoint="" mover="se61" landmark="" goal_reached="NO" pathID="" motion_signalID="ms24" comment="" />
+<MOVELINK id="mvl3" fromID="m25" fromText="Get" toID="m25" toText="Get" trigger="" source="" goal="pl33" midPoint="" mover="" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl4" fromID="m26" fromText="walk" toID="se37" toText="you" trigger="m26" source="pl34" goal="pl35" midPoint="" mover="se37" landmark="" goal_reached="YES" pathID="" motion_signalID="ms26, ms27" comment="" />
+<MOVELINK id="mvl5" fromID="m28" fromText="leads" toID="p7" toText="path" trigger="m28" source="" goal="pl39" midPoint="" mover="p7" landmark="" goal_reached="YES" pathID="" motion_signalID="ms28" comment="" />
+<MOVELINK id="mvl6" fromID="m29" fromText="depart" toID="se40" toText="river buses" trigger="m29" source="pl44" goal="" midPoint="" mover="se40" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl7" fromID="m30" fromText="journeys" toID="se40" toText="buses" trigger="m30" source="" goal="pl40" midPoint="" mover="se40" landmark="" goal_reached="YES" pathID="p8" motion_signalID="ms29, ms30" comment="" />
+<METALINK id="metal0" fromID="p6" fromText="Harumi-dori" toID="p4" toText="avenue" objectID1="p6" objectID2="p4" relType="COREFERENCE" comment="" />
+<METALINK id="metal1" fromID="p13" fromText="avenue" toID="p4" toText="avenue" objectID1="p13" objectID2="p4" relType="COREFERENCE" comment="" />
+<METALINK id="metal2" fromID="pl17" fromText="place" toID="pl16" toText="basement" objectID1="pl17" objectID2="pl16" relType="COREFERENCE" comment="" />
+<METALINK id="metal3" fromID="pl2" fromText="district" toID="pl0" toText="Ginza" objectID1="pl2" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal4" fromID="pl4" fromText="here" toID="pl0" toText="Ginza" objectID1="pl4" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal5" fromID="pl5" fromText="Ginza" toID="pl0" toText="Ginza" objectID1="pl5" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal6" fromID="pl9" fromText="Omote-sando" toID="pl7" toText="districts" objectID1="pl9" objectID2="pl7" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal7" fromID="pl8" fromText="Aoyama" toID="pl7" toText="districts" objectID1="pl8" objectID2="pl7" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal8" fromID="pl10" fromText="area" toID="pl0" toText="Ginza" objectID1="pl10" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal9" fromID="pl12" fromText="Wako" toID="pl11" toText="stores" objectID1="pl12" objectID2="pl11" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal10" fromID="pl13" fromText="Mitsukoshi" toID="pl11" toText="stores" objectID1="pl13" objectID2="pl11" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal11" fromID="pl41" fromText="" toID="pl11" toText="stores" objectID1="pl41" objectID2="pl11" relType="COREFERENCE" comment="" />
+<METALINK id="metal12" fromID="pl23" fromText="Ginza" toID="pl0" toText="Ginza" objectID1="pl23" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal13" fromID="pl43" fromText="base" toID="pl26" toText="Kabuki-za" objectID1="pl43" objectID2="pl26" relType="COREFERENCE" comment="" />
+<METALINK id="metal14" fromID="pl24" fromText="bay" toID="pl22" toText="Tokyo Bay" objectID1="pl24" objectID2="pl22" relType="COREFERENCE" comment="" />
+<METALINK id="metal15" fromID="pl42" fromText="" toID="pl0" toText="Ginza" objectID1="pl42" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal16" fromID="pl29" fromText="market" toID="pl28" toText="Tsukiji Central Wholesale         Market" objectID1="pl29" objectID2="pl28" relType="COREFERENCE" comment="" />
+<METALINK id="metal17" fromID="pl31" fromText="here" toID="pl28" toText="Tsukiji Central Wholesale         Market" objectID1="pl31" objectID2="pl28" relType="COREFERENCE" comment="" />
+<METALINK id="metal18" fromID="pl34" fromText="here" toID="pl28" toText="Tsukiji Central Wholesale         Market" objectID1="pl34" objectID2="pl28" relType="COREFERENCE" comment="" />
+<METALINK id="metal19" fromID="pl37" fromText="garden" toID="pl35" toText="Hama Rikyu Detached Palace         Garden" objectID1="pl37" objectID2="pl35" relType="COREFERENCE" comment="" />
+<METALINK id="metal20" fromID="pl32" fromText="Tokyo" toID="pl1" toText="Tokyo" objectID1="pl32" objectID2="pl1" relType="COREFERENCE" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2>

@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[
+
+04-Sep-2004 -- We began our expedition on Saturday, September 4th, 2004. At 11 o'clock we left Bucharest for Focsani on DN 2 (European Road 85). The GPS showed that we were at 185 km from the confluence North 46 with East 27. We drove through the cities of Urziceni, Buzau, Ramnicu Sarat and, after three hours of driving and 200 km, we reached Focsani, at 35 km from the confluence point, in the county of Vrancea
+
+We continued our journey, heading west, towards Panciu. Passing through the villages of Muncelu and Straoane, the distance to confluence point decreased to almost 5 km. The closest area of the road to the confluence ( 4.8 km ) is in the vicinity of the Ecaterina Teodoroiu monument (Romanian female hero of the First World War). Because a dirtroad started right at the monument (on the right coming from Panciu) and seemed to head exactly towards the target point (direction North-North-West), we left the car and continued our trip on foot on the Dealu Mare hill.
+
+Luckily, this cart road kept us on the right heading, passing through the villagers' pastures, cornfields and vineyards. After about 3 km, we entered the forest, and at a crossroad (1 km from the confluence) we took the road which kept us going towards North-East. As we walked into the oak wood the road changed into a path , which we left at about 300 m from the confluence because we were getting away from it. We were surprised to meet a deer, which wandered away quickly as it saw us. We started descending a slope towards North-East-East and, after an hour of walking - from the monument - we reached our target, deep into the forest.
+
+Needless to say that, because of the treetop cover, we had poor satellite coverage, but we managed to locate the confluence with a 10-15 m error, after some wandering around. It lays about the western cliff of a 15 m deep ravine , on the bottom of which we saw a dry riverbed. The steep slope and the thick carpet of fallen leaves hindered the descent and very precise determination of the confluence point, but we managed to pinpoint and take photos within sufficient accuracy from 'zero point' . We congratulated ourselves and made the necessary photos to immortalize for eternity our conquest.
+
+The return journey was easy, because we knew already the area. By nightfall we were back in Bucharest. In this region fierce battles took place in the year 1917 (Marasti, Marasesti, Oituz) between the Romanian and Russian armies, on one side and the German and Austro-Hungarian ones, on the other. Before starting our trek, we visited the impressing mausoleum at Marasti, at 20 km of Panciu.
+
+]]></TEXT>
+<TAGS>
+<PLACE id="pl65" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="the point within the 10-15 m error that they located (could be, but not necessarily, the confluence)" />
+<PLACE id="pl62" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="the area around the confluence (pl35) with a radius of 10-15m" />
+<PLACE id="pl52" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="one side of the cities in 'we drove through the cities'" />
+<PLACE id="pl53" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="other side of the cities in 'we drove through the cities'" />
+<PLACE id="pl54" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="one side of the villages in 'passing through the villages'" />
+<PLACE id="pl55" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="other side of the villages in 'passing through the villages'" />
+<PLACE id="pl51" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="place where the deer wandered away from (where the meeting occurred)" />
+<PLACE id="pl39" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="point where 'we left [the path] at about 300 m from the confluence'" />
+<PLACE id="pl56" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="one side of villagers' pastures" />
+<PLACE id="pl57" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="other side of villagers' pastures" />
+<PLACE id="pl58" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="one side of cornfields" />
+<PLACE id="pl59" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="other side of cornfields" />
+<PLACE id="pl60" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="one side of vineyards" />
+<PLACE id="pl61" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="other side of vineyards" />
+<PLACE id="pl47" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="place that is 185 km from the confluence North 46 with East 27" />
+<PLACE id="pl67" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="place that is '35 km from the confluence point'" />
+<PLACE id="pl68" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="place that is '20 km of Panciu'" />
+<PLACE id="pl23" start="1069" end="1077" text="pastures" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl24" start="1079" end="1089" text="cornfields" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl25" start="1094" end="1103" text="vineyards" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="111" end="118" text="Focsani" type="" dimensionality="VOLUME" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl26" start="1138" end="1144" text="forest" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl27" start="1155" end="1164" text="crossroad" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl28" start="1180" end="1190" text="confluence" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl29" start="1275" end="1279" text="wood" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl30" start="1349" end="1359" text="confluence" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl31" start="1394" end="1396" text="it" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl32" start="1569" end="1577" text="monument" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl33" start="1595" end="1601" text="target" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl34" start="1617" end="1623" text="forest" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl35" start="1739" end="1749" text="confluence" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl36" start="1801" end="1803" text="It" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="194" end="204" text="confluence" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl37" start="2027" end="2032" text="point" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl45" start="2110" end="2120" text="zero point" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl38" start="2281" end="2285" text="area" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl40" start="2316" end="2325" text="Bucharest" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl41" start="2335" end="2341" text="region" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="249" end="255" text="cities" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl42" start="2574" end="2583" text="mausoleum" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl43" start="2587" end="2594" text="Marasti" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="259" end="267" text="Urziceni" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl44" start="2608" end="2614" text="Panciu" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="269" end="274" text="Buzau" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="276" end="289" text="Ramnicu Sarat" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="347" end="354" text="Focsani" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="385" end="390" text="point" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="399" end="405" text="county" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="409" end="416" text="Vrancea" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="466" end="472" text="Panciu" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="494" end="502" text="villages" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="506" end="513" text="Muncelu" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="518" end="526" text="Straoane" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="555" end="560" text="point" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="623" end="633" text="confluence" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="655" end="663" text="vicinity" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="671" end="699" text="Ecaterina Teodoroiu monument" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="787" end="795" text="monument" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="822" end="828" text="Panciu" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="876" end="881" text="point" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="966" end="981" text="Dealu Mare hill" type="" dimensionality="VOLUME" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl0" start="97" end="106" text="Bucharest" type="" dimensionality="VOLUME" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p7" start="1003" end="1007" text="road" beginID="" endID="" midIDs="" type="" dimensionality="AREA" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p8" start="1204" end="1208" text="road" beginID="" endID="" midIDs="" type="" dimensionality="AREA" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p0" start="122" end="126" text="DN 2" beginID="" endID="" midIDs="" type="" dimensionality="VOLUME" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p1" start="128" end="144" text="European Road 85" beginID="" endID="" midIDs="" type="" dimensionality="VOLUME" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p9" start="1284" end="1288" text="road" beginID="" endID="" midIDs="" type="" dimensionality="AREA" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p10" start="1304" end="1308" text="path" beginID="" endID="" midIDs="pl39" type="" dimensionality="AREA" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p11" start="1498" end="1503" text="slope" beginID="" endID="" midIDs="" type="" dimensionality="VOLUME" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p12" start="1827" end="1832" text="cliff" beginID="" endID="" midIDs="" type="" dimensionality="VOLUME" form="NOM" domain="" gazref="" latLong="" elevation="" mod="western" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p13" start="1848" end="1854" text="ravine" beginID="" endID="" midIDs="" type="" dimensionality="VOLUME" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p14" start="1864" end="1870" text="bottom" beginID="" endID="" midIDs="" type="" dimensionality="VOLUME" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p15" start="1893" end="1901" text="riverbed" beginID="" endID="" midIDs="" type="" dimensionality="VOLUME" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p16" start="1913" end="1918" text="slope" beginID="" endID="" midIDs="" type="" dimensionality="VOLUME" form="NOM" domain="" gazref="" latLong="" elevation="" mod="steep" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p2" start="205" end="213" text="North 46" beginID="" endID="" midIDs="pl2" type="" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p3" start="219" end="226" text="East 27" beginID="" endID="" midIDs="pl2" type="" dimensionality="LINE" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p4" start="599" end="603" text="area" beginID="" endID="" midIDs="" type="" dimensionality="AREA" form="NOM" domain="" gazref="" latLong="" elevation="" mod="closest" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p5" start="611" end="615" text="road" beginID="" endID="" midIDs="" type="" dimensionality="AREA" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p6" start="757" end="765" text="dirtroad" beginID="" endID="" midIDs="" type="" dimensionality="AREA" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se8" start="1013" end="1015" text="us" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se9" start="1123" end="1125" text="we" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se10" start="1192" end="1194" text="we" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se11" start="1220" end="1222" text="us" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se12" start="1252" end="1254" text="we" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se13" start="1317" end="1319" text="we" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se14" start="1368" end="1370" text="we" type="" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se15" start="1398" end="1400" text="We" type="" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se16" start="1426" end="1430" text="deer" type="" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se25" start="1463" end="1465" text="it" type="" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se26" start="1470" end="1472" text="us" type="" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se17" start="1474" end="1476" text="We" type="" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se18" start="1580" end="1582" text="we" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se2" start="167" end="169" text="we" type="" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="17" end="19" text="We" type="" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se19" start="1714" end="1716" text="we" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se20" start="1933" end="1939" text="carpet" type="" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se22" start="2261" end="2263" text="we" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se3" start="228" end="230" text="We" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se23" start="2300" end="2302" text="we" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se24" start="2548" end="2550" text="we" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se4" start="336" end="338" text="we" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se5" start="418" end="420" text="We" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="89" end="91" text="we" type="" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se6" start="912" end="914" text="we" type="" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se7" start="924" end="927" text="car" type="" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se21" start="2038" end="2040" text="we" type="" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se27" start="1678" end="1680" text="we" type="" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se28" start="1880" end="1882" text="we" type="" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se29" start="2124" end="2126" text="We" type="" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e0" start="1804" end="1808" text="lays" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e6" start="2052" end="2060" text="pinpoint" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e1" start="2349" end="2356" text="battles" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e2" start="2386" end="2393" text="Marasti" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e3" start="2395" end="2404" text="Marasesti" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e4" start="2406" end="2411" text="Oituz" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e7" start="2065" end="2069" text="take" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m10" start="1038" end="1045" text="passing" domain="" latLong="" elevation="" motion_type="PATH" motion_class="CROSS" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m11" start="1126" end="1133" text="entered" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m12" start="1195" end="1199" text="took" domain="" latLong="" elevation="" motion_type="PATH" motion_class="FOLLOW" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m13" start="1223" end="1228" text="going" domain="" latLong="" elevation="" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m26" start="1255" end="1261" text="walked" domain="" latLong="" elevation="" motion_type="COMPOUND" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m14" start="1320" end="1324" text="left" domain="" latLong="" elevation="" motion_type="PATH" motion_class="DEVIATE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m15" start="1376" end="1383" text="getting" domain="" latLong="" elevation="" motion_type="PATH" motion_class="MOVE_EXTERNAL" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m29" start="1419" end="1423" text="meet" domain="" latLong="" elevation="" motion_type="PATH" motion_class="MOVE_EXTERNAL" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m16" start="1438" end="1446" text="wandered" domain="" latLong="" elevation="" motion_type="COMPOUND" motion_class="LEAVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m17" start="1485" end="1495" text="descending" domain="" latLong="" elevation="" motion_type="PATH" motion_class="FOLLOW" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m18" start="1550" end="1557" text="walking" domain="" latLong="" elevation="" motion_type="COMPOUND" motion_class="LEAVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m19" start="1583" end="1590" text="reached" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m20" start="1728" end="1734" text="locate" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m21" start="1783" end="1792" text="wandering" domain="" latLong="" elevation="" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m22" start="1970" end="1977" text="descent" domain="" latLong="" elevation="" motion_type="PATH" motion_class="FOLLOW" motion_sense="LITERAL" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<MOTION id="m23" start="2235" end="2242" text="journey" domain="" latLong="" elevation="" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<MOTION id="m2" start="231" end="236" text="drove" domain="" latLong="" elevation="" motion_type="COMPOUND" motion_class="CROSS" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m27" start="2542" end="2546" text="trek" domain="" latLong="" elevation="" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<MOTION id="m28" start="2551" end="2558" text="visited" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="30" end="40" text="expedition" domain="" latLong="" elevation="" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<MOTION id="m3" start="316" end="323" text="driving" domain="" latLong="" elevation="" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m4" start="339" end="346" text="reached" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m5" start="435" end="442" text="journey" domain="" latLong="" elevation="" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m24" start="444" end="451" text="heading" domain="" latLong="" elevation="" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m25" start="474" end="481" text="Passing" domain="" latLong="" elevation="" motion_type="PATH" motion_class="CROSS" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m30" start="766" end="773" text="started" domain="" latLong="" elevation="" motion_type="PATH" motion_class="LEAVE" motion_sense="FICTIVE" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m6" start="810" end="816" text="coming" domain="" latLong="" elevation="" motion_type="PATH" motion_class="LEAVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m7" start="844" end="848" text="head" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m8" start="915" end="919" text="left" domain="" latLong="" elevation="" motion_type="PATH" motion_class="LEAVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m1" start="92" end="96" text="left" domain="" latLong="" elevation="" motion_type="PATH" motion_class="LEAVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m9" start="946" end="950" text="trip" domain="" latLong="" elevation="" motion_type="COMPOUND" motion_class="MOVE_EXTERNAL" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s23" start="1325" end="1327" text="at" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s11" start="1608" end="1612" text="into" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="175" end="177" text="at" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s12" start="1809" end="1814" text="about" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s14" start="1857" end="1859" text="on" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s15" start="2313" end="2315" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s16" start="2327" end="2329" text="In" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s17" start="2584" end="2586" text="at" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s18" start="2596" end="2598" text="at" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="356" end="358" text="at" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="392" end="394" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s20" start="616" end="618" text="to" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="648" end="650" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s8" start="797" end="809" text="on the right" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<MOTION_SIGNAL id="ms10" start="1046" end="1053" text="through" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms0" start="107" end="110" text="for" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms11" start="1150" end="1152" text="at" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms1" start="119" end="121" text="on" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms12" start="1229" end="1247" text="towards North-East" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms13" start="1262" end="1266" text="into" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms15" start="1384" end="1388" text="away" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms16" start="1389" end="1393" text="from" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms17" start="1447" end="1451" text="away" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms18" start="1504" end="1527" text="towards North-East-East" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms19" start="1560" end="1564" text="from" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms20" start="1793" end="1799" text="around" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms2" start="237" end="244" text="through" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms21" start="452" end="456" text="west" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms3" start="458" end="465" text="towards" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms4" start="482" end="489" text="through" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms22" start="780" end="782" text="at" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms5" start="817" end="821" text="from" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms6" start="857" end="864" text="towards" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms7" start="883" end="909" text="direction North-North-West" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms8" start="951" end="958" text="on foot" motion_signal_type="MANNER" comment="" />
+<MOTION_SIGNAL id="ms9" start="959" end="961" text="on" motion_signal_type="PATH" comment="" />
+<MEASURE id="me5" start="1111" end="1121" text="about 3 km" value="~3" unit="kilometers" comment="" />
+<MEASURE id="me6" start="1166" end="1170" text="1 km" value="1" unit="kilometers" comment="" />
+<MEASURE id="me7" start="1328" end="1339" text="about 300 m" value="~300" unit="meters" comment="" />
+<MEASURE id="me0" start="178" end="184" text="185 km" value="185" unit="kilometers" comment="" />
+<MEASURE id="me9" start="1838" end="1842" text="15 m" value="15" unit="meters" comment="" />
+<MEASURE id="me10" start="2599" end="2604" text="20 km" value="20" unit="kilometers" comment="" />
+<MEASURE id="me1" start="328" end="334" text="200 km" value="200" unit="kilometers" comment="" />
+<MEASURE id="me2" start="359" end="364" text="35 km" value="35" unit="kilometers" comment="" />
+<MEASURE id="me3" start="574" end="585" text="almost 5 km" value="~5" unit="kilometers" comment="" />
+<MEASURE id="me4" start="636" end="642" text="4.8 km" value="4.8" unit="kilometers" comment="" />
+<MEASURE id="me8" start="2077" end="2103" text="within sufficient accuracy" value="NEAR" unit="" comment="" />
+<QSLINK id="qsl0" fromID="pl52" fromText="" toID="pl3" toText="cities" relType="EC" trajector="pl52" landmark="pl3" trigger="" comment="" />
+<QSLINK id="qsl1" fromID="pl2" fromText="confluence" toID="p3" toText="East 27" relType="NTPP" trajector="pl2" landmark="p3" trigger="" comment="" />
+<QSLINK id="qsl11" fromID="pl33" fromText="target" toID="pl34" toText="forest" relType="IN" trajector="pl33" landmark="pl34" trigger="s11" comment="" />
+<QSLINK id="qsl12" fromID="e0" fromText="lays" toID="p12" toText="cliff" relType="EC" trajector="e0" landmark="pl12" trigger="s12" comment="" />
+<QSLINK id="qsl13" fromID="p12" fromText="cliff" toID="p13" toText="ravine" relType="TPP" trajector="p12" landmark="p13" trigger="" comment="" />
+<QSLINK id="qsl14" fromID="p14" fromText="bottom" toID="p13" toText="ravine" relType="TPP" trajector="p14" landmark="p13" trigger="" comment="" />
+<QSLINK id="qsl15" fromID="p15" fromText="riverbed" toID="p14" toText="bottom" relType="TPP" trajector="p15" landmark="p14" trigger="s14" comment="" />
+<QSLINK id="qsl16" fromID="se20" fromText="carpet" toID="p16" toText="slope" relType="EC" trajector="se20" landmark="p16" trigger="" comment="" />
+<QSLINK id="qsl17" fromID="se2" fromText="we" toID="pl47" toText="" relType="IN" trajector="se2" landmark="pl47" trigger="s0" comment="" />
+<QSLINK id="qsl18" fromID="pl54" fromText="" toID="pl12" toText="villages" relType="EC" trajector="pl54" landmark="pl12" trigger="" comment="" />
+<QSLINK id="qsl19" fromID="pl55" fromText="" toID="pl12" toText="villages" relType="EC" trajector="pl55" landmark="pl12" trigger="" comment="" />
+<QSLINK id="qsl2" fromID="pl2" fromText="confluence" toID="p2" toText="North 46" relType="NTPP" trajector="pl2" landmark="p2" trigger="" comment="" />
+<QSLINK id="qsl20" fromID="pl56" fromText="" toID="pl23" toText="pastures" relType="EC" trajector="pl56" landmark="pl23" trigger="" comment="" />
+<QSLINK id="qsl21" fromID="se23" fromText="we" toID="pl40" toText="Bucharest" relType="IN" trajector="se23" landmark="pl40" trigger="s15" comment="" />
+<QSLINK id="qsl22" fromID="e1" fromText="battles" toID="pl41" toText="region" relType="IN" trajector="e1" landmark="pl41" trigger="s16" comment="" />
+<QSLINK id="qsl23" fromID="pl42" fromText="mausoleum" toID="pl43" toText="Marasti" relType="IN" trajector="pl42" landmark="pl43" trigger="s17" comment="" />
+<QSLINK id="qsl29" fromID="pl7" fromText="Focsani" toID="pl67" toText="" relType="IN" trajector="pl7" landmark="pl67" trigger="s2" comment="" />
+<QSLINK id="qsl3" fromID="pl53" fromText="" toID="pl3" toText="cities" relType="EC" trajector="pl53" landmark="pl3" trigger="" comment="" />
+<QSLINK id="qsl31" fromID="pl43" fromText="Marasti" toID="pl68" toText="" relType="IN" trajector="pl43" landmark="pl68" trigger="s18" comment="" />
+<QSLINK id="qsl32" fromID="pl57" fromText="" toID="pl23" toText="pastures" relType="EC" trajector="pl57" landmark="pl23" trigger="" comment="" />
+<QSLINK id="qsl33" fromID="pl58" fromText="" toID="pl24" toText="cornfields" relType="EC" trajector="pl58" landmark="pl24" trigger="" comment="" />
+<QSLINK id="qsl34" fromID="pl59" fromText="" toID="pl24" toText="cornfields" relType="EC" trajector="pl59" landmark="pl24" trigger="" comment="" />
+<QSLINK id="qsl35" fromID="pl60" fromText="" toID="pl25" toText="vineyards" relType="EC" trajector="pl60" landmark="pl25" trigger="" comment="" />
+<QSLINK id="qsl36" fromID="pl61" fromText="" toID="pl25" toText="vineyards" relType="EC" trajector="pl61" landmark="pl25" trigger="" comment="" />
+<QSLINK id="qsl37" fromID="m14" fromText="left" toID="pl39" toText="" relType="IN" trajector="m14" landmark="pl39" trigger="s23" comment="" />
+<QSLINK id="qsl38" fromID="pl65" fromText="" toID="pl62" toText="" relType="IN" trajector="pl65" landmark="pl62" trigger="" comment="" />
+<QSLINK id="qsl39" fromID="pl35" fromText="confluence" toID="pl62" toText="" relType="IN" trajector="pl35" landmark="pl62" trigger="" comment="" />
+<QSLINK id="qsl4" fromID="pl7" fromText="Focsani" toID="pl9" toText="county" relType="IN" trajector="pl7" landmark="pl9" trigger="s4" comment="" />
+<QSLINK id="qsl5" fromID="p4" fromText="area" toID="p5" toText="road" relType="NTPP" trajector="p4" landmark="p5" trigger="" comment="" />
+<QSLINK id="qsl7" fromID="p4" fromText="area" toID="pl17" toText="vicinity" relType="IN" trajector="p4" landmark="pl17" trigger="s6" comment="" />
+<QSLINK id="qsl8" fromID="pl18" fromText="Ecaterina Teodoroiu monument" toID="pl17" toText="vicinity" relType="IN" trajector="pl18" landmark="pl17" trigger="" comment="" />
+<OLINK id="ol0" fromID="pl19" fromText="monument" toID="m6" toText="coming" relType="RIGHT" trajector="pl19" landmark="m6" trigger="s8" frame_type="RELATIVE" referencePt="m6" projective="FALSE" comment="The reference point is probably the mover, but in this case the mover is underspecified." />
+<OLINK id="ol2" fromID="se20" fromText="carpet" toID="p16" toText="slope" relType="ABOVE" trajector="se20" landmark="p16" trigger="" frame_type="INTRINSIC" referencePt="p16" projective="FALSE" comment="" />
+<OLINK id="ol1" fromID="p5" fromText="road" toID="pl16" toText="confluence" relType="TOWARD" trajector="p5" landmark="pl16" trigger="s20" frame_type="RELATIVE" referencePt="VIEWER" projective="FALSE" comment="" />
+<MOVELINK id="mvl0" fromID="m0" fromText="expedition" toID="se0" toText="We" trigger="m0" source="" goal="" midPoint="" mover="se0" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl1" fromID="m1" fromText="left" toID="se1" toText="we" trigger="m1" source="pl0" goal="pl1" midPoint="" mover="se1" landmark="" goal_reached="UNCERTAIN" pathID="p0" motion_signalID="ms0, ms1" comment="" />
+<MOVELINK id="mvl10" fromID="m7" fromText="head" toID="p6" toText="dirtroad" trigger="m7" source="" goal="pl21" midPoint="" mover="p6" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms6, ms7" comment="" />
+<MOVELINK id="mvl11" fromID="m8" fromText="left" toID="se6" toText="we" trigger="m8" source="se7" goal="" midPoint="" mover="se6" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl12" fromID="m9" fromText="trip" toID="se6" toText="we" trigger="m9" source="" goal="" midPoint="" mover="se6" landmark="pl22" goal_reached="" pathID="" motion_signalID="ms8, ms9" comment="" />
+<MOVELINK id="mvl13" fromID="m10" fromText="passing" toID="se8" toText="us" trigger="m10" source="pl56" goal="pl57" midPoint="pl23" mover="se8" landmark="" goal_reached="YES" pathID="p7" motion_signalID="ms10" comment="" />
+<MOVELINK id="mvl14" fromID="m10" fromText="passing" toID="se8" toText="us" trigger="m10" source="pl58" goal="pl59" midPoint="pl24" mover="se8" landmark="" goal_reached="YES" pathID="p7" motion_signalID="ms10" comment="" />
+<MOVELINK id="mvl15" fromID="m10" fromText="passing" toID="se8" toText="us" trigger="m10" source="pl60" goal="pl61" midPoint="pl25" mover="se8" landmark="" goal_reached="YES" pathID="p7" motion_signalID="ms10" comment="" />
+<MOVELINK id="mvl16" fromID="m11" fromText="entered" toID="se9" toText="we" trigger="m11" source="" goal="pl26" midPoint="" mover="se9" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl17" fromID="m12" fromText="took" toID="se10" toText="we" trigger="m12" source="pl27" goal="" midPoint="" mover="se10" landmark="" goal_reached="" pathID="p8" motion_signalID="ms11" comment="" />
+<MOVELINK id="mvl18" fromID="m13" fromText="going" toID="se11" toText="us" trigger="m13" source="" goal="" midPoint="" mover="se11" landmark="" goal_reached="" pathID="p8" motion_signalID="ms12" comment="" />
+<MOVELINK id="mvl19" fromID="m26" fromText="walked" toID="se12" toText="we" trigger="m26" source="" goal="pl29" midPoint="" mover="se12" landmark="" goal_reached="YES" pathID="" motion_signalID="ms13" comment="" />
+<MOVELINK id="mvl2" fromID="m2" fromText="drove" toID="se3" toText="We" trigger="m2" source="pl52" goal="pl53" midPoint="pl3" mover="se3" landmark="" goal_reached="YES" pathID="" motion_signalID="ms2" comment="" />
+<MOVELINK id="mvl20" fromID="m14" fromText="left" toID="se13" toText="we" trigger="m14" source="p10" goal="" midPoint="" mover="se13" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl21" fromID="m15" fromText="getting" toID="se14" toText="we" trigger="m15" source="" goal="" midPoint="" mover="se14" landmark="pl31" goal_reached="" pathID="" motion_signalID="ms15, ms16" comment="" />
+<MOVELINK id="mvl22" fromID="m29" fromText="meet" toID="se15" toText="We" trigger="m29" source="" goal="" midPoint="" mover="se15" landmark="se16" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl23" fromID="m16" fromText="wandered" toID="se16" toText="deer" trigger="m16" source="pl51" goal="" midPoint="" mover="se16" landmark="" goal_reached="" pathID="" motion_signalID="ms17" comment="" />
+<MOVELINK id="mvl24" fromID="m17" fromText="descending" toID="se17" toText="We" trigger="m17" source="" goal="" midPoint="" mover="se17" landmark="" goal_reached="" pathID="p11" motion_signalID="ms18" comment="" />
+<MOVELINK id="mvl25" fromID="m18" fromText="walking" toID="se18" toText="we" trigger="m18" source="pl32" goal="" midPoint="" mover="se17" landmark="" goal_reached="" pathID="" motion_signalID="ms19" comment="" />
+<MOVELINK id="mvl26" fromID="m19" fromText="reached" toID="se18" toText="we" trigger="m19" source="" goal="pl33" midPoint="" mover="se18" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl27" fromID="m20" fromText="locate" toID="se19" toText="we" trigger="m20" source="" goal="pl65" midPoint="" mover="se19" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl28" fromID="m21" fromText="wandering" toID="se19" toText="we" trigger="m21" source="" goal="" midPoint="" mover="se19" landmark="" goal_reached="" pathID="" motion_signalID="ms20" comment="" />
+<MOVELINK id="mvl3" fromID="m3" fromText="driving" toID="se3" toText="We" trigger="m3" source="" goal="" midPoint="" mover="se3" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl30" fromID="m23" fromText="journey" toID="se22" toText="we" trigger="m23" source="" goal="" midPoint="" mover="se22" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl31" fromID="m27" fromText="trek" toID="se24" toText="we" trigger="m27" source="" goal="" midPoint="" mover="se24" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl32" fromID="m28" fromText="visited" toID="se24" toText="we" trigger="m28" source="" goal="pl42" midPoint="" mover="se24" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl4" fromID="m4" fromText="reached" toID="se4" toText="we" trigger="m4" source="" goal="pl7" midPoint="" mover="se4" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl5" fromID="m5" fromText="journey" toID="se5" toText="We" trigger="m5" source="" goal="" midPoint="" mover="se5" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl6" fromID="m24" fromText="heading" toID="se5" toText="We" trigger="m24" source="" goal="pl11" midPoint="" mover="se5" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="ms21, ms3" comment="" />
+<MOVELINK id="mvl7" fromID="m25" fromText="Passing" toID="m25" toText="Passing" trigger="m25" source="pl54" goal="pl55" midPoint="pl12" mover="m25" landmark="" goal_reached="YES" pathID="" motion_signalID="ms4" comment="" />
+<MOVELINK id="mvl8" fromID="m30" fromText="started" toID="p6" toText="dirtroad" trigger="m30" source="pl19" goal="" midPoint="" mover="p6" landmark="" goal_reached="" pathID="" motion_signalID="ms22" comment="" />
+<MOVELINK id="mvl9" fromID="m6" fromText="coming" toID="m6" toText="coming" trigger="m6" source="pl20" goal="" midPoint="" mover="" landmark="" goal_reached="" pathID="" motion_signalID="ms5" comment="Generic mover" />
+<MOVELINK id="mvl33" fromID="m22" fromText="descent" toID="se21" toText="we" trigger="m22" source="" goal="" midPoint="se21" mover="se21" landmark="" goal_reached="" pathID="p16" motion_signalID="" comment="" />
+<MEASURELINK id="ml0" fromID="m25" fromText="Passing" toID="pl15" toText="point" trajector="m25" landmark="pl15" relType="DISTANCE" val="me3" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml1" fromID="m3" fromText="driving" toID="m3" toText="driving" trajector="m3" landmark="m3" relType="GENERAL_DIMENSION" val="me1" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml11" fromID="pl67" fromText="" toID="pl8" toText="point" trajector="pl67" landmark="pl8" relType="DISTANCE" val="me2" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml12" fromID="pl68" fromText="" toID="pl44" toText="Panciu" trajector="pl68" landmark="pl44" relType="DISTANCE" val="me10" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml4" fromID="p4" fromText="area" toID="pl16" toText="confluence" trajector="p4" landmark="pl16" relType="DISTANCE" val="me4" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml5" fromID="pl27" fromText="crossroad" toID="pl28" toText="confluence" trajector="pl27" landmark="pl28" relType="DISTANCE" val="me6" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml6" fromID="pl39" fromText="" toID="pl30" toText="confluence" trajector="pl39" landmark="pl30" relType="DISTANCE" val="me7" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml7" fromID="p13" fromText="ravine" toID="p13" toText="ravine" trajector="pl13" landmark="pl13" relType="HEIGHT" val="me9" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml9" fromID="pl47" fromText="" toID="pl2" toText="confluence" trajector="pl47" landmark="pl2" relType="DISTANCE" val="me0" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml2" fromID="e6" fromText="pinpoint" toID="pl45" toText="zero point" trajector="e6" landmark="pl45" relType="DISTANCE" val="me8" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml3" fromID="e7" fromText="take" toID="pl45" toText="zero point" trajector="e7" landmark="pl45" relType="DISTANCE" val="me8" endPoint1="" endPoint2="" comment="" />
+<METALINK id="metal0" fromID="p1" fromText="European Road 85" toID="p0" toText="DN 2" objectID1="p1" objectID2="p0" relType="COREFERENCE" comment="" />
+<METALINK id="metal1" fromID="pl7" fromText="Focsani" toID="pl1" toText="Focsani" objectID1="pl7" objectID2="pl1" relType="COREFERENCE" comment="" />
+<METALINK id="metal10" fromID="pl37" fromText="point" toID="pl2" toText="confluence" objectID1="pl37" objectID2="pl2" relType="COREFERENCE" comment="" />
+<METALINK id="metal11" fromID="pl45" fromText="zero point" toID="pl2" toText="confluence" objectID1="pl45" objectID2="pl2" relType="COREFERENCE" comment="" />
+<METALINK id="metal12" fromID="pl19" fromText="monument" toID="pl18" toText="Ecaterina Teodoroiu monument" objectID1="pl19" objectID2="pl18" relType="COREFERENCE" comment="" />
+<METALINK id="metal13" fromID="pl32" fromText="monument" toID="pl18" toText="Ecaterina Teodoroiu monument" objectID1="pl32" objectID2="pl18" relType="COREFERENCE" comment="" />
+<METALINK id="metal14" fromID="pl20" fromText="Panciu" toID="pl11" toText="Panciu" objectID1="pl20" objectID2="pl11" relType="COREFERENCE" comment="" />
+<METALINK id="metal15" fromID="pl44" fromText="Panciu" toID="pl11" toText="Panciu" objectID1="pl44" objectID2="pl11" relType="COREFERENCE" comment="" />
+<METALINK id="metal16" fromID="pl40" fromText="Bucharest" toID="pl0" toText="Bucharest" objectID1="pl40" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal17" fromID="pl41" fromText="region" toID="pl0" toText="Bucharest" objectID1="pl41" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal18" fromID="se1" fromText="we" toID="se0" toText="We" objectID1="se1" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal19" fromID="se2" fromText="we" toID="se0" toText="We" objectID1="se2" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal2" fromID="pl10" fromText="Vrancea" toID="pl9" toText="county" objectID1="pl10" objectID2="pl9" relType="COREFERENCE" comment="" />
+<METALINK id="metal20" fromID="se3" fromText="We" toID="se0" toText="We" objectID1="se3" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal21" fromID="se4" fromText="we" toID="se0" toText="We" objectID1="se4" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal22" fromID="pl8" fromText="point" toID="pl2" toText="confluence" objectID1="pl8" objectID2="pl2" relType="COREFERENCE" comment="" />
+<METALINK id="metal23" fromID="se5" fromText="We" toID="se0" toText="We" objectID1="se5" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal24" fromID="se6" fromText="we" toID="se0" toText="We" objectID1="se6" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal25" fromID="se8" fromText="us" toID="se0" toText="We" objectID1="se8" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal26" fromID="se9" fromText="we" toID="se0" toText="We" objectID1="se9" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal27" fromID="se10" fromText="we" toID="se0" toText="We" objectID1="se10" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal28" fromID="se11" fromText="us" toID="se0" toText="We" objectID1="se11" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal29" fromID="se12" fromText="we" toID="se0" toText="We" objectID1="se12" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal3" fromID="pl15" fromText="point" toID="pl2" toText="confluence" objectID1="pl15" objectID2="pl2" relType="COREFERENCE" comment="" />
+<METALINK id="metal30" fromID="se13" fromText="we" toID="se0" toText="We" objectID1="se13" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal31" fromID="se14" fromText="we" toID="se0" toText="We" objectID1="se14" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal32" fromID="se15" fromText="We" toID="se0" toText="We" objectID1="se15" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal33" fromID="se26" fromText="us" toID="se0" toText="We" objectID1="se26" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal34" fromID="se17" fromText="We" toID="se0" toText="We" objectID1="se17" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal35" fromID="se18" fromText="we" toID="se0" toText="We" objectID1="se18" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal36" fromID="se19" fromText="we" toID="se0" toText="We" objectID1="se19" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal37" fromID="se22" fromText="we" toID="se0" toText="We" objectID1="se22" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal38" fromID="se23" fromText="we" toID="se0" toText="We" objectID1="se23" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal39" fromID="se24" fromText="we" toID="se0" toText="We" objectID1="se24" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal4" fromID="pl28" fromText="confluence" toID="pl2" toText="confluence" objectID1="pl28" objectID2="pl2" relType="COREFERENCE" comment="" />
+<METALINK id="metal40" fromID="pl16" fromText="confluence" toID="pl2" toText="confluence" objectID1="pl16" objectID2="pl2" relType="COREFERENCE" comment="" />
+<METALINK id="metal41" fromID="pl21" fromText="point" toID="pl2" toText="confluence" objectID1="pl21" objectID2="pl2" relType="COREFERENCE" comment="" />
+<METALINK id="metal42" fromID="p7" fromText="road" toID="p6" toText="dirtroad" objectID1="p7" objectID2="p6" relType="COREFERENCE" comment="" />
+<METALINK id="metal43" fromID="p9" fromText="road" toID="p8" toText="road" objectID1="p9" objectID2="p8" relType="COREFERENCE" comment="" />
+<METALINK id="metal44" fromID="pl4" fromText="Urziceni" toID="pl3" toText="cities" objectID1="pl4" objectID2="pl3" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal45" fromID="pl34" fromText="forest" toID="pl26" toText="forest" objectID1="pl34" objectID2="pl26" relType="COREFERENCE" comment="" />
+<METALINK id="metal46" fromID="se25" fromText="it" toID="se16" toText="deer" objectID1="se25" objectID2="se16" relType="COREFERENCE" comment="" />
+<METALINK id="metal47" fromID="pl5" fromText="Buzau" toID="pl3" toText="cities" objectID1="pl5" objectID2="pl3" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal48" fromID="pl6" fromText="Ramnicu Sarat" toID="pl3" toText="cities" objectID1="pl6" objectID2="pl3" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal49" fromID="pl13" fromText="Muncelu" toID="pl12" toText="villages" objectID1="pl13" objectID2="pl12" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal5" fromID="pl30" fromText="confluence" toID="pl2" toText="confluence" objectID1="pl30" objectID2="pl2" relType="COREFERENCE" comment="" />
+<METALINK id="metal50" fromID="pl14" fromText="Straoane" toID="pl12" toText="villages" objectID1="pl14" objectID2="pl12" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal54" fromID="e3" fromText="Marasesti" toID="e1" toText="battles" objectID1="e3" objectID2="e1" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal55" fromID="e2" fromText="Marasti" toID="e1" toText="battles" objectID1="e2" objectID2="e1" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal56" fromID="e4" fromText="Oituz" toID="e1" toText="battles" objectID1="e4" objectID2="e1" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal6" fromID="pl31" fromText="it" toID="pl2" toText="confluence" objectID1="pl31" objectID2="pl2" relType="COREFERENCE" comment="" />
+<METALINK id="metal7" fromID="pl33" fromText="target" toID="pl2" toText="confluence" objectID1="pl33" objectID2="pl2" relType="COREFERENCE" comment="" />
+<METALINK id="metal8" fromID="pl35" fromText="confluence" toID="pl2" toText="confluence" objectID1="pl35" objectID2="pl2" relType="COREFERENCE" comment="" />
+<METALINK id="metal9" fromID="pl36" fromText="It" toID="pl2" toText="confluence" objectID1="pl36" objectID2="pl2" relType="COREFERENCE" comment="" />
+<METALINK id="metal51" fromID="se21" fromText="we" toID="se0" toText="We" objectID1="se21" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal52" fromID="se27" fromText="we" toID="se0" toText="We" objectID1="se0" objectID2="se27" relType="COREFERENCE" comment="" />
+<METALINK id="metal53" fromID="se28" fromText="we" toID="se0" toText="We" objectID1="se0" objectID2="se28" relType="COREFERENCE" comment="" />
+<METALINK id="metal57" fromID="se29" fromText="We" toID="se0" toText="We" objectID1="se0" objectID2="se29" relType="COREFERENCE" comment="" />
+<CP><![CDATA[46N27E]]></CP>
+<URL><![CDATA[http://confluence.org/confluence.php?id=9812]]></URL>
+</TAGS>
+</SpaceEvalTaskv1.2>

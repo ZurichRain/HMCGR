@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[
+Peru
+Monday, October 16th, 2006
+
+   As I said in the last entry, Peru’s coast is home to one of the driest deserts in the world. Despite the constant fog, it almost never rains â€“ my tour guide for an exhibit in Lima told me that the last time there was heavy rain was 35 years ago.
+
+   All of the water for the city comes from the mountains, where it falls as rain or snow and then melts, filling the rivers. During the dry season, half of the year, almost all of the water is from melting snow and ice. Unfortuantely, almost all of these glaciers are going to melt and dissapear in the next 50 years. It is unclear where Peruvians will get their water from when the glaciers are gone.
+
+ 
+   The countryâ€™s energy supply is also at risk. According to people I talked to at PROCLIM, a project aimed at preparing Peru for global warming, 80% of Peruâ€™s electricity is hydroelectric, and, during the dry season, 80% of the water in the dams is from glacial runoff. Unless investment for huge new dams is found, Peru might have to switch to using fossil fuels to produce its electricity.
+
+ 
+   All of this will take place in a country where I have already seen many water problems. Most of the towns and cities I have been in (including parts of Lima) have certain hours of the day when the city does not provide water. In one rural area east of the Cordillera Blanca, I met a man working for the government whose job it is to resolve water disputes. â€˜It is a big problem here. I have to make sure that each day the water goes to a different house.â€™ A farmer I stayed with near the coast pointed to a number of his crops and said that they would be twice as high if not for a shortage of water. And every person who lives near a stream tells me the same story: the streams are more variable than they used to be. In the dry season there is less water, and in the rainy season there is more â€“ just as one would expect from a decreasing snow pack. (To be fair, this is also due to deforestation as well as loss of snow and ice.)
+
+   Loosing the glaciers and snow of the mountains will be a major loss for Peru. The only solution may be to build many new resivours in the mountains. But, what valleys will they choose to flood? What will happen to the people living in these valleys? And, how will Peru, a poor country, find the investment for such expensive projects?
+]]></TEXT>
+<TAGS>
+<PLACE id="pl3" start="-1" end="-1" text="" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="'... where it falls as rain ...'" domain="" />
+<PLACE id="pl6" start="1013" end="1017" text="Peru" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl0" start="108" end="115" text="deserts" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl8" start="1195" end="1200" text="towns" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="amount=most;" domain="" />
+<PLACE id="pl9" start="1205" end="1211" text="cities" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="amount=most" domain="" />
+<PLACE id="pl1" start="123" end="128" text="world" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl10" start="1238" end="1243" text="parts" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl11" start="1247" end="1251" text="Lima" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl12" start="1334" end="1338" text="area" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl13" start="1545" end="1550" text="house" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl14" start="2110" end="2114" text="Peru" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl2" start="214" end="218" text="Lima" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl15" start="2159" end="2168" text="resivours" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="amount=many" domain="" />
+<PLACE id="pl17" start="2176" end="2185" text="mountains" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl18" start="2302" end="2306" text="Peru" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl21" start="314" end="318" text="city" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl4" start="334" end="343" text="mountains" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl5" start="815" end="819" text="Peru" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl16" start="90" end="93" text="one" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl19" start="2279" end="2286" text="valleys" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PATH id="p2" start="1351" end="1368" text="Cordillera Blanca" beginID="" endID="" midIDs="" type="" dimensionality="" form="NAM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<PATH id="p3" start="1587" end="1592" text="coast" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<PATH id="p4" start="1734" end="1740" text="stream" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<PATH id="p1" start="404" end="410" text="rivers" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<PATH id="p0" start="73" end="78" text="coast" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se3" start="1212" end="1213" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se4" start="1370" end="1371" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se5" start="1378" end="1381" text="man" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se6" start="1519" end="1524" text="water" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se7" start="1564" end="1565" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se0" start="300" end="305" text="water" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="quant=all;" domain="" dcl="" />
+<SPATIAL_ENTITY id="se1" start="351" end="353" text="it" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se2" start="40" end="41" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se8" start="224" end="226" text="me" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se9" start="762" end="763" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se10" start="925" end="930" text="water" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se12" start="938" end="942" text="dams" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se13" start="1142" end="1143" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se14" start="1481" end="1482" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se15" start="1747" end="1749" text="me" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<NONMOTION_EVENT id="e1" start="1566" end="1572" text="stayed" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e2" start="1721" end="1726" text="lives" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e0" start="203" end="210" text="exhibit" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e3" start="385" end="390" text="melts" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e4" start="2263" end="2269" text="living" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<MOTION id="m4" start="1372" end="1375" text="met" motion_type="PATH" motion_class="HIT" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m2" start="1525" end="1529" text="goes" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m0" start="319" end="324" text="comes" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m1" start="354" end="359" text="falls" motion_type="COMPOUND" motion_class="HIT" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m5" start="392" end="399" text="filling" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<SPATIAL_SIGNAL id="s0" start="116" end="118" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="1224" end="1226" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="1244" end="1246" text="of" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s7" start="1321" end="1323" text="In" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s8" start="1339" end="1346" text="east of" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="211" end="213" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s10" start="2169" end="2171" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="345" end="350" text="where" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="931" end="933" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="2270" end="2272" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms1" start="1530" end="1532" text="to" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms2" start="306" end="309" text="for" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms0" start="325" end="329" text="from" motion_signal_type="PATH" comment="" />
+<MEASURE id="me0" start="1578" end="1582" text="near" value="NEAR" unit="" comment="" />
+<MEASURE id="me1" start="1727" end="1731" text="near" value="NEAR" unit="" comment="" />
+<QSLINK id="qsl0" fromID="pl16" fromText="one" toID="p0" toText="coast" relType="IN" trajector="pl16" landmark="p0" trigger="" comment="" />
+<QSLINK id="qsl1" fromID="e0" fromText="exhibit" toID="pl2" toText="Lima" relType="IN" trajector="e0" landmark="pl2" trigger="s1" comment="" />
+<QSLINK id="qsl2" fromID="m1" fromText="falls" toID="pl4" toText="mountains" relType="IN" trajector="m1" landmark="pl4" trigger="s2" comment="" />
+<QSLINK id="qsl3" fromID="se3" fromText="I" toID="pl8" toText="towns" relType="IN" trajector="se3" landmark="pl8" trigger="s5" comment="" />
+<QSLINK id="qsl4" fromID="se3" fromText="I" toID="pl9" toText="cities" relType="IN" trajector="se3" landmark="pl9" trigger="s5" comment="" />
+<QSLINK id="qsl5" fromID="se3" fromText="I" toID="pl10" toText="parts" relType="IN" trajector="se3" landmark="pl10" trigger="s5" comment="" />
+<QSLINK id="qsl6" fromID="pl10" fromText="parts" toID="pl11" toText="Lima" relType="IN" trajector="pl10" landmark="pl11" trigger="s6" comment="SPATIAL_FUNCTION" />
+<QSLINK id="qsl7" fromID="m4" fromText="met" toID="pl12" toText="area" relType="IN" trajector="m4" landmark="pl12" trigger="s7" comment="" />
+<QSLINK id="qsl8" fromID="pl15" fromText="resivours" toID="pl17" toText="mountains" relType="IN" trajector="pl15" landmark="pl17" trigger="s10" comment="" />
+<QSLINK id="qsl9" fromID="e3" fromText="melts" toID="pl4" toText="mountains" relType="IN" trajector="e3" landmark="pl4" trigger="s2" comment="" />
+<QSLINK id="qsl10" fromID="se10" fromText="water" toID="se12" toText="dams" relType="IN" trajector="se10" landmark="se12" trigger="s3" comment="" />
+<QSLINK id="qsl11" fromID="e4" fromText="living" toID="pl19" toText="valleys" relType="IN" trajector="e4" landmark="pl19" trigger="s4" comment="" />
+<OLINK id="ol0" fromID="pl12" fromText="area" toID="p2" toText="Cordillera Blanca" relType="EAST" trajector="pl12" landmark="p2" trigger="s8" frame_type="ABSOLUTE" referencePt="EAST" projective="TRUE" comment="" />
+<MOVELINK id="mvl0" fromID="m0" fromText="comes" toID="se0" toText="water" trigger="m0" source="pl4" goal="pl21" midPoint="" mover="se0" landmark="" goal_reached="YES" pathID="" motion_signalID="ms0, ms2" comment="" />
+<MOVELINK id="mvl1" fromID="m1" fromText="falls" toID="se1" toText="it" trigger="m1" source="" goal="pl3" midPoint="" mover="se1" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl2" fromID="m5" fromText="filling" toID="se0" toText="water" trigger="m5" source="pl4" goal="p1" midPoint="" mover="se0" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl3" fromID="m4" fromText="met" toID="se4" toText="I" trigger="m4" source="" goal="se5" midPoint="" mover="se4" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl4" fromID="m2" fromText="goes" toID="se6" toText="water" trigger="m2" source="" goal="pl13" midPoint="" mover="se6" landmark="" goal_reached="YES" pathID="" motion_signalID="ms1" comment="" />
+<MLINK id="ml0" fromID="e1" fromText="stayed" toID="p3" toText="coast" trajector="e1" landmark="p3" relType="DISTANCE" val="me0" endPoint1="" endPoint2="" comment="" />
+<MLINK id="ml1" fromID="e2" fromText="lives" toID="p4" toText="stream" trajector="e2" landmark="p4" relType="DISTANCE" val="me1" endPoint1="" endPoint2="" comment="" />
+<METALINK id="metal0" fromID="pl16" fromText="one" toID="pl0" toText="deserts" objectID1="pl16" objectID2="pl0" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal1" fromID="p3" fromText="coast" toID="p0" toText="coast" objectID1="p3" objectID2="p0" relType="COREFERENCE" comment="" />
+<METALINK id="metal2" fromID="pl11" fromText="Lima" toID="pl2" toText="Lima" objectID1="pl11" objectID2="pl2" relType="COREFERENCE" comment="" />
+<METALINK id="metal3" fromID="pl6" fromText="Peru" toID="pl5" toText="Peru" objectID1="pl6" objectID2="pl5" relType="COREFERENCE" comment="" />
+<METALINK id="metal4" fromID="pl18" fromText="Peru" toID="pl5" toText="Peru" objectID1="pl18" objectID2="pl5" relType="COREFERENCE" comment="" />
+<METALINK id="metal5" fromID="pl14" fromText="Peru" toID="pl5" toText="Peru" objectID1="pl14" objectID2="pl5" relType="COREFERENCE" comment="" />
+<METALINK id="metal6" fromID="pl17" fromText="mountains" toID="pl4" toText="mountains" objectID1="pl17" objectID2="pl4" relType="COREFERENCE" comment="" />
+<METALINK id="metal9" fromID="se3" fromText="I" toID="se2" toText="I" objectID1="se3" objectID2="se2" relType="COREFERENCE" comment="" />
+<METALINK id="metal10" fromID="se4" fromText="I" toID="se2" toText="I" objectID1="se4" objectID2="se2" relType="COREFERENCE" comment="" />
+<METALINK id="metal11" fromID="se7" fromText="I" toID="se2" toText="I" objectID1="se7" objectID2="se2" relType="COREFERENCE" comment="" />
+<METALINK id="metal12" fromID="se8" fromText="me" toID="se2" toText="I" objectID1="se8" objectID2="se2" relType="COREFERENCE" comment="" />
+<METALINK id="metal13" fromID="se9" fromText="I" toID="se2" toText="I" objectID1="se9" objectID2="se2" relType="COREFERENCE" comment="" />
+<METALINK id="metal14" fromID="se13" fromText="I" toID="se2" toText="I" objectID1="se13" objectID2="se2" relType="COREFERENCE" comment="" />
+<METALINK id="metal15" fromID="se14" fromText="I" toID="se2" toText="I" objectID1="se14" objectID2="se2" relType="COREFERENCE" comment="" />
+<METALINK id="metal16" fromID="se15" fromText="me" toID="se2" toText="I" objectID1="se15" objectID2="se2" relType="COREFERENCE" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2>

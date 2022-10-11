@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[
+San Pedro Sula to the El Salvador Border
+Friday, March 31st, 2006
+   Biking from San Pedro Sula (Hondurasâ€™ northwest corner) to El Salvador I was struck by two things. 1) The road was uphill the entire time and 2) most of Honduras is poor.
+
+ 
+   More so than in the other places I have biked, with perhaps the exception of parts of Chiapas, this region felt poor (see statistics). It is not just the people walking the sides of the road – convenience stores were poorly stocked, and it was tough to eat well. Many houses are made out of mud bricks (adobe), and the house on the left is on day 4 of 7 of construction. People were friendly, though, and I felt safe and comfortable.
+
+
+   I spent one night with a family who lived in a house half made of these bricks. They had no electricity or candles, although they did watch an hour of television every night using a car battery. They were extremely generous, and fed me tortillas that they made from their field of corn (they had a good amount of land, and enough food). I gave them my headlamp, which I hope they are enjoying because it is now much more difficult for me to camp.
+
+   I visited a primary school, El Progreso. I set this visit up by biking by the school and having all the children, who were at recess, run out and stop me, asking what I was doing.
+
+  
+   Thanks to the bomberos (firemen) of San Pedro Sula, who let me stay at their station. They were out fighting fires all night while I slept, and they also gave me a free â€˜Bomberos de Hondurasâ€™ t-shirt and decal. Also, thanks to the the bomberos of Santa Rosa de Copan (on the right), where I stayed two nights later.
+]]></TEXT>
+<TAGS>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="1165" form="NOM" gazref="" gquant="" id="pl7" latLong="" mod="" scopes="" start="1159" state="" text="school" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="1178" form="NAM" gazref="" gquant="" id="pl8" latLong="" mod="" scopes="" start="1167" state="" text="El Progreso" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="1223" form="NOM" gazref="" gquant="" id="pl9" latLong="" mod="" scopes="" start="1217" state="" text="school" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="142" form="NAM" gazref="" gquant="" id="pl2" latLong="" mod="" scopes="" start="131" state="" text="El Salvador" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="1376" form="NAM" gazref="" gquant="" id="pl10" latLong="" mod="" scopes="" start="1362" state="" text="San Pedro Sula" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="1410" form="NOM" gazref="" gquant="" id="pl11" latLong="" mod="" scopes="" start="1403" state="" text="station" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="1518" form="NAM" gazref="" gquant="" id="pl12" latLong="" mod="" scopes="" start="1510" state="" text="Honduras" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="1596" form="NAM" gazref="" gquant="" id="pl13" latLong="" mod="" scopes="" start="1577" state="" text="Santa Rosa de Copan" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="233" form="NAM" gazref="" gquant="" id="pl3" latLong="" mod="" scopes="" start="225" state="" text="Honduras" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="281" form="NOM" gazref="" gquant="" id="pl4" latLong="" mod="" scopes="" start="275" state="" text="places" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="331" form="NOM" gazref="" gquant="" id="pl1" latLong="" mod="" scopes="" start="326" state="" text="parts" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="342" form="NAM" gazref="" gquant="" id="pl5" latLong="" mod="" scopes="" start="335" state="" text="Chiapas" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="355" form="NOM" gazref="" gquant="" id="pl14" latLong="" mod="" scopes="" start="349" state="" text="region" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="96" form="NAM" gazref="" gquant="" id="pl0" latLong="" mod="" scopes="" start="82" state="" text="San Pedro Sula" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="" domain="" elevation="" end="427" endID="" form="NOM" gazref="" gquant="" id="p1" latLong="" midIDs="" mod="" scopes="" start="422" text="sides" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="" domain="" elevation="" end="439" endID="" form="NOM" gazref="" gquant="" id="p2" latLong="" midIDs="" mod="" scopes="" start="435" text="road" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dimensionality="" domain="" elevation="" end="1140" form="NOM" gquant="" id="se6" latLong="" mod="" scopes="" start="1139" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dimensionality="" domain="" elevation="" end="1181" form="NOM" gquant="" id="se7" latLong="" mod="" scopes="" start="1180" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dimensionality="" domain="" elevation="" end="1251" form="NOM" gquant="" id="se8" latLong="" mod="" scopes="" start="1243" text="children" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dimensionality="" domain="" elevation="" end="1256" form="NOM" gquant="" id="se15" latLong="" mod="" scopes="" start="1253" text="who" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dimensionality="" domain="" elevation="" end="1292" form="NOM" gquant="" id="se9" latLong="" mod="" scopes="" start="1290" text="me" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dimensionality="" domain="" elevation="" end="1388" form="NOM" gquant="" id="se12" latLong="" mod="" scopes="" start="1386" text="me" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dimensionality="" domain="" elevation="" end="144" form="NOM" gquant="" id="se0" latLong="" mod="" scopes="" start="143" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dimensionality="" domain="" elevation="" end="1620" form="NOM" gquant="" id="se14" latLong="" mod="" scopes="" start="1619" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dimensionality="" domain="" elevation="" end="283" form="NOM" gquant="" id="se1" latLong="" mod="" scopes="" start="282" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dimensionality="" domain="" elevation="" end="409" form="NOM" gquant="" id="se2" latLong="" mod="" scopes="" start="403" text="people" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dimensionality="" domain="" elevation="" end="689" form="NOM" gquant="" id="se3" latLong="" mod="" scopes="" start="688" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dimensionality="" domain="" elevation="" end="719" form="NOM" gquant="" id="se4" latLong="" mod="" scopes="" start="713" text="family" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dimensionality="" domain="" elevation="" end="740" form="NOM" gquant="" id="se5" latLong="" mod="" scopes="" start="735" text="house" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dimensionality="" domain="" elevation="" end="655" form="NOM" gquant="" id="se10" latLong="" mod="" scopes="" start="654" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dimensionality="" domain="" elevation="" end="923" form="NOM" gquant="" id="se11" latLong="" mod="" scopes="" start="921" text="me" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dimensionality="" domain="" elevation="" end="1026" form="NOM" gquant="" id="se13" latLong="" mod="" scopes="" start="1025" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dimensionality="" domain="" elevation="" end="1057" form="NOM" gquant="" id="se16" latLong="" mod="" scopes="" start="1056" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dimensionality="" domain="" elevation="" end="1125" form="NOM" gquant="" id="se17" latLong="" mod="" scopes="" start="1123" text="me" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dimensionality="" domain="" elevation="" end="1307" form="NOM" gquant="" id="se18" latLong="" mod="" scopes="" start="1306" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dimensionality="" domain="" elevation="" end="1458" form="NOM" gquant="" id="se19" latLong="" mod="" scopes="" start="1457" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dimensionality="" domain="" elevation="" end="1487" form="NOM" gquant="" id="se20" latLong="" mod="" scopes="" start="1485" text="me" type=""/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="1271" gquant="" id="e0" latLong="" mod="" scopes="" start="1265" text="recess"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="1393" gquant="" id="e1" latLong="" mod="" scopes="" start="1389" text="stay"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="1627" gquant="" id="e2" latLong="" mod="" scopes="" start="1621" text="stayed"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="695" gquant="" id="e3" latLong="" mod="" scopes="" start="690" text="spent"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="729" gquant="" id="e4" latLong="" mod="" scopes="" start="724" text="lived"/>
+<MOTION comment="" countable="" domain="" elevation="" end="1148" gquant="" id="m5" latlong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="1141" text="visited"/>
+<MOTION comment="" countable="" domain="" elevation="" end="1209" gquant="" id="m6" latlong="" mod="" motion_class="MOVE_EXTERNAL" motion_sense="LITERAL" motion_type="COMPOUND" scopes="" start="1203" text="biking"/>
+<MOTION comment="" countable="" domain="" elevation="" end="1276" gquant="" id="m7" latlong="" mod="" motion_class="LEAVE" motion_sense="LITERAL" motion_type="COMPOUND" scopes="" start="1273" text="run"/>
+<MOTION comment="" countable="" domain="" elevation="" end="294" gquant="" id="m1" latlong="" mod="" motion_class="MOVE_INTERNAL" motion_sense="LITERAL" motion_type="COMPOUND" scopes="" start="289" text="biked"/>
+<MOTION comment="" countable="" domain="" elevation="" end="417" gquant="" id="m2" latlong="" mod="" motion_class="FOLLOW" motion_sense="LITERAL" motion_type="COMPOUND" scopes="" start="410" text="walking"/>
+<MOTION comment="" countable="" domain="" elevation="" end="76" gquant="" id="m0" latlong="" mod="" motion_class="MOVE" motion_sense="LITERAL" motion_type="COMPOUND" scopes="" start="70" text="Biking"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="1264" id="s7" semantic_type="TOPOLOGICAL" start="1262" text="at"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="1396" id="s4" semantic_type="TOPOLOGICAL" start="1394" text="at"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="1618" id="s6" semantic_type="TOPOLOGICAL" start="1613" text="where"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="264" id="s0" semantic_type="TOPOLOGICAL" start="262" text="in"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="334" id="s2" semantic_type="TOPOLOGICAL" start="332" text="of"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="430" id="s1" semantic_type="TOPOLOGICAL" start="428" text="of"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="732" id="s3" semantic_type="TOPOLOGICAL" start="730" text="in"/>
+<MOTION_SIGNAL comment="" end="1212" id="a2" motion_signal_type="PATH" start="1210" text="by"/>
+<MOTION_SIGNAL comment="" end="1280" id="a3" motion_signal_type="PATH" start="1277" text="out"/>
+<MOTION_SIGNAL comment="" end="130" id="a1" motion_signal_type="PATH" start="128" text="to"/>
+<MOTION_SIGNAL comment="" end="81" id="a0" motion_signal_type="PATH" start="77" text="from"/>
+<QSLINK id="qsl0" fromID="" fromText="" toID="" toText="" relType="" trajector="e3" landmark="se5" trigger="" comment=""/>
+<QSLINK id="qsl1" fromID="" fromText="" toID="" toText="" relType="" trajector="m1" landmark="pl4" trigger="s0" comment=""/>
+<QSLINK id="qsl2" fromID="" fromText="" toID="" toText="" relType="" trajector="p1" landmark="p2" trigger="s1" comment=""/>
+<QSLINK id="qsl3" fromID="" fromText="" toID="" toText="" relType="" trajector="pl1" landmark="pl5" trigger="s2" comment=""/>
+<QSLINK id="qsl4" fromID="" fromText="" toID="" toText="" relType="" trajector="e4" landmark="se5" trigger="s3" comment=""/>
+<QSLINK id="qsl5" fromID="" fromText="" toID="" toText="" relType="" trajector="e1" landmark="pl11" trigger="s4" comment=""/>
+<QSLINK id="qsl6" fromID="" fromText="" toID="" toText="" relType="" trajector="e2" landmark="pl13" trigger="s6" comment=""/>
+<QSLINK id="qsl7" fromID="" fromText="" toID="" toText="" relType="" trajector="se15" landmark="e0" trigger="s7" comment=""/>
+<MOVELINK id="mvl0" fromID="" fromText="" toID="" toText="" trigger="m0" source="pl0" goal="pl2" midPoint="" mover="se0" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl1" fromID="" fromText="" toID="" toText="" trigger="m1" source="" goal="" midPoint="" mover="se1" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl2" fromID="" fromText="" toID="" toText="" trigger="m2" source="" goal="" midPoint="" mover="se2" landmark="" goal_reached="" pathID="p1" motion_signalID="" comment=""/>
+<MOVELINK id="mvl3" fromID="" fromText="" toID="" toText="" trigger="m5" source="" goal="pl7" midPoint="" mover="se6" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl4" fromID="" fromText="" toID="" toText="" trigger="m6" source="" goal="" midPoint="" mover="se7" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl5" fromID="" fromText="" toID="" toText="" trigger="m7" source="e0" goal="" midPoint="" mover="se8" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+</TAGS>
+<TOKENS>
+<s>
+<lex begin="1" end="4">San</lex>
+<lex begin="5" end="10">Pedro</lex>
+<lex begin="11" end="15">Sula</lex>
+<lex begin="16" end="18">to</lex>
+<lex begin="19" end="22">the</lex>
+<lex begin="23" end="25">El</lex>
+<lex begin="26" end="34">Salvador</lex>
+<lex begin="35" end="41">Border</lex>
+<lex begin="42" end="48">Friday</lex>
+<lex begin="48" end="49">,</lex>
+<lex begin="50" end="55">March</lex>
+<lex begin="56" end="60">31st</lex>
+<lex begin="60" end="61">,</lex>
+<lex begin="62" end="66">2006</lex>
+<lex begin="70" end="76">Biking</lex>
+<lex begin="77" end="81">from</lex>
+<lex begin="82" end="85">San</lex>
+<lex begin="86" end="91">Pedro</lex>
+<lex begin="92" end="96">Sula</lex>
+<lex begin="97" end="98">(</lex>
+<lex begin="98" end="109">Hondurasâ€™</lex>
+<lex begin="110" end="119">northwest</lex>
+<lex begin="120" end="126">corner</lex>
+<lex begin="126" end="127">)</lex>
+<lex begin="128" end="130">to</lex>
+<lex begin="131" end="133">El</lex>
+<lex begin="134" end="142">Salvador</lex>
+<lex begin="143" end="144">I</lex>
+<lex begin="145" end="148">was</lex>
+<lex begin="149" end="155">struck</lex>
+<lex begin="156" end="158">by</lex>
+<lex begin="159" end="162">two</lex>
+<lex begin="163" end="169">things</lex>
+<lex begin="169" end="170">.</lex>
+</s>
+<s>
+<lex begin="171" end="172">1</lex>
+<lex begin="172" end="173">)</lex>
+<lex begin="174" end="177">The</lex>
+<lex begin="178" end="182">road</lex>
+<lex begin="183" end="186">was</lex>
+<lex begin="187" end="193">uphill</lex>
+<lex begin="194" end="197">the</lex>
+<lex begin="198" end="204">entire</lex>
+<lex begin="205" end="209">time</lex>
+<lex begin="210" end="213">and</lex>
+<lex begin="214" end="215">2</lex>
+<lex begin="215" end="216">)</lex>
+<lex begin="217" end="221">most</lex>
+<lex begin="222" end="224">of</lex>
+<lex begin="225" end="233">Honduras</lex>
+<lex begin="234" end="236">is</lex>
+<lex begin="237" end="241">poor</lex>
+<lex begin="241" end="242">.</lex>
+</s>
+<s>
+<lex begin="249" end="253">More</lex>
+<lex begin="254" end="256">so</lex>
+<lex begin="257" end="261">than</lex>
+<lex begin="262" end="264">in</lex>
+<lex begin="265" end="268">the</lex>
+<lex begin="269" end="274">other</lex>
+<lex begin="275" end="281">places</lex>
+<lex begin="282" end="283">I</lex>
+<lex begin="284" end="288">have</lex>
+<lex begin="289" end="294">biked</lex>
+<lex begin="294" end="295">,</lex>
+<lex begin="296" end="300">with</lex>
+<lex begin="301" end="308">perhaps</lex>
+<lex begin="309" end="312">the</lex>
+<lex begin="313" end="322">exception</lex>
+<lex begin="323" end="325">of</lex>
+<lex begin="326" end="331">parts</lex>
+<lex begin="332" end="334">of</lex>
+<lex begin="335" end="342">Chiapas</lex>
+<lex begin="342" end="343">,</lex>
+<lex begin="344" end="348">this</lex>
+<lex begin="349" end="355">region</lex>
+<lex begin="356" end="360">felt</lex>
+<lex begin="361" end="365">poor</lex>
+<lex begin="366" end="367">(</lex>
+<lex begin="367" end="370">see</lex>
+<lex begin="371" end="381">statistics</lex>
+<lex begin="381" end="382">)</lex>
+<lex begin="382" end="383">.</lex>
+</s>
+<s>
+<lex begin="384" end="386">It</lex>
+<lex begin="387" end="389">is</lex>
+<lex begin="390" end="393">not</lex>
+<lex begin="394" end="398">just</lex>
+<lex begin="399" end="402">the</lex>
+<lex begin="403" end="409">people</lex>
+<lex begin="410" end="417">walking</lex>
+<lex begin="418" end="421">the</lex>
+<lex begin="422" end="427">sides</lex>
+<lex begin="428" end="430">of</lex>
+<lex begin="431" end="434">the</lex>
+<lex begin="435" end="439">road</lex>
+<lex begin="440" end="441">–</lex>
+<lex begin="442" end="453">convenience</lex>
+<lex begin="454" end="460">stores</lex>
+<lex begin="461" end="465">were</lex>
+<lex begin="466" end="472">poorly</lex>
+<lex begin="473" end="480">stocked</lex>
+<lex begin="480" end="481">,</lex>
+<lex begin="482" end="485">and</lex>
+<lex begin="486" end="488">it</lex>
+<lex begin="489" end="492">was</lex>
+<lex begin="493" end="498">tough</lex>
+<lex begin="499" end="501">to</lex>
+<lex begin="502" end="505">eat</lex>
+<lex begin="506" end="510">well</lex>
+<lex begin="510" end="511">.</lex>
+</s>
+<s>
+<lex begin="512" end="516">Many</lex>
+<lex begin="517" end="523">houses</lex>
+<lex begin="524" end="527">are</lex>
+<lex begin="528" end="532">made</lex>
+<lex begin="533" end="536">out</lex>
+<lex begin="537" end="539">of</lex>
+<lex begin="540" end="543">mud</lex>
+<lex begin="544" end="550">bricks</lex>
+<lex begin="551" end="552">(</lex>
+<lex begin="552" end="557">adobe</lex>
+<lex begin="557" end="558">)</lex>
+<lex begin="558" end="559">,</lex>
+<lex begin="560" end="563">and</lex>
+<lex begin="564" end="567">the</lex>
+<lex begin="568" end="573">house</lex>
+<lex begin="574" end="576">on</lex>
+<lex begin="577" end="580">the</lex>
+<lex begin="581" end="585">left</lex>
+<lex begin="586" end="588">is</lex>
+<lex begin="589" end="591">on</lex>
+<lex begin="592" end="595">day</lex>
+<lex begin="596" end="597">4</lex>
+<lex begin="598" end="600">of</lex>
+<lex begin="601" end="602">7</lex>
+<lex begin="603" end="605">of</lex>
+<lex begin="606" end="618">construction</lex>
+<lex begin="618" end="619">.</lex>
+</s>
+<s>
+<lex begin="620" end="626">People</lex>
+<lex begin="627" end="631">were</lex>
+<lex begin="632" end="640">friendly</lex>
+<lex begin="640" end="641">,</lex>
+<lex begin="642" end="648">though</lex>
+<lex begin="648" end="649">,</lex>
+<lex begin="650" end="653">and</lex>
+<lex begin="654" end="655">I</lex>
+<lex begin="656" end="660">felt</lex>
+<lex begin="661" end="665">safe</lex>
+<lex begin="666" end="669">and</lex>
+<lex begin="670" end="681">comfortable</lex>
+<lex begin="681" end="682">.</lex>
+</s>
+<s>
+<lex begin="688" end="689">I</lex>
+<lex begin="690" end="695">spent</lex>
+<lex begin="696" end="699">one</lex>
+<lex begin="700" end="705">night</lex>
+<lex begin="706" end="710">with</lex>
+<lex begin="711" end="712">a</lex>
+<lex begin="713" end="719">family</lex>
+<lex begin="720" end="723">who</lex>
+<lex begin="724" end="729">lived</lex>
+<lex begin="730" end="732">in</lex>
+<lex begin="733" end="734">a</lex>
+<lex begin="735" end="740">house</lex>
+<lex begin="741" end="745">half</lex>
+<lex begin="746" end="750">made</lex>
+<lex begin="751" end="753">of</lex>
+<lex begin="754" end="759">these</lex>
+<lex begin="760" end="766">bricks</lex>
+<lex begin="766" end="767">.</lex>
+</s>
+<s>
+<lex begin="768" end="772">They</lex>
+<lex begin="773" end="776">had</lex>
+<lex begin="777" end="779">no</lex>
+<lex begin="780" end="791">electricity</lex>
+<lex begin="792" end="794">or</lex>
+<lex begin="795" end="802">candles</lex>
+<lex begin="802" end="803">,</lex>
+<lex begin="804" end="812">although</lex>
+<lex begin="813" end="817">they</lex>
+<lex begin="818" end="821">did</lex>
+<lex begin="822" end="827">watch</lex>
+<lex begin="828" end="830">an</lex>
+<lex begin="831" end="835">hour</lex>
+<lex begin="836" end="838">of</lex>
+<lex begin="839" end="849">television</lex>
+<lex begin="850" end="855">every</lex>
+<lex begin="856" end="861">night</lex>
+<lex begin="862" end="867">using</lex>
+<lex begin="868" end="869">a</lex>
+<lex begin="870" end="873">car</lex>
+<lex begin="874" end="881">battery</lex>
+<lex begin="881" end="882">.</lex>
+</s>
+<s>
+<lex begin="883" end="887">They</lex>
+<lex begin="888" end="892">were</lex>
+<lex begin="893" end="902">extremely</lex>
+<lex begin="903" end="911">generous</lex>
+<lex begin="911" end="912">,</lex>
+<lex begin="913" end="916">and</lex>
+<lex begin="917" end="920">fed</lex>
+<lex begin="921" end="923">me</lex>
+<lex begin="924" end="933">tortillas</lex>
+<lex begin="934" end="938">that</lex>
+<lex begin="939" end="943">they</lex>
+<lex begin="944" end="948">made</lex>
+<lex begin="949" end="953">from</lex>
+<lex begin="954" end="959">their</lex>
+<lex begin="960" end="965">field</lex>
+<lex begin="966" end="968">of</lex>
+<lex begin="969" end="973">corn</lex>
+<lex begin="974" end="975">(</lex>
+<lex begin="975" end="979">they</lex>
+<lex begin="980" end="983">had</lex>
+<lex begin="984" end="985">a</lex>
+<lex begin="986" end="990">good</lex>
+<lex begin="991" end="997">amount</lex>
+<lex begin="998" end="1000">of</lex>
+<lex begin="1001" end="1005">land</lex>
+<lex begin="1005" end="1006">,</lex>
+<lex begin="1007" end="1010">and</lex>
+<lex begin="1011" end="1017">enough</lex>
+<lex begin="1018" end="1022">food</lex>
+<lex begin="1022" end="1023">)</lex>
+<lex begin="1023" end="1024">.</lex>
+</s>
+<s>
+<lex begin="1025" end="1026">I</lex>
+<lex begin="1027" end="1031">gave</lex>
+<lex begin="1032" end="1036">them</lex>
+<lex begin="1037" end="1039">my</lex>
+<lex begin="1040" end="1048">headlamp</lex>
+<lex begin="1048" end="1049">,</lex>
+<lex begin="1050" end="1055">which</lex>
+<lex begin="1056" end="1057">I</lex>
+<lex begin="1058" end="1062">hope</lex>
+<lex begin="1063" end="1067">they</lex>
+<lex begin="1068" end="1071">are</lex>
+<lex begin="1072" end="1080">enjoying</lex>
+<lex begin="1081" end="1088">because</lex>
+<lex begin="1089" end="1091">it</lex>
+<lex begin="1092" end="1094">is</lex>
+<lex begin="1095" end="1098">now</lex>
+<lex begin="1099" end="1103">much</lex>
+<lex begin="1104" end="1108">more</lex>
+<lex begin="1109" end="1118">difficult</lex>
+<lex begin="1119" end="1122">for</lex>
+<lex begin="1123" end="1125">me</lex>
+<lex begin="1126" end="1128">to</lex>
+<lex begin="1129" end="1133">camp</lex>
+<lex begin="1133" end="1134">.</lex>
+</s>
+<s>
+<lex begin="1139" end="1140">I</lex>
+<lex begin="1141" end="1148">visited</lex>
+<lex begin="1149" end="1150">a</lex>
+<lex begin="1151" end="1158">primary</lex>
+<lex begin="1159" end="1165">school</lex>
+<lex begin="1165" end="1166">,</lex>
+<lex begin="1167" end="1169">El</lex>
+<lex begin="1170" end="1178">Progreso</lex>
+<lex begin="1178" end="1179">.</lex>
+</s>
+<s>
+<lex begin="1180" end="1181">I</lex>
+<lex begin="1182" end="1185">set</lex>
+<lex begin="1186" end="1190">this</lex>
+<lex begin="1191" end="1196">visit</lex>
+<lex begin="1197" end="1199">up</lex>
+<lex begin="1200" end="1202">by</lex>
+<lex begin="1203" end="1209">biking</lex>
+<lex begin="1210" end="1212">by</lex>
+<lex begin="1213" end="1216">the</lex>
+<lex begin="1217" end="1223">school</lex>
+<lex begin="1224" end="1227">and</lex>
+<lex begin="1228" end="1234">having</lex>
+<lex begin="1235" end="1238">all</lex>
+<lex begin="1239" end="1242">the</lex>
+<lex begin="1243" end="1251">children</lex>
+<lex begin="1251" end="1252">,</lex>
+<lex begin="1253" end="1256">who</lex>
+<lex begin="1257" end="1261">were</lex>
+<lex begin="1262" end="1264">at</lex>
+<lex begin="1265" end="1271">recess</lex>
+<lex begin="1271" end="1272">,</lex>
+<lex begin="1273" end="1276">run</lex>
+<lex begin="1277" end="1280">out</lex>
+<lex begin="1281" end="1284">and</lex>
+<lex begin="1285" end="1289">stop</lex>
+<lex begin="1290" end="1292">me</lex>
+<lex begin="1292" end="1293">,</lex>
+<lex begin="1294" end="1300">asking</lex>
+<lex begin="1301" end="1305">what</lex>
+<lex begin="1306" end="1307">I</lex>
+<lex begin="1308" end="1311">was</lex>
+<lex begin="1312" end="1317">doing</lex>
+<lex begin="1317" end="1318">.</lex>
+</s>
+<s>
+<lex begin="1326" end="1332">Thanks</lex>
+<lex begin="1333" end="1335">to</lex>
+<lex begin="1336" end="1339">the</lex>
+<lex begin="1340" end="1348">bomberos</lex>
+<lex begin="1349" end="1350">(</lex>
+<lex begin="1350" end="1357">firemen</lex>
+<lex begin="1357" end="1358">)</lex>
+<lex begin="1359" end="1361">of</lex>
+<lex begin="1362" end="1365">San</lex>
+<lex begin="1366" end="1371">Pedro</lex>
+<lex begin="1372" end="1376">Sula</lex>
+<lex begin="1376" end="1377">,</lex>
+<lex begin="1378" end="1381">who</lex>
+<lex begin="1382" end="1385">let</lex>
+<lex begin="1386" end="1388">me</lex>
+<lex begin="1389" end="1393">stay</lex>
+<lex begin="1394" end="1396">at</lex>
+<lex begin="1397" end="1402">their</lex>
+<lex begin="1403" end="1410">station</lex>
+<lex begin="1410" end="1411">.</lex>
+</s>
+<s>
+<lex begin="1412" end="1416">They</lex>
+<lex begin="1417" end="1421">were</lex>
+<lex begin="1422" end="1425">out</lex>
+<lex begin="1426" end="1434">fighting</lex>
+<lex begin="1435" end="1440">fires</lex>
+<lex begin="1441" end="1444">all</lex>
+<lex begin="1445" end="1450">night</lex>
+<lex begin="1451" end="1456">while</lex>
+<lex begin="1457" end="1458">I</lex>
+<lex begin="1459" end="1464">slept</lex>
+<lex begin="1464" end="1465">,</lex>
+<lex begin="1466" end="1469">and</lex>
+<lex begin="1470" end="1474">they</lex>
+<lex begin="1475" end="1479">also</lex>
+<lex begin="1480" end="1484">gave</lex>
+<lex begin="1485" end="1487">me</lex>
+<lex begin="1488" end="1489">a</lex>
+<lex begin="1490" end="1494">free</lex>
+<lex begin="1495" end="1506">â€˜Bomberos</lex>
+<lex begin="1507" end="1509">de</lex>
+<lex begin="1510" end="1521">Hondurasâ€™</lex>
+<lex begin="1522" end="1529">t-shirt</lex>
+<lex begin="1530" end="1533">and</lex>
+<lex begin="1534" end="1539">decal</lex>
+<lex begin="1539" end="1540">.</lex>
+</s>
+<s>
+<lex begin="1541" end="1545">Also</lex>
+<lex begin="1545" end="1546">,</lex>
+<lex begin="1547" end="1553">thanks</lex>
+<lex begin="1554" end="1556">to</lex>
+<lex begin="1557" end="1560">the</lex>
+<lex begin="1561" end="1564">the</lex>
+<lex begin="1565" end="1573">bomberos</lex>
+<lex begin="1574" end="1576">of</lex>
+<lex begin="1577" end="1582">Santa</lex>
+<lex begin="1583" end="1587">Rosa</lex>
+<lex begin="1588" end="1590">de</lex>
+<lex begin="1591" end="1596">Copan</lex>
+<lex begin="1597" end="1598">(</lex>
+<lex begin="1598" end="1600">on</lex>
+<lex begin="1601" end="1604">the</lex>
+<lex begin="1605" end="1610">right</lex>
+<lex begin="1610" end="1611">)</lex>
+<lex begin="1611" end="1612">,</lex>
+<lex begin="1613" end="1618">where</lex>
+<lex begin="1619" end="1620">I</lex>
+<lex begin="1621" end="1627">stayed</lex>
+<lex begin="1628" end="1631">two</lex>
+<lex begin="1632" end="1638">nights</lex>
+<lex begin="1639" end="1644">later</lex>
+<lex begin="1644" end="1645">.</lex>
+</s>
+</TOKENS>
+</SpaceEvalTaskv1.2>

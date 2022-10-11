@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ISOSpaceTaskv1.15>
+<TEXT><![CDATA[
+        Tokyo
+        Originally known as Edo (meaning “estuary”), Tokyo was just
+        a sleepy little village surrounded by marshland on the broad Kanto         plain until the end of the 16th century, when Tokugawa Ieyasu moved
+        here and made it the center of his vast domains. When Ieyasu became
+        shogun in 1603, Edo in turn became the seat of national
+        government — and its castle the largest in the world. Edo expanded
+        rapidly to accommodate Ieyasu’s 80,000 retainers and their families and
+        the myriad common people who served their daily needs. By 1787 the
+        population had grown to 1,368,000.
+        The ruling elite lived on the high ground, the Yamanote
+        (“bluffs”) west and south of the castle. The artisans, tradespeople,
+        and providers of entertainment (reputable and not so reputable) lived
+        “downtown” on the reclaimed marshlands north and east, in the area
+        still known as Shitamachi. As these two populations interacted, a
+        unique new culture was born. Edo became the center of power and also
+        the center of all that was vibrant and compelling in the arts.
+        After 1868 that center grew even stronger, when the movement
+        known as the Meiji Restoration overthrew the Tokugawa shogunate and the
+        imperial court moved to Edo. The city was renamed Tokyo (“Eastern         Capital”), and from that moment on all roads — political, cultural, and
+        financial — led here.
+        In the 20th century Tokyo has twice suffered almost total
+        destruction. First, the earthquake of 1923 and subsequent fire razed
+        nearly all vestiges of old Edo, killing some 140,000 people in the
+        process. Rebuilt without any comprehensive urban plan, Tokyo remains a
+        city of subcenters and neighborhoods, even villages, each with its own
+        distinct personality.
+        Unlike the great capital cities of Europe, there is no
+        prevailing style of architecture here, no “monumental” core for a new
+        building to harmonize or clash with. Even after the collapse of the
+        economic bubble in 1992, construction projects are everywhere. Whole
+        blocks of the city seem to disappear overnight, replaced in the blink
+        of an eye by new office buildings, condominiums, cultural complexes,
+        and shopping centers.
+        Tokyo is a city of enormous creative and entrepreneurial
+        energy, much of which goes into reinventing itself. If there’s a
+        commodity in short supply here, it’s relaxation. Nobody “strolls” in
+        Tokyo, and there are few places to sit down outdoors and watch the
+        world go by. The idea of a long, leisurely lunch hour is utterly alien.
+        People in Tokyo are in a hurry to get somewhere — even if they don’t
+        always know precisely where they’re going. 
+]]></TEXT>
+<TAGS>
+<PLACE id="pl25" start="436" end="439" text="Edo" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl26" start="690" end="696" text="ground" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="high" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl27" start="702" end="710" text="Yamanote" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl389" start="875" end="883" text="downtown" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl29" start="902" end="912" text="marshlands" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl30" start="936" end="940" text="area" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl31" start="964" end="974" text="Shitamachi" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl32" start="1052" end="1055" text="Edo" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl33" start="1344" end="1347" text="Edo" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl34" start="1353" end="1357" text="city" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl35" start="1370" end="1375" text="Tokyo" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl36" start="1378" end="1401" text="Eastern         Capital" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl37" start="1490" end="1494" text="here" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl38" start="1524" end="1529" text="Tokyo" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl39" start="1674" end="1677" text="Edo" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl40" start="1777" end="1782" text="Tokyo" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl41" start="1801" end="1805" text="city" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl42" start="1809" end="1819" text="subcenters" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl43" start="1824" end="1837" text="neighborhoods" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl44" start="1844" end="1852" text="villages" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl46" start="1935" end="1941" text="cities" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="capital" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl47" start="1945" end="1951" text="Europe" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl520" start="2006" end="2010" text="here" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl48" start="2178" end="2188" text="everywhere" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl49" start="2204" end="2210" text="blocks" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl50" start="2218" end="2222" text="city" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl55" start="2389" end="2394" text="Tokyo" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl2039" start="2553" end="2557" text="here" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl57" start="2604" end="2609" text="Tokyo" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl58" start="2629" end="2635" text="places" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl59" start="2648" end="2656" text="outdoors" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl60" start="2769" end="2774" text="Tokyo" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl61" start="2797" end="2806" text="somewhere" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl62" start="2858" end="2863" text="where" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="9" end="14" text="Tokyo" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="43" end="46" text="Edo" type="" dimensionality="VOLUME" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="68" end="73" text="Tokyo" type="" dimensionality="VOLUME" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="107" end="114" text="village" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="little" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="129" end="138" text="marshland" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl16" start="152" end="171" text="Kanto         plain" type="" dimensionality="VOLUME" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="broad" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="242" end="246" text="here" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="256" end="258" text="it" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="263" end="269" text="center" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="282" end="289" text="domains" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="334" end="337" text="Edo" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl0" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="Refers to 'Yamanote' in 'the reclaimed marshlands north and east'" />
+<PATH id="p1" start="1433" end="1438" text="roads" beginID="" endID="pl37" midIDs="" type="" dimensionality="AREA" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se5" start="403" end="409" text="castle" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se10" start="2165" end="2173" text="projects" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se12" start="2576" end="2582" text="Nobody" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1002" start="2679" end="2684" text="world" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se13" start="2759" end="2765" text="People" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se14" start="2864" end="2868" text="they" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se4" start="212" end="227" text="Tokugawa Ieyasu" type="" dimensionality="VOLUME" form="NAM" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="296" end="302" text="Ieyasu" type="" dimensionality="POINT" form="NAM" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="2817" end="2821" text="they" type="" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se2" start="752" end="758" text="castle" type="" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e0" start="672" end="677" text="lived" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e1" start="860" end="865" text="lived" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e2" start="1570" end="1581" text="destruction" domain="" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="" />
+<MOTION id="m8" start="440" end="448" text="expanded" domain="" latLong="" elevation="" motion_type="MANNER" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m10" start="1486" end="1489" text="led" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="FICTIVE" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m12" start="2584" end="2591" text="strolls" domain="" latLong="" elevation="" motion_type="COMPOUND" motion_class="MOVE_INTERNAL" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m150" start="2685" end="2687" text="go" domain="" latLong="" elevation="" motion_type="PATH" motion_class="MOVE_EXTERNAL" motion_sense="FICTIVE" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m13" start="2793" end="2796" text="get" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m14" start="2872" end="2877" text="going" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m7" start="228" end="233" text="moved" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="2639" end="2642" text="sit" domain="" latLong="" elevation="" motion_type="COMPOUND" motion_class="HIT" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s24" start="678" end="680" text="on" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s4" start="730" end="747" text="west and south of" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s25" start="885" end="887" text="on" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s5" start="913" end="927" text="north and east" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="929" end="931" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s9" start="1806" end="1808" text="of" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s8" start="1942" end="1944" text="of" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s7" start="2211" end="2213" text="of" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s10" start="2766" end="2768" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="115" end="128" text="surrounded by" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s2" start="139" end="141" text="on" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s0" start="270" end="272" text="of" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="a1" start="2593" end="2595" text="in" adjunct_type="PATH" comment="" />
+<MOTION_SIGNAL id="a2" start="2688" end="2690" text="by" adjunct_type="PATH" comment="" />
+<MOTION_SIGNAL id="a0" start="2643" end="2647" text="down" adjunct_type="PATH" comment="" />
+<QSLINK id="qsl0" fromID="pl15" fromText="marshland" toID="pl14" toText="village" relType="EC" trajector="pl15" landmark="pl14" trigger="s1" comment="" />
+<QSLINK id="qsl2" fromID="pl19" fromText="center" toID="pl18" toText="it" relType="EQ" trajector="pl19" landmark="pl18" trigger="" comment="" />
+<QSLINK id="qsl3" fromID="pl19" fromText="center" toID="pl21" toText="domains" relType="IN" trajector="pl19" landmark="pl21" trigger="" comment="" />
+<QSLINK id="qsl4" fromID="se5" fromText="castle" toID="pl22" toText="Edo" relType="NTPP" trajector="se5" landmark="pl22" trigger="" comment="" />
+<QSLINK id="qsl8" fromID="e0" fromText="lived" toID="pl26" toText="ground" relType="EC" trajector="e0" landmark="pl26" trigger="s24" comment="" />
+<QSLINK id="qsl9" fromID="e1" fromText="lived" toID="pl389" toText="downtown" relType="IN" trajector="e1" landmark="pl389" trigger="" comment="" />
+<QSLINK id="qsl10" fromID="e1" fromText="lived" toID="pl29" toText="marshlands" relType="EC" trajector="e1" landmark="pl29" trigger="s25" comment="" />
+<QSLINK id="qsl11" fromID="e1" fromText="lived" toID="pl30" toText="area" relType="IN" trajector="e1" landmark="pl30" trigger="s6" comment="" />
+<QSLINK id="qsl12" fromID="pl14" fromText="village" toID="pl16" toText="Kanto         plain" relType="EC" trajector="pl14" landmark="pl16" trigger="s2" comment="" />
+<QSLINK id="qsl13" fromID="e2" fromText="destruction" toID="pl38" toText="Tokyo" relType="IN" trajector="e2" landmark="pl38" trigger="" comment="" />
+<QSLINK id="qsl17" fromID="pl42" fromText="subcenters" toID="pl41" toText="city" relType="IN" trajector="pl42" landmark="pl41" trigger="s9" comment="" />
+<QSLINK id="qsl18" fromID="pl43" fromText="neighborhoods" toID="pl41" toText="city" relType="IN" trajector="pl43" landmark="pl41" trigger="s9" comment="" />
+<QSLINK id="qsl19" fromID="pl44" fromText="villages" toID="pl41" toText="city" relType="IN" trajector="pl44" landmark="pl41" trigger="s9" comment="" />
+<QSLINK id="qsl20" fromID="pl46" fromText="cities" toID="pl47" toText="Europe" relType="IN" trajector="pl46" landmark="pl47" trigger="s8" comment="" />
+<QSLINK id="qsl21" fromID="se10" fromText="projects" toID="pl48" toText="everywhere" relType="IN" trajector="se10" landmark="pl48" trigger="" comment="" />
+<QSLINK id="qsl22" fromID="pl49" fromText="blocks" toID="pl50" toText="city" relType="IN" trajector="pl49" landmark="pl50" trigger="s7" comment="" />
+<QSLINK id="qsl24" fromID="pl58" fromText="places" toID="pl59" toText="outdoors" relType="IN" trajector="pl58" landmark="pl59" trigger="" comment="" />
+<QSLINK id="qsl25" fromID="se13" fromText="People" toID="pl60" toText="Tokyo" relType="IN" trajector="se13" landmark="pl60" trigger="s10" comment="" />
+<QSLINK id="qsl1" fromID="pl19" fromText="center" toID="pl21" toText="domains" relType="NTPP" trajector="pl19" landmark="pl21" trigger="s0" comment="" />
+<OLINK id="ol0" fromID="pl15" fromText="marshland" toID="pl14" toText="village" relType="SURROUND" trajector="pl15" landmark="pl14" trigger="s1" frame_type="INTRINSIC" referencePt="pl14" projective="FALSE" comment="" />
+<OLINK id="ol2" fromID="e0" fromText="lived" toID="pl26" toText="ground" relType="ABOVE" trajector="e0" landmark="pl26" trigger="s24" frame_type="INTRINSIC" referencePt="pl26" projective="FALSE" comment="" />
+<OLINK id="ol4" fromID="e1" fromText="lived" toID="pl29" toText="marshlands" relType="ABOVE" trajector="e1" landmark="pl29" trigger="s25" frame_type="INTRINSIC" referencePt="pl29" projective="FALSE" comment="" />
+<OLINK id="ol5" fromID="pl14" fromText="village" toID="pl16" toText="Kanto         plain" relType="ABOVE" trajector="pl14" landmark="pl16" trigger="s2" frame_type="INTRINSIC" referencePt="pl14" projective="FALSE" comment="" />
+<OLINK id="ol6" fromID="pl29" fromText="marshlands" toID="pl0" toText="" relType="NORTHEAST" trajector="pl29" landmark="pl0" trigger="s5" frame_type="ABSOLUTE" referencePt="NORTH AND EAST" projective="FALSE" comment="" />
+<OLINK id="ol1" fromID="pl27" fromText="Yamanote" toID="se2" toText="castle" relType="SOUTHWEST" trajector="pl27" landmark="se2" trigger="s4" frame_type="ABSOLUTE" referencePt="SOUTHWEST" projective="FALSE" comment="" />
+<MOVELINK id="mvl0" fromID="m10" fromText="led" toID="p1" toText="roads" trigger="m10" source="" goal="pl37" midPoint="" mover="p1" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl2" fromID="m12" fromText="strolls" toID="se12" toText="Nobody" trigger="m12" source="" goal="" midPoint="" mover="se12" landmark="pl57" goal_reached="" pathID="" motion_signalID="ms1" comment="" />
+<MOVELINK id="mvl3" fromID="m13" fromText="get" toID="se13" toText="People" trigger="m13" source="" goal="pl61" midPoint="" mover="se13" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl4" fromID="m14" fromText="going" toID="se14" toText="they" trigger="m14" source="" goal="pl62" midPoint="" mover="se14" landmark="" goal_reached="UNCERTAIN" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl5" fromID="m150" fromText="go" toID="se1002" toText="world" trigger="m150" source="" goal="" midPoint="" mover="se1002" landmark="pl58" goal_reached="" pathID="" motion_signalID="ms2" comment="" />
+<MOVELINK id="mvl6" fromID="m7" fromText="moved" toID="se4" toText="Tokugawa Ieyasu" trigger="m7" source="" goal="pl17" midPoint="" mover="se4" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl7" fromID="m8" fromText="expanded" toID="pl25" toText="Edo" trigger="m8" source="" goal="" midPoint="" mover="pl25" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl9" fromID="m0" fromText="sit" toID="m0" toText="sit" trigger="m0" source="" goal="" midPoint="" mover="" landmark="pl58" goal_reached="YES" pathID="" motion_signalID="ms0" comment="Generic mover" />
+<METALINK id="metal0" fromID="pl13" fromText="Tokyo" toID="pl10" toText="Tokyo" objectID1="pl13" objectID2="pl10" relType="COREFERENCE" comment="" />
+<METALINK id="metal1" fromID="pl17" fromText="here" toID="pl10" toText="Tokyo" objectID1="pl17" objectID2="pl10" relType="COREFERENCE" comment="" />
+<METALINK id="metal2" fromID="pl18" fromText="it" toID="pl10" toText="Tokyo" objectID1="pl18" objectID2="pl10" relType="COREFERENCE" comment="" />
+<METALINK id="metal3" fromID="se0" fromText="Ieyasu" toID="se4" toText="Tokugawa Ieyasu" objectID1="se0" objectID2="se4" relType="COREFERENCE" comment="" />
+<METALINK id="metal4" fromID="pl12" fromText="Edo" toID="pl10" toText="Tokyo" objectID1="pl12" objectID2="pl10" relType="COREFERENCE" comment="" />
+<METALINK id="metal5" fromID="pl22" fromText="Edo" toID="pl10" toText="Tokyo" objectID1="pl22" objectID2="pl10" relType="COREFERENCE" comment="" />
+<METALINK id="metal6" fromID="pl25" fromText="Edo" toID="pl10" toText="Tokyo" objectID1="pl25" objectID2="pl10" relType="COREFERENCE" comment="" />
+<METALINK id="metal8" fromID="pl31" fromText="Shitamachi" toID="pl30" toText="area" objectID1="pl31" objectID2="pl30" relType="COREFERENCE" comment="" />
+<METALINK id="metal9" fromID="pl32" fromText="Edo" toID="pl10" toText="Tokyo" objectID1="pl32" objectID2="pl10" relType="COREFERENCE" comment="" />
+<METALINK id="metal10" fromID="pl33" fromText="Edo" toID="pl10" toText="Tokyo" objectID1="pl33" objectID2="pl10" relType="COREFERENCE" comment="" />
+<METALINK id="metal11" fromID="pl34" fromText="city" toID="pl10" toText="Tokyo" objectID1="pl34" objectID2="pl10" relType="COREFERENCE" comment="" />
+<METALINK id="metal12" fromID="pl35" fromText="Tokyo" toID="pl10" toText="Tokyo" objectID1="pl35" objectID2="pl10" relType="COREFERENCE" comment="" />
+<METALINK id="metal13" fromID="pl36" fromText="Eastern         Capital" toID="pl10" toText="Tokyo" objectID1="pl36" objectID2="pl10" relType="COREFERENCE" comment="" />
+<METALINK id="metal14" fromID="pl37" fromText="here" toID="pl10" toText="Tokyo" objectID1="pl37" objectID2="pl10" relType="COREFERENCE" comment="" />
+<METALINK id="metal15" fromID="pl38" fromText="Tokyo" toID="pl10" toText="Tokyo" objectID1="pl38" objectID2="pl10" relType="COREFERENCE" comment="" />
+<METALINK id="metal17" fromID="pl40" fromText="Tokyo" toID="pl10" toText="Tokyo" objectID1="pl40" objectID2="pl10" relType="COREFERENCE" comment="" />
+<METALINK id="metal18" fromID="pl520" fromText="here" toID="pl10" toText="Tokyo" objectID1="pl520" objectID2="pl10" relType="COREFERENCE" comment="" />
+<METALINK id="metal19" fromID="pl50" fromText="city" toID="pl10" toText="Tokyo" objectID1="pl50" objectID2="pl10" relType="COREFERENCE" comment="" />
+<METALINK id="metal20" fromID="pl55" fromText="Tokyo" toID="pl10" toText="Tokyo" objectID1="pl55" objectID2="pl10" relType="COREFERENCE" comment="" />
+<METALINK id="metal21" fromID="pl2039" fromText="here" toID="pl10" toText="Tokyo" objectID1="pl2039" objectID2="pl10" relType="COREFERENCE" comment="" />
+<METALINK id="metal22" fromID="pl57" fromText="Tokyo" toID="pl10" toText="Tokyo" objectID1="pl57" objectID2="pl10" relType="COREFERENCE" comment="" />
+<METALINK id="metal23" fromID="pl60" fromText="Tokyo" toID="pl10" toText="Tokyo" objectID1="pl60" objectID2="pl10" relType="COREFERENCE" comment="" />
+<METALINK id="metal24" fromID="se14" fromText="they" toID="se13" toText="People" objectID1="se14" objectID2="se13" relType="COREFERENCE" comment="" />
+<METALINK id="metal25" fromID="pl0" fromText="" toID="pl27" toText="Yamanote" objectID1="pl0" objectID2="pl27" relType="COREFERENCE" comment="" />
+<METALINK id="metal26" fromID="se1" fromText="they" toID="se13" toText="People" objectID1="se1" objectID2="se13" relType="COREFERENCE" comment="" />
+<METALINK id="metal16" fromID="se2" fromText="castle" toID="se5" toText="castle" objectID1="se2" objectID2="se5" relType="COREFERENCE" comment="" />
+</TAGS>
+</ISOSpaceTaskv1.15>

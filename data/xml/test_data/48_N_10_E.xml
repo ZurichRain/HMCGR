@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[
+
+02-Jan-2010 -- On the way back from our winter sports holiday the Confluence Point 48N 10E was situated only a few kilometres away from the autobahn A96 resp. A7. Such an opportunity should be taken.
+
+The GPS routed us through the village ‘Rot an der Rot’. In a very friendly atmosphere we saw an affectionately restored monastery building. Furthermore the trip lead us into the village of Spindelwag. Woodwork seems to play an important role here.
+
+On the one hand I never saw more palettes on a heap before. On the other hand a big wooden hull was produced over the street. After about 1,000 meters we reached the confluence point on a court from a homestead.
+
+In these late hours I didn't wanted to disturb anybody, so I did my short confluence dance without the approval of the owners. Apart from the noises of the live stock in the stable I couldn't hear anything or see anybody. Despite the darkness the needed pictures turned out quite well. The GPS reception was very good and stable in spite of the buildings around.
+
+﻿http://confluence.org/confluence.php?id=2343]]></TEXT>
+<TAGS>
+<PLACE comment="Goal for 'On the way back from our winter sports holiday'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl1" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="'in spite of the buildings around'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl2" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="Source for 'The GPS routed us through the village'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl0" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="Goal for 'The GPS routed us through the village'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl10" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="240" form="NOM" gazref="" gquant="" id="pl5" latLong="" mod="" scopes="" start="233" state="" text="village" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="256" form="NAM" gazref="" gquant="" id="pl6" latLong="" mod="" scopes="" start="242" state="" text="Rot an der Rot" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="388" form="NOM" gazref="" gquant="" id="pl7" latLong="" mod="" scopes="" start="381" state="" text="village" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="402" form="NAM" gazref="" gquant="" id="pl8" latLong="" mod="" scopes="" start="392" state="" text="Spindelwag" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="449" form="NOM" gazref="" gquant="" id="pl9" latLong="" mod="" scopes="" start="445" state="" text="here" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="634" form="NOM" gazref="" gquant="" id="pl12" latLong="" mod="" scopes="" start="629" state="" text="point" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="645" form="NOM" gazref="" gquant="" id="pl11" latLong="" mod="" scopes="" start="640" state="" text="court" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="662" form="NOM" gazref="" gquant="" id="pl13" latLong="" mod="" scopes="" start="653" state="" text="homestead" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="92" form="NAM" gazref="" gquant="" id="pl4" latLong="" mod="" scopes="" start="68" state="" text="Confluence Point 48N 10E" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="845" form="NOM" gazref="" gquant="" id="pl14" latLong="" mod="" scopes="" start="839" state="" text="stable" type=""/>
+<PATH beginID="" comment="I'm not sure if this is a PATH or PLACE, but it is apparently specifically one of the two: 'autobahn A96 resp. A7'.  -BB" countable="TRUE" dcl="FALSE" dimensionality="LINE" domain="" elevation="" end="154" endID="" form="NAM" gazref="" gquant="" id="p0" latLong="" midIDs="" mod="" scopes="" start="142" text="autobahn A96" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="576" endID="" form="NOM" gazref="" gquant="" id="p1" latLong="" midIDs="" mod="" scopes="" start="570" text="street" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="1019" form="NOM" gquant="" id="se0" latLong="" mod="" scopes="" start="1010" text="buildings" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="220" form="NOM" gquant="" id="se1" latLong="" mod="" scopes="" start="218" text="us" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="291" form="NOM" gquant="" id="se2" latLong="" mod="" scopes="" start="289" text="we" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="371" form="NOM" gquant="" id="se3" latLong="" mod="" scopes="" start="369" text="us" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="493" form="NOM" gquant="" id="se4" latLong="" mod="" scopes="" start="485" text="palettes" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="503" form="NOM" gquant="" id="se5" latLong="" mod="" scopes="" start="499" text="heap" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="547" form="NOM" gquant="" id="se6" latLong="" mod="big" scopes="" start="543" text="hull" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="605" form="NOM" gquant="" id="se7" latLong="" mod="" scopes="" start="603" text="we" type=""/>
+<SPATIAL_ENTITY comment="" countable="FALSE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="831" form="NOM" gquant="" id="se8" latLong="" mod="" scopes="" start="821" text="live stock" type=""/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="426" gquant="" id="e1" latLong="" mod="" scopes="" start="422" text="play"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="105" gquant="" id="e0" latLong="" mod="" scopes="" start="97" text="situated"/>
+<MOTION comment="" countable="" domain="" elevation="" end="217" gquant="" id="m3" latLong="" mod="" motion_class="CROSS" motion_sense="LITERAL" motion_type="PATH" scopes="" start="211" text="routed"/>
+<MOTION comment="" countable="" domain="" elevation="" end="368" gquant="" id="m2" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="364" text="lead"/>
+<MOTION comment="" countable="" domain="" elevation="" end="613" gquant="" id="m4" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="606" text="reached"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="137" id="s0" semantic_type="TOPOLOGICAL" start="128" text="away from"/>
+<SPATIAL_SIGNAL cluster="" comment="Poor use of English.  Should read 'in'." end="496" id="s3" semantic_type="TOPOLOGICAL" start="494" text="on"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="565" id="s4" semantic_type="DIR_TOP" start="561" text="over"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="637" id="s1" semantic_type="DIR_TOP" start="635" text="on"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="834" id="s5" semantic_type="TOPOLOGICAL" start="832" text="in"/>
+<MOTION_SIGNAL comment="" end="228" id="ms1" motion_signal_type="PATH" start="221" text="through"/>
+<MOTION_SIGNAL comment="" end="376" id="ms2" motion_signal_type="PATH" start="372" text="into"/>
+<MEASURE comment="" end="127" id="me0" start="113" text="few kilometres" unit="kilometers" value="few"/>
+<MEASURE comment="" end="1026" id="me1" start="1020" text="around" unit="" value="NEAR"/>
+<QSLINK id="qsl0" fromID="" fromText="" toID="" toText="" relType="" trajector="e1" landmark="pl9" trigger="" comment=""/>
+<QSLINK id="qsl1" fromID="" fromText="" toID="" toText="" relType="" trajector="pl11" landmark="pl13" trigger="" comment=""/>
+<QSLINK id="qsl2" fromID="" fromText="" toID="" toText="" relType="" trajector="e0" landmark="p0" trigger="s0" comment=""/>
+<QSLINK id="qsl3" fromID="" fromText="" toID="" toText="" relType="" trajector="pl12" landmark="pl11" trigger="s1" comment=""/>
+<QSLINK id="qsl4" fromID="" fromText="" toID="" toText="" relType="" trajector="se4" landmark="se5" trigger="s3" comment=""/>
+<QSLINK id="qsl5" fromID="" fromText="" toID="" toText="" relType="" trajector="se6" landmark="p1" trigger="s4" comment=""/>
+<QSLINK id="qsl6" fromID="" fromText="" toID="" toText="" relType="" trajector="se8" landmark="pl14" trigger="s5" comment=""/>
+<OLINK id="ol0" fromID="" fromText="" toID="" toText="" relType="" trajector="pl12" landmark="pl11" trigger="s1" frame_type="" referencePt="" projective="" comment=""/>
+<OLINK id="ol1" fromID="" fromText="" toID="" toText="" relType="" trajector="se6" landmark="p1" trigger="s4" frame_type="" referencePt="" projective="" comment=""/>
+<MOVELINK id="mvl0" fromID="" fromText="" toID="" toText="" trigger="m2" source="" goal="pl7" midPoint="" mover="se3" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl1" fromID="" fromText="" toID="" toText="" trigger="m3" source="" goal="" midPoint="pl5" mover="se1" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl2" fromID="" fromText="" toID="" toText="" trigger="m4" source="" goal="pl12" midPoint="" mover="se7" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<CP>48N10E</CP>
+<URL>http://confluence.org/confluence.php?id=2343</URL>
+</TAGS>
+<TOKENS>
+<s>
+<lex begin="2" end="13">02-Jan-2010</lex>
+<lex begin="14" end="16">--</lex>
+<lex begin="17" end="19">On</lex>
+<lex begin="20" end="23">the</lex>
+<lex begin="24" end="27">way</lex>
+<lex begin="28" end="32">back</lex>
+<lex begin="33" end="37">from</lex>
+<lex begin="38" end="41">our</lex>
+<lex begin="42" end="48">winter</lex>
+<lex begin="49" end="55">sports</lex>
+<lex begin="56" end="63">holiday</lex>
+<lex begin="64" end="67">the</lex>
+<lex begin="68" end="78">Confluence</lex>
+<lex begin="79" end="84">Point</lex>
+<lex begin="85" end="88">48N</lex>
+<lex begin="89" end="92">10E</lex>
+<lex begin="93" end="96">was</lex>
+<lex begin="97" end="105">situated</lex>
+<lex begin="106" end="110">only</lex>
+<lex begin="111" end="112">a</lex>
+<lex begin="113" end="116">few</lex>
+<lex begin="117" end="127">kilometres</lex>
+<lex begin="128" end="132">away</lex>
+<lex begin="133" end="137">from</lex>
+<lex begin="138" end="141">the</lex>
+<lex begin="142" end="150">autobahn</lex>
+<lex begin="151" end="154">A96</lex>
+<lex begin="155" end="159">resp</lex>
+<lex begin="159" end="160">.</lex>
+</s>
+<s>
+<lex begin="161" end="163">A7</lex>
+<lex begin="163" end="164">.</lex>
+</s>
+<s>
+<lex begin="165" end="169">Such</lex>
+<lex begin="170" end="172">an</lex>
+<lex begin="173" end="184">opportunity</lex>
+<lex begin="185" end="191">should</lex>
+<lex begin="192" end="194">be</lex>
+<lex begin="195" end="200">taken</lex>
+<lex begin="200" end="201">.</lex>
+</s>
+<s>
+<lex begin="203" end="206">The</lex>
+<lex begin="207" end="210">GPS</lex>
+<lex begin="211" end="217">routed</lex>
+<lex begin="218" end="220">us</lex>
+<lex begin="221" end="228">through</lex>
+<lex begin="229" end="232">the</lex>
+<lex begin="233" end="240">village</lex>
+<lex begin="241" end="242">‘</lex>
+<lex begin="242" end="245">Rot</lex>
+<lex begin="246" end="248">an</lex>
+<lex begin="249" end="252">der</lex>
+<lex begin="253" end="256">Rot</lex>
+<lex begin="256" end="257">’</lex>
+<lex begin="257" end="258">.</lex>
+</s>
+<s>
+<lex begin="259" end="261">In</lex>
+<lex begin="262" end="263">a</lex>
+<lex begin="264" end="268">very</lex>
+<lex begin="269" end="277">friendly</lex>
+<lex begin="278" end="288">atmosphere</lex>
+<lex begin="289" end="291">we</lex>
+<lex begin="292" end="295">saw</lex>
+<lex begin="296" end="298">an</lex>
+<lex begin="299" end="313">affectionately</lex>
+<lex begin="314" end="322">restored</lex>
+<lex begin="323" end="332">monastery</lex>
+<lex begin="333" end="341">building</lex>
+<lex begin="341" end="342">.</lex>
+</s>
+<s>
+<lex begin="343" end="354">Furthermore</lex>
+<lex begin="355" end="358">the</lex>
+<lex begin="359" end="363">trip</lex>
+<lex begin="364" end="368">lead</lex>
+<lex begin="369" end="371">us</lex>
+<lex begin="372" end="376">into</lex>
+<lex begin="377" end="380">the</lex>
+<lex begin="381" end="388">village</lex>
+<lex begin="389" end="391">of</lex>
+<lex begin="392" end="402">Spindelwag</lex>
+<lex begin="402" end="403">.</lex>
+</s>
+<s>
+<lex begin="404" end="412">Woodwork</lex>
+<lex begin="413" end="418">seems</lex>
+<lex begin="419" end="421">to</lex>
+<lex begin="422" end="426">play</lex>
+<lex begin="427" end="429">an</lex>
+<lex begin="430" end="439">important</lex>
+<lex begin="440" end="444">role</lex>
+<lex begin="445" end="449">here</lex>
+<lex begin="449" end="450">.</lex>
+</s>
+<s>
+<lex begin="452" end="454">On</lex>
+<lex begin="455" end="458">the</lex>
+<lex begin="459" end="462">one</lex>
+<lex begin="463" end="467">hand</lex>
+<lex begin="468" end="469">I</lex>
+<lex begin="470" end="475">never</lex>
+<lex begin="476" end="479">saw</lex>
+<lex begin="480" end="484">more</lex>
+<lex begin="485" end="493">palettes</lex>
+<lex begin="494" end="496">on</lex>
+<lex begin="497" end="498">a</lex>
+<lex begin="499" end="503">heap</lex>
+<lex begin="504" end="510">before</lex>
+<lex begin="510" end="511">.</lex>
+</s>
+<s>
+<lex begin="512" end="514">On</lex>
+<lex begin="515" end="518">the</lex>
+<lex begin="519" end="524">other</lex>
+<lex begin="525" end="529">hand</lex>
+<lex begin="530" end="531">a</lex>
+<lex begin="532" end="535">big</lex>
+<lex begin="536" end="542">wooden</lex>
+<lex begin="543" end="547">hull</lex>
+<lex begin="548" end="551">was</lex>
+<lex begin="552" end="560">produced</lex>
+<lex begin="561" end="565">over</lex>
+<lex begin="566" end="569">the</lex>
+<lex begin="570" end="576">street</lex>
+<lex begin="576" end="577">.</lex>
+</s>
+<s>
+<lex begin="578" end="583">After</lex>
+<lex begin="584" end="589">about</lex>
+<lex begin="590" end="595">1,000</lex>
+<lex begin="596" end="602">meters</lex>
+<lex begin="603" end="605">we</lex>
+<lex begin="606" end="613">reached</lex>
+<lex begin="614" end="617">the</lex>
+<lex begin="618" end="628">confluence</lex>
+<lex begin="629" end="634">point</lex>
+<lex begin="635" end="637">on</lex>
+<lex begin="638" end="639">a</lex>
+<lex begin="640" end="645">court</lex>
+<lex begin="646" end="650">from</lex>
+<lex begin="651" end="652">a</lex>
+<lex begin="653" end="662">homestead</lex>
+<lex begin="662" end="663">.</lex>
+</s>
+<s>
+<lex begin="665" end="667">In</lex>
+<lex begin="668" end="673">these</lex>
+<lex begin="674" end="678">late</lex>
+<lex begin="679" end="684">hours</lex>
+<lex begin="685" end="686">I</lex>
+<lex begin="687" end="690">did</lex>
+<lex begin="690" end="693">n't</lex>
+<lex begin="694" end="700">wanted</lex>
+<lex begin="701" end="703">to</lex>
+<lex begin="704" end="711">disturb</lex>
+<lex begin="712" end="719">anybody</lex>
+<lex begin="719" end="720">,</lex>
+<lex begin="721" end="723">so</lex>
+<lex begin="724" end="725">I</lex>
+<lex begin="726" end="729">did</lex>
+<lex begin="730" end="732">my</lex>
+<lex begin="733" end="738">short</lex>
+<lex begin="739" end="749">confluence</lex>
+<lex begin="750" end="755">dance</lex>
+<lex begin="756" end="763">without</lex>
+<lex begin="764" end="767">the</lex>
+<lex begin="768" end="776">approval</lex>
+<lex begin="777" end="779">of</lex>
+<lex begin="780" end="783">the</lex>
+<lex begin="784" end="790">owners</lex>
+<lex begin="790" end="791">.</lex>
+</s>
+<s>
+<lex begin="792" end="797">Apart</lex>
+<lex begin="798" end="802">from</lex>
+<lex begin="803" end="806">the</lex>
+<lex begin="807" end="813">noises</lex>
+<lex begin="814" end="816">of</lex>
+<lex begin="817" end="820">the</lex>
+<lex begin="821" end="825">live</lex>
+<lex begin="826" end="831">stock</lex>
+<lex begin="832" end="834">in</lex>
+<lex begin="835" end="838">the</lex>
+<lex begin="839" end="845">stable</lex>
+<lex begin="846" end="847">I</lex>
+<lex begin="848" end="853">could</lex>
+<lex begin="853" end="856">n't</lex>
+<lex begin="857" end="861">hear</lex>
+<lex begin="862" end="870">anything</lex>
+<lex begin="871" end="873">or</lex>
+<lex begin="874" end="877">see</lex>
+<lex begin="878" end="885">anybody</lex>
+<lex begin="885" end="886">.</lex>
+</s>
+<s>
+<lex begin="887" end="894">Despite</lex>
+<lex begin="895" end="898">the</lex>
+<lex begin="899" end="907">darkness</lex>
+<lex begin="908" end="911">the</lex>
+<lex begin="912" end="918">needed</lex>
+<lex begin="919" end="927">pictures</lex>
+<lex begin="928" end="934">turned</lex>
+<lex begin="935" end="938">out</lex>
+<lex begin="939" end="944">quite</lex>
+<lex begin="945" end="949">well</lex>
+<lex begin="949" end="950">.</lex>
+</s>
+<s>
+<lex begin="951" end="954">The</lex>
+<lex begin="955" end="958">GPS</lex>
+<lex begin="959" end="968">reception</lex>
+<lex begin="969" end="972">was</lex>
+<lex begin="973" end="977">very</lex>
+<lex begin="978" end="982">good</lex>
+<lex begin="983" end="986">and</lex>
+<lex begin="987" end="993">stable</lex>
+<lex begin="994" end="996">in</lex>
+<lex begin="997" end="1002">spite</lex>
+<lex begin="1003" end="1005">of</lex>
+<lex begin="1006" end="1009">the</lex>
+<lex begin="1010" end="1019">buildings</lex>
+<lex begin="1020" end="1026">around</lex>
+<lex begin="1026" end="1027">.</lex>
+</s>
+<lex begin="1029" end="1074">﻿http://confluence.org/confluence.php?id=2343</lex>
+</TOKENS>
+</SpaceEvalTaskv1.2>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ISOSpaceTaskv1.15>
+<TEXT><![CDATA[
+The Lake Titicaca near Llachón
+
+a man is spreading his arms behind two rocks and is looking onto a lake; there is a rocky landscape with a few trees in front of the lake;
+
+Capachica, Peru
+
+images/02/2015.jpg
+
+]]></TEXT>
+<TAGS>
+<PLACE id="pl2" start="100" end="104" text="lake" type="" dimensionality="VOLUME" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="123" end="132" text="landscape" type="" dimensionality="VOLUME" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="166" end="170" text="lake" type="" dimensionality="VOLUME" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="173" end="188" text="Capachica, Peru" type="" dimensionality="AREA" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="TRUE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="24" end="31" text="Llachón" type="" dimensionality="AREA" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl0" start="5" end="18" text="Lake Titicaca" type="" dimensionality="VOLUME" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se3" start="144" end="149" text="trees" type="" dimensionality="VOLUME" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="35" end="38" text="man" type="" dimensionality="VOLUME" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="56" end="60" text="arms" type="" dimensionality="VOLUME" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se2" start="72" end="77" text="rocks" type="" dimensionality="VOLUME" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="42" end="51" text="spreading" latLong="" elevation="" motion_type="MANNER" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s1" start="133" end="137" text="with" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="150" end="161" text="in front of" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="61" end="67" text="behind" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<MEASURE id="me0" start="19" end="23" text="near" value="NEAR" unit="" comment="" />
+</TAGS>
+</ISOSpaceTaskv1.15>

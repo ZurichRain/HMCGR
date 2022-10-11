@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[
+
+23-Mar-2002 -- On March 23rd, a rainy and cloudy weather, the team (Mara Iliescu, Dana Iliescu, Ramona Demean, Marius Iliescu, Mihai Tiepac and Lucky) drove from Sibiu to Deva. Reaching Simeria we've done right till Uroi. We passed through Hărău and Certeju de Jos arriving in the village Hondol. Along the valley Hondol at the right side we found an abandoned mine and at only 50 meters we parked the car. The GPS 'said' that from here till the point we had 200 meters left (Point). Our trip continued on foot crossing the valley and climbing the hill which was covered by a young and dense forest. When we reached the point it started snowing. Altitude 575 meters. Distance from Simeria 17.1 km.
+
+]]></TEXT>
+<TAGS>
+<PLACE id="pl14" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="one side of Certeju de Jos" />
+<PLACE id="pl15" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="other side of Certeju de Jos" />
+<PLACE id="pl18" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="one side of Harau" />
+<PLACE id="pl19" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="other side of Harau" />
+<PLACE id="pl16" start="-1" end="-1" text="" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="one side of the valley in 'our trip continued on foot crossing the valley'" />
+<PLACE id="pl17" start="-1" end="-1" text="" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="other side of the valley in 'our trip continued on foot crossing the valley'" />
+<PLACE id="pl20" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="the point at which they parked the car in 'and at only 50 meters we parked the car'" />
+<PLACE id="pl0" start="164" end="169" text="Sibiu" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="173" end="177" text="Deva" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="188" end="195" text="Simeria" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="218" end="222" text="Uroi" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="242" end="247" text="Hărău" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="252" end="266" text="Certeju de Jos" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="283" end="290" text="village" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="291" end="297" text="Hondol" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="363" end="367" text="mine" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="434" end="438" text="here" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="448" end="453" text="point" type="" dimensionality="POINT" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="550" end="554" text="hill" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="622" end="627" text="point" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="me2" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="683" end="690" text="Simeria" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p1" start="309" end="315" text="valley" beginID="" endID="" midIDs="" type="" dimensionality="VOLUME" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p2" start="316" end="322" text="Hondol" beginID="" endID="" midIDs="" type="" dimensionality="VOLUME" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p3" start="336" end="340" text="side" beginID="" endID="" midIDs="" type="" dimensionality="VOLUME" form="NOM" domain="" gazref="" latLong="" elevation="" mod="right" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p4" start="526" end="532" text="valley" beginID="" endID="" midIDs="" type="" dimensionality="VOLUME" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se4" start="113" end="127" text="Marius Iliescu" type="" dimensionality="AREA" form="NAM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se5" start="129" end="141" text="Mihai Tiepac" type="" dimensionality="AREA" form="NAM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se6" start="146" end="151" text="Lucky" type="" dimensionality="AREA" form="NAM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se7" start="196" end="198" text="we" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se8" start="224" end="226" text="We" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se9" start="341" end="343" text="we" type="" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se10" start="390" end="392" text="we" type="" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se11" start="404" end="407" text="car" type="" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se12" start="594" end="600" text="forest" type="" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se13" start="607" end="609" text="we" type="" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="64" end="68" text="team" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="70" end="82" text="Mara Iliescu" type="" dimensionality="AREA" form="NAM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se2" start="84" end="96" text="Dana Iliescu" type="" dimensionality="AREA" form="NAM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se3" start="98" end="111" text="Ramona Demean" type="" dimensionality="AREA" form="NAM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e0" start="344" end="349" text="found" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e1" start="393" end="399" text="parked" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="153" end="158" text="drove" domain="" latLong="" elevation="" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m1" start="179" end="187" text="Reaching" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m2" start="227" end="233" text="passed" domain="" latLong="" elevation="" motion_type="PATH" motion_class="CROSS" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m3" start="267" end="275" text="arriving" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m6" start="490" end="494" text="trip" domain="" latLong="" elevation="" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<MOTION id="m7" start="513" end="521" text="crossing" domain="" latLong="" elevation="" motion_type="PATH" motion_class="CROSS" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m9" start="537" end="545" text="climbing" domain="" latLong="" elevation="" motion_type="COMPOUND" motion_class="MOVE_EXTERNAL" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m8" start="610" end="617" text="reached" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s0" start="299" end="304" text="Along" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s1" start="323" end="325" text="at" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="372" end="374" text="at" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="565" end="572" text="covered" cluster="" semantic_type="DIR_TOP" comment="" />
+<MOTION_SIGNAL id="ms0" start="159" end="163" text="from" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms1" start="170" end="172" text="to" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms2" start="234" end="241" text="through" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms3" start="276" end="278" text="in" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms4" start="505" end="512" text="on foot" motion_signal_type="MANNER" comment="" />
+<MEASURE id="me0" start="380" end="389" text="50 meters" value="50" unit="meters" comment="" />
+<MEASURE id="me1" start="461" end="471" text="200 meters" value="200" unit="meters" comment="" />
+<MEASURE id="me2" start="657" end="667" text="575 meters" value="575" unit="meters" comment="" />
+<MEASURE id="me3" start="691" end="698" text="17.1 km" value="17.1" unit="kilometers" comment="" />
+<QSLINK id="qsl2" fromID="se12" fromText="forest" toID="pl13" toText="hill" relType="EC" trajector="se12" landmark="pl13" trigger="s5" comment="" />
+<QSLINK id="qsl4" fromID="p3" fromText="side" toID="p1" toText="valley" relType="TPP" trajector="p3" landmark="p1" trigger="" comment="" />
+<QSLINK id="qsl5" fromID="e0" fromText="found" toID="p3" toText="side" relType="OUT" trajector="e0" landmark="p3" trigger="s1" comment="" />
+<QSLINK id="qsl6" fromID="e0" fromText="found" toID="p1" toText="valley" relType="EC" trajector="e0" landmark="p1" trigger="s0" comment="" />
+<QSLINK id="qsl8" fromID="e1" fromText="parked" toID="pl20" toText="" relType="IN" trajector="e1" landmark="pl20" trigger="s2" comment="" />
+<QSLINK id="qsl9" fromID="pl14" fromText="" toID="pl5" toText="Certeju de Jos" relType="EC" trajector="pl14" landmark="pl5" trigger="" comment="" />
+<QSLINK id="qsl10" fromID="pl15" fromText="" toID="pl5" toText="Certeju de Jos" relType="EC" trajector="pl15" landmark="pl5" trigger="" comment="" />
+<QSLINK id="qsl11" fromID="pl18" fromText="" toID="pl4" toText="Hărău" relType="EC" trajector="pl18" landmark="pl4" trigger="" comment="" />
+<QSLINK id="qsl13" fromID="pl19" fromText="" toID="pl4" toText="Hărău" relType="EC" trajector="pl19" landmark="pl4" trigger="" comment="" />
+<QSLINK id="qsl14" fromID="pl16" fromText="" toID="p4" toText="valley" relType="EC" trajector="pl16" landmark="p4" trigger="" comment="" />
+<QSLINK id="qsl15" fromID="pl17" fromText="" toID="p4" toText="valley" relType="EC" trajector="pl17" landmark="p4" trigger="" comment="" />
+<OLINK id="ol0" fromID="se12" fromText="forest" toID="pl13" toText="hill" relType="ABOVE" trajector="se12" landmark="pl13" trigger="s5" frame_type="INTRINSIC" referencePt="pl13" projective="FALSE" comment="" />
+<OLINK id="ol2" fromID="e0" fromText="found" toID="p1" toText="valley" relType="BESIDE" trajector="e0" landmark="p1" trigger="s0" frame_type="INTRINSIC" referencePt="p1" projective="FALSE" comment="" />
+<MOVELINK id="mvl0" fromID="m0" fromText="drove" toID="se0" toText="team" trigger="m0" source="pl0" goal="pl1" midPoint="" mover="se0" landmark="" goal_reached="YES" pathID="" motion_signalID="ms0, ms1" comment="" />
+<MOVELINK id="mvl1" fromID="m1" fromText="Reaching" toID="se7" toText="we" trigger="m1" source="" goal="pl2" midPoint="" mover="se7" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl2" fromID="m2" fromText="passed" toID="se8" toText="We" trigger="m2" source="pl14" goal="pl15" midPoint="pl5" mover="se8" landmark="" goal_reached="YES" pathID="" motion_signalID="ms2" comment="" />
+<MOVELINK id="mvl3" fromID="m2" fromText="passed" toID="se8" toText="We" trigger="m2" source="pl18" goal="pl19" midPoint="pl4" mover="se8" landmark="" goal_reached="YES" pathID="" motion_signalID="ms2" comment="" />
+<MOVELINK id="mvl4" fromID="m3" fromText="arriving" toID="se8" toText="We" trigger="m3" source="" goal="pl6" midPoint="" mover="se8" landmark="" goal_reached="YES" pathID="" motion_signalID="ms3" comment="" />
+<MOVELINK id="mvl5" fromID="m6" fromText="trip" toID="m6" toText="trip" trigger="m6" source="" goal="" midPoint="" mover="m6" landmark="" goal_reached="" pathID="" motion_signalID="ms4" comment="" />
+<MOVELINK id="mvl6" fromID="m7" fromText="crossing" toID="m7" toText="crossing" trigger="m7" source="pl16" goal="pl17" midPoint="p4" mover="m7" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl7" fromID="m9" fromText="climbing" toID="m9" toText="climbing" trigger="m9" source="" goal="" midPoint="" mover="m9" landmark="pl13" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl8" fromID="m8" fromText="reached" toID="se13" toText="we" trigger="m8" source="" goal="pl11" midPoint="" mover="se13" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MEASURELINK id="ml0" fromID="pl9" fromText="here" toID="pl10" toText="point" trajector="pl9" landmark="pl10" relType="DISTANCE" val="me1" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml1" fromID="pl11" fromText="point" toID="pl12" toText="Simeria" trajector="pl11" landmark="pl12" relType="DISTANCE" val="me3" endPoint1="" endPoint2="" comment="" />
+<MEASURELINK id="ml2" fromID="pl20" fromText="" toID="pl8" toText="mine" trajector="pl20" landmark="pl8" relType="DISTANCE" val="me0" endPoint1="" endPoint2="" comment="" />
+<METALINK id="metal0" fromID="se1" fromText="Mara Iliescu" toID="se0" toText="team" objectID1="se1" objectID2="se0" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal1" fromID="se2" fromText="Dana Iliescu" toID="se0" toText="team" objectID1="se2" objectID2="se0" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal10" fromID="se13" fromText="we" toID="se0" toText="team" objectID1="se13" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal11" fromID="pl12" fromText="Simeria" toID="pl2" toText="Simeria" objectID1="pl12" objectID2="pl2" relType="COREFERENCE" comment="" />
+<METALINK id="metal12" fromID="pl7" fromText="Hondol" toID="pl6" toText="village" objectID1="pl7" objectID2="pl6" relType="COREFERENCE" comment="" />
+<METALINK id="metal13" fromID="p2" fromText="Hondol" toID="p1" toText="valley" objectID1="p2" objectID2="p1" relType="COREFERENCE" comment="" />
+<METALINK id="metal14" fromID="pl11" fromText="point" toID="pl10" toText="point" objectID1="pl11" objectID2="pl10" relType="COREFERENCE" comment="" />
+<METALINK id="metal15" fromID="p4" fromText="valley" toID="p1" toText="valley" objectID1="p4" objectID2="p1" relType="COREFERENCE" comment="" />
+<METALINK id="metal2" fromID="se3" fromText="Ramona Demean" toID="se0" toText="team" objectID1="se3" objectID2="se0" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal3" fromID="se4" fromText="Marius Iliescu" toID="se0" toText="team" objectID1="se4" objectID2="se0" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal4" fromID="se5" fromText="Mihai Tiepac" toID="se0" toText="team" objectID1="se5" objectID2="se0" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal5" fromID="se6" fromText="Lucky" toID="se0" toText="team" objectID1="se6" objectID2="se0" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal6" fromID="se7" fromText="we" toID="se0" toText="team" objectID1="se7" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal7" fromID="se8" fromText="We" toID="se0" toText="team" objectID1="se8" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal8" fromID="se9" fromText="we" toID="se0" toText="team" objectID1="se9" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal9" fromID="se10" fromText="we" toID="se0" toText="team" objectID1="se10" objectID2="se0" relType="COREFERENCE" comment="" />
+<CP><![CDATA[46N23E]]></CP>
+<URL><![CDATA[http://confluence.org/confluence.php?id=9800]]></URL>
+</TAGS>
+</SpaceEvalTaskv1.2>

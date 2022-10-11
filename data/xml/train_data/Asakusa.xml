@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[        Asakusa
+        Asakusa is the heart of Shitamachi, the quarter
+        best-beloved of that fractious, gossipy, prodigal population called the
+        Edokko, who trace their “downtown” roots back at least three
+        generations. Edokko are suckers for sentimentality and for ninjo: the
+        web of small favors and kindnesses that bind them together. Sneeze in
+        the middle of the night and your Edokko neighbor will demand the next
+        morning that you take better care of yourself; stay home with a fever
+        and she will be over by noon with a bowl of soup. An Edokko craftsman
+        would rather lose a commission than take any guff from a customer who
+        doesn’t know good work when he sees it. Edokko quarrel in a language
+        all their own, an earthy local dialect as profane and expressive as
+        Brooklynese. Ignore the proprieties — or offend the pride of an
+        Edokko — and he will let you know about it, in no uncertain terms;
+        respect his sense of values and you make a friend for life.
+        The heart of Asakusa, in turn, is Sensoji (also known as
+        the Asakusa Kannon temple). According to legend, the temple houses a
+        small statue of the Buddhist goddess of mercy, found in the Sumida         River by two local fishermen in the year 628 — but in fact not even the
+        temple priests have ever seen it. When Edo became the capital of the
+        Tokugawa shogunate, Asakusa began to flourish as an entertainment
+        quarter. In the early-19th century even the kabuki theaters were
+        located here. The Meiji Restoration and the opening of Japan to exotic
+        new Western-style amusements further enhanced Asakusa’s reputation as
+        Fun City. The first place in Japan to call itself a “bar” opened in
+        Asakusa in 1880 (and is still doing business); the first movie theater
+        opened here in 1903. Before long, the streets and alleys around the
+        temple were filled with music halls, burlesque theaters, cabarets,
+        gambling dens, and watering holes of every description.
+        Most of the temple quarter was firebombed to ashes in 1945,
+        but by 1958 the people of the area had raised enough money to rebuild
+        Sensoji and all of the important structures around it. So what if the
+        restorations were in concrete? The original is still there in
+        spirit — and no visitor should neglect it.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl2681" start="1069" end="1074" text="heart" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl94" start="1078" end="1085" text="Asakusa" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl143" start="1099" end="1106" text="Sensoji" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl144" start="1134" end="1155" text="Asakusa Kannon temple" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl145" start="1183" end="1189" text="temple" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl146" start="1401" end="1404" text="Edo" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl147" start="1459" end="1466" text="Asakusa" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl148" start="1564" end="1572" text="theaters" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl149" start="1594" end="1598" text="here" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl150" start="1641" end="1646" text="Japan" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="1711" end="1718" text="Asakusa" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="1743" end="1751" text="Fun City" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl151" start="1763" end="1768" text="place" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl152" start="1772" end="1777" text="Japan" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl153" start="1796" end="1799" text="bar" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl154" start="1819" end="1826" text="Asakusa" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl156" start="1905" end="1909" text="here" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl157" start="1974" end="1980" text="temple" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl158" start="2004" end="2009" text="halls" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl159" start="2021" end="2029" text="theaters" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl160" start="2031" end="2039" text="cabarets" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl161" start="2058" end="2062" text="dens" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl162" start="2077" end="2082" text="holes" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl163" start="2259" end="2266" text="Sensoji" type="" dimensionality="VOLUME" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl164" start="2310" end="2312" text="it" type="" dimensionality="VOLUME" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl166" start="2390" end="2395" text="there" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl138" start="24" end="31" text="Asakusa" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl142" start="39" end="44" text="heart" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl139" start="48" end="58" text="Shitamachi" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl141" start="515" end="519" text="home" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl140" start="64" end="71" text="quarter" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl137" start="8" end="15" text="Asakusa" type="" dimensionality="POINT" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="The set subsuming [halls, pl158], [theaters, pl159], [cabarets, pl160], [dens, pl161], and [holes, pl162] in 'Before long, the streets and alleys around the         temple were filled with music halls, burlesque theaters, cabarets,         gambling dens, and watering holes of every description.'" />
+<PATH id="p9" start="1267" end="1287" text="Sumida         River" beginID="" endID="" midIDs="" type="" dimensionality="AREA" form="NAM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p10" start="1936" end="1943" text="streets" beginID="" endID="" midIDs="" type="" dimensionality="VOLUME" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p11" start="1948" end="1954" text="alleys" beginID="" endID="" midIDs="" type="" dimensionality="VOLUME" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p0" start="-1" end="-1" text="" beginID="" endID="" midIDs="" type="" dimensionality="LINE" form="NOM" domain="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="The set subsuming [streets, p10] and [alleys, p11] in 'Before long, the streets and alleys around the         temple were filled with music halls, burlesque theaters, cabarets,         gambling dens, and watering holes of every description.'" />
+<SPATIAL_ENTITY id="se39" start="1213" end="1219" text="statue" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="small" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se45" start="2292" end="2302" text="structures" type="" dimensionality="VOLUME" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se41" start="545" end="548" text="she" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e11" start="1254" end="1259" text="found" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e320" start="1801" end="1807" text="opened" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e321" start="1898" end="1904" text="opened" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e10" start="510" end="514" text="stay" domain="" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="554" end="556" text="be" domain="" latLong="" elevation="" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s1034" start="1190" end="1196" text="houses" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s41" start="1260" end="1262" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s43" start="1769" end="1771" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s44" start="1808" end="1810" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s45" start="1955" end="1961" text="around" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s46" start="1986" end="1992" text="filled" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms0" start="557" end="561" text="over" motion_signal_type="PATH" comment="" />
+<MEASURE id="me0" start="2303" end="2309" text="around" value="NEAR" unit="" comment="" />
+<QSLINK id="qsl0" fromID="pl142" fromText="heart" toID="pl139" toText="Shitamachi" relType="NTPP" trajector="pl142" landmark="pl139" trigger="" comment="" />
+<QSLINK id="qsl1" fromID="e10" fromText="stay" toID="pl141" toText="home" relType="IN" trajector="e10" landmark="pl141" trigger="" comment="" />
+<QSLINK id="qsl2" fromID="pl2681" fromText="heart" toID="pl94" toText="Asakusa" relType="NTPP" trajector="pl2681" landmark="pl94" trigger="" comment="" />
+<QSLINK id="qsl3" fromID="se39" fromText="statue" toID="pl145" toText="temple" relType="IN" trajector="se39" landmark="pl145" trigger="s1034" comment="" />
+<QSLINK id="qsl4" fromID="e11" fromText="found" toID="p9" toText="Sumida         River" relType="IN" trajector="e11" landmark="p9" trigger="s41" comment="" />
+<QSLINK id="qsl5" fromID="pl148" fromText="theaters" toID="pl149" toText="here" relType="IN" trajector="pl148" landmark="pl149" trigger="" comment="" />
+<QSLINK id="qsl6" fromID="pl151" fromText="place" toID="pl152" toText="Japan" relType="IN" trajector="pl151" landmark="pl152" trigger="s43" comment="" />
+<QSLINK id="qsl7" fromID="e320" fromText="opened" toID="pl154" toText="Asakusa" relType="IN" trajector="e320" landmark="pl154" trigger="s44" comment="" />
+<QSLINK id="qsl8" fromID="e321" fromText="opened" toID="pl156" toText="here" relType="IN" trajector="e321" landmark="pl156" trigger="" comment="" />
+<QSLINK id="qsl9" fromID="pl4" fromText="" toID="p0" toText="" relType="EC" trajector="pl4" landmark="p0" trigger="s46" comment="" />
+<OLINK id="ol0" fromID="p0" fromText="" toID="pl157" toText="temple" relType="SURROUND" trajector="p0" landmark="pl157" trigger="s45" frame_type="INTRINSIC" referencePt="pl157" projective="FALSE" comment="" />
+<MOVELINK id="mvl1" fromID="m0" fromText="be" toID="se41" toText="she" trigger="m0" source="" goal="pl141" midPoint="" mover="se41" landmark="" goal_reached="YES" pathID="" motion_signalID="ms0" comment="" />
+<MEASURELINK id="ml0" fromID="se45" fromText="structures" toID="pl164" toText="it" trajector="se45" landmark="pl164" relType="DISTANCE" val="me0" endPoint1="" endPoint2="" comment="" />
+<METALINK id="metal0" fromID="pl138" fromText="Asakusa" toID="pl137" toText="Asakusa" objectID1="pl138" objectID2="pl137" relType="COREFERENCE" comment="" />
+<METALINK id="metal1" fromID="pl142" fromText="heart" toID="pl137" toText="Asakusa" objectID1="pl142" objectID2="pl137" relType="COREFERENCE" comment="" />
+<METALINK id="metal2" fromID="pl143" fromText="Sensoji" toID="pl2681" toText="heart" objectID1="pl143" objectID2="pl2681" relType="COREFERENCE" comment="" />
+<METALINK id="metal3" fromID="pl144" fromText="Asakusa Kannon temple" toID="pl2681" toText="heart" objectID1="pl144" objectID2="pl2681" relType="COREFERENCE" comment="" />
+<METALINK id="metal5" fromID="pl147" fromText="Asakusa" toID="pl137" toText="Asakusa" objectID1="pl147" objectID2="pl137" relType="COREFERENCE" comment="" />
+<METALINK id="metal6" fromID="pl2" fromText="Asakusa" toID="pl137" toText="Asakusa" objectID1="pl2" objectID2="pl137" relType="COREFERENCE" comment="" />
+<METALINK id="metal7" fromID="pl3" fromText="Fun City" toID="pl137" toText="Asakusa" objectID1="pl3" objectID2="pl137" relType="COREFERENCE" comment="" />
+<METALINK id="metal8" fromID="pl152" fromText="Japan" toID="pl150" toText="Japan" objectID1="pl152" objectID2="pl150" relType="COREFERENCE" comment="" />
+<METALINK id="metal9" fromID="pl153" fromText="bar" toID="pl151" toText="place" objectID1="pl153" objectID2="pl151" relType="COREFERENCE" comment="" />
+<METALINK id="metal10" fromID="pl154" fromText="Asakusa" toID="pl137" toText="Asakusa" objectID1="pl154" objectID2="pl137" relType="COREFERENCE" comment="" />
+<METALINK id="metal11" fromID="pl156" fromText="here" toID="pl137" toText="Asakusa" objectID1="pl156" objectID2="pl137" relType="COREFERENCE" comment="" />
+<METALINK id="metal12" fromID="pl166" fromText="there" toID="pl163" toText="Sensoji" objectID1="pl166" objectID2="pl163" relType="COREFERENCE" comment="" />
+<METALINK id="metal13" fromID="pl164" fromText="it" toID="pl163" toText="Sensoji" objectID1="pl163" objectID2="pl164" relType="COREFERENCE" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2>

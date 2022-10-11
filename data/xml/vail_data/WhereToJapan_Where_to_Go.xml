@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ISOSpaceTaskv1.15>
+<TEXT><![CDATA[
+        Where to Go
+        To help you plan your itinerary, we divide Japan into seven
+        regional sections. The first is devoted entirely to Tokyo, where you’re
+        likely to begin your trip, get your bearings, and become acquainted
+        with modern Japan. We then present six tours spreading out from the
+        capital to the centers of historic and artistic interest as well as to
+        sites of natural beauty. If you have sufficient time to explore Japan,
+        you might want to begin and end your visit in Tokyo. In between, you
+        can venture out to explore the rest of the country.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl399" start="-1" end="-1" text="" type="" dimensionality="AREA" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="source for 'you can venture out to explore the rest of the country'" />
+<PLACE id="pl1" start="106" end="114" text="sections" type="" dimensionality="AREA" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="149" end="154" text="Tokyo" type="" dimensionality="AREA" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="329" end="336" text="capital" type="" dimensionality="AREA" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="344" end="351" text="centers" type="" dimensionality="AREA" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="408" end="413" text="sites" type="" dimensionality="AREA" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="472" end="477" text="Japan" type="" dimensionality="AREA" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="533" end="538" text="Tokyo" type="" dimensionality="AREA" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="595" end="599" text="rest" type="" dimensionality="AREA" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="607" end="614" text="country" type="" dimensionality="AREA" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl0" start="72" end="77" text="Japan" type="" dimensionality="AREA" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PATH id="p282" start="292" end="297" text="tours" beginID="" endID="" midIDs="" type="" dimensionality="LINE" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se3" start="162" end="165" text="you" type="" dimensionality="AREA" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se0" start="436" end="439" text="you" type="" dimensionality="AREA" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="487" end="490" text="you" type="" dimensionality="AREA" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se2" start="552" end="555" text="you" type="" dimensionality="AREA" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e0" start="234" end="244" text="acquainted" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e1" start="204" end="207" text="get" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m4" start="198" end="202" text="trip" latLong="" elevation="" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="298" end="307" text="spreading" latLong="" elevation="" motion_type="PATH" motion_class="MOVE" motion_sense="FICTIVE" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m3" start="464" end="471" text="explore" latLong="" elevation="" motion_type="COMPOUND" motion_class="MOVE_INTERNAL" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m5" start="524" end="529" text="visit" latLong="" elevation="" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<MOTION id="m1" start="568" end="575" text="venture" latLong="" elevation="" motion_type="COMPOUND" motion_class="LEAVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m2" start="583" end="590" text="explore" latLong="" elevation="" motion_type="COMPOUND" motion_class="MOVE_INTERNAL" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s0" start="156" end="161" text="where" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms0" start="187" end="192" text="begin" adjunct_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms1" start="308" end="311" text="out" adjunct_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms2" start="312" end="316" text="from" adjunct_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms3" start="337" end="339" text="to" adjunct_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms4" start="397" end="399" text="to" adjunct_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms5" start="505" end="510" text="begin" adjunct_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms6" start="515" end="518" text="end" adjunct_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms7" start="576" end="579" text="out" adjunct_type="PATH" comment="" />
+<QSLINK id="qsl0" fromID="e1" fromText="get" toID="pl2" toText="Tokyo" relType="IN" trajector="e1" landmark="pl2" trigger="s0" comment="" />
+<QSLINK id="qsl1" fromID="e0" fromText="acquainted" toID="pl2" toText="Tokyo" relType="IN" trajector="e0" landmark="pl2" trigger="s0" comment="" />
+<MOVELINK id="mvl0" fromID="m4" fromText="trip" toID="se3" toText="you" trigger="m4" source="pl2" goal="" midPoint="" mover="se3" landmark="" goal_reached="" pathID="" motion_signalID="ms0" comment="" />
+<MOVELINK id="mvl1" fromID="m0" fromText="spreading" toID="p282" toText="tours" trigger="m0" source="pl3" goal="pl4" midPoint="" mover="p282" landmark="" goal_reached="YES" pathID="" motion_signalID="ms1, ms2, ms3" comment="" />
+<MOVELINK id="mvl2" fromID="m0" fromText="spreading" toID="p282" toText="tours" trigger="m0" source="pl3" goal="pl5" midPoint="" mover="p282" landmark="" goal_reached="YES" pathID="" motion_signalID="ms1, ms2, ms4" comment="" />
+<MOVELINK id="mvl3" fromID="m3" fromText="explore" toID="se0" toText="you" trigger="m3" source="" goal="" midPoint="" mover="se0" landmark="pl6" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl4" fromID="m5" fromText="visit" toID="se1" toText="you" trigger="m5" source="pl7" goal="pl7" midPoint="" mover="se1" landmark="" goal_reached="YES" pathID="" motion_signalID="ms5, ms6" comment="" />
+<MOVELINK id="mvl5" fromID="m1" fromText="venture" toID="se2" toText="you" trigger="m1" source="pl399" goal="" midPoint="" mover="se2" landmark="" goal_reached="" pathID="" motion_signalID="ms7" comment="" />
+<MOVELINK id="mvl6" fromID="m2" fromText="explore" toID="se2" toText="you" trigger="m2" source="" goal="" midPoint="" mover="se2" landmark="pl8" goal_reached="" pathID="" motion_signalID="" comment="" />
+<METALINK id="metal0" fromID="se0" fromText="you" toID="se3" toText="you" objectID1="se0" objectID2="se3" relType="COREFERENCE" comment="" />
+<METALINK id="metal1" fromID="pl6" fromText="Japan" toID="pl0" toText="Japan" objectID1="pl6" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal2" fromID="se1" fromText="you" toID="se3" toText="you" objectID1="se1" objectID2="se3" relType="COREFERENCE" comment="" />
+<METALINK id="metal3" fromID="pl7" fromText="Tokyo" toID="pl2" toText="Tokyo" objectID1="pl7" objectID2="pl2" relType="COREFERENCE" comment="" />
+<METALINK id="metal4" fromID="se2" fromText="you" toID="se3" toText="you" objectID1="se2" objectID2="se3" relType="COREFERENCE" comment="" />
+<METALINK id="metal5" fromID="pl9" fromText="country" toID="pl0" toText="Japan" objectID1="pl9" objectID2="pl0" relType="COREFERENCE" comment="" />
+</TAGS>
+</ISOSpaceTaskv1.15>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[
+The future of the Amazon? A week in Manaus
+Tuesday, August 22nd, 2006
+
+   I spent a week in Manaus, staying in the apartment of two graduate students and visiting Instituto National de Pesquisas da Amazonia (INPA), a famous research center. Here, in addition to giving a presentation for INPA and also for students at a neighboring University, I talked with scientists modelling climate in the Amazon rainforest. From what I gather, the rainforest faces three major threats. 1) Direct deforestation, 2) Decreased rainfall caused by deforestation, and 3) the possibility that global warming will dry out the basin.
+
+   Although the Amazon basin is enormous (similar in size to the contiguous U.S.), deforestation is a major threat. Everywhere roads are built, the forest is cut down, making way for fields of soy beans or beef cattle. From one of the researchers at INPA, I received the images below which show the forest in 1992, deforestation by 2002, and then projected deforestation in 2033 (deforestation shown in red).
+
+  
+
+   I talked with two climate modellers at INPA, Francis and Theotonio (shown on the right with their â€˜supercomputerâ€™), about how this deforestation would affect the rainforest, as cutting down a forest changes evaporation and thus rain patterns. If the entire forest were cut down, they estimate that rainfall would decrease on average 30%, with many areas becoming too dry for forest. Indeed, one study suggests that there are two stable states of the Amazon â€“ one state like the rainforest we find today, and another state where much of the forest is dry savannah. If too much forest is cut down, there is a possibility that it would push much of the Amazon into the drier state, unable to easily return to forest. (More on this here.)
+
+   These studies, however, do not consider the effects of global warming. To be sure, the effects of global warming are uncertain because large scale climate models are not good at modelling rainfall in the tropics. Nonetheless, a few models (not all) suggest that a warmer earth means a much drier Amazon, which would turn much of the basin into savannah. This may be wrong. It may also be correct.
+
+   Decreasing rain and savannahization are real risks to the rainforest. Due to uncertainty in the science–we canâ€™t be sure if deforestation or global warming will reduce rain–it is difficult to put percentages on these risks, and Theotonio and Francis, while claiming it a real possibility, balked at guessing its probability. Nonetheless, if it is true, the results are very bad. A loss of the Amazon would not only loose countless species, but also release incredible amounts of carbon dioxide to the atmosphere, accelerating global warming. Do we really want to find out if it is true or not?
+
+  
+
+   My last full day in Manaus, I travelled with Alexender, one of my hosts, to a large forest preserve near the city. In the preserve, Alex maintains a large tower that measures CO2 concentrations, and is he trying to understand how CO2 fluxes into and out of the forest. Alex let me climb to the top of the tower, where I was able to look across the treetops of a forest that stretches for thousands of miles beyond the horizon. Listening to the birds, monkeys, and insects, it was hard not to be both awed by the Amazon and to wonder what its future will be.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl18" start="1072" end="1076" text="INPA" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl1" start="116" end="125" text="apartment" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl25" start="1487" end="1493" text="Amazon" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl2" start="164" end="207" text="Instituto National de Pesquisas da Amazonia" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl28" start="1689" end="1695" text="Amazon" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="amount=much" domain="" />
+<PLACE id="pl3" start="209" end="213" text="INPA" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl4" start="234" end="240" text="center" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl5" start="242" end="246" text="Here" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl31" start="2574" end="2580" text="Amazon" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl32" start="2682" end="2692" text="atmosphere" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl33" start="2803" end="2809" text="Manaus" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl34" start="2874" end="2882" text="preserve" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="large" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl6" start="289" end="293" text="INPA" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl35" start="2892" end="2896" text="city" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl36" start="2905" end="2913" text="preserve" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl38" start="3044" end="3050" text="forest" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl40" start="3077" end="3080" text="top" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl41" start="3145" end="3151" text="forest" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl42" start="3295" end="3301" text="Amazon" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl7" start="333" end="343" text="University" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl8" start="395" end="412" text="Amazon rainforest" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl11" start="632" end="644" text="Amazon basin" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="enormous" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl12" start="681" end="696" text="contiguous U.S." type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl14" start="764" end="770" text="forest" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl15" start="799" end="805" text="fields" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl16" start="866" end="870" text="INPA" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl17" start="915" end="921" text="forest" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl0" start="93" end="99" text="Manaus" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl9" start="438" end="448" text="rainforest" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl10" start="608" end="613" text="basin" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl13" start="1199" end="1209" text="rainforest" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl19" start="2074" end="2080" text="Amazon" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl20" start="2111" end="2116" text="basin" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl21" start="2237" end="2247" text="rainforest" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PATH id="p1" start="3201" end="3208" text="horizon" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<PATH id="p0" start="743" end="748" text="roads" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se10" start="-1" end="-1" text="" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="The set subsuming [beans,se] and [cattle,se] in '... making way for fields of soy beans or beef cattle.'" domain="" dcl="" />
+<SPATIAL_ENTITY id="se3" start="2660" end="2674" text="carbon dioxide" type="" dimensionality="" form="NAM" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="amount=incredible amounts" domain="" dcl="" />
+<SPATIAL_ENTITY id="se4" start="2811" end="2812" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se5" start="2828" end="2837" text="Alexender" type="" dimensionality="" form="NAM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se13" start="2938" end="2943" text="tower" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="large" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se6" start="3013" end="3016" text="CO2" type="" dimensionality="" form="NAM" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se7" start="3061" end="3063" text="me" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se1" start="307" end="315" text="students" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="amount=gt1" domain="" dcl="" />
+<SPATIAL_ENTITY id="se12" start="3088" end="3093" text="tower" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se8" start="3101" end="3102" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se11" start="3131" end="3139" text="treetops" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se0" start="75" end="76" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se9" start="813" end="818" text="beans" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se2" start="827" end="833" text="cattle" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se14" start="-1" end="-1" text="" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="The set subsuming [I,se] and [Alexander,se] in 'I travelled with Alexander...'" domain="" dcl="" />
+<SPATIAL_ENTITY id="se15" start="345" end="346" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se16" start="424" end="425" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se17" start="872" end="873" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se18" start="1033" end="1034" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<NONMOTION_EVENT id="e7" start="101" end="108" text="staying" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e8" start="1035" end="1041" text="talked" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e0" start="263" end="269" text="giving" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e13" start="2920" end="2929" text="maintains" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e9" start="3115" end="3119" text="look" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e2" start="347" end="353" text="talked" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e14" start="380" end="387" text="climate" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e6" start="699" end="712" text="deforestation" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e5" start="77" end="82" text="spent" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<MOTION id="m2" start="155" end="163" text="visiting" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m5" start="2630" end="2637" text="release" motion_type="COMPOUND" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m6" start="2813" end="2822" text="travelled" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m7" start="3017" end="3023" text="fluxes" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m8" start="3064" end="3069" text="climb" motion_type="COMPOUND" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m9" start="3157" end="3166" text="stretches" motion_type="PATH" motion_class="MOVE" motion_sense="FICTIVE" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m3" start="753" end="758" text="built" motion_type="MANNER" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m4" start="774" end="777" text="cut" motion_type="MANNER" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<SPATIAL_SIGNAL id="s11" start="1069" end="1071" text="at" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="109" end="111" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s7" start="2898" end="2900" text="In" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s13" start="3081" end="3083" text="of" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s14" start="3095" end="3100" text="where" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s12" start="3140" end="3142" text="of" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s8" start="316" end="318" text="at" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="321" end="332" text="neighboring" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="388" end="390" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="should this be topological? (Changed from DIR to TOP.  Didn't change any links, as a QS but no O had already been made.  -BB)" />
+<SPATIAL_SIGNAL id="s9" start="732" end="742" text="Everywhere" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s10" start="806" end="808" text="of" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="90" end="92" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms2" start="2675" end="2677" text="to" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms4" start="2856" end="2858" text="to" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms0" start="3024" end="3028" text="into" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms1" start="3033" end="3036" text="out" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms3" start="3070" end="3072" text="to" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms6" start="3190" end="3196" text="beyond" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms5" start="778" end="782" text="down" motion_signal_type="PATH" comment="" />
+<MEASURE id="me1" start="2883" end="2887" text="near" value="NEAR" unit="" comment="" />
+<MEASURE id="me0" start="3171" end="3189" text="thousands of miles" value="gte2000" unit="miles" comment="" />
+<QSLINK id="qsl0" fromID="e5" fromText="spent" toID="pl0" toText="Manaus" relType="IN" trajector="e5" landmark="pl0" trigger="s0" comment="" />
+<QSLINK id="qsl1" fromID="e7" fromText="staying" toID="pl1" toText="apartment" relType="IN" trajector="e7" landmark="pl1" trigger="s1" comment="" />
+<QSLINK id="qsl10" fromID="se10" fromText="" toID="pl15" toText="fields" relType="IN" trajector="se10" landmark="pl15" trigger="s10" comment="" />
+<QSLINK id="qsl11" fromID="e8" fromText="talked" toID="pl18" toText="INPA" relType="IN" trajector="e8" landmark="pl18" trigger="s11" comment="" />
+<QSLINK id="qsl12" fromID="e13" fromText="maintains" toID="pl36" toText="preserve" relType="IN" trajector="e13" landmark="pl36" trigger="s7" comment="" />
+<QSLINK id="qsl13" fromID="se11" fromText="treetops" toID="pl41" toText="forest" relType="TPP" trajector="se11" landmark="pl41" trigger="s12" comment="" />
+<QSLINK id="qsl14" fromID="pl40" fromText="top" toID="se12" toText="tower" relType="TPP" trajector="pl40" landmark="se12" trigger="s13" comment="" />
+<QSLINK id="qsl15" fromID="e9" fromText="look" toID="pl40" toText="top" relType="IN" trajector="e9" landmark="pl40" trigger="s14" comment="" />
+<QSLINK id="qsl2" fromID="e0" fromText="giving" toID="pl5" toText="Here" relType="IN" trajector="e0" landmark="pl5" trigger="" comment="" />
+<QSLINK id="qsl3" fromID="se1" fromText="students" toID="pl7" toText="University" relType="IN" trajector="se1" landmark="pl7" trigger="s8" comment="" />
+<QSLINK id="qsl5" fromID="e2" fromText="talked" toID="pl5" toText="Here" relType="IN" trajector="e2" landmark="pl5" trigger="" comment="" />
+<QSLINK id="qsl6" fromID="e14" fromText="climate" toID="pl8" toText="Amazon rainforest" relType="IN" trajector="e14" landmark="pl8" trigger="s3" comment="" />
+<QSLINK id="qsl7" fromID="e6" fromText="deforestation" toID="pl11" toText="Amazon basin" relType="IN" trajector="e6" landmark="pl11" trigger="" comment="" />
+<QSLINK id="qsl9" fromID="m4" fromText="cut" toID="m3" toText="built" relType="EQ" trajector="m4" landmark="m3" trigger="s9" comment="" />
+<OLINK id="ol0" fromID="se11" fromText="treetops" toID="pl41" toText="forest" relType="ABOVE" trajector="se11" landmark="pl41" trigger="s12" frame_type="INTRINSIC" referencePt="pl41" projective="FALSE" comment="" />
+<OLINK id="ol1" fromID="pl7" fromText="University" toID="pl6" toText="INPA" relType="NEXT TO" trajector="pl7" landmark="pl6" trigger="s2" frame_type="INTRINSIC" referencePt="pl6" projective="FALSE" comment="" />
+<OLINK id="ol2" fromID="pl40" fromText="top" toID="se12" toText="tower" relType="ABOVE" trajector="pl40" landmark="se12" trigger="s13" frame_type="INTRINSIC" referencePt="se12" projective="FALSE" comment="" />
+<MOVELINK id="mvl0" fromID="m9" fromText="stretches" toID="pl41" toText="forest" trigger="m9" source="p1" goal="" midPoint="p1" mover="pl41" landmark="" goal_reached="" pathID="" motion_signalID="ms6" comment="" />
+<MOVELINK id="mvl1" fromID="m2" fromText="visiting" toID="se0" toText="I" trigger="m2" source="" goal="pl2" midPoint="" mover="se0" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl2" fromID="m3" fromText="built" toID="p0" toText="roads" trigger="m3" source="" goal="" midPoint="" mover="p0" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl3" fromID="m4" fromText="cut" toID="pl14" toText="forest" trigger="m4" source="" goal="" midPoint="" mover="pl14" landmark="" goal_reached="" pathID="" motion_signalID="ms5" comment="" />
+<MOVELINK id="mvl4" fromID="m5" fromText="release" toID="se3" toText="carbon dioxide" trigger="m5" source="" goal="pl32" midPoint="" mover="se3" landmark="" goal_reached="YES" pathID="" motion_signalID="ms2" comment="" />
+<MOVELINK id="mvl5" fromID="m7" fromText="fluxes" toID="se6" toText="CO2" trigger="m7" source="pl38" goal="" midPoint="" mover="se6" landmark="" goal_reached="" pathID="" motion_signalID="ms1" comment="" />
+<MOVELINK id="mvl6" fromID="m7" fromText="fluxes" toID="se6" toText="CO2" trigger="m7" source="" goal="pl38" midPoint="" mover="se6" landmark="" goal_reached="YES" pathID="" motion_signalID="ms0" comment="" />
+<MOVELINK id="mvl7" fromID="m8" fromText="climb" toID="se7" toText="me" trigger="m8" source="" goal="pl40" midPoint="" mover="se7" landmark="" goal_reached="YES" pathID="" motion_signalID="ms3" comment="" />
+<MOVELINK id="mvl8" fromID="m6" fromText="travelled" toID="se14" toText="" trigger="m6" source="" goal="pl34" midPoint="" mover="se14" landmark="" goal_reached="YES" pathID="" motion_signalID="ms4" comment="" />
+<MLINK id="ml0" fromID="pl34" fromText="preserve" toID="pl35" toText="city" trajector="pl34" landmark="pl35" relType="DISTANCE" val="me1" endPoint1="" endPoint2="" comment="" />
+<MLINK id="ml1" fromID="m9" fromText="stretches" toID="m9" toText="stretches" trajector="m9" landmark="m9" relType="GENERAL_DIMENSION" val="me0" endPoint1="" endPoint2="" comment="" />
+<METALINK id="metal0" fromID="se2" fromText="cattle" toID="se10" toText="" objectID1="se2" objectID2="se10" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal1" fromID="se9" fromText="beans" toID="se10" toText="" objectID1="se9" objectID2="se10" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal10" fromID="pl4" fromText="center" toID="pl2" toText="Instituto National de Pesquisas da Amazonia" objectID1="pl4" objectID2="pl2" relType="COREFERENCE" comment="" />
+<METALINK id="metal11" fromID="pl3" fromText="INPA" toID="pl2" toText="Instituto National de Pesquisas da Amazonia" objectID1="pl3" objectID2="pl2" relType="COREFERENCE" comment="" />
+<METALINK id="metal12" fromID="pl14" fromText="forest" toID="pl8" toText="Amazon rainforest" objectID1="pl14" objectID2="pl8" relType="COREFERENCE" comment="" />
+<METALINK id="metal13" fromID="pl17" fromText="forest" toID="pl8" toText="Amazon rainforest" objectID1="pl17" objectID2="pl8" relType="COREFERENCE" comment="" />
+<METALINK id="metal14" fromID="pl25" fromText="Amazon" toID="pl8" toText="Amazon rainforest" objectID1="pl25" objectID2="pl8" relType="COREFERENCE" comment="" />
+<METALINK id="metal15" fromID="pl28" fromText="Amazon" toID="pl8" toText="Amazon rainforest" objectID1="pl28" objectID2="pl8" relType="COREFERENCE" comment="" />
+<METALINK id="metal16" fromID="pl31" fromText="Amazon" toID="pl8" toText="Amazon rainforest" objectID1="pl31" objectID2="pl8" relType="COREFERENCE" comment="" />
+<METALINK id="metal17" fromID="pl42" fromText="Amazon" toID="pl8" toText="Amazon rainforest" objectID1="pl42" objectID2="pl8" relType="COREFERENCE" comment="" />
+<METALINK id="metal18" fromID="pl38" fromText="forest" toID="pl8" toText="Amazon rainforest" objectID1="pl38" objectID2="pl8" relType="COREFERENCE" comment="" />
+<METALINK id="metal19" fromID="pl35" fromText="city" toID="pl0" toText="Manaus" objectID1="pl35" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal2" fromID="se4" fromText="I" toID="se0" toText="I" objectID1="se4" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal20" fromID="pl36" fromText="preserve" toID="pl34" toText="preserve" objectID1="pl36" objectID2="pl34" relType="COREFERENCE" comment="" />
+<METALINK id="metal21" fromID="pl41" fromText="forest" toID="pl8" toText="Amazon rainforest" objectID1="pl41" objectID2="pl8" relType="COREFERENCE" comment="" />
+<METALINK id="metal22" fromID="se12" fromText="tower" toID="se13" toText="tower" objectID1="se12" objectID2="se13" relType="COREFERENCE" comment="" />
+<METALINK id="metal23" fromID="se6" fromText="CO2" toID="se3" toText="carbon dioxide" objectID1="se6" objectID2="se3" relType="COREFERENCE" comment="" />
+<METALINK id="metal3" fromID="se8" fromText="I" toID="se0" toText="I" objectID1="se8" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal4" fromID="se7" fromText="me" toID="se0" toText="I" objectID1="se7" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal5" fromID="pl33" fromText="Manaus" toID="pl0" toText="Manaus" objectID1="pl33" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal6" fromID="pl5" fromText="Here" toID="pl0" toText="Manaus" objectID1="pl5" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal7" fromID="pl18" fromText="INPA" toID="pl2" toText="Instituto National de Pesquisas da Amazonia" objectID1="pl18" objectID2="pl2" relType="COREFERENCE" comment="" />
+<METALINK id="metal8" fromID="pl16" fromText="INPA" toID="pl2" toText="Instituto National de Pesquisas da Amazonia" objectID1="pl16" objectID2="pl2" relType="COREFERENCE" comment="" />
+<METALINK id="metal9" fromID="pl6" fromText="INPA" toID="pl2" toText="Instituto National de Pesquisas da Amazonia" objectID1="pl6" objectID2="pl2" relType="COREFERENCE" comment="" />
+<METALINK id="metal24" fromID="pl9" fromText="rainforest" toID="pl8" toText="Amazon rainforest" objectID1="pl9" objectID2="pl8" relType="COREFERENCE" comment="" />
+<METALINK id="metal25" fromID="pl11" fromText="Amazon basin" toID="pl10" toText="basin" objectID1="pl11" objectID2="pl10" relType="COREFERENCE" comment="" />
+<METALINK id="metal26" fromID="pl13" fromText="rainforest" toID="pl8" toText="Amazon rainforest" objectID1="pl13" objectID2="pl8" relType="COREFERENCE" comment="" />
+<METALINK id="metal27" fromID="pl19" fromText="Amazon" toID="pl8" toText="Amazon rainforest" objectID1="pl19" objectID2="pl8" relType="COREFERENCE" comment="" />
+<METALINK id="metal28" fromID="pl20" fromText="basin" toID="pl10" toText="basin" objectID1="pl20" objectID2="pl10" relType="COREFERENCE" comment="" />
+<METALINK id="metal29" fromID="pl21" fromText="rainforest" toID="pl8" toText="Amazon rainforest" objectID1="pl21" objectID2="pl8" relType="COREFERENCE" comment="" />
+<METALINK id="metal30" fromID="se15" fromText="I" toID="se0" toText="I" objectID1="se15" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal31" fromID="se16" fromText="I" toID="se0" toText="I" objectID1="se16" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal32" fromID="se17" fromText="I" toID="se0" toText="I" objectID1="se17" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal33" fromID="se18" fromText="I" toID="se0" toText="I" objectID1="se18" objectID2="se0" relType="COREFERENCE" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[
+Guerrero Negro to Loreto â€“ 4 days, 268 miles
+Monday, December 26th, 2005
+   Leaving Guerrero Negro early on the 22nd, I biked two days across Baja to the town of Santa Rosalia, an old mining town, which, like the rest of Baja, is full of United Staters. The scenery has changed as I have ridden farther south, with the mountains becoming more abrupt (including some volcanoes), and the vegetation turning into tall cactus forests.
+
+  
+   Baja California is one of the places in the world where bicycle tourists congregate. I have seen cyclists from Holland, England, the United States, and Mexico biking the peninsula and carrying camping gear. Cylists are still few enough, though, that it is exciting to talk to every one I meet.
+   The next two days, Christmas Eve and Christmas, I rode with two Mexican cyclists, Áaron and Rick, who are professors of electronics at the University ITESM in Cerétaro. We celebrated Christmas Eve and morning on a beach looking across Concepcion Bay, where we cooked dinner, shared biking stories, and then proceeded to teach me Mexican slang.
+
+  
+   I am now in the town of Loreto, where I met with the director of the Loreto campus of the University Autónima de Baja California Sur. This campus specializes in eco-tourism, and students are to learn about the natural areas surrounding Loreto. As it is vacation time, I did not get to meet with any students. I did, though, talk with the director, Sam Salinas, about the problem of obtaining water in Baja California. I will revisit this topic, and how it relates to climate change, in my next entry.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl21" start="-1" end="-1" text="" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="Whatever the beach is looking across at in 'We celebrated Christmas Eve and morning on a beach looking across Concepcion Bay,...'" domain="" />
+<PLACE id="pl27" start="1307" end="1312" text="areas" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl28" start="1325" end="1331" text="Loreto" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl1" start="145" end="149" text="Baja" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl29" start="1490" end="1505" text="Baja California" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl5" start="224" end="228" text="Baja" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl6" start="322" end="331" text="mountains" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl7" start="369" end="378" text="volcanoes" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl8" start="425" end="432" text="forests" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl9" start="441" end="456" text="Baja California" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl4" start="460" end="463" text="one" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl10" start="471" end="477" text="places" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl11" start="485" end="490" text="world" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl12" start="552" end="559" text="Holland" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl13" start="561" end="568" text="England" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl14" start="574" end="587" text="United States" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl15" start="593" end="599" text="Mexico" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl16" start="611" end="620" text="peninsula" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl0" start="87" end="101" text="Guerrero Negro" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl17" start="877" end="893" text="University ITESM" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl18" start="897" end="905" text="Cerétaro" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl19" start="952" end="957" text="beach" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl20" start="973" end="987" text="Concepcion Bay" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl22" start="1105" end="1109" text="town" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="SPATIAL_FUNCTION" domain="" />
+<PLACE id="pl23" start="1113" end="1119" text="Loreto" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl24" start="157" end="161" text="town" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="SPATIAL_FUNCTION" domain="" />
+<PLACE id="pl25" start="165" end="178" text="Santa Rosalia" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl26" start="194" end="198" text="town" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="SF or META?" domain="" />
+<SPATIAL_ENTITY id="se11" start="-1" end="-1" text="" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="[Aaron,se7] and [Rick,se8] in '... I rode with two Mexican cyclists, Aaron and Rick ...'" domain="" dcl="" />
+<SPATIAL_ENTITY id="se18" start="-1" end="-1" text="" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="[I,se5] and [cyclists,se6] in 'I rode with tow Mexican cyclists...'" domain="" dcl="" />
+<SPATIAL_ENTITY id="se10" start="1089" end="1090" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se16" start="1127" end="1128" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se17" start="1142" end="1150" text="director" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se0" start="121" end="122" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se12" start="1357" end="1358" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se13" start="1388" end="1396" text="students" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se1" start="241" end="255" text="United Staters" type="" dimensionality="" form="NAM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se2" start="284" end="285" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se3" start="505" end="513" text="tourists" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se4" start="538" end="546" text="cyclists" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se19" start="648" end="655" text="Cylists" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se14" start="723" end="726" text="one" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se15" start="727" end="728" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se5" start="786" end="787" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se6" start="810" end="818" text="cyclists" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="amount=2" domain="" dcl="" />
+<SPATIAL_ENTITY id="se7" start="820" end="825" text="Áaron" type="" dimensionality="" form="NAM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se8" start="830" end="834" text="Rick" type="" dimensionality="" form="NAM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se9" start="907" end="909" text="We" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se20" start="-1" end="-1" text="" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="The subsuming mover for 'I rode with two Mexican cyclists'" domain="" dcl="" />
+<SPATIAL_ENTITY id="se21" start="526" end="527" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se22" start="995" end="997" text="we" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se23" start="1064" end="1066" text="me" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se24" start="1398" end="1399" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se25" start="1507" end="1508" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<NONMOTION_EVENT id="e5" start="1013" end="1019" text="shared" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e6" start="1045" end="1054" text="proceeded" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e7" start="1058" end="1063" text="teach" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e3" start="1471" end="1480" text="obtaining" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e4" start="910" end="920" text="celebrated" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e2" start="998" end="1004" text="cooked" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<MOTION id="m8" start="1129" end="1132" text="met" motion_type="PATH" motion_class="HIT" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m1" start="123" end="128" text="biked" motion_type="COMPOUND" motion_class="CROSS" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m6" start="1374" end="1378" text="meet" motion_type="PATH" motion_class="HIT" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m2" start="291" end="297" text="ridden" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m3" start="514" end="524" text="congregate" motion_type="COMPOUND" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m4" start="600" end="606" text="biking" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m7" start="729" end="733" text="meet" motion_type="PATH" motion_class="HIT" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m5" start="788" end="792" text="rode" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m0" start="79" end="86" text="Leaving" motion_type="PATH" motion_class="LEAVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<SPATIAL_SIGNAL id="s7" start="1098" end="1100" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s10" start="1121" end="1126" text="where" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s8" start="1313" end="1324" text="surrounding" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s9" start="1487" end="1489" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="233" end="240" text="full of" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="478" end="480" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="491" end="496" text="where" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="894" end="896" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="947" end="949" text="on" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s4" start="966" end="972" text="across" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="989" end="994" text="where" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms0" start="138" end="144" text="across" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms1" start="150" end="152" text="to" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms2" start="306" end="311" text="south" motion_signal_type="PATH" comment="" />
+<QSLINK id="qsl0" fromID="se1" fromText="United Staters" toID="pl5" toText="Baja" relType="IN" trajector="se1" landmark="pl5" trigger="s0" comment="" />
+<QSLINK id="qsl1" fromID="pl10" fromText="places" toID="pl11" toText="world" relType="IN" trajector="pl10" landmark="pl11" trigger="s1" comment="" />
+<QSLINK id="qsl11" fromID="pl27" fromText="areas" toID="pl28" toText="Loreto" relType="EC" trajector="pl27" landmark="pl28" trigger="s8" comment="" />
+<QSLINK id="qsl12" fromID="e3" fromText="obtaining" toID="pl29" toText="Baja California" relType="IN" trajector="e3" landmark="pl29" trigger="s9" comment="" />
+<QSLINK id="qsl2" fromID="m3" fromText="congregate" toID="pl10" toText="places" relType="IN" trajector="m3" landmark="pl10" trigger="s2" comment="" />
+<QSLINK id="qsl3" fromID="e4" fromText="celebrated" toID="pl19" toText="beach" relType="IN" trajector="e4" landmark="pl19" trigger="s3" comment="" />
+<QSLINK id="qsl4" fromID="e2" fromText="cooked" toID="pl19" toText="beach" relType="IN" trajector="e2" landmark="pl19" trigger="s5" comment="" />
+<QSLINK id="qsl5" fromID="e5" fromText="shared" toID="pl19" toText="beach" relType="IN" trajector="e5" landmark="pl19" trigger="s5" comment="" />
+<QSLINK id="qsl6" fromID="e6" fromText="proceeded" toID="pl19" toText="beach" relType="IN" trajector="e6" landmark="pl19" trigger="s5" comment="" />
+<QSLINK id="qsl7" fromID="e7" fromText="teach" toID="pl19" toText="beach" relType="IN" trajector="e7" landmark="pl19" trigger="s5" comment="" />
+<QSLINK id="qsl10" fromID="m8" fromText="met" toID="pl23" toText="Loreto" relType="IN" trajector="m8" landmark="pl23" trigger="s10" comment="3D" />
+<QSLINK id="qsl13" fromID="se10" fromText="I" toID="pl23" toText="Loreto" relType="IN" trajector="se10" landmark="pl23" trigger="s7" comment="" />
+<QSLINK id="qsl14" fromID="pl17" fromText="University ITESM" toID="pl18" toText="Cerétaro" relType="IN" trajector="pl17" landmark="pl18" trigger="s6" comment="" />
+<OLINK id="ol0" fromID="pl19" fromText="beach" toID="pl20" toText="Concepcion Bay" relType="ACROSS" trajector="pl19" landmark="pl20" trigger="s4" frame_type="RELATIVE" referencePt="pl21" projective="FALSE" comment="" />
+<OLINK id="ol1" fromID="pl27" fromText="areas" toID="pl28" toText="Loreto" relType="SURROUND" trajector="pl27" landmark="pl28" trigger="s8" frame_type="INTRINSIC" referencePt="pl28" projective="FALSE" comment="" />
+<OLINK id="ol2" fromID="e4" fromText="celebrated" toID="pl19" toText="beach" relType="ABOVE" trajector="e4" landmark="pl19" trigger="s3" frame_type="INTRINSIC" referencePt="pl19" projective="FALSE" comment="" />
+<OLINK id="ol3" fromID="pl0" fromText="Guerrero Negro" toID="pl1" toText="Baja" relType="ACROSS" trajector="pl0" landmark="pl1" trigger="" frame_type="RELATIVE" referencePt="pl25" projective="FALSE" comment="" />
+<MOVELINK id="mvl0" fromID="m0" fromText="Leaving" toID="se0" toText="I" trigger="m0" source="pl0" goal="" midPoint="" mover="se0" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl1" fromID="m1" fromText="biked" toID="se0" toText="I" trigger="m1" source="pl0" goal="pl25" midPoint="pl1" mover="se0" landmark="" goal_reached="YES" pathID="" motion_signalID="ms0, ms1" comment="" />
+<MOVELINK id="mvl2" fromID="m2" fromText="ridden" toID="se2" toText="I" trigger="m2" source="" goal="" midPoint="" mover="se2" landmark="" goal_reached="" pathID="" motion_signalID="ms2" comment="" />
+<MOVELINK id="mvl3" fromID="m3" fromText="congregate" toID="se3" toText="tourists" trigger="m3" source="" goal="pl9" midPoint="" mover="se3" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl4" fromID="m4" fromText="biking" toID="se4" toText="cyclists" trigger="m4" source="" goal="" midPoint="" mover="se4" landmark="pl16" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl5" fromID="m7" fromText="meet" toID="se15" toText="I" trigger="m7" source="" goal="se14" midPoint="" mover="se15" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl7" fromID="m8" fromText="met" toID="se16" toText="I" trigger="m8" source="" goal="se17" midPoint="" mover="se16" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl8" fromID="m6" fromText="meet" toID="se12" toText="I" trigger="m6" source="" goal="se13" midPoint="" mover="se12" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl9" fromID="m5" fromText="rode" toID="se20" toText="" trigger="m5" source="" goal="" midPoint="" mover="se20" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<METALINK id="metal1" fromID="pl4" fromText="one" toID="pl10" toText="places" objectID1="pl4" objectID2="pl10" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal10" fromID="se10" fromText="I" toID="se0" toText="I" objectID1="se10" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal11" fromID="se12" fromText="I" toID="se0" toText="I" objectID1="se12" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal12" fromID="se2" fromText="I" toID="se0" toText="I" objectID1="se2" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal13" fromID="se15" fromText="I" toID="se0" toText="I" objectID1="se15" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal14" fromID="se16" fromText="I" toID="se0" toText="I" objectID1="se16" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal15" fromID="se5" fromText="I" toID="se0" toText="I" objectID1="se5" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal16" fromID="pl9" fromText="Baja California" toID="pl1" toText="Baja" objectID1="pl9" objectID2="pl1" relType="COREFERENCE" comment="" />
+<METALINK id="metal17" fromID="pl29" fromText="Baja California" toID="pl1" toText="Baja" objectID1="pl29" objectID2="pl1" relType="COREFERENCE" comment="" />
+<METALINK id="metal18" fromID="pl5" fromText="Baja" toID="pl1" toText="Baja" objectID1="pl5" objectID2="pl1" relType="COREFERENCE" comment="" />
+<METALINK id="metal19" fromID="pl16" fromText="peninsula" toID="pl1" toText="Baja" objectID1="pl16" objectID2="pl1" relType="COREFERENCE" comment="" />
+<METALINK id="metal2" fromID="se6" fromText="cyclists" toID="se11" toText="" objectID1="se6" objectID2="se11" relType="SPLITCOREFERENCE" comment="" />
+<METALINK id="metal3" fromID="se7" fromText="Áaron" toID="se11" toText="" objectID1="se7" objectID2="se11" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal4" fromID="se8" fromText="Rick" toID="se11" toText="" objectID1="se8" objectID2="se11" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal7" fromID="se6" fromText="cyclists" toID="se18" toText="" objectID1="se6" objectID2="se18" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal8" fromID="se5" fromText="I" toID="se18" toText="" objectID1="se5" objectID2="se18" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal9" fromID="se14" fromText="one" toID="se19" toText="Cylists" objectID1="se14" objectID2="se19" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal0" fromID="pl28" fromText="Loreto" toID="pl23" toText="Loreto" objectID1="pl28" objectID2="pl23" relType="COREFERENCE" comment="" />
+<METALINK id="metal6" fromID="se9" fromText="We" toID="se18" toText="" objectID1="se9" objectID2="se18" relType="SPLITCOREFERENCE" comment="" />
+<METALINK id="metal21" fromID="se5" fromText="I" toID="se20" toText="" objectID1="se5" objectID2="se20" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal22" fromID="se6" fromText="cyclists" toID="se20" toText="" objectID1="se6" objectID2="se20" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal23" fromID="se22" fromText="we" toID="se9" toText="We" objectID1="se22" objectID2="se9" relType="COREFERENCE" comment="" />
+<METALINK id="metal24" fromID="se25" fromText="I" toID="se0" toText="I" objectID1="se25" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal25" fromID="se24" fromText="I" toID="se0" toText="I" objectID1="se24" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal26" fromID="se23" fromText="me" toID="se0" toText="I" objectID1="se23" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal27" fromID="se21" fromText="I" toID="se0" toText="I" objectID1="se21" objectID2="se0" relType="COREFERENCE" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2>

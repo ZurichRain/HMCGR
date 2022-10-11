@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[
+Melting Glaciers and a Climb of Vallunaraju
+Monday, October 2nd, 2006
+
+   The city of Huaraz sits directly beneath the Cordillera Blanca, a massive mountain range that rises over 22,000 ft and has the worldâ€™s largest number of tropical glaciers. All of these glaciers, however, are melting rapidly â€“ some studies estimate that over half of the existing glaciers will melt in the next 20 years and, within the next 50 years almost the ice could be gone.
+
+   In Huaraz, I met researchers at INRENA (Instituto Nacional de Recursos Naturals), who monitor the glaciers. ”Everywhere you look” they told me, ”you can see exposed rock beneath the glaciers or glacial lakes. That is where the glaciers reached less than a century ago.” In a few days in the mountains, I took the photos below of various glaciers â€“ in every case you can see the glaciers used to reach far below. According to one local, the glacier shown on the right used to reach where I am sitting to take the picture.
+
+  
+   There are few things I enjoy more than a view across high mountaintops, and, after a mountaineering guide convinced to front the money, I was soon following the guide out of Huaraz to attempt a climb of Vallunaraju. We would climb the nearly 19,000 ft peak in just one morning, leaving our 14,000 ft base camp at midnight, hiking to the base of the glacier at 16,000 ft, and then using rope and crampons to reach the summit.
+
+   The morning we choose was perfect â€“ not a cloud in the sky, and, after hiking beneath the stars for hours, we watched the sunrise over the glaciated peaks. Climbing further, we neared the top just before 8AM. Ten meters from the summit, however, we encountered an ice wall that would have required steep climbing with rock cliffs below. Although my guide was ready to lead, I decided that I did not need to climb higher, as I was more than happy with the view that we had.
+
+  
+  
+
+   Loosing these glaciers will cause major water problems in Peru, something that I will talk about in my next post. It will also hurt the tourism industry in Huaraz as people visit these mountains to see the snow capped peaks. To me personally, though, it is sad to look across these mountains and realize that in 50 years, this view will be gone.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl22" start="-1" end="-1" text="" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="'I did not need to climb higher...' (the lower location)" domain="" />
+<PLACE id="pl23" start="-1" end="-1" text="" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="'I did not need to climb higher...' (the higher location)" domain="" />
+<PLACE id="pl24" start="-1" end="-1" text="" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="me4" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="'a massive mountain range that rises over 22,000 feet'" domain="" />
+<PLACE id="pl1" start="-1" end="-1" text="" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="'... where I am sitting ...'" domain="" />
+<PLACE id="pl5" start="-1" end="-1" text="" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="The goal location that the glaciers reached in 'That is where the glaciers reached less than a century ago.'" domain="" />
+<PLACE id="pl21" start="-1" end="-1" text="" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="The goal location for reach in 'the glaciers used to reach far below.'" domain="" />
+<PLACE id="pl6" start="1166" end="1172" text="Huaraz" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl7" start="1195" end="1206" text="Vallunaraju" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl8" start="1244" end="1248" text="peak" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="me0" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl9" start="1297" end="1301" text="camp" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="me1" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="I added this in because it's similar to the other measurements in this sentence" domain="" />
+<PLACE id="pl10" start="1329" end="1333" text="base" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="me2" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl11" start="1409" end="1415" text="summit" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl20" start="1478" end="1481" text="sky" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl12" start="1572" end="1577" text="peaks" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl13" start="1611" end="1614" text="top" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl14" start="1652" end="1658" text="summit" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl15" start="1965" end="1969" text="Peru" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl16" start="2063" end="2069" text="Huaraz" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl17" start="2092" end="2101" text="mountains" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl18" start="2125" end="2130" text="peaks" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl2" start="465" end="471" text="Huaraz" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl3" start="494" end="500" text="INRENA" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl4" start="502" end="541" text="Instituto Nacional de Recursos Naturals" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl19" start="664" end="669" text="lakes" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl25" start="753" end="762" text="mountains" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl26" start="79" end="83" text="city" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl27" start="87" end="93" text="Huaraz" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="SPATIAL_FUNCTION to pl26" domain="" />
+<PATH id="p1" start="120" end="137" text="Cordillera Blanca" beginID="" endID="" midIDs="" type="" dimensionality="" form="NAM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<PATH id="p8" start="1341" end="1348" text="glacier" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<PATH id="p0" start="158" end="163" text="range" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="massive" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<PATH id="p9" start="1691" end="1695" text="wall" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<PATH id="p10" start="1746" end="1752" text="cliffs" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<PATH id="p2" start="239" end="247" text="glaciers" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<PATH id="p4" start="262" end="270" text="glaciers" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<PATH id="p11" start="358" end="366" text="glaciers" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<PATH id="p5" start="644" end="652" text="glaciers" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<PATH id="p6" start="689" end="697" text="glaciers" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<PATH id="p3" start="842" end="850" text="glaciers" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<PATH id="p7" start="904" end="911" text="glacier" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se14" start="-1" end="-1" text="" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="The set subsuming [I,se] and [guide,se] in '... I was soon following the guide out of Huaraz to attempt a climb of Vallunaraju. We would climbe ...'" domain="" dcl="" />
+<SPATIAL_ENTITY id="se5" start="1128" end="1129" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se6" start="1153" end="1158" text="guide" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se7" start="1208" end="1210" text="We" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se8" start="1465" end="1470" text="cloud" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se12" start="1530" end="1532" text="we" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se9" start="1597" end="1599" text="we" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se10" start="1669" end="1671" text="we" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se13" start="1812" end="1813" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se11" start="2073" end="2079" text="people" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se0" start="473" end="474" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se1" start="479" end="490" text="researchers" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se2" start="627" end="631" text="rock" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se3" start="671" end="675" text="That" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se4" start="951" end="952" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se15" start="602" end="604" text="me" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se16" start="764" end="765" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se17" start="1013" end="1014" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se18" start="1433" end="1435" text="we" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se19" start="1772" end="1777" text="guide" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se20" start="1797" end="1798" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se21" start="1847" end="1848" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se22" start="1888" end="1890" text="we" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se23" start="1986" end="1987" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se24" start="2135" end="2137" text="me" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<NONMOTION_EVENT id="e1" start="1545" end="1552" text="sunrise" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e2" start="1953" end="1961" text="problems" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e3" start="2051" end="2059" text="industry" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e0" start="741" end="745" text="days" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e4" start="94" end="98" text="sits" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e5" start="956" end="963" text="sitting" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<MOTION id="m8" start="1139" end="1148" text="following" motion_type="PATH" motion_class="LEAVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m9" start="1186" end="1191" text="climb" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m10" start="1217" end="1222" text="climb" motion_type="COMPOUND" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m11" start="1270" end="1277" text="leaving" motion_type="PATH" motion_class="LEAVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m12" start="1315" end="1321" text="hiking" motion_type="COMPOUND" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m13" start="1399" end="1404" text="reach" motion_type="COMPOUND" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m20" start="1494" end="1500" text="hiking" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m14" start="1579" end="1587" text="Climbing" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m15" start="1600" end="1606" text="neared" motion_type="PATH" motion_class="HIT" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m16" start="1672" end="1683" text="encountered" motion_type="PATH" motion_class="HIT" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m1" start="169" end="174" text="rises" motion_type="PATH" motion_class="REACH" motion_sense="FICTIVE" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m17" start="1727" end="1735" text="climbing" motion_type="COMPOUND" motion_class="FOLLOW" motion_sense="LITERAL" mod="steep" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m18" start="1830" end="1835" text="climb" motion_type="COMPOUND" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m19" start="2080" end="2085" text="visit" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m0" start="285" end="292" text="melting" motion_type="MANNER" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m2" start="372" end="376" text="melt" motion_type="MANNER" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m3" start="475" end="478" text="met" motion_type="PATH" motion_class="HIT" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m4" start="698" end="705" text="reached" motion_type="PATH" motion_class="REACH" motion_sense="FICTIVE" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m5" start="859" end="864" text="reach" motion_type="PATH" motion_class="REACH" motion_sense="FICTIVE" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m6" start="939" end="944" text="reach" motion_type="PATH" motion_class="REACH" motion_sense="FICTIVE" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<SPATIAL_SIGNAL id="s10" start="1334" end="1336" text="of" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s11" start="1471" end="1473" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="1553" end="1557" text="over" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s12" start="1643" end="1647" text="from" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="1753" end="1758" text="below" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s9" start="194" end="197" text="has" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s7" start="1962" end="1964" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s8" start="2060" end="2062" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s1" start="462" end="464" text="In" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="491" end="493" text="at" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="632" end="639" text="beneath" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s13" start="679" end="684" text="where" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s14" start="746" end="748" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s15" start="869" end="874" text="below" cluster="" semantic_type="DIRECTIONAL" comment="" />
+<SPATIAL_SIGNAL id="s4" start="945" end="950" text="where" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="99" end="115" text="directly beneath" cluster="" semantic_type="DIR_TOP" comment="" />
+<MOTION_SIGNAL id="ms1" start="1159" end="1162" text="out" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms0" start="1322" end="1324" text="to" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms3" start="1378" end="1382" text="rope" motion_signal_type="MANNER" comment="" />
+<MOTION_SIGNAL id="ms4" start="1387" end="1395" text="crampons" motion_signal_type="MANNER" comment="" />
+<MOTION_SIGNAL id="ms2" start="1836" end="1842" text="higher" motion_signal_type="PATH" comment="" />
+<MEASURE id="me0" start="1227" end="1243" text="nearly 19,000 ft" value="19000" unit="feet" comment="" />
+<MEASURE id="me1" start="1282" end="1291" text="14,000 ft" value="14000" unit="feet" comment="" />
+<MEASURE id="me2" start="1352" end="1361" text="16,000 ft" value="16000" unit="feet" comment="" />
+<MEASURE id="me3" start="1632" end="1642" text="Ten meters" value="10" unit="meters" comment="" />
+<MEASURE id="me4" start="175" end="190" text="over 22,000 ft " value="gt22000" unit="feet" comment="" />
+<MEASURE id="me5" start="865" end="868" text="far" value="FAR" unit="" comment="" />
+<QSLINK id="qsl0" fromID="m16" fromText="encountered" toID="pl14" toText="summit" relType="DC" trajector="m16" landmark="pl14" trigger="s12" comment="" />
+<QSLINK id="qsl1" fromID="p2" fromText="glaciers" toID="p0" toText="range" relType="IN" trajector="p2" landmark="p0" trigger="s9" comment="" />
+<QSLINK id="qsl10" fromID="pl18" fromText="peaks" toID="pl17" toText="mountains" relType="TPP" trajector="pl18" landmark="pl17" trigger="" comment="SPATIAL_FUNCTION" />
+<QSLINK id="qsl11" fromID="pl5" fromText="" toID="se3" toText="That" relType="EQ" trajector="pl5" landmark="se3" trigger="s13" comment="" />
+<QSLINK id="qsl12" fromID="e0" fromText="days" toID="pl25" toText="mountains" relType="IN" trajector="e0" landmark="pl25" trigger="s14" comment="" />
+<QSLINK id="qsl2" fromID="e4" fromText="sits" toID="p1" toText="Cordillera Blanca" relType="EC" trajector="e4" landmark="p1" trigger="s0" comment="" />
+<QSLINK id="qsl3" fromID="e2" fromText="problems" toID="pl15" toText="Peru" relType="IN" trajector="e2" landmark="pl15" trigger="s7" comment="" />
+<QSLINK id="qsl4" fromID="m3" fromText="met" toID="pl3" toText="INRENA" relType="IN" trajector="m3" landmark="pl3" trigger="s2" comment="" />
+<QSLINK id="qsl5" fromID="m3" fromText="met" toID="pl2" toText="Huaraz" relType="IN" trajector="m3" landmark="pl2" trigger="s1" comment="" />
+<QSLINK id="qsl6" fromID="e5" fromText="sitting" toID="pl1" toText="" relType="EQ" trajector="e5" landmark="pl1" trigger="s4" comment="" />
+<QSLINK id="qsl7" fromID="pl10" fromText="base" toID="p8" toText="glacier" relType="TPP" trajector="pl10" landmark="p8" trigger="s10" comment="SPATIAL_FUNCTION" />
+<QSLINK id="qsl8" fromID="se8" fromText="cloud" toID="pl20" toText="sky" relType="IN" trajector="se8" landmark="pl20" trigger="s11" comment="'in' should be ss" />
+<QSLINK id="qsl9" fromID="e3" fromText="industry" toID="pl16" toText="Huaraz" relType="IN" trajector="e3" landmark="pl16" trigger="s8" comment="" />
+<OLINK id="ol0" fromID="e4" fromText="sits" toID="p1" toText="Cordillera Blanca" relType="BELOW" trajector="e4" landmark="p1" trigger="s0" frame_type="INTRINSIC" referencePt="p1" projective="TRUE" comment="" />
+<OLINK id="ol1" fromID="se2" fromText="rock" toID="pl19" toText="lakes" relType="BELOW" trajector="se2" landmark="pl19" trigger="s3" frame_type="INTRINSIC" referencePt="pl19" projective="TRUE" comment="" />
+<OLINK id="ol2" fromID="se2" fromText="rock" toID="p5" toText="glaciers" relType="BELOW" trajector="se2" landmark="p5" trigger="s3" frame_type="INTRINSIC" referencePt="p5" projective="TRUE" comment="" />
+<OLINK id="ol3" fromID="pl10" fromText="base" toID="p8" toText="glacier" relType="BELOW" trajector="pl10" landmark="p8" trigger="s10" frame_type="INTRINSIC" referencePt="p8" projective="FALSE" comment="SPATIAL_FUNCTION" />
+<OLINK id="ol4" fromID="pl18" fromText="peaks" toID="pl17" toText="mountains" relType="TOP" trajector="pl18" landmark="pl17" trigger="" frame_type="INTRINSIC" referencePt="pl17" projective="FALSE" comment="SPATIAL_FUNCTION" />
+<OLINK id="ol5" fromID="e1" fromText="sunrise" toID="pl12" toText="peaks" relType="ABOVE" trajector="e1" landmark="pl12" trigger="s5" frame_type="RELATIVE" referencePt="se12" projective="FALSE" comment="" />
+<OLINK id="ol6" fromID="p10" fromText="cliffs" toID="p9" toText="wall" relType="BELOW" trajector="p10" landmark="p9" trigger="s6" frame_type="INTRINSIC" referencePt="p9" projective="FALSE" comment="" />
+<OLINK id="ol8" fromID="pl21" fromText="" toID="p3" toText="glaciers" relType="BELOW" trajector="pl21" landmark="p3" trigger="s15" frame_type="INTRINSIC" referencePt="p3" projective="TRUE" comment="" />
+<MOVELINK id="mvl0" fromID="m0" fromText="melting" toID="p4" toText="glaciers" trigger="m0" source="" goal="" midPoint="" mover="p4" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl1" fromID="m2" fromText="melt" toID="p11" toText="glaciers" trigger="m2" source="" goal="" midPoint="" mover="p11" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl10" fromID="m12" fromText="hiking" toID="se7" toText="We" trigger="m12" source="" goal="pl10" midPoint="" mover="se7" landmark="" goal_reached="YES" pathID="" motion_signalID="ms0" comment="" />
+<MOVELINK id="mvl11" fromID="m13" fromText="reach" toID="se7" toText="We" trigger="m13" source="" goal="pl11" midPoint="" mover="se7" landmark="" goal_reached="YES" pathID="" motion_signalID="ms3,ms4" comment="" />
+<MOVELINK id="mvl12" fromID="m20" fromText="hiking" toID="se12" toText="we" trigger="m20" source="" goal="" midPoint="" mover="se12" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl13" fromID="m14" fromText="Climbing" toID="se9" toText="we" trigger="m14" source="" goal="" midPoint="" mover="se9" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl14" fromID="m15" fromText="neared" toID="se9" toText="we" trigger="m15" source="" goal="pl13" midPoint="" mover="se9" landmark="" goal_reached="NO" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl15" fromID="m16" fromText="encountered" toID="se10" toText="we" trigger="m16" source="" goal="p9" midPoint="" mover="se10" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl16" fromID="m17" fromText="climbing" toID="se10" toText="we" trigger="m17" source="" goal="" midPoint="" mover="se10" landmark="" goal_reached="" pathID="p10" motion_signalID="" comment="" />
+<MOVELINK id="mvl17" fromID="m18" fromText="climb" toID="se13" toText="I" trigger="m18" source="pl22" goal="pl23" midPoint="" mover="se13" landmark="" goal_reached="NO" pathID="" motion_signalID="ms2" comment="" />
+<MOVELINK id="mvl18" fromID="m19" fromText="visit" toID="se11" toText="people" trigger="m19" source="" goal="pl17" midPoint="" mover="se11" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl19" fromID="m1" fromText="rises" toID="p0" toText="range" trigger="m1" source="" goal="pl24" midPoint="" mover="p0" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl2" fromID="m3" fromText="met" toID="se0" toText="I" trigger="m3" source="" goal="se1" midPoint="" mover="se0" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl3" fromID="m6" fromText="reach" toID="p7" toText="glacier" trigger="m6" source="" goal="pl1" midPoint="" mover="p7" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl4" fromID="m4" fromText="reached" toID="p6" toText="glaciers" trigger="m4" source="" goal="pl5" midPoint="" mover="p6" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl5" fromID="m5" fromText="reach" toID="p3" toText="glaciers" trigger="m5" source="" goal="pl21" midPoint="" mover="p3" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl6" fromID="m8" fromText="following" toID="se14" toText="" trigger="m8" source="pl6" goal="" midPoint="" mover="se14" landmark="" goal_reached="" pathID="" motion_signalID="ms1" comment="" />
+<MOVELINK id="mvl7" fromID="m9" fromText="climb" toID="se5" toText="I" trigger="m9" source="" goal="" midPoint="" mover="se5" landmark="pl7" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl8" fromID="m10" fromText="climb" toID="se7" toText="We" trigger="m10" source="" goal="pl8" midPoint="" mover="se7" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl9" fromID="m11" fromText="leaving" toID="se7" toText="We" trigger="m11" source="pl9" goal="" midPoint="" mover="se7" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MLINK id="ml0" fromID="m16" fromText="encountered" toID="pl14" toText="summit" trajector="m16" landmark="pl14" relType="DISTANCE" val="me3" endPoint1="" endPoint2="" comment="" />
+<MLINK id="ml2" fromID="m1" fromText="rises" toID="m1" toText="rises" trajector="m1" landmark="m1" relType="GENERAL_DIMENSION" val="me4" endPoint1="" endPoint2="" comment="" />
+<MLINK id="ml3" fromID="pl21" fromText="" toID="p3" toText="glaciers" trajector="pl21" landmark="p3" relType="DISTANCE" val="me5" endPoint1="" endPoint2="" comment="" />
+<METALINK id="metal10" fromID="p11" fromText="glaciers" toID="p4" toText="glaciers" objectID1="p11" objectID2="p4" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal11" fromID="se4" fromText="I" toID="se0" toText="I" objectID1="se4" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal12" fromID="se5" fromText="I" toID="se0" toText="I" objectID1="se5" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal13" fromID="se13" fromText="I" toID="se0" toText="I" objectID1="se13" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal14" fromID="pl4" fromText="Instituto Nacional de Recursos Naturals" toID="pl3" toText="INRENA" objectID1="pl4" objectID2="pl3" relType="COREFERENCE" comment="" />
+<METALINK id="metal15" fromID="se5" fromText="I" toID="se14" toText="" objectID1="se5" objectID2="se14" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal16" fromID="se6" fromText="guide" toID="se14" toText="" objectID1="se6" objectID2="se14" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal17" fromID="se10" fromText="we" toID="se7" toText="We" objectID1="se10" objectID2="se7" relType="COREFERENCE" comment="" />
+<METALINK id="metal18" fromID="se9" fromText="we" toID="se7" toText="We" objectID1="se9" objectID2="se7" relType="COREFERENCE" comment="" />
+<METALINK id="metal19" fromID="se12" fromText="we" toID="se7" toText="We" objectID1="se12" objectID2="se7" relType="COREFERENCE" comment="" />
+<METALINK id="metal20" fromID="se7" fromText="We" toID="se14" toText="" objectID1="se7" objectID2="se14" relType="SPLITCOREFERENCE" comment="" />
+<METALINK id="metal21" fromID="pl8" fromText="peak" toID="pl7" toText="Vallunaraju" objectID1="pl8" objectID2="pl7" relType="COREFERENCE" comment="" />
+<METALINK id="metal22" fromID="pl13" fromText="top" toID="pl11" toText="summit" objectID1="pl13" objectID2="pl11" relType="COREFERENCE" comment="" />
+<METALINK id="metal23" fromID="pl14" fromText="summit" toID="pl11" toText="summit" objectID1="pl14" objectID2="pl11" relType="COREFERENCE" comment="" />
+<METALINK id="metal3" fromID="p0" fromText="range" toID="p1" toText="Cordillera Blanca" objectID1="p0" objectID2="p1" relType="COREFERENCE" comment="" />
+<METALINK id="metal4" fromID="pl17" fromText="mountains" toID="p1" toText="Cordillera Blanca" objectID1="pl17" objectID2="p1" relType="COREFERENCE" comment="" />
+<METALINK id="metal5" fromID="p7" fromText="glacier" toID="p2" toText="glaciers" objectID1="p7" objectID2="p2" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal6" fromID="p3" fromText="glaciers" toID="p2" toText="glaciers" objectID1="p3" objectID2="p2" relType="COREFERENCE" comment="" />
+<METALINK id="metal7" fromID="p5" fromText="glaciers" toID="p2" toText="glaciers" objectID1="p5" objectID2="p2" relType="COREFERENCE" comment="" />
+<METALINK id="metal8" fromID="p6" fromText="glaciers" toID="p2" toText="glaciers" objectID1="p6" objectID2="p2" relType="COREFERENCE" comment="" />
+<METALINK id="metal9" fromID="p4" fromText="glaciers" toID="p2" toText="glaciers" objectID1="p4" objectID2="p2" relType="COREFERENCE" comment="" />
+<METALINK id="metal24" fromID="pl6" fromText="Huaraz" toID="pl27" toText="Huaraz" objectID1="pl6" objectID2="pl27" relType="COREFERENCE" comment="" />
+<METALINK id="metal25" fromID="pl2" fromText="Huaraz" toID="pl27" toText="Huaraz" objectID1="pl2" objectID2="pl27" relType="COREFERENCE" comment="" />
+<METALINK id="metal26" fromID="pl16" fromText="Huaraz" toID="pl27" toText="Huaraz" objectID1="pl16" objectID2="pl27" relType="COREFERENCE" comment="" />
+<METALINK id="metal27" fromID="se18" fromText="we" toID="se7" toText="We" objectID1="se18" objectID2="se7" relType="COREFERENCE" comment="" />
+<METALINK id="metal28" fromID="se19" fromText="guide" toID="se6" toText="guide" objectID1="se19" objectID2="se6" relType="COREFERENCE" comment="" />
+<METALINK id="metal29" fromID="se22" fromText="we" toID="se7" toText="We" objectID1="se22" objectID2="se7" relType="COREFERENCE" comment="" />
+<METALINK id="metal30" fromID="se24" fromText="me" toID="se0" toText="I" objectID1="se24" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal31" fromID="se23" fromText="I" toID="se0" toText="I" objectID1="se23" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal32" fromID="se21" fromText="I" toID="se0" toText="I" objectID1="se21" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal33" fromID="se20" fromText="I" toID="se0" toText="I" objectID1="se20" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal34" fromID="se17" fromText="I" toID="se0" toText="I" objectID1="se17" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal35" fromID="se16" fromText="I" toID="se0" toText="I" objectID1="se16" objectID2="se0" relType="COREFERENCE" comment="" />
+<METALINK id="metal36" fromID="se15" fromText="me" toID="se0" toText="I" objectID1="se15" objectID2="se0" relType="COREFERENCE" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2>

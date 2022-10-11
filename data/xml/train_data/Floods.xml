@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[
+The 1999 Floods in Venezuela
+Tuesday, July 18th, 2006
+   In 1999, it rained for half a month straight and Caracas and surrounding states were severely flooded. It is estimated that 30,000 people died as flood waters swept away houses along rivers and landslides destroyed the houses built on hillsides.
+
+   Most of these houses were houses of the poor â€“ the â€˜shantytownsâ€™ that rise up the hillsides and line the river banks. In Caracas, I was amazed at how the sides of the valley were packed with houses of the poor. Below are some photos I took from afar (I did not explorer these areas, as I was told they were not safe!)
+
+  
+   Floods like the 1999 disaster may become more common as the earth warms â€“ many models predict that there will be more heavy rain storms. Cleary, people should build stronger homes in less vunerable areas. But, when the floods do come, it is those who are least able to adapt who will suffer the most.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl11" start="-1" end="-1" text="" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="The goal location for [come,m4] in 'when the floods do come'" domain="" />
+<PLACE id="pl12" start="-1" end="-1" text="" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="The set subsuming [Caracas,pl0] and [states,pl1] in 'In 1999, it rained for half a month straight and Caracas and surrounding states were severely flooded.'" domain="" />
+<PLACE id="pl0" start="107" end="114" text="Caracas" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl1" start="131" end="137" text="states" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="quant=all" domain="" />
+<PLACE id="pl3" start="277" end="283" text="houses" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl4" start="364" end="375" text="shantytowns" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl5" start="435" end="442" text="Caracas" type="" dimensionality="" form="NAM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl10" start="468" end="473" text="sides" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl6" start="505" end="511" text="houses" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl7" start="590" end="595" text="areas" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl9" start="839" end="844" text="areas" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PLACE id="pl2" start="611" end="615" text="they" type="" dimensionality="" form="NOM" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<PATH id="p0" start="241" end="247" text="rivers" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<PATH id="p1" start="293" end="302" text="hillsides" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<PATH id="p2" start="396" end="405" text="hillsides" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<PATH id="p3" start="425" end="430" text="banks" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<PATH id="p4" start="481" end="487" text="valley" beginID="" endID="" midIDs="" type="" dimensionality="" form="NOM" gazref="" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se0" start="210" end="216" text="waters" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se4" start="547" end="548" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se1" start="565" end="566" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se2" start="228" end="234" text="houses" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se3" start="-1" end="-1" text="" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se5" start="322" end="328" text="houses" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se6" start="444" end="445" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<SPATIAL_ENTITY id="se7" start="600" end="601" text="I" type="" dimensionality="" form="NOM" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" dcl="" />
+<NONMOTION_EVENT id="e0" start="152" end="159" text="flooded" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e1" start="252" end="262" text="landslides" latLong="" elevation="" mod="" countable="TRUE" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e2" start="549" end="553" text="took" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e7" start="800" end="805" text="build" latLong="" elevation="" mod="" countable="" gquant="" scopes="" comment="" domain="" />
+<NONMOTION_EVENT id="e6" start="860" end="866" text="floods" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="" domain="" />
+<MOTION id="m0" start="217" end="222" text="swept" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m2" start="263" end="272" text="destroyed" motion_type="MANNER" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m1" start="384" end="388" text="rise" motion_type="PATH" motion_class="FOLLOW" motion_sense="FICTIVE" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m3" start="575" end="583" text="explorer" motion_type="COMPOUND" motion_class="MOVE_INTERNAL" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<MOTION id="m4" start="870" end="874" text="come" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" domain="" latLong="" elevation="" />
+<SPATIAL_SIGNAL id="s0" start="119" end="130" text="surrounding" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s1" start="235" end="240" text="along" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s2" start="290" end="292" text="on" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s3" start="410" end="414" text="line" cluster="" semantic_type="DIR_TOP" comment="" />
+<SPATIAL_SIGNAL id="s4" start="432" end="434" text="In" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s5" start="493" end="499" text="packed" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s6" start="559" end="563" text="afar" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s7" start="821" end="823" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms0" start="223" end="227" text="away" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms1" start="389" end="391" text="up" motion_signal_type="PATH" comment="" />
+<QSLINK id="qsl0" fromID="pl1" fromText="states" toID="pl0" toText="Caracas" relType="EC" trajector="pl1" landmark="pl0" trigger="s0" comment="" />
+<QSLINK id="qsl1" fromID="e0" fromText="flooded" toID="pl12" toText="" relType="IN" trajector="e0" landmark="pl12" trigger="" comment="" />
+<QSLINK id="qsl3" fromID="pl3" fromText="houses" toID="p1" toText="hillsides" relType="EC" trajector="pl3" landmark="p1" trigger="s2" comment="" />
+<QSLINK id="qsl4" fromID="pl4" fromText="shantytowns" toID="p3" toText="river banks" relType="EC" trajector="pl4" landmark="p3" trigger="s3" comment="" />
+<QSLINK id="qsl5" fromID="p4" fromText="valley" toID="pl5" toText="Caracas" relType="IN" trajector="p4" landmark="pl5" trigger="s4" comment="" />
+<QSLINK id="qsl6" fromID="pl10" fromText="sides" toID="p4" toText="valley" relType="TPP" trajector="pl10" landmark="p4" trigger="" comment="" />
+<QSLINK id="qsl7" fromID="pl6" fromText="houses" toID="pl10" toText="sides" relType="IN" trajector="pl6" landmark="pl10" trigger="s5" comment="" />
+<QSLINK id="qsl8" fromID="e2" fromText="took" toID="pl7" toText="areas" relType="DC" trajector="e2" landmark="pl7" trigger="s6" comment="" />
+<QSLINK id="qsl9" fromID="e7" fromText="build" toID="pl9" toText="areas" relType="IN" trajector="e7" landmark="pl9" trigger="s7" comment="" />
+<QSLINK id="qsl10" fromID="se2" fromText="houses" toID="p0" toText="rivers" relType="EC" trajector="se2" landmark="p0" trigger="s1" comment="" />
+<OLINK id="ol0" fromID="pl1" fromText="states" toID="pl0" toText="Caracas" relType="AROUND" trajector="pl1" landmark="pl0" trigger="s0" frame_type="INTRINSIC" referencePt="pl0" projective="FALSE" comment="" />
+<OLINK id="ol2" fromID="pl3" fromText="houses" toID="p1" toText="hillsides" relType="ABOVE" trajector="pl3" landmark="p1" trigger="s2" frame_type="INTRINSIC" referencePt="p1" projective="FALSE" comment="" />
+<OLINK id="ol3" fromID="pl4" fromText="shantytowns" toID="p3" toText="river banks" relType="ABOVE" trajector="pl4" landmark="p3" trigger="s3" frame_type="INTRINSIC" referencePt="p3" projective="FALSE" comment="" />
+<OLINK id="ol4" fromID="se2" fromText="houses" toID="p0" toText="rivers" relType="NEXT_TO" trajector="se2" landmark="p0" trigger="s1" frame_type="INTRINSIC" referencePt="p0" projective="FALSE" comment="" />
+<MOVELINK id="mvl0" fromID="m0" fromText="swept" toID="se3" toText="" trigger="m0" source="" goal="" midPoint="" mover="se3" landmark="" goal_reached="" pathID="" motion_signalID="ms0" comment="" />
+<MOVELINK id="mvl1" fromID="m2" fromText="destroyed" toID="e1" toText="landslides" trigger="m2" source="" goal="" midPoint="" mover="e1" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl2" fromID="m1" fromText="rise" toID="pl4" toText="shantytowns" trigger="m1" source="" goal="" midPoint="" mover="pl4" landmark="" goal_reached="" pathID="p2" motion_signalID="ms1" comment="" />
+<MOVELINK id="mvl3" fromID="m3" fromText="explorer" toID="se1" toText="I" trigger="m3" source="" goal="" midPoint="" mover="se1" landmark="pl7" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl4" fromID="m4" fromText="come" toID="e6" toText="floods" trigger="m4" source="" goal="pl11" midPoint="" mover="e6" landmark="" goal_reached="YES" pathID="" motion_signalID="" comment="" />
+<METALINK id="metal0" fromID="pl0" fromText="Caracas" toID="pl12" toText="" objectID1="pl0" objectID2="pl12" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal1" fromID="pl1" fromText="states" toID="pl12" toText="" objectID1="pl1" objectID2="pl12" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal2" fromID="p2" fromText="hillsides" toID="p1" toText="hillsides" objectID1="p2" objectID2="p1" relType="COREFERENCE" comment="" />
+<METALINK id="metal3" fromID="pl5" fromText="Caracas" toID="pl0" toText="Caracas" objectID1="pl5" objectID2="pl0" relType="COREFERENCE" comment="" />
+<METALINK id="metal5" fromID="se0" fromText="waters" toID="se3" toText="" objectID1="se0" objectID2="se3" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal6" fromID="se2" fromText="houses" toID="se3" toText="" objectID1="se2" objectID2="se3" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal7" fromID="se5" fromText="houses" toID="se2" toText="houses" objectID1="se5" objectID2="se2" relType="COREFERENCE" comment="" />
+<METALINK id="metal8" fromID="pl2" fromText="they" toID="pl7" toText="areas" objectID1="pl2" objectID2="pl7" relType="COREFERENCE" comment="" />
+<METALINK id="metal9" fromID="se4" fromText="I" toID="se6" toText="I" objectID1="se4" objectID2="se6" relType="COREFERENCE" comment="" />
+<METALINK id="metal10" fromID="se1" fromText="I" toID="se6" toText="I" objectID1="se1" objectID2="se6" relType="COREFERENCE" comment="" />
+<METALINK id="metal11" fromID="se7" fromText="I" toID="se6" toText="I" objectID1="se7" objectID2="se6" relType="COREFERENCE" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2>

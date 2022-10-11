@@ -1,0 +1,1254 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[
+
+12-May-2008 -- This is the second out of two confluence points that I visited on a bicycle trip from Zurich into the Vosges Mountains and the Black Forest. The story starts from 48°N 7°E.
+
+On confluence day, I started cycling at 5:30 a.m. in the village Midlach in the Vosges Mountains. I came through the city of Colmar and entered Germany at the border town Brisach. At noon time, I reached Freiburg – a city that is located 10 km west of the confluence.
+
+From Freiburg, a nice bike-path along the Dreisam creek leads to the village Stegen (4 km from CP). From here, a narrow valley of the Eschbach stream follows upwards to the confluence. At a small village called Obertal (510 m from CP) I left the main road and searched for some tracks that would lead upwards to the confluence point. My approach was quite complicated; I detoured to the top of the hill to a place with a wayside cross and some nice benches. From this viewpoint (300m from CP) I could see the highest peak of the snow covered Feldberg (1494 m).
+
+I parked my bicycle and continued on foot by climbing down a steep grade directly towards the confluence point – passing by some grazing cows. Straight away I could see the unique marker of the point: a green sail from a windsurfing board with the inscription “Am 18.07.07 Hier war die 4. Klasse der Grundschule Stegen-Eschbach. Konfluenz-Punkt” which means ‘On 18th July 2007 Here has been the fourth grade elementary school Stegen-Eschbach. Confluence-Point’. Even though I consider such markers as pollution, I followed the slogan of the Confluence Project which says “take nothing but pictures, leave nothing but footprints”. So I kept the sail as it was.
+
+Getting a perfect zero reading turned out to be a lengthy back and forth – which is normally the case at densely forested steep grades. With 4 m accuracy, I finally located the confluence about 6 m west of the sail directly at the track. When I took the picture of the GPS, the accuracy turned to 5 m again.
+
+Let me here consider an interesting geographical feature: The Vosges Mountains and the Black Forest are two related mountain ranges with similar heights (1424 m and 1494 m). Both are aligned north-south, one is in France and the other in Germany. They are geological related and divided from each other by the Rhine Rift. The Upper Rhine River runs in the middle of that valley which is also the country border. Interestingly, both mountain ranges have comparable confluences: 48°N 7°E (in France) and 48°N 8°E (in Germany). Both are located in upper valleys that open out in the Rhine Rift. Both have similar heights (730 m and 555 m), both are in a mixed spruce and beech forest at steep grades. While visiting both confluence points, I noticed these striking similarities. Maybe 40 Million years ago, before the rift had formed, they had been together at one location.
+
+After documentation I went back to Freiburg, where I took a train back home to Zurich. Unfortunately I had to be in office the next day which did not leave riding back by bike as an option.
+
+CP visit details:
+
+    Time at the CP: 14:10 pm
+    riding time: 6 hours
+    riding distance: 101 km
+    hiking time: 20 min
+    hiking distance: 300 m
+    Distance to a road: 510 km
+    Distance to a track: 0 m
+    Distance to houses: 337 m
+    Topography: steep grade, northern hillside
+    Minimal distance according to GPS: 0 m
+    Position accuracy at the CP: 4 m
+    GPS height: 555 m
+    Vegetation: spruce and deciduous forest. Some ferns in the lower layer. Nearby a meadow with gazing land and young tree plantation with maple or plane trees.
+    Weather: fine, 25° C (felt temperature)
+    Description of the CP: In the Southern Black Forest, in the upper valley of the Eschbach steam. Right next to a track about one third up the hillside.
+    Given Name: The Green Sail Confluence
+
+Coordinator's Note: A previous visitor has left rubbish behind in the form of a large plastic sheet. This is not acceptable if anyone goes here in the future please remove and dispose of it.
+
+]]></TEXT>
+<TAGS>
+<PLACE comment="Goal for 'I parked my bicycle'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl11" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="Goal for 'riding back by bike'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl23" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="Source for 'I came through the city of Colmar'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl29" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="Goal for 'I came through the city of Colmar'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl30" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="One of the two points in 'Both have similar heights (730 m and 555 m)'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="me10" end="-1" form="NOM" gazref="" gquant="" id="pl60" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="The other point in 'Both have similar heights (730 m and 555 m)'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="me11" end="-1" form="NOM" gazref="" gquant="" id="pl61" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="Goal for 'My approach was quite complicated'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl16" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="Source for ' I took a train back home to Zurich'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl15" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="Represents the CP in the MEASURELINK for 'Distance to a road: 510 km'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl42" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="Represents the CP in the MEASURELINK for 'Distance to a track: 0 m'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl73" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="Represents the CP in the MEASURELINK for 'Distance to houses: 337 m'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl74" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="Represents the CP in 'In the Southern Black Forest, in the upper valley of the Eschbach steam'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl75" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="Represents the CP in 'Right next to a track about one third up the hillside'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl76" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="Represents the confluence in 'Nearby a meadow with gazing land and young tree plantation with maple or plane trees'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl77" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="1010" form="NAM" gazref="" gquant="" id="pl2" latLong="" mod="" scopes="" start="1002" state="" text="Feldberg" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="109" form="NAM" gazref="" gquant="" id="pl20" latLong="" mod="" scopes="" start="103" state="" text="Zurich" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="1132" form="NOM" gazref="" gquant="" id="pl10" latLong="" mod="" scopes="" start="1127" state="" text="point" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="1221" form="NOM" gazref="" gquant="" id="pl47" latLong="" mod="" scopes="" start="1216" state="" text="point" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="1481" form="NOM" gazref="" gquant="" id="pl48" latLong="" mod="" scopes="" start="1465" state="" text="Confluence-Point" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="21" form="NOM" gazref="" gquant="" id="pl17" latLong="" mod="" scopes="" start="17" state="" text="This" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="188" form="NAM" gazref="" gquant="" id="pl21" latLong="" mod="" scopes="" start="180" state="" text="48°N 7°E" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="1870" form="NOM" gazref="" gquant="" id="pl49" latLong="" mod="" scopes="" start="1860" state="" text="confluence" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2212" form="NAM" gazref="" gquant="" id="pl50" latLong="" mod="" scopes="" start="2206" state="" text="France" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2237" form="NAM" gazref="" gquant="" id="pl51" latLong="" mod="" scopes="" start="2230" state="" text="Germany" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="2467" form="NOM" gazref="" gquant="" id="pl52" latLong="" mod="" scopes="" start="2456" state="" text="confluences" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2477" form="NAM" gazref="" gquant="" id="pl53" latLong="" mod="" scopes="" start="2469" state="" text="48°N 7°E" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="255" form="NOM" gazref="" gquant="" id="pl31" latLong="" mod="" scopes="" start="248" state="" text="village" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2488" form="NAM" gazref="" gquant="" id="pl54" latLong="" mod="" scopes="" start="2482" state="" text="France" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2502" form="NAM" gazref="" gquant="" id="pl55" latLong="" mod="" scopes="" start="2494" state="" text="48°N 8°E" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2514" form="NAM" gazref="" gquant="" id="pl56" latLong="" mod="" scopes="" start="2507" state="" text="Germany" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2521" form="NOM" gazref="" gquant="" id="pl57" latLong="" mod="" scopes="" start="2517" state="" text="Both" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="263" form="NAM" gazref="" gquant="" id="pl32" latLong="" mod="" scopes="" start="256" state="" text="Midlach" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="2588" form="NOM" gazref="" gquant="" id="pl58" latLong="" mod="" scopes="" start="2584" state="" text="Both" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="2633" form="NOM" gazref="" gquant="" id="pl59" latLong="" mod="" scopes="" start="2629" state="" text="both" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="2672" form="NOM" gazref="" gquant="" id="pl12" latLong="" mod="" scopes="" start="2666" state="" text="forest" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="2727" form="NOM" gazref="" gquant="" id="pl62" latLong="" mod="" scopes="" start="2721" state="" text="points" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="2828" form="NOM" gazref="" gquant="" id="pl63" latLong="" mod="" scopes="" start="2824" state="" text="they" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="2862" form="NOM" gazref="" gquant="" id="pl64" latLong="" mod="" scopes="" start="2854" state="" text="location" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="35" form="NOM" gazref="" gquant="" id="pl18" latLong="" mod="" scopes="" start="29" state="" text="second" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2908" form="NAM" gazref="" gquant="" id="pl65" latLong="" mod="" scopes="" start="2900" state="" text="Freiburg" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2940" form="NOM" gazref="" gquant="" id="pl66" latLong="" mod="" scopes="" start="2936" state="" text="home" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2950" form="NAM" gazref="" gquant="" id="pl67" latLong="" mod="" scopes="" start="2944" state="" text="Zurich" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2987" form="NOM" gazref="" gquant="" id="pl22" latLong="" mod="" scopes="" start="2981" state="" text="office" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="3058" form="NOM" gazref="" gquant="" id="pl68" latLong="" mod="" scopes="" start="3056" state="" text="CP" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="312" form="NOM" gazref="" gquant="" id="pl24" latLong="" mod="" scopes="" start="308" state="" text="city" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="3093" form="NOM" gazref="" gquant="" id="pl69" latLong="" mod="" scopes="" start="3091" state="" text="CP" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="322" form="NAM" gazref="" gquant="" id="pl25" latLong="" mod="" scopes="" start="316" state="" text="Colmar" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="342" form="NAM" gazref="" gquant="" id="pl26" latLong="" mod="" scopes="" start="335" state="" text="Germany" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="3419" form="NOM" gazref="" gquant="" id="pl5" latLong="" mod="" scopes="" start="3417" state="" text="CP" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="3538" form="NOM" gazref="" gquant="" id="pl13" latLong="" mod="" scopes="" start="3532" state="" text="meadow" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="361" form="NOM" gazref="" gquant="" id="pl27" latLong="" mod="" scopes="" start="357" state="" text="town" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="3581" form="NOM" gazref="" gquant="" id="pl14" latLong="" mod="" scopes="" start="3571" state="" text="plantation" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="369" form="NAM" gazref="" gquant="" id="pl28" latLong="" mod="" scopes="" start="362" state="" text="Brisach" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="3678" form="NOM" gazref="" gquant="" id="pl70" latLong="" mod="" scopes="" start="3676" state="" text="CP" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="3849" form="NAM" gazref="" gquant="" id="pl71" latLong="" mod="" scopes="" start="3828" state="" text="Green Sail Confluence" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="403" form="NAM" gazref="" gquant="" id="pl33" latLong="" mod="" scopes="" start="395" state="" text="Freiburg" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="3994" form="NOM" gazref="" gquant="" id="pl72" latLong="" mod="" scopes="" start="3990" state="" text="here" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="412" form="NOM" gazref="" gquant="" id="pl34" latLong="" mod="" scopes="" start="408" state="" text="city" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="457" form="NOM" gazref="" gquant="" id="pl35" latLong="" mod="" scopes="" start="447" state="" text="confluence" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="473" form="NAM" gazref="" gquant="" id="pl36" latLong="" mod="" scopes="" start="465" state="" text="Freiburg" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="536" form="NOM" gazref="" gquant="" id="pl37" latLong="" mod="" scopes="" start="529" state="" text="village" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="543" form="NAM" gazref="" gquant="" id="pl38" latLong="" mod="" scopes="" start="537" state="" text="Stegen" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="557" form="NOM" gazref="" gquant="" id="pl39" latLong="" mod="" scopes="" start="555" state="" text="CP" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="569" form="NOM" gazref="" gquant="" id="pl40" latLong="" mod="" scopes="" start="565" state="" text="here" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="64" form="NOM" gazref="" gquant="" id="pl19" latLong="" mod="" scopes="" start="58" state="" text="points" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="643" form="NOM" gazref="" gquant="" id="pl41" latLong="" mod="" scopes="" start="633" state="" text="confluence" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="663" form="NOM" gazref="" gquant="" id="pl43" latLong="" mod="small" scopes="" start="656" state="" text="village" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="678" form="NAM" gazref="" gquant="" id="pl45" latLong="" mod="" scopes="" start="671" state="" text="Obertal" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="693" form="NOM" gazref="" gquant="" id="pl46" latLong="" mod="" scopes="" start="691" state="" text="CP" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="792" form="NOM" gazref="" gquant="" id="pl44" latLong="" mod="" scopes="" start="787" state="" text="point" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="850" form="NOM" gazref="" gquant="" id="pl7" latLong="" mod="" scopes="" start="847" state="" text="top" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="862" form="NOM" gazref="" gquant="" id="pl8" latLong="" mod="" scopes="" start="858" state="" text="hill" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="873" form="NOM" gazref="" gquant="" id="pl6" latLong="" mod="" scopes="" start="868" state="" text="place" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="937" form="NOM" gazref="" gquant="" id="pl3" latLong="" mod="" scopes="" start="928" state="" text="viewpoint" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="951" form="NOM" gazref="" gquant="" id="pl4" latLong="" mod="" scopes="" start="949" state="" text="CP" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="me4" end="981" form="NOM" gazref="" gquant="" id="pl0" latLong="" mod="highest" scopes="" start="977" state="" text="peak" type=""/>
+<PATH beginID="" comment="Source for 'I detoured to the top of the hill'" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="-1" endID="" form="NOM" gazref="" gquant="" id="p0" latLong="" midIDs="" mod="" scopes="" start="-1" text="" type=""/>
+<PATH beginID="" comment="One of the subsumed ranges in 'divided from each other by the Rhine Rift'" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="-1" endID="" form="NOM" gazref="" gquant="" id="p12" latLong="" midIDs="" mod="" scopes="" start="-1" text="" type=""/>
+<PATH beginID="" comment="The other subsumed range in 'divided from each other by the Rhine Rift'" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="-1" endID="" form="NOM" gazref="" gquant="" id="p13" latLong="" midIDs="" mod="" scopes="" start="-1" text="" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="1094" endID="" form="NOM" gazref="" gquant="" id="p1" latLong="" midIDs="" mod="steep" scopes="" start="1089" text="grade" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="135" endID="" form="NAM" gazref="" gquant="" id="p15" latLong="" midIDs="" mod="" scopes="" start="119" text="Vosges Mountains" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="156" endID="" form="NAM" gazref="" gquant="" id="p14" latLong="" midIDs="" mod="" scopes="" start="144" text="Black Forest" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="LINE" domain="" elevation="" end="1919" endID="" form="NOM" gazref="" gquant="" id="p26" latLong="" midIDs="" mod="" scopes="" start="1914" text="track" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="me8" end="2070" endID="" form="NAM" gazref="" gquant="" id="p16" latLong="" midIDs="" mod="" scopes="" start="2054" text="Vosges Mountains" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="me9" end="2091" endID="" form="NAM" gazref="" gquant="" id="p17" latLong="" midIDs="" mod="" scopes="" start="2079" text="Black Forest" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="2123" endID="" form="NOM" gazref="" gquant="" id="p18" latLong="" midIDs="" mod="" scopes="" start="2117" text="ranges" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="LINE" domain="" elevation="" end="2170" endID="" form="NOM" gazref="" gquant="" id="p27" latLong="" midIDs="" mod="" scopes="" start="2166" text="Both" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2199" endID="" form="NOM" gazref="" gquant="" id="p28" latLong="" midIDs="" mod="" scopes="" start="2196" text="one" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2226" endID="" form="NOM" gazref="" gquant="" id="p29" latLong="" midIDs="" mod="" scopes="" start="2221" text="other" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="2243" endID="" form="NOM" gazref="" gquant="" id="p9" latLong="" midIDs="" mod="" scopes="" start="2239" text="They" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="2288" endID="" form="NOM" gazref="" gquant="" id="p10" latLong="" midIDs="" mod="" scopes="" start="2284" text="each" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="2312" endID="" form="NAM" gazref="" gquant="" id="p11" latLong="" midIDs="" mod="" scopes="" start="2302" text="Rhine Rift" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2335" endID="" form="NAM" gazref="" gquant="" id="p30" latLong="" midIDs="" mod="" scopes="" start="2318" text="Upper Rhine River" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2354" endID="" form="NOM" gazref="" gquant="" id="p31" latLong="" midIDs="" mod="" scopes="" start="2348" text="middle" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2369" endID="" form="NOM" gazref="" gquant="" id="p32" latLong="" midIDs="" mod="" scopes="" start="2363" text="valley" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2402" endID="" form="NOM" gazref="" gquant="" id="p33" latLong="" midIDs="" mod="" scopes="" start="2396" text="border" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2439" endID="" form="NOM" gazref="" gquant="" id="p35" latLong="" midIDs="pl53, pl55" mod="" scopes="" start="2433" text="ranges" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2550" endID="" form="NOM" gazref="" gquant="" id="p37" latLong="" midIDs="pl57" mod="" scopes="" start="2543" text="valleys" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2582" endID="" form="NAM" gazref="" gquant="" id="p38" latLong="" midIDs="" mod="" scopes="" start="2572" text="Rhine Rift" type=""/>
+<PATH beginID="" comment="" countable="FALSE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="2688" endID="" form="NOM" gazref="" gquant="" id="p4" latLong="" midIDs="" mod="steep" scopes="" start="2682" text="grades" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="287" endID="" form="NAM" gazref="" gquant="" id="p19" latLong="" midIDs="" mod="" scopes="" start="271" text="Vosges Mountains" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="LINE" domain="" elevation="" end="2811" endID="" form="NOM" gazref="" gquant="" id="p39" latLong="" midIDs="" mod="" scopes="" start="2807" text="rift" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="3230" endID="" form="NOM" gazref="" gquant="" id="p40" latLong="" midIDs="" mod="" scopes="" start="3226" text="road" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="3262" endID="" form="NOM" gazref="" gquant="" id="p41" latLong="" midIDs="" mod="" scopes="" start="3257" text="track" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="3344" endID="" form="NOM" gazref="" gquant="" id="p43" latLong="" midIDs="" mod="northern" scopes="" start="3336" text="hillside" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="3521" endID="" form="NOM" gazref="" gquant="" id="p8" latLong="" midIDs="" mod="lower" scopes="" start="3516" text="layer" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="3708" endID="" form="NAM" gazref="" gquant="" id="p45" latLong="" midIDs="" mod="" scopes="" start="3687" text="Southern Black Forest" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="3729" endID="" form="NOM" gazref="" gquant="" id="p44" latLong="" midIDs="" mod="upper" scopes="" start="3723" text="valley" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="3751" endID="" form="NAM" gazref="" gquant="" id="p46" latLong="" midIDs="" mod="" scopes="" start="3737" text="Eschbach steam" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="3774" endID="" form="NOM" gazref="" gquant="" id="p47" latLong="" midIDs="" mod="" scopes="" start="3769" text="track" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="3806" endID="" form="NOM" gazref="" gquant="" id="p48" latLong="" midIDs="" mod="" scopes="" start="3798" text="hillside" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="491" endID="" form="NOM" gazref="" gquant="" id="p20" latLong="" midIDs="" mod="" scopes="" start="482" text="bike-path" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="515" endID="" form="NAM" gazref="" gquant="" id="p21" latLong="" midIDs="" mod="" scopes="" start="502" text="Dreisam creek" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="586" endID="" form="NOM" gazref="" gquant="" id="p22" latLong="" midIDs="" mod="narrow" scopes="" start="580" text="valley" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="609" endID="" form="NAM" gazref="" gquant="" id="p23" latLong="" midIDs="" mod="" scopes="" start="594" text="Eschbach stream" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="715" endID="" form="NOM" gazref="" gquant="" id="p24" latLong="" midIDs="" mod="" scopes="" start="711" text="road" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="744" endID="" form="NOM" gazref="" gquant="" id="p25" latLong="" midIDs="" mod="" scopes="" start="738" text="tracks" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="1023" form="NOM" gquant="" id="se5" latLong="" mod="" scopes="" start="1022" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="1041" form="NOM" gquant="" id="se6" latLong="" mod="" scopes="" start="1034" text="bicycle" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="1163" form="NOM" gquant="" id="se8" latLong="" mod="" scopes="" start="1159" text="cows" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="1180" form="NOM" gquant="" id="se20" latLong="" mod="" scopes="" start="1179" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="1208" form="NOM" gquant="" id="se21" latLong="" mod="" scopes="" start="1202" text="marker" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="1235" form="NOM" gquant="" id="se22" latLong="" mod="" scopes="" start="1231" text="sail" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="1497" form="NOM" gquant="" id="se23" latLong="" mod="" scopes="" start="1496" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="1535" form="NOM" gquant="" id="se24" latLong="" mod="" scopes="" start="1534" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="1656" form="NOM" gquant="" id="se25" latLong="" mod="" scopes="" start="1655" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="1670" form="NOM" gquant="" id="se26" latLong="" mod="" scopes="" start="1666" text="sail" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="1676" form="NOM" gquant="" id="se27" latLong="" mod="" scopes="" start="1674" text="it" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="1839" form="NOM" gquant="" id="se28" latLong="" mod="" scopes="" start="1838" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="1897" form="NOM" gquant="" id="se29" latLong="" mod="" scopes="" start="1893" text="sail" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="1927" form="NOM" gquant="" id="se30" latLong="" mod="" scopes="" start="1926" text="I" type=""/>
+<SPATIAL_ENTITY comment="Visible in photos" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="1955" form="NOM" gquant="" id="se31" latLong="" mod="" scopes="" start="1952" text="GPS" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="1998" form="NOM" gquant="" id="se32" latLong="" mod="" scopes="" start="1996" text="me" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="211" form="NOM" gquant="" id="se9" latLong="" mod="" scopes="" start="210" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="2730" form="NOM" gquant="" id="se33" latLong="" mod="" scopes="" start="2729" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2886" form="NOM" gquant="" id="se34" latLong="" mod="" scopes="" start="2885" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="290" form="NOM" gquant="" id="se18" latLong="" mod="" scopes="" start="289" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2917" form="NOM" gquant="" id="se35" latLong="" mod="" scopes="" start="2916" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2967" form="NOM" gquant="" id="se17" latLong="" mod="" scopes="" start="2966" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="3290" form="NOM" gquant="" id="se36" latLong="" mod="" scopes="" start="3284" text="houses" type=""/>
+<SPATIAL_ENTITY comment="" countable="FALSE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="3461" form="NOM" gquant="" id="se13" latLong="" mod="" scopes="" start="3451" text="Vegetation" type=""/>
+<SPATIAL_ENTITY comment="" countable="FALSE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="3469" form="NOM" gquant="" id="se14" latLong="" mod="" scopes="" start="3463" text="spruce" type=""/>
+<SPATIAL_ENTITY comment="" countable="FALSE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="3490" form="NOM" gquant="" id="se15" latLong="" mod="" scopes="" start="3484" text="forest" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="3502" form="NOM" gquant="" id="se12" latLong="" mod="" scopes="" start="3497" text="ferns" type=""/>
+<SPATIAL_ENTITY comment="" countable="FALSE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="3555" form="NOM" gquant="" id="se10" latLong="" mod="" scopes="" start="3551" text="land" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="3607" form="NOM" gquant="" id="se11" latLong="" mod="" scopes="" start="3602" text="trees" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="386" form="NOM" gquant="" id="se19" latLong="" mod="" scopes="" start="385" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="3889" form="NOM" gquant="" id="se39" latLong="" mod="" scopes="" start="3882" text="visitor" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="3906" form="NOM" gquant="" id="se38" latLong="" mod="" scopes="" start="3899" text="rubbish" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="3950" form="NOM" gquant="" id="se37" latLong="" mod="large" scopes="" start="3945" text="sheet" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="3984" form="NOM" gquant="" id="se40" latLong="" mod="" scopes="" start="3978" text="anyone" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="4040" form="NOM" gquant="" id="se41" latLong="" mod="" scopes="" start="4038" text="it" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="71" form="NOM" gquant="" id="se16" latLong="" mod="" scopes="" start="70" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="830" form="NOM" gquant="" id="se2" latLong="" mod="" scopes="" start="829" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="894" form="NOM" gquant="" id="se4" latLong="" mod="" scopes="" start="889" text="cross" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="916" form="NOM" gquant="" id="se3" latLong="" mod="" scopes="" start="909" text="benches" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="954" form="NOM" gquant="" id="se0" latLong="" mod="" scopes="" start="953" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="FALSE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="993" form="NOM" gquant="" id="se1" latLong="" mod="" scopes="" start="989" text="snow" type=""/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="2533" gquant="" id="e1" latLong="" mod="" scopes="" start="2526" text="located"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="2560" gquant="" id="e2" latLong="" mod="" scopes="" start="2556" text="open"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="428" gquant="" id="e0" latLong="" mod="" scopes="" start="421" text="located"/>
+<MOTION comment="" countable="" domain="" elevation="" end="1030" gquant="" id="m2" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="COMPOUND" scopes="" start="1024" text="parked"/>
+<MOTION comment="" countable="" domain="" elevation="" end="1055" gquant="" id="m3" latLong="" mod="" motion_class="MOVE" motion_sense="LITERAL" motion_type="COMPOUND" scopes="" start="1046" text="continued"/>
+<MOTION comment="" countable="" domain="" elevation="" end="1075" gquant="" id="m4" latLong="" mod="" motion_class="FOLLOW" motion_sense="LITERAL" motion_type="COMPOUND" scopes="" start="1067" text="climbing"/>
+<MOTION comment="" countable="" domain="" elevation="" end="1142" gquant="" id="m5" latLong="" mod="" motion_class="MOVE_EXTERNAL" motion_sense="LITERAL" motion_type="PATH" scopes="" start="1135" text="passing"/>
+<MOTION comment="" countable="" domain="" elevation="" end="1855" gquant="" id="m19" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="1848" text="located"/>
+<MOTION comment="" countable="" domain="" elevation="" end="227" gquant="" id="m11" latLong="" mod="" motion_class="LEAVE" motion_sense="LITERAL" motion_type="COMPOUND" scopes="" start="220" text="cycling"/>
+<MOTION comment="" countable="" domain="" elevation="" end="2340" gquant="" id="m21" latLong="" mod="" motion_class="MOVE_INTERNAL" motion_sense="FICTIVE" motion_type="COMPOUND" scopes="" start="2336" text="runs"/>
+<MOTION comment="" countable="" domain="" elevation="" end="2704" gquant="" id="m22" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="2696" text="visiting"/>
+<MOTION comment="" countable="" domain="" elevation="" end="2891" gquant="" id="m23" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="2887" text="went"/>
+<MOTION comment="" countable="" domain="" elevation="" end="295" gquant="" id="m9" latLong="" mod="" motion_class="CROSS" motion_sense="LITERAL" motion_type="PATH" scopes="" start="291" text="came"/>
+<MOTION comment="" countable="" domain="" elevation="" end="2922" gquant="" id="m24" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="COMPOUND" scopes="" start="2918" text="took"/>
+<MOTION comment="" countable="" domain="" elevation="" end="3027" gquant="" id="m8" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="COMPOUND" scopes="" start="3021" text="riding"/>
+<MOTION comment="" countable="" domain="" elevation="" end="3114" gquant="" id="m25" latLong="" mod="" motion_class="MOVE" motion_sense="LITERAL" motion_type="MANNER" scopes="" start="3108" text="riding"/>
+<MOTION comment="" countable="" domain="" elevation="" end="3139" gquant="" id="m26" latLong="" mod="" motion_class="MOVE" motion_sense="LITERAL" motion_type="MANNER" scopes="" start="3133" text="riding"/>
+<MOTION comment="" countable="" domain="" elevation="" end="3167" gquant="" id="m27" latLong="" mod="" motion_class="MOVE" motion_sense="LITERAL" motion_type="MANNER" scopes="" start="3161" text="hiking"/>
+<MOTION comment="" countable="" domain="" elevation="" end="3191" gquant="" id="m28" latLong="" mod="" motion_class="MOVE" motion_sense="LITERAL" motion_type="MANNER" scopes="" start="3185" text="hiking"/>
+<MOTION comment="" countable="" domain="" elevation="" end="334" gquant="" id="m10" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="327" text="entered"/>
+<MOTION comment="" countable="" domain="" elevation="" end="394" gquant="" id="m12" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="387" text="reached"/>
+<MOTION comment="" countable="" domain="" elevation="" end="3898" gquant="" id="m29" latLong="" mod="" motion_class="DETACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="3894" text="left"/>
+<MOTION comment="" countable="" domain="" elevation="" end="3989" gquant="" id="m30" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="3985" text="goes"/>
+<MOTION comment="" countable="" domain="" elevation="" end="4022" gquant="" id="m31" latLong="" mod="" motion_class="LEAVE" motion_sense="LITERAL" motion_type="PATH" scopes="" start="4016" text="remove"/>
+<MOTION comment="" countable="" domain="" elevation="" end="521" gquant="" id="m13" latLong="" mod="" motion_class="MOVE" motion_sense="FICTIVE" motion_type="PATH" scopes="" start="516" text="leads"/>
+<MOTION comment="" countable="" domain="" elevation="" end="617" gquant="" id="m15" latLong="" mod="" motion_class="FOLLOW" motion_sense="FICTIVE" motion_type="PATH" scopes="" start="610" text="follows"/>
+<MOTION comment="" countable="" domain="" elevation="" end="701" gquant="" id="m16" latLong="" mod="" motion_class="DEVIATE" motion_sense="LITERAL" motion_type="PATH" scopes="" start="697" text="left"/>
+<MOTION comment="" countable="" domain="" elevation="" end="79" gquant="" id="m6" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="72" text="visited"/>
+<MOTION comment="" countable="" domain="" elevation="" end="728" gquant="" id="m17" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="720" text="searched"/>
+<MOTION comment="" countable="" domain="" elevation="" end="760" gquant="" id="m18" latLong="" mod="" motion_class="REACH" motion_sense="FICTIVE" motion_type="PATH" scopes="" start="756" text="lead"/>
+<MOTION comment="" countable="TRUE" domain="" elevation="" end="805" gquant="" id="m0" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="797" text="approach"/>
+<MOTION comment="" countable="" domain="" elevation="" end="839" gquant="" id="m1" latLong="" mod="" motion_class="DEVIATE" motion_sense="LITERAL" motion_type="PATH" scopes="" start="831" text="detoured"/>
+<MOTION comment="" countable="TRUE" domain="" elevation="" end="97" gquant="" id="m7" latLong="" mod="" motion_class="MOVE" motion_sense="LITERAL" motion_type="COMPOUND" scopes="" start="93" text="trip"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="1885" id="s20" semantic_type="DIRECTIONAL" start="1881" text="west"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="1909" id="s21" semantic_type="TOPOLOGICAL" start="1898" text="directly at"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="2205" id="s22" semantic_type="TOPOLOGICAL" start="2203" text="in"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="2229" id="s23" semantic_type="TOPOLOGICAL" start="2227" text="in"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="2283" id="s11" semantic_type="DIR_TOP" start="2271" text="divided from"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="2481" id="s25" semantic_type="TOPOLOGICAL" start="2479" text="in"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="2506" id="s26" semantic_type="TOPOLOGICAL" start="2504" text="in"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="2536" id="s27" semantic_type="TOPOLOGICAL" start="2534" text="in"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="2567" id="s28" semantic_type="TOPOLOGICAL" start="2565" text="in"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="2640" id="s6" semantic_type="TOPOLOGICAL" start="2638" text="in"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="266" id="s13" semantic_type="TOPOLOGICAL" start="264" text="in"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="2675" id="s7" semantic_type="TOPOLOGICAL" start="2673" text="at"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="2849" id="s30" semantic_type="TOPOLOGICAL" start="2847" text="at"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="2915" id="s31" semantic_type="TOPOLOGICAL" start="2910" text="where"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="2980" id="s12" semantic_type="TOPOLOGICAL" start="2978" text="in"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="3505" id="s10" semantic_type="TOPOLOGICAL" start="3503" text="in"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="3682" id="s32" semantic_type="TOPOLOGICAL" start="3680" text="In"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="3712" id="s33" semantic_type="TOPOLOGICAL" start="3710" text="in"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="3766" id="s35" semantic_type="DIR_TOP" start="3753" text="Right next to"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="3793" id="s36" semantic_type="DIRECTIONAL" start="3791" text="up"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="439" id="s0" semantic_type="DIRECTIONAL" start="435" text="west"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="497" id="s14" semantic_type="DIRECTIONAL" start="492" text="along"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="647" id="s18" semantic_type="TOPOLOGICAL" start="645" text="At"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="1001" id="s3" semantic_type="DIR_TOP" start="994" text="covered"/>
+<MOTION_SIGNAL comment="" end="1063" id="ms2" motion_signal_type="MANNER" start="1056" text="on foot"/>
+<MOTION_SIGNAL comment="" end="1080" id="ms3" motion_signal_type="PATH" start="1076" text="down"/>
+<MOTION_SIGNAL comment="" end="1111" id="ms4" motion_signal_type="PATH" start="1095" text="directly towards"/>
+<MOTION_SIGNAL comment="" end="114" id="ms8" motion_signal_type="PATH" start="110" text="into"/>
+<MOTION_SIGNAL comment="" end="1145" id="ms5" motion_signal_type="PATH" start="1143" text="by"/>
+<MOTION_SIGNAL comment="" end="219" id="ms13" motion_signal_type="PATH" start="212" text="started"/>
+<MOTION_SIGNAL comment="" end="2343" id="ms23" motion_signal_type="PATH" start="2341" text="in"/>
+<MOTION_SIGNAL comment="" end="243" id="ms14" motion_signal_type="PATH" start="241" text="in"/>
+<MOTION_SIGNAL comment="" end="2896" id="ms24" motion_signal_type="PATH" start="2892" text="back"/>
+<MOTION_SIGNAL comment="" end="2899" id="ms25" motion_signal_type="PATH" start="2897" text="to"/>
+<MOTION_SIGNAL comment="" end="2930" id="ms26" motion_signal_type="MANNER" start="2925" text="train"/>
+<MOTION_SIGNAL comment="" end="2935" id="ms27" motion_signal_type="PATH" start="2931" text="back"/>
+<MOTION_SIGNAL comment="" end="2943" id="ms28" motion_signal_type="PATH" start="2941" text="to"/>
+<MOTION_SIGNAL comment="" end="303" id="ms11" motion_signal_type="PATH" start="296" text="through"/>
+<MOTION_SIGNAL comment="" end="3032" id="ms9" motion_signal_type="PATH" start="3028" text="back"/>
+<MOTION_SIGNAL comment="" end="3040" id="ms10" motion_signal_type="MANNER" start="3033" text="by bike"/>
+<MOTION_SIGNAL comment="" end="345" id="ms12" motion_signal_type="PATH" start="343" text="at"/>
+<MOTION_SIGNAL comment="" end="3913" id="ms29" motion_signal_type="PATH" start="3907" text="behind"/>
+<MOTION_SIGNAL comment="" end="464" id="ms15" motion_signal_type="PATH" start="460" text="From"/>
+<MOTION_SIGNAL comment="" end="524" id="ms16" motion_signal_type="PATH" start="522" text="to"/>
+<MOTION_SIGNAL comment="" end="564" id="ms17" motion_signal_type="PATH" start="560" text="From"/>
+<MOTION_SIGNAL comment="" end="625" id="ms18" motion_signal_type="PATH" start="618" text="upwards"/>
+<MOTION_SIGNAL comment="" end="628" id="ms19" motion_signal_type="PATH" start="626" text="to"/>
+<MOTION_SIGNAL comment="" end="732" id="ms20" motion_signal_type="PATH" start="729" text="for"/>
+<MOTION_SIGNAL comment="" end="768" id="ms21" motion_signal_type="PATH" start="761" text="upwards"/>
+<MOTION_SIGNAL comment="" end="771" id="ms22" motion_signal_type="PATH" start="769" text="to"/>
+<MOTION_SIGNAL comment="" end="842" id="ms0" motion_signal_type="PATH" start="840" text="to"/>
+<MOTION_SIGNAL comment="" end="92" id="ms6" motion_signal_type="MANNER" start="85" text="bicycle"/>
+<MOTION_SIGNAL comment="" end="865" id="ms1" motion_signal_type="PATH" start="863" text="to"/>
+<MOTION_SIGNAL comment="" end="102" id="ms7" motion_signal_type="PATH" start="98" text="from"/>
+<MEASURE comment="" end="1018" id="me4" start="1012" text="1494 m" unit="meters" value="1494"/>
+<MEASURE comment="Not sure this links to anything.  -BB" end="1827" id="me5" start="1824" text="4 m" unit="meters" value="4"/>
+<MEASURE comment="" end="1880" id="me6" start="1871" text="about 6 m" unit="meters" value="~6"/>
+<MEASURE comment="Not sure this links to anything.  -BB" end="1983" id="me7" start="1980" text="5 m" unit="meters" value="5"/>
+<MEASURE comment="" end="2152" id="me8" start="2146" text="1424 m" unit="meters" value="1424"/>
+<MEASURE comment="" end="2163" id="me9" start="2157" text="1494 m" unit="meters" value="1494"/>
+<MEASURE comment="" end="2616" id="me10" start="2611" text="730 m" unit="meters" value="730"/>
+<MEASURE comment="" end="2626" id="me11" start="2621" text="555 m" unit="meters" value="555"/>
+<MEASURE comment="" end="3156" id="me12" start="3150" text="101 km" unit="kilometers" value="101"/>
+<MEASURE comment="" end="3207" id="me13" start="3202" text="300 m" unit="meters" value="300"/>
+<MEASURE comment="" end="3238" id="me14" start="3232" text="510 km" unit="kilometers" value="510"/>
+<MEASURE comment="" end="3267" id="me15" start="3264" text="0 m" unit="meters" value="0"/>
+<MEASURE comment="" end="3297" id="me16" start="3292" text="337 m" unit="meters" value="337"/>
+<MEASURE comment="" end="3529" id="me20" start="3523" text="Nearby" unit="" value="NEAR"/>
+<MEASURE comment="" end="434" id="me0" start="429" text="10 km" unit="kilometers" value="10"/>
+<MEASURE comment="" end="549" id="me1" start="545" text="4 km" unit="kilometers" value="4"/>
+<MEASURE comment="" end="685" id="me2" start="680" text="510 m" unit="meters" value="510"/>
+<MEASURE comment="" end="943" id="me3" start="939" text="300m" unit="meters" value="300"/>
+<QSLINK id="qsl0" fromID="" fromText="" toID="" toText="" relType="" trajector="p22" landmark="p23" trigger="" comment=""/>
+<QSLINK id="qsl1" fromID="" fromText="" toID="" toText="" relType="" trajector="p31" landmark="p32" trigger="" comment=""/>
+<QSLINK id="qsl2" fromID="" fromText="" toID="" toText="" relType="" trajector="p32" landmark="p33" trigger="" comment=""/>
+<QSLINK id="qsl3" fromID="" fromText="" toID="" toText="" relType="" trajector="p44" landmark="p46" trigger="" comment=""/>
+<QSLINK id="qsl4" fromID="" fromText="" toID="" toText="" relType="" trajector="pl0" landmark="pl2" trigger="" comment=""/>
+<QSLINK id="qsl5" fromID="" fromText="" toID="" toText="" relType="" trajector="pl52" landmark="p35" trigger="" comment=""/>
+<QSLINK id="qsl6" fromID="" fromText="" toID="" toText="" relType="" trajector="pl67" landmark="pl66" trigger="" comment=""/>
+<QSLINK id="qsl7" fromID="" fromText="" toID="" toText="" relType="" trajector="pl7" landmark="pl8" trigger="" comment=""/>
+<QSLINK id="qsl8" fromID="" fromText="" toID="" toText="" relType="" trajector="se10" landmark="pl13" trigger="" comment=""/>
+<QSLINK id="qsl9" fromID="" fromText="" toID="" toText="" relType="" trajector="se11" landmark="pl14" trigger="" comment=""/>
+<QSLINK id="qsl10" fromID="" fromText="" toID="" toText="" relType="" trajector="se21" landmark="pl47" trigger="" comment=""/>
+<QSLINK id="qsl11" fromID="" fromText="" toID="" toText="" relType="" trajector="se3" landmark="pl6" trigger="" comment=""/>
+<QSLINK id="qsl12" fromID="" fromText="" toID="" toText="" relType="" trajector="se4" landmark="pl6" trigger="" comment=""/>
+<QSLINK id="qsl13" fromID="" fromText="" toID="" toText="" relType="" trajector="se12" landmark="p8" trigger="s10" comment=""/>
+<QSLINK id="qsl14" fromID="" fromText="" toID="" toText="" relType="" trajector="se17" landmark="pl22" trigger="s12" comment=""/>
+<QSLINK id="qsl15" fromID="" fromText="" toID="" toText="" relType="" trajector="pl31" landmark="p19" trigger="s13" comment=""/>
+<QSLINK id="qsl16" fromID="" fromText="" toID="" toText="" relType="" trajector="m16" landmark="pl43" trigger="s18" comment=""/>
+<QSLINK id="qsl17" fromID="" fromText="" toID="" toText="" relType="" trajector="m19" landmark="p26" trigger="s21" comment=""/>
+<QSLINK id="qsl18" fromID="" fromText="" toID="" toText="" relType="" trajector="p28" landmark="pl50" trigger="s22" comment=""/>
+<QSLINK id="qsl19" fromID="" fromText="" toID="" toText="" relType="" trajector="p29" landmark="pl51" trigger="s23" comment=""/>
+<QSLINK id="qsl20" fromID="" fromText="" toID="" toText="" relType="" trajector="pl53" landmark="pl54" trigger="s25" comment=""/>
+<QSLINK id="qsl21" fromID="" fromText="" toID="" toText="" relType="" trajector="pl55" landmark="pl56" trigger="s26" comment=""/>
+<QSLINK id="qsl22" fromID="" fromText="" toID="" toText="" relType="" trajector="e1" landmark="p37" trigger="s27" comment=""/>
+<QSLINK id="qsl23" fromID="" fromText="" toID="" toText="" relType="" trajector="e2" landmark="p38" trigger="s28" comment=""/>
+<QSLINK id="qsl24" fromID="" fromText="" toID="" toText="" relType="" trajector="se1" landmark="pl2" trigger="s3" comment=""/>
+<QSLINK id="qsl25" fromID="" fromText="" toID="" toText="" relType="" trajector="pl63" landmark="pl64" trigger="s30" comment=""/>
+<QSLINK id="qsl26" fromID="" fromText="" toID="" toText="" relType="" trajector="m24" landmark="pl65" trigger="s31" comment=""/>
+<QSLINK id="qsl27" fromID="" fromText="" toID="" toText="" relType="" trajector="pl59" landmark="pl12" trigger="s6" comment=""/>
+<QSLINK id="qsl28" fromID="" fromText="" toID="" toText="" relType="" trajector="pl59" landmark="p4" trigger="s7" comment=""/>
+<OLINK id="ol0" fromID="" fromText="" toID="" toText="" relType="" trajector="e0" landmark="pl35" trigger="s0" frame_type="" referencePt="" projective="" comment=""/>
+<OLINK id="ol1" fromID="" fromText="" toID="" toText="" relType="" trajector="p20" landmark="p21" trigger="s14" frame_type="" referencePt="" projective="" comment=""/>
+<OLINK id="ol2" fromID="" fromText="" toID="" toText="" relType="" trajector="m19" landmark="se29" trigger="s20" frame_type="" referencePt="" projective="" comment=""/>
+<OLINK id="ol3" fromID="" fromText="" toID="" toText="" relType="" trajector="se1" landmark="pl2" trigger="s3" frame_type="" referencePt="" projective="" comment=""/>
+<MOVELINK id="mvl0" fromID="" fromText="" toID="" toText="" trigger="m0" source="" goal="" midPoint="" mover="se2" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl1" fromID="" fromText="" toID="" toText="" trigger="m1" source="" goal="pl6" midPoint="" mover="se2" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl2" fromID="" fromText="" toID="" toText="" trigger="m1" source="" goal="pl7" midPoint="" mover="se2" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl3" fromID="" fromText="" toID="" toText="" trigger="m10" source="" goal="pl26" midPoint="pl27" mover="se18" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl4" fromID="" fromText="" toID="" toText="" trigger="m11" source="pl31" goal="" midPoint="" mover="se9" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl5" fromID="" fromText="" toID="" toText="" trigger="m12" source="" goal="pl33" midPoint="" mover="se19" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl6" fromID="" fromText="" toID="" toText="" trigger="m13" source="pl36" goal="pl37" midPoint="" mover="p20" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl7" fromID="" fromText="" toID="" toText="" trigger="m15" source="pl40" goal="pl41" midPoint="" mover="p22" landmark="" goal_reached="" pathID="p23" motion_signalID="" comment=""/>
+<MOVELINK id="mvl8" fromID="" fromText="" toID="" toText="" trigger="m18" source="" goal="pl44" midPoint="" mover="p25" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl9" fromID="" fromText="" toID="" toText="" trigger="m19" source="" goal="pl49" midPoint="" mover="se28" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl10" fromID="" fromText="" toID="" toText="" trigger="m2" source="" goal="" midPoint="" mover="se5" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl11" fromID="" fromText="" toID="" toText="" trigger="m2" source="" goal="" midPoint="" mover="se6" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl12" fromID="" fromText="" toID="" toText="" trigger="m21" source="" goal="" midPoint="" mover="p30" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl13" fromID="" fromText="" toID="" toText="" trigger="m22" source="" goal="pl62" midPoint="" mover="se33" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl14" fromID="" fromText="" toID="" toText="" trigger="m23" source="" goal="pl65" midPoint="" mover="se34" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl15" fromID="" fromText="" toID="" toText="" trigger="m24" source="" goal="pl66" midPoint="" mover="se35" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl16" fromID="" fromText="" toID="" toText="" trigger="m24" source="" goal="pl67" midPoint="" mover="se35" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl17" fromID="" fromText="" toID="" toText="" trigger="m29" source="se38" goal="" midPoint="" mover="se39" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl18" fromID="" fromText="" toID="" toText="" trigger="m3" source="" goal="" midPoint="" mover="se5" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl19" fromID="" fromText="" toID="" toText="" trigger="m30" source="" goal="pl72" midPoint="" mover="se40" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl20" fromID="" fromText="" toID="" toText="" trigger="m31" source="pl72" goal="" midPoint="" mover="se41" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl21" fromID="" fromText="" toID="" toText="" trigger="m4" source="" goal="pl10" midPoint="" mover="se5" landmark="" goal_reached="" pathID="p1" motion_signalID="" comment=""/>
+<MOVELINK id="mvl22" fromID="" fromText="" toID="" toText="" trigger="m5" source="" goal="" midPoint="" mover="se5" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl23" fromID="" fromText="" toID="" toText="" trigger="m6" source="" goal="pl19" midPoint="" mover="se16" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl24" fromID="" fromText="" toID="" toText="" trigger="m7" source="pl20" goal="p14" midPoint="p15" mover="se16" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl25" fromID="" fromText="" toID="" toText="" trigger="m8" source="" goal="" midPoint="" mover="se17" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl26" fromID="" fromText="" toID="" toText="" trigger="m9" source="" goal="" midPoint="pl24" mover="se18" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<MOVELINK id="mvl27" fromID="" fromText="" toID="" toText="" trigger="m9" source="" goal="" midPoint="pl25" mover="se18" landmark="" goal_reached="" pathID="" motion_signalID="" comment=""/>
+<CP>48N8E</CP>
+<URL>http://confluence.org/confluence.php?id=1990</URL>
+</TAGS>
+<TOKENS>
+<s>
+<lex begin="2" end="13">12-May-2008</lex>
+<lex begin="14" end="16">--</lex>
+<lex begin="17" end="21">This</lex>
+<lex begin="22" end="24">is</lex>
+<lex begin="25" end="28">the</lex>
+<lex begin="29" end="35">second</lex>
+<lex begin="36" end="39">out</lex>
+<lex begin="40" end="42">of</lex>
+<lex begin="43" end="46">two</lex>
+<lex begin="47" end="57">confluence</lex>
+<lex begin="58" end="64">points</lex>
+<lex begin="65" end="69">that</lex>
+<lex begin="70" end="71">I</lex>
+<lex begin="72" end="79">visited</lex>
+<lex begin="80" end="82">on</lex>
+<lex begin="83" end="84">a</lex>
+<lex begin="85" end="92">bicycle</lex>
+<lex begin="93" end="97">trip</lex>
+<lex begin="98" end="102">from</lex>
+<lex begin="103" end="109">Zurich</lex>
+<lex begin="110" end="114">into</lex>
+<lex begin="115" end="118">the</lex>
+<lex begin="119" end="125">Vosges</lex>
+<lex begin="126" end="135">Mountains</lex>
+<lex begin="136" end="139">and</lex>
+<lex begin="140" end="143">the</lex>
+<lex begin="144" end="149">Black</lex>
+<lex begin="150" end="156">Forest</lex>
+<lex begin="156" end="157">.</lex>
+</s>
+<s>
+<lex begin="158" end="161">The</lex>
+<lex begin="162" end="167">story</lex>
+<lex begin="168" end="174">starts</lex>
+<lex begin="175" end="179">from</lex>
+<lex begin="180" end="184">48°N</lex>
+<lex begin="185" end="188">7°E</lex>
+<lex begin="188" end="189">.</lex>
+</s>
+<s>
+<lex begin="191" end="193">On</lex>
+<lex begin="194" end="204">confluence</lex>
+<lex begin="205" end="208">day</lex>
+<lex begin="208" end="209">,</lex>
+<lex begin="210" end="211">I</lex>
+<lex begin="212" end="219">started</lex>
+<lex begin="220" end="227">cycling</lex>
+<lex begin="228" end="230">at</lex>
+<lex begin="231" end="235">5:30</lex>
+<lex begin="236" end="240">a.m.</lex>
+<lex begin="241" end="243">in</lex>
+<lex begin="244" end="247">the</lex>
+<lex begin="248" end="255">village</lex>
+<lex begin="256" end="263">Midlach</lex>
+<lex begin="264" end="266">in</lex>
+<lex begin="267" end="270">the</lex>
+<lex begin="271" end="277">Vosges</lex>
+<lex begin="278" end="287">Mountains</lex>
+<lex begin="287" end="288">.</lex>
+</s>
+<s>
+<lex begin="289" end="290">I</lex>
+<lex begin="291" end="295">came</lex>
+<lex begin="296" end="303">through</lex>
+<lex begin="304" end="307">the</lex>
+<lex begin="308" end="312">city</lex>
+<lex begin="313" end="315">of</lex>
+<lex begin="316" end="322">Colmar</lex>
+<lex begin="323" end="326">and</lex>
+<lex begin="327" end="334">entered</lex>
+<lex begin="335" end="342">Germany</lex>
+<lex begin="343" end="345">at</lex>
+<lex begin="346" end="349">the</lex>
+<lex begin="350" end="356">border</lex>
+<lex begin="357" end="361">town</lex>
+<lex begin="362" end="369">Brisach</lex>
+<lex begin="369" end="370">.</lex>
+</s>
+<s>
+<lex begin="371" end="373">At</lex>
+<lex begin="374" end="378">noon</lex>
+<lex begin="379" end="383">time</lex>
+<lex begin="383" end="384">,</lex>
+<lex begin="385" end="386">I</lex>
+<lex begin="387" end="394">reached</lex>
+<lex begin="395" end="403">Freiburg</lex>
+<lex begin="404" end="405">–</lex>
+<lex begin="406" end="407">a</lex>
+<lex begin="408" end="412">city</lex>
+<lex begin="413" end="417">that</lex>
+<lex begin="418" end="420">is</lex>
+<lex begin="421" end="428">located</lex>
+<lex begin="429" end="431">10</lex>
+<lex begin="432" end="434">km</lex>
+<lex begin="435" end="439">west</lex>
+<lex begin="440" end="442">of</lex>
+<lex begin="443" end="446">the</lex>
+<lex begin="447" end="457">confluence</lex>
+<lex begin="457" end="458">.</lex>
+</s>
+<s>
+<lex begin="460" end="464">From</lex>
+<lex begin="465" end="473">Freiburg</lex>
+<lex begin="473" end="474">,</lex>
+<lex begin="475" end="476">a</lex>
+<lex begin="477" end="481">nice</lex>
+<lex begin="482" end="491">bike-path</lex>
+<lex begin="492" end="497">along</lex>
+<lex begin="498" end="501">the</lex>
+<lex begin="502" end="509">Dreisam</lex>
+<lex begin="510" end="515">creek</lex>
+<lex begin="516" end="521">leads</lex>
+<lex begin="522" end="524">to</lex>
+<lex begin="525" end="528">the</lex>
+<lex begin="529" end="536">village</lex>
+<lex begin="537" end="543">Stegen</lex>
+<lex begin="544" end="545">(</lex>
+<lex begin="545" end="546">4</lex>
+<lex begin="547" end="549">km</lex>
+<lex begin="550" end="554">from</lex>
+<lex begin="555" end="557">CP</lex>
+<lex begin="557" end="558">)</lex>
+<lex begin="558" end="559">.</lex>
+</s>
+<s>
+<lex begin="560" end="564">From</lex>
+<lex begin="565" end="569">here</lex>
+<lex begin="569" end="570">,</lex>
+<lex begin="571" end="572">a</lex>
+<lex begin="573" end="579">narrow</lex>
+<lex begin="580" end="586">valley</lex>
+<lex begin="587" end="589">of</lex>
+<lex begin="590" end="593">the</lex>
+<lex begin="594" end="602">Eschbach</lex>
+<lex begin="603" end="609">stream</lex>
+<lex begin="610" end="617">follows</lex>
+<lex begin="618" end="625">upwards</lex>
+<lex begin="626" end="628">to</lex>
+<lex begin="629" end="632">the</lex>
+<lex begin="633" end="643">confluence</lex>
+<lex begin="643" end="644">.</lex>
+</s>
+<s>
+<lex begin="645" end="647">At</lex>
+<lex begin="648" end="649">a</lex>
+<lex begin="650" end="655">small</lex>
+<lex begin="656" end="663">village</lex>
+<lex begin="664" end="670">called</lex>
+<lex begin="671" end="678">Obertal</lex>
+<lex begin="679" end="680">(</lex>
+<lex begin="680" end="683">510</lex>
+<lex begin="684" end="685">m</lex>
+<lex begin="686" end="690">from</lex>
+<lex begin="691" end="693">CP</lex>
+<lex begin="693" end="694">)</lex>
+<lex begin="695" end="696">I</lex>
+<lex begin="697" end="701">left</lex>
+<lex begin="702" end="705">the</lex>
+<lex begin="706" end="710">main</lex>
+<lex begin="711" end="715">road</lex>
+<lex begin="716" end="719">and</lex>
+<lex begin="720" end="728">searched</lex>
+<lex begin="729" end="732">for</lex>
+<lex begin="733" end="737">some</lex>
+<lex begin="738" end="744">tracks</lex>
+<lex begin="745" end="749">that</lex>
+<lex begin="750" end="755">would</lex>
+<lex begin="756" end="760">lead</lex>
+<lex begin="761" end="768">upwards</lex>
+<lex begin="769" end="771">to</lex>
+<lex begin="772" end="775">the</lex>
+<lex begin="776" end="786">confluence</lex>
+<lex begin="787" end="792">point</lex>
+<lex begin="792" end="793">.</lex>
+</s>
+<s>
+<lex begin="794" end="796">My</lex>
+<lex begin="797" end="805">approach</lex>
+<lex begin="806" end="809">was</lex>
+<lex begin="810" end="815">quite</lex>
+<lex begin="816" end="827">complicated</lex>
+<lex begin="827" end="828">;</lex>
+<lex begin="829" end="830">I</lex>
+<lex begin="831" end="839">detoured</lex>
+<lex begin="840" end="842">to</lex>
+<lex begin="843" end="846">the</lex>
+<lex begin="847" end="850">top</lex>
+<lex begin="851" end="853">of</lex>
+<lex begin="854" end="857">the</lex>
+<lex begin="858" end="862">hill</lex>
+<lex begin="863" end="865">to</lex>
+<lex begin="866" end="867">a</lex>
+<lex begin="868" end="873">place</lex>
+<lex begin="874" end="878">with</lex>
+<lex begin="879" end="880">a</lex>
+<lex begin="881" end="888">wayside</lex>
+<lex begin="889" end="894">cross</lex>
+<lex begin="895" end="898">and</lex>
+<lex begin="899" end="903">some</lex>
+<lex begin="904" end="908">nice</lex>
+<lex begin="909" end="916">benches</lex>
+<lex begin="916" end="917">.</lex>
+</s>
+<s>
+<lex begin="918" end="922">From</lex>
+<lex begin="923" end="927">this</lex>
+<lex begin="928" end="937">viewpoint</lex>
+<lex begin="938" end="939">(</lex>
+<lex begin="939" end="943">300m</lex>
+<lex begin="944" end="948">from</lex>
+<lex begin="949" end="951">CP</lex>
+<lex begin="951" end="952">)</lex>
+<lex begin="953" end="954">I</lex>
+<lex begin="955" end="960">could</lex>
+<lex begin="961" end="964">see</lex>
+<lex begin="965" end="968">the</lex>
+<lex begin="969" end="976">highest</lex>
+<lex begin="977" end="981">peak</lex>
+<lex begin="982" end="984">of</lex>
+<lex begin="985" end="988">the</lex>
+<lex begin="989" end="993">snow</lex>
+<lex begin="994" end="1001">covered</lex>
+<lex begin="1002" end="1010">Feldberg</lex>
+<lex begin="1011" end="1012">(</lex>
+<lex begin="1012" end="1016">1494</lex>
+<lex begin="1017" end="1018">m</lex>
+<lex begin="1018" end="1019">)</lex>
+<lex begin="1019" end="1020">.</lex>
+</s>
+<s>
+<lex begin="1022" end="1023">I</lex>
+<lex begin="1024" end="1030">parked</lex>
+<lex begin="1031" end="1033">my</lex>
+<lex begin="1034" end="1041">bicycle</lex>
+<lex begin="1042" end="1045">and</lex>
+<lex begin="1046" end="1055">continued</lex>
+<lex begin="1056" end="1058">on</lex>
+<lex begin="1059" end="1063">foot</lex>
+<lex begin="1064" end="1066">by</lex>
+<lex begin="1067" end="1075">climbing</lex>
+<lex begin="1076" end="1080">down</lex>
+<lex begin="1081" end="1082">a</lex>
+<lex begin="1083" end="1088">steep</lex>
+<lex begin="1089" end="1094">grade</lex>
+<lex begin="1095" end="1103">directly</lex>
+<lex begin="1104" end="1111">towards</lex>
+<lex begin="1112" end="1115">the</lex>
+<lex begin="1116" end="1126">confluence</lex>
+<lex begin="1127" end="1132">point</lex>
+<lex begin="1133" end="1134">–</lex>
+<lex begin="1135" end="1142">passing</lex>
+<lex begin="1143" end="1145">by</lex>
+<lex begin="1146" end="1150">some</lex>
+<lex begin="1151" end="1158">grazing</lex>
+<lex begin="1159" end="1163">cows</lex>
+<lex begin="1163" end="1164">.</lex>
+</s>
+<s>
+<lex begin="1165" end="1173">Straight</lex>
+<lex begin="1174" end="1178">away</lex>
+<lex begin="1179" end="1180">I</lex>
+<lex begin="1181" end="1186">could</lex>
+<lex begin="1187" end="1190">see</lex>
+<lex begin="1191" end="1194">the</lex>
+<lex begin="1195" end="1201">unique</lex>
+<lex begin="1202" end="1208">marker</lex>
+<lex begin="1209" end="1211">of</lex>
+<lex begin="1212" end="1215">the</lex>
+<lex begin="1216" end="1221">point</lex>
+<lex begin="1221" end="1222">:</lex>
+<lex begin="1223" end="1224">a</lex>
+<lex begin="1225" end="1230">green</lex>
+<lex begin="1231" end="1235">sail</lex>
+<lex begin="1236" end="1240">from</lex>
+<lex begin="1241" end="1242">a</lex>
+<lex begin="1243" end="1254">windsurfing</lex>
+<lex begin="1255" end="1260">board</lex>
+<lex begin="1261" end="1265">with</lex>
+<lex begin="1266" end="1269">the</lex>
+<lex begin="1270" end="1281">inscription</lex>
+<lex begin="1282" end="1283">“</lex>
+<lex begin="1283" end="1285">Am</lex>
+<lex begin="1286" end="1294">18.07.07</lex>
+<lex begin="1295" end="1299">Hier</lex>
+<lex begin="1300" end="1303">war</lex>
+<lex begin="1304" end="1307">die</lex>
+<lex begin="1308" end="1309">4</lex>
+<lex begin="1309" end="1310">.</lex>
+</s>
+<s>
+<lex begin="1311" end="1317">Klasse</lex>
+<lex begin="1318" end="1321">der</lex>
+<lex begin="1322" end="1333">Grundschule</lex>
+<lex begin="1334" end="1349">Stegen-Eschbach</lex>
+<lex begin="1349" end="1350">.</lex>
+</s>
+<s>
+<lex begin="1351" end="1366">Konfluenz-Punkt</lex>
+<lex begin="1366" end="1367">”</lex>
+<lex begin="1368" end="1373">which</lex>
+<lex begin="1374" end="1379">means</lex>
+<lex begin="1380" end="1381">‘</lex>
+<lex begin="1381" end="1383">On</lex>
+<lex begin="1384" end="1388">18th</lex>
+<lex begin="1389" end="1393">July</lex>
+<lex begin="1394" end="1398">2007</lex>
+<lex begin="1399" end="1403">Here</lex>
+<lex begin="1404" end="1407">has</lex>
+<lex begin="1408" end="1412">been</lex>
+<lex begin="1413" end="1416">the</lex>
+<lex begin="1417" end="1423">fourth</lex>
+<lex begin="1424" end="1429">grade</lex>
+<lex begin="1430" end="1440">elementary</lex>
+<lex begin="1441" end="1447">school</lex>
+<lex begin="1448" end="1463">Stegen-Eschbach</lex>
+<lex begin="1463" end="1464">.</lex>
+</s>
+<s>
+<lex begin="1465" end="1481">Confluence-Point</lex>
+<lex begin="1481" end="1482">’</lex>
+<lex begin="1482" end="1483">.</lex>
+</s>
+<s>
+<lex begin="1484" end="1488">Even</lex>
+<lex begin="1489" end="1495">though</lex>
+<lex begin="1496" end="1497">I</lex>
+<lex begin="1498" end="1506">consider</lex>
+<lex begin="1507" end="1511">such</lex>
+<lex begin="1512" end="1519">markers</lex>
+<lex begin="1520" end="1522">as</lex>
+<lex begin="1523" end="1532">pollution</lex>
+<lex begin="1532" end="1533">,</lex>
+<lex begin="1534" end="1535">I</lex>
+<lex begin="1536" end="1544">followed</lex>
+<lex begin="1545" end="1548">the</lex>
+<lex begin="1549" end="1555">slogan</lex>
+<lex begin="1556" end="1558">of</lex>
+<lex begin="1559" end="1562">the</lex>
+<lex begin="1563" end="1573">Confluence</lex>
+<lex begin="1574" end="1581">Project</lex>
+<lex begin="1582" end="1587">which</lex>
+<lex begin="1588" end="1592">says</lex>
+<lex begin="1593" end="1594">“</lex>
+<lex begin="1594" end="1598">take</lex>
+<lex begin="1599" end="1606">nothing</lex>
+<lex begin="1607" end="1610">but</lex>
+<lex begin="1611" end="1619">pictures</lex>
+<lex begin="1619" end="1620">,</lex>
+<lex begin="1621" end="1626">leave</lex>
+<lex begin="1627" end="1634">nothing</lex>
+<lex begin="1635" end="1638">but</lex>
+<lex begin="1639" end="1649">footprints</lex>
+<lex begin="1649" end="1650">”</lex>
+<lex begin="1650" end="1651">.</lex>
+</s>
+<s>
+<lex begin="1652" end="1654">So</lex>
+<lex begin="1655" end="1656">I</lex>
+<lex begin="1657" end="1661">kept</lex>
+<lex begin="1662" end="1665">the</lex>
+<lex begin="1666" end="1670">sail</lex>
+<lex begin="1671" end="1673">as</lex>
+<lex begin="1674" end="1676">it</lex>
+<lex begin="1677" end="1680">was</lex>
+<lex begin="1680" end="1681">.</lex>
+</s>
+<s>
+<lex begin="1683" end="1690">Getting</lex>
+<lex begin="1691" end="1692">a</lex>
+<lex begin="1693" end="1700">perfect</lex>
+<lex begin="1701" end="1705">zero</lex>
+<lex begin="1706" end="1713">reading</lex>
+<lex begin="1714" end="1720">turned</lex>
+<lex begin="1721" end="1724">out</lex>
+<lex begin="1725" end="1727">to</lex>
+<lex begin="1728" end="1730">be</lex>
+<lex begin="1731" end="1732">a</lex>
+<lex begin="1733" end="1740">lengthy</lex>
+<lex begin="1741" end="1745">back</lex>
+<lex begin="1746" end="1749">and</lex>
+<lex begin="1750" end="1755">forth</lex>
+<lex begin="1756" end="1757">–</lex>
+<lex begin="1758" end="1763">which</lex>
+<lex begin="1764" end="1766">is</lex>
+<lex begin="1767" end="1775">normally</lex>
+<lex begin="1776" end="1779">the</lex>
+<lex begin="1780" end="1784">case</lex>
+<lex begin="1785" end="1787">at</lex>
+<lex begin="1788" end="1795">densely</lex>
+<lex begin="1796" end="1804">forested</lex>
+<lex begin="1805" end="1810">steep</lex>
+<lex begin="1811" end="1817">grades</lex>
+<lex begin="1817" end="1818">.</lex>
+</s>
+<s>
+<lex begin="1819" end="1823">With</lex>
+<lex begin="1824" end="1825">4</lex>
+<lex begin="1826" end="1827">m</lex>
+<lex begin="1828" end="1836">accuracy</lex>
+<lex begin="1836" end="1837">,</lex>
+<lex begin="1838" end="1839">I</lex>
+<lex begin="1840" end="1847">finally</lex>
+<lex begin="1848" end="1855">located</lex>
+<lex begin="1856" end="1859">the</lex>
+<lex begin="1860" end="1870">confluence</lex>
+<lex begin="1871" end="1876">about</lex>
+<lex begin="1877" end="1878">6</lex>
+<lex begin="1879" end="1880">m</lex>
+<lex begin="1881" end="1885">west</lex>
+<lex begin="1886" end="1888">of</lex>
+<lex begin="1889" end="1892">the</lex>
+<lex begin="1893" end="1897">sail</lex>
+<lex begin="1898" end="1906">directly</lex>
+<lex begin="1907" end="1909">at</lex>
+<lex begin="1910" end="1913">the</lex>
+<lex begin="1914" end="1919">track</lex>
+<lex begin="1919" end="1920">.</lex>
+</s>
+<s>
+<lex begin="1921" end="1925">When</lex>
+<lex begin="1926" end="1927">I</lex>
+<lex begin="1928" end="1932">took</lex>
+<lex begin="1933" end="1936">the</lex>
+<lex begin="1937" end="1944">picture</lex>
+<lex begin="1945" end="1947">of</lex>
+<lex begin="1948" end="1951">the</lex>
+<lex begin="1952" end="1955">GPS</lex>
+<lex begin="1955" end="1956">,</lex>
+<lex begin="1957" end="1960">the</lex>
+<lex begin="1961" end="1969">accuracy</lex>
+<lex begin="1970" end="1976">turned</lex>
+<lex begin="1977" end="1979">to</lex>
+<lex begin="1980" end="1981">5</lex>
+<lex begin="1982" end="1983">m</lex>
+<lex begin="1984" end="1989">again</lex>
+<lex begin="1989" end="1990">.</lex>
+</s>
+<s>
+<lex begin="1992" end="1995">Let</lex>
+<lex begin="1996" end="1998">me</lex>
+<lex begin="1999" end="2003">here</lex>
+<lex begin="2004" end="2012">consider</lex>
+<lex begin="2013" end="2015">an</lex>
+<lex begin="2016" end="2027">interesting</lex>
+<lex begin="2028" end="2040">geographical</lex>
+<lex begin="2041" end="2048">feature</lex>
+<lex begin="2048" end="2049">:</lex>
+<lex begin="2050" end="2053">The</lex>
+<lex begin="2054" end="2060">Vosges</lex>
+<lex begin="2061" end="2070">Mountains</lex>
+<lex begin="2071" end="2074">and</lex>
+<lex begin="2075" end="2078">the</lex>
+<lex begin="2079" end="2084">Black</lex>
+<lex begin="2085" end="2091">Forest</lex>
+<lex begin="2092" end="2095">are</lex>
+<lex begin="2096" end="2099">two</lex>
+<lex begin="2100" end="2107">related</lex>
+<lex begin="2108" end="2116">mountain</lex>
+<lex begin="2117" end="2123">ranges</lex>
+<lex begin="2124" end="2128">with</lex>
+<lex begin="2129" end="2136">similar</lex>
+<lex begin="2137" end="2144">heights</lex>
+<lex begin="2145" end="2146">(</lex>
+<lex begin="2146" end="2150">1424</lex>
+<lex begin="2151" end="2152">m</lex>
+<lex begin="2153" end="2156">and</lex>
+<lex begin="2157" end="2161">1494</lex>
+<lex begin="2162" end="2163">m</lex>
+<lex begin="2163" end="2164">)</lex>
+<lex begin="2164" end="2165">.</lex>
+</s>
+<s>
+<lex begin="2166" end="2170">Both</lex>
+<lex begin="2171" end="2174">are</lex>
+<lex begin="2175" end="2182">aligned</lex>
+<lex begin="2183" end="2194">north-south</lex>
+<lex begin="2194" end="2195">,</lex>
+<lex begin="2196" end="2199">one</lex>
+<lex begin="2200" end="2202">is</lex>
+<lex begin="2203" end="2205">in</lex>
+<lex begin="2206" end="2212">France</lex>
+<lex begin="2213" end="2216">and</lex>
+<lex begin="2217" end="2220">the</lex>
+<lex begin="2221" end="2226">other</lex>
+<lex begin="2227" end="2229">in</lex>
+<lex begin="2230" end="2237">Germany</lex>
+<lex begin="2237" end="2238">.</lex>
+</s>
+<s>
+<lex begin="2239" end="2243">They</lex>
+<lex begin="2244" end="2247">are</lex>
+<lex begin="2248" end="2258">geological</lex>
+<lex begin="2259" end="2266">related</lex>
+<lex begin="2267" end="2270">and</lex>
+<lex begin="2271" end="2278">divided</lex>
+<lex begin="2279" end="2283">from</lex>
+<lex begin="2284" end="2288">each</lex>
+<lex begin="2289" end="2294">other</lex>
+<lex begin="2295" end="2297">by</lex>
+<lex begin="2298" end="2301">the</lex>
+<lex begin="2302" end="2307">Rhine</lex>
+<lex begin="2308" end="2312">Rift</lex>
+<lex begin="2312" end="2313">.</lex>
+</s>
+<s>
+<lex begin="2314" end="2317">The</lex>
+<lex begin="2318" end="2323">Upper</lex>
+<lex begin="2324" end="2329">Rhine</lex>
+<lex begin="2330" end="2335">River</lex>
+<lex begin="2336" end="2340">runs</lex>
+<lex begin="2341" end="2343">in</lex>
+<lex begin="2344" end="2347">the</lex>
+<lex begin="2348" end="2354">middle</lex>
+<lex begin="2355" end="2357">of</lex>
+<lex begin="2358" end="2362">that</lex>
+<lex begin="2363" end="2369">valley</lex>
+<lex begin="2370" end="2375">which</lex>
+<lex begin="2376" end="2378">is</lex>
+<lex begin="2379" end="2383">also</lex>
+<lex begin="2384" end="2387">the</lex>
+<lex begin="2388" end="2395">country</lex>
+<lex begin="2396" end="2402">border</lex>
+<lex begin="2402" end="2403">.</lex>
+</s>
+<s>
+<lex begin="2404" end="2417">Interestingly</lex>
+<lex begin="2417" end="2418">,</lex>
+<lex begin="2419" end="2423">both</lex>
+<lex begin="2424" end="2432">mountain</lex>
+<lex begin="2433" end="2439">ranges</lex>
+<lex begin="2440" end="2444">have</lex>
+<lex begin="2445" end="2455">comparable</lex>
+<lex begin="2456" end="2467">confluences</lex>
+<lex begin="2467" end="2468">:</lex>
+<lex begin="2469" end="2473">48°N</lex>
+<lex begin="2474" end="2477">7°E</lex>
+<lex begin="2478" end="2479">(</lex>
+<lex begin="2479" end="2481">in</lex>
+<lex begin="2482" end="2488">France</lex>
+<lex begin="2488" end="2489">)</lex>
+<lex begin="2490" end="2493">and</lex>
+<lex begin="2494" end="2498">48°N</lex>
+<lex begin="2499" end="2502">8°E</lex>
+<lex begin="2503" end="2504">(</lex>
+<lex begin="2504" end="2506">in</lex>
+<lex begin="2507" end="2514">Germany</lex>
+<lex begin="2514" end="2515">)</lex>
+<lex begin="2515" end="2516">.</lex>
+</s>
+<s>
+<lex begin="2517" end="2521">Both</lex>
+<lex begin="2522" end="2525">are</lex>
+<lex begin="2526" end="2533">located</lex>
+<lex begin="2534" end="2536">in</lex>
+<lex begin="2537" end="2542">upper</lex>
+<lex begin="2543" end="2550">valleys</lex>
+<lex begin="2551" end="2555">that</lex>
+<lex begin="2556" end="2560">open</lex>
+<lex begin="2561" end="2564">out</lex>
+<lex begin="2565" end="2567">in</lex>
+<lex begin="2568" end="2571">the</lex>
+<lex begin="2572" end="2577">Rhine</lex>
+<lex begin="2578" end="2582">Rift</lex>
+<lex begin="2582" end="2583">.</lex>
+</s>
+<s>
+<lex begin="2584" end="2588">Both</lex>
+<lex begin="2589" end="2593">have</lex>
+<lex begin="2594" end="2601">similar</lex>
+<lex begin="2602" end="2609">heights</lex>
+<lex begin="2610" end="2611">(</lex>
+<lex begin="2611" end="2614">730</lex>
+<lex begin="2615" end="2616">m</lex>
+<lex begin="2617" end="2620">and</lex>
+<lex begin="2621" end="2624">555</lex>
+<lex begin="2625" end="2626">m</lex>
+<lex begin="2626" end="2627">)</lex>
+<lex begin="2627" end="2628">,</lex>
+<lex begin="2629" end="2633">both</lex>
+<lex begin="2634" end="2637">are</lex>
+<lex begin="2638" end="2640">in</lex>
+<lex begin="2641" end="2642">a</lex>
+<lex begin="2643" end="2648">mixed</lex>
+<lex begin="2649" end="2655">spruce</lex>
+<lex begin="2656" end="2659">and</lex>
+<lex begin="2660" end="2665">beech</lex>
+<lex begin="2666" end="2672">forest</lex>
+<lex begin="2673" end="2675">at</lex>
+<lex begin="2676" end="2681">steep</lex>
+<lex begin="2682" end="2688">grades</lex>
+<lex begin="2688" end="2689">.</lex>
+</s>
+<s>
+<lex begin="2690" end="2695">While</lex>
+<lex begin="2696" end="2704">visiting</lex>
+<lex begin="2705" end="2709">both</lex>
+<lex begin="2710" end="2720">confluence</lex>
+<lex begin="2721" end="2727">points</lex>
+<lex begin="2727" end="2728">,</lex>
+<lex begin="2729" end="2730">I</lex>
+<lex begin="2731" end="2738">noticed</lex>
+<lex begin="2739" end="2744">these</lex>
+<lex begin="2745" end="2753">striking</lex>
+<lex begin="2754" end="2766">similarities</lex>
+<lex begin="2766" end="2767">.</lex>
+</s>
+<s>
+<lex begin="2768" end="2773">Maybe</lex>
+<lex begin="2774" end="2776">40</lex>
+<lex begin="2777" end="2784">Million</lex>
+<lex begin="2785" end="2790">years</lex>
+<lex begin="2791" end="2794">ago</lex>
+<lex begin="2794" end="2795">,</lex>
+<lex begin="2796" end="2802">before</lex>
+<lex begin="2803" end="2806">the</lex>
+<lex begin="2807" end="2811">rift</lex>
+<lex begin="2812" end="2815">had</lex>
+<lex begin="2816" end="2822">formed</lex>
+<lex begin="2822" end="2823">,</lex>
+<lex begin="2824" end="2828">they</lex>
+<lex begin="2829" end="2832">had</lex>
+<lex begin="2833" end="2837">been</lex>
+<lex begin="2838" end="2846">together</lex>
+<lex begin="2847" end="2849">at</lex>
+<lex begin="2850" end="2853">one</lex>
+<lex begin="2854" end="2862">location</lex>
+<lex begin="2862" end="2863">.</lex>
+</s>
+<s>
+<lex begin="2865" end="2870">After</lex>
+<lex begin="2871" end="2884">documentation</lex>
+<lex begin="2885" end="2886">I</lex>
+<lex begin="2887" end="2891">went</lex>
+<lex begin="2892" end="2896">back</lex>
+<lex begin="2897" end="2899">to</lex>
+<lex begin="2900" end="2908">Freiburg</lex>
+<lex begin="2908" end="2909">,</lex>
+<lex begin="2910" end="2915">where</lex>
+<lex begin="2916" end="2917">I</lex>
+<lex begin="2918" end="2922">took</lex>
+<lex begin="2923" end="2924">a</lex>
+<lex begin="2925" end="2930">train</lex>
+<lex begin="2931" end="2935">back</lex>
+<lex begin="2936" end="2940">home</lex>
+<lex begin="2941" end="2943">to</lex>
+<lex begin="2944" end="2950">Zurich</lex>
+<lex begin="2950" end="2951">.</lex>
+</s>
+<s>
+<lex begin="2952" end="2965">Unfortunately</lex>
+<lex begin="2966" end="2967">I</lex>
+<lex begin="2968" end="2971">had</lex>
+<lex begin="2972" end="2974">to</lex>
+<lex begin="2975" end="2977">be</lex>
+<lex begin="2978" end="2980">in</lex>
+<lex begin="2981" end="2987">office</lex>
+<lex begin="2988" end="2991">the</lex>
+<lex begin="2992" end="2996">next</lex>
+<lex begin="2997" end="3000">day</lex>
+<lex begin="3001" end="3006">which</lex>
+<lex begin="3007" end="3010">did</lex>
+<lex begin="3011" end="3014">not</lex>
+<lex begin="3015" end="3020">leave</lex>
+<lex begin="3021" end="3027">riding</lex>
+<lex begin="3028" end="3032">back</lex>
+<lex begin="3033" end="3035">by</lex>
+<lex begin="3036" end="3040">bike</lex>
+<lex begin="3041" end="3043">as</lex>
+<lex begin="3044" end="3046">an</lex>
+<lex begin="3047" end="3053">option</lex>
+<lex begin="3053" end="3054">.</lex>
+</s>
+<s>
+<lex begin="3056" end="3058">CP</lex>
+<lex begin="3059" end="3064">visit</lex>
+<lex begin="3065" end="3072">details</lex>
+<lex begin="3072" end="3073">:</lex>
+<lex begin="3079" end="3083">Time</lex>
+<lex begin="3084" end="3086">at</lex>
+<lex begin="3087" end="3090">the</lex>
+<lex begin="3091" end="3093">CP</lex>
+<lex begin="3093" end="3094">:</lex>
+<lex begin="3095" end="3100">14:10</lex>
+<lex begin="3101" end="3103">pm</lex>
+<lex begin="3108" end="3114">riding</lex>
+<lex begin="3115" end="3119">time</lex>
+<lex begin="3119" end="3120">:</lex>
+<lex begin="3121" end="3122">6</lex>
+<lex begin="3123" end="3128">hours</lex>
+<lex begin="3133" end="3139">riding</lex>
+<lex begin="3140" end="3148">distance</lex>
+<lex begin="3148" end="3149">:</lex>
+<lex begin="3150" end="3153">101</lex>
+<lex begin="3154" end="3156">km</lex>
+<lex begin="3161" end="3167">hiking</lex>
+<lex begin="3168" end="3172">time</lex>
+<lex begin="3172" end="3173">:</lex>
+<lex begin="3174" end="3176">20</lex>
+<lex begin="3177" end="3180">min</lex>
+<lex begin="3185" end="3191">hiking</lex>
+<lex begin="3192" end="3200">distance</lex>
+<lex begin="3200" end="3201">:</lex>
+<lex begin="3202" end="3205">300</lex>
+<lex begin="3206" end="3207">m</lex>
+<lex begin="3212" end="3220">Distance</lex>
+<lex begin="3221" end="3223">to</lex>
+<lex begin="3224" end="3225">a</lex>
+<lex begin="3226" end="3230">road</lex>
+<lex begin="3230" end="3231">:</lex>
+<lex begin="3232" end="3235">510</lex>
+<lex begin="3236" end="3238">km</lex>
+<lex begin="3243" end="3251">Distance</lex>
+<lex begin="3252" end="3254">to</lex>
+<lex begin="3255" end="3256">a</lex>
+<lex begin="3257" end="3262">track</lex>
+<lex begin="3262" end="3263">:</lex>
+<lex begin="3264" end="3265">0</lex>
+<lex begin="3266" end="3267">m</lex>
+<lex begin="3272" end="3280">Distance</lex>
+<lex begin="3281" end="3283">to</lex>
+<lex begin="3284" end="3290">houses</lex>
+<lex begin="3290" end="3291">:</lex>
+<lex begin="3292" end="3295">337</lex>
+<lex begin="3296" end="3297">m</lex>
+<lex begin="3302" end="3312">Topography</lex>
+<lex begin="3312" end="3313">:</lex>
+<lex begin="3314" end="3319">steep</lex>
+<lex begin="3320" end="3325">grade</lex>
+<lex begin="3325" end="3326">,</lex>
+<lex begin="3327" end="3335">northern</lex>
+<lex begin="3336" end="3344">hillside</lex>
+<lex begin="3349" end="3356">Minimal</lex>
+<lex begin="3357" end="3365">distance</lex>
+<lex begin="3366" end="3375">according</lex>
+<lex begin="3376" end="3378">to</lex>
+<lex begin="3379" end="3382">GPS</lex>
+<lex begin="3382" end="3383">:</lex>
+<lex begin="3384" end="3385">0</lex>
+<lex begin="3386" end="3387">m</lex>
+<lex begin="3392" end="3400">Position</lex>
+<lex begin="3401" end="3409">accuracy</lex>
+<lex begin="3410" end="3412">at</lex>
+<lex begin="3413" end="3416">the</lex>
+<lex begin="3417" end="3419">CP</lex>
+<lex begin="3419" end="3420">:</lex>
+<lex begin="3421" end="3422">4</lex>
+<lex begin="3423" end="3424">m</lex>
+<lex begin="3429" end="3432">GPS</lex>
+<lex begin="3433" end="3439">height</lex>
+<lex begin="3439" end="3440">:</lex>
+<lex begin="3441" end="3444">555</lex>
+<lex begin="3445" end="3446">m</lex>
+<lex begin="3451" end="3461">Vegetation</lex>
+<lex begin="3461" end="3462">:</lex>
+<lex begin="3463" end="3469">spruce</lex>
+<lex begin="3470" end="3473">and</lex>
+<lex begin="3474" end="3483">deciduous</lex>
+<lex begin="3484" end="3490">forest</lex>
+<lex begin="3490" end="3491">.</lex>
+</s>
+<s>
+<lex begin="3492" end="3496">Some</lex>
+<lex begin="3497" end="3502">ferns</lex>
+<lex begin="3503" end="3505">in</lex>
+<lex begin="3506" end="3509">the</lex>
+<lex begin="3510" end="3515">lower</lex>
+<lex begin="3516" end="3521">layer</lex>
+<lex begin="3521" end="3522">.</lex>
+</s>
+<s>
+<lex begin="3523" end="3529">Nearby</lex>
+<lex begin="3530" end="3531">a</lex>
+<lex begin="3532" end="3538">meadow</lex>
+<lex begin="3539" end="3543">with</lex>
+<lex begin="3544" end="3550">gazing</lex>
+<lex begin="3551" end="3555">land</lex>
+<lex begin="3556" end="3559">and</lex>
+<lex begin="3560" end="3565">young</lex>
+<lex begin="3566" end="3570">tree</lex>
+<lex begin="3571" end="3581">plantation</lex>
+<lex begin="3582" end="3586">with</lex>
+<lex begin="3587" end="3592">maple</lex>
+<lex begin="3593" end="3595">or</lex>
+<lex begin="3596" end="3601">plane</lex>
+<lex begin="3602" end="3607">trees</lex>
+<lex begin="3607" end="3608">.</lex>
+</s>
+<s>
+<lex begin="3613" end="3620">Weather</lex>
+<lex begin="3620" end="3621">:</lex>
+<lex begin="3622" end="3626">fine</lex>
+<lex begin="3626" end="3627">,</lex>
+<lex begin="3628" end="3631">25°</lex>
+<lex begin="3632" end="3633">C</lex>
+<lex begin="3634" end="3635">(</lex>
+<lex begin="3635" end="3639">felt</lex>
+<lex begin="3640" end="3651">temperature</lex>
+<lex begin="3651" end="3652">)</lex>
+<lex begin="3657" end="3668">Description</lex>
+<lex begin="3669" end="3671">of</lex>
+<lex begin="3672" end="3675">the</lex>
+<lex begin="3676" end="3678">CP</lex>
+<lex begin="3678" end="3679">:</lex>
+<lex begin="3680" end="3682">In</lex>
+<lex begin="3683" end="3686">the</lex>
+<lex begin="3687" end="3695">Southern</lex>
+<lex begin="3696" end="3701">Black</lex>
+<lex begin="3702" end="3708">Forest</lex>
+<lex begin="3708" end="3709">,</lex>
+<lex begin="3710" end="3712">in</lex>
+<lex begin="3713" end="3716">the</lex>
+<lex begin="3717" end="3722">upper</lex>
+<lex begin="3723" end="3729">valley</lex>
+<lex begin="3730" end="3732">of</lex>
+<lex begin="3733" end="3736">the</lex>
+<lex begin="3737" end="3745">Eschbach</lex>
+<lex begin="3746" end="3751">steam</lex>
+<lex begin="3751" end="3752">.</lex>
+</s>
+<s>
+<lex begin="3753" end="3758">Right</lex>
+<lex begin="3759" end="3763">next</lex>
+<lex begin="3764" end="3766">to</lex>
+<lex begin="3767" end="3768">a</lex>
+<lex begin="3769" end="3774">track</lex>
+<lex begin="3775" end="3780">about</lex>
+<lex begin="3781" end="3784">one</lex>
+<lex begin="3785" end="3790">third</lex>
+<lex begin="3791" end="3793">up</lex>
+<lex begin="3794" end="3797">the</lex>
+<lex begin="3798" end="3806">hillside</lex>
+<lex begin="3806" end="3807">.</lex>
+</s>
+<s>
+<lex begin="3812" end="3817">Given</lex>
+<lex begin="3818" end="3822">Name</lex>
+<lex begin="3822" end="3823">:</lex>
+<lex begin="3824" end="3827">The</lex>
+<lex begin="3828" end="3833">Green</lex>
+<lex begin="3834" end="3838">Sail</lex>
+<lex begin="3839" end="3849">Confluence</lex>
+<lex begin="3851" end="3862">Coordinator</lex>
+<lex begin="3862" end="3864">'s</lex>
+<lex begin="3865" end="3869">Note</lex>
+<lex begin="3869" end="3870">:</lex>
+<lex begin="3871" end="3872">A</lex>
+<lex begin="3873" end="3881">previous</lex>
+<lex begin="3882" end="3889">visitor</lex>
+<lex begin="3890" end="3893">has</lex>
+<lex begin="3894" end="3898">left</lex>
+<lex begin="3899" end="3906">rubbish</lex>
+<lex begin="3907" end="3913">behind</lex>
+<lex begin="3914" end="3916">in</lex>
+<lex begin="3917" end="3920">the</lex>
+<lex begin="3921" end="3925">form</lex>
+<lex begin="3926" end="3928">of</lex>
+<lex begin="3929" end="3930">a</lex>
+<lex begin="3931" end="3936">large</lex>
+<lex begin="3937" end="3944">plastic</lex>
+<lex begin="3945" end="3950">sheet</lex>
+<lex begin="3950" end="3951">.</lex>
+</s>
+<s>
+<lex begin="3952" end="3956">This</lex>
+<lex begin="3957" end="3959">is</lex>
+<lex begin="3960" end="3963">not</lex>
+<lex begin="3964" end="3974">acceptable</lex>
+<lex begin="3975" end="3977">if</lex>
+<lex begin="3978" end="3984">anyone</lex>
+<lex begin="3985" end="3989">goes</lex>
+<lex begin="3990" end="3994">here</lex>
+<lex begin="3995" end="3997">in</lex>
+<lex begin="3998" end="4001">the</lex>
+<lex begin="4002" end="4008">future</lex>
+<lex begin="4009" end="4015">please</lex>
+<lex begin="4016" end="4022">remove</lex>
+<lex begin="4023" end="4026">and</lex>
+<lex begin="4027" end="4034">dispose</lex>
+<lex begin="4035" end="4037">of</lex>
+<lex begin="4038" end="4040">it</lex>
+<lex begin="4040" end="4041">.</lex>
+</s>
+</TOKENS>
+</SpaceEvalTaskv1.2>
